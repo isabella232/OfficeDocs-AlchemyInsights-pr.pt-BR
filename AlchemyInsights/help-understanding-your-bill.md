@@ -1,0 +1,35 @@
+---
+title: Noções básicas sobre sua cobrança de ajuda
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: mnirkhe
+ms.date: 2/20/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
+ms.openlocfilehash: 82bf25d69f88699bef2663de5e41a9796ae1ea08
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28274916"
+---
+# <a name="help-understanding-your-bill"></a>Noções básicas sobre sua cobrança de ajuda
+
+O valor cobrado reflete o preço de licença multiplicado pelo número de licenças adquiridas e quaisquer impostos/taxas necessárias.
+  
+Se o valor cobrado for diferente e em seguida, espera-se de que há poucos motivos isso pode acontecer:
+  
+- Licenças adicionadas ou removidas da sua assinatura. Quando as licenças são alterado médio prazo, isso é refletido na seguinte fatura. Talvez você veja um crédito e bill novamente para o período de serviço anterior para levar em conta para que essa alteração.
+    
+- A assinatura foi cancelada. Você receberá uma fatura após cancelamento com qualquer saldo pendente menos qualquer créditos.
+    
+- Sua assinatura renovada por um novo termo e o preço de licença alterado.
+    
+Para obter mais informações sobre a fatura, consulte: [Noções básicas sobre sua fatura](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507)
+  
+
