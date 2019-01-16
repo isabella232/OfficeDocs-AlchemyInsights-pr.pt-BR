@@ -1,0 +1,26 @@
+---
+title: Gerenciar um grupo sem uma licença do Exchange
+ms.author: dianef
+author: dianef77
+ms.date: 5/23/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
+ms.openlocfilehash: 33b85306907dba9782f4931b3226ec3175737729
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28274846"
+---
+# <a name="manage-a-group-without-an-exchange-license"></a>Gerenciar um grupo sem uma licença do Exchange
+
+Se sua conta de administração do Office 365 não tiver uma caixa de correio, você pode receber um erro sobre uma licença de produto ausente quando você tenta editar um grupo do Office 365.
+  
+Como você é o administrador proprietário, é possível para editar um grupo, embora você não possui uma licença do Exchange. Apenas vá para [O Centro de administração do Exchange](https://support.office.com/article/https://outlook.office365.com/ecp.aspx) \> **grupos** para gerenciar o grupo do Office 365. 
+  
+Se você deseja editar grupos no Centro de administração, adicione uma licença do Exchange à sua conta de administrador. Você precisa aguardar até que a caixa de correio totalmente seja criada antes que você pode editar um grupo.
+  
+
