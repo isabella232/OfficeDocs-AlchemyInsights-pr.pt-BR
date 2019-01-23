@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383141"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | 1/11/2019 | [Excluir usuários](/AlchemyInsights/deleting-users) | modificado |
 | 1/11/2019 | [Implantar perfeita Single Sign-On](/AlchemyInsights/deploy-seamless-single-sign-on) | modificado |
 | 1/11/2019 | [Desabilitar o acesso ao Yammer](/AlchemyInsights/disable-access-to-yammer) | modificado |
+
+
+## <a name="week-of-january-14-2019"></a>Semana de 14 de janeiro de 2019
+
+
+| Publicado em |Título do tópico | Alteração |
+|------|------------|--------|
+| 14/1/2019 | Espaço reservado de Alquimia | removido |
+| 14/1/2019 | Adicionar Alquimia do domínio | removido |
+| 14/1/2019 | [Alquimia Insights Home](/AlchemyInsights/index) | modificado |
+| 17/1/2019 | [é igual ao nome de arquivo é melhor [regra #-descrição]](/AlchemyInsights/1-alchemy-insight-template) | adicionado |
