@@ -13,13 +13,13 @@ ms.openlocfilehash: 1c10f03dcd105fe80edf3407288bdd551cfed54a
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383134"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454058"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="3dafe-103">550 5.7.708 acesso negado, não aceita tráfego desse IP</span><span class="sxs-lookup"><span data-stu-id="3dafe-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="7f383-103">550 5.7.708 acesso negado, não aceita tráfego desse IP</span><span class="sxs-lookup"><span data-stu-id="7f383-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
 
-<span data-ttu-id="3dafe-104">Este erro ocorre quando o envio de email de reputação conhecida, baixa endereços IP que são normalmente usados por novos clientes.</span><span class="sxs-lookup"><span data-stu-id="3dafe-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
+<span data-ttu-id="7f383-104">Este erro ocorre quando o envio de email de reputação conhecida, baixa endereços IP que são normalmente usados por novos clientes.</span><span class="sxs-lookup"><span data-stu-id="7f383-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
   
-<span data-ttu-id="3dafe-105">Se você deve enviar email a partir esses endereços IP antes de você pode adquirir licenças, contate o suporte para solicitar uma exceção até que você está possível adquirir licenças.</span><span class="sxs-lookup"><span data-stu-id="3dafe-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
+<span data-ttu-id="7f383-105">Se você deve enviar email a partir esses endereços IP antes de você pode adquirir licenças, contate o suporte para solicitar uma exceção até que você está possível adquirir licenças.</span><span class="sxs-lookup"><span data-stu-id="7f383-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
   
 
