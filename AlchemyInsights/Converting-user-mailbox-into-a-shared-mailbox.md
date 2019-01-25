@@ -10,11 +10,11 @@ localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 description: ''
 ms.openlocfilehash: 22ad1b3fb818b40bcd77974031735f931e986968
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28275234"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29456868"
 ---
 Você só pode converter uma caixa de correio do usuário para uma caixa de correio compartilhada se o usuário possui uma licença do Exchange. Depois que a caixa de correio é convertida, ele continuará a mostrada na lista de usuários ativos porque essa lista inclui caixas de correio compartilhadas. No entanto, a caixa de correio convertida também serão exibidas na lista de caixa de correio compartilhada. 
   

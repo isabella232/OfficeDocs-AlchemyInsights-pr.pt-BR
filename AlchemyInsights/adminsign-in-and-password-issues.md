@@ -11,11 +11,11 @@ localization_priority: Priority
 ms.assetid: 4ff3a313-c257-4687-ab58-9c3c51b867f3
 description: Inicie seu artigo com uma introdução muito curta (1 sentença). Colocar-se no lugar do leitor - por que são eles aqui? O que eles fazer?
 ms.openlocfilehash: a7491605ec0aac69b254f6ef916b520b202a76f1
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28274395"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29457496"
 ---
 Inicie seu artigo com uma introdução muito curta (1 sentença). Colocar-se no lugar do leitor - por que são eles aqui? O que eles fazer? 
   

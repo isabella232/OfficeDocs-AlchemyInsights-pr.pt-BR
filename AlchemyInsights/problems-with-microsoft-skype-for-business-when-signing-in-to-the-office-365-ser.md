@@ -10,11 +10,11 @@ localization_priority: Priority
 ms.assetid: d55c9095-317d-4283-860d-a82032f5e9f6
 description: Se você estiver tendo problemas para entrar na Skype para a empresa, você pode solucionar com suporte e o Assistente de recuperação (SaRA). Essa ferramenta ajuda você a diagnosticar automaticamente e corrigir uma gama de problemas conhecidos envolvendo sign-on para Skype para negócios.
 ms.openlocfilehash: 53ed1ac82ed5d731e987fcc0a0350cab511d05a7
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28275283"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29457074"
 ---
 Se você estiver tendo problemas para entrar na Skype para a empresa, você pode solucionar com suporte e o Assistente de recuperação (SaRA). Essa ferramenta ajuda você a diagnosticar automaticamente e corrigir uma gama de problemas conhecidos envolvendo sign-on para Skype para negócios.
   

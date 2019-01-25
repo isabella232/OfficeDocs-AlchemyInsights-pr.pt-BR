@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
 ms.openlocfilehash: 6eae9146d33f5fc307085dbf931d57bdbb28b82e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28275422"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29456726"
 ---
 Você está tendo problemas com **Data Loss Prevention (DLP)** não está funcionando para conteúdo que contém um **Número de conta bancária EUA** ao usar um tipo de informações confidenciais de DLP no O365? Em caso afirmativo, verifique se seu conteúdo contém as informações necessárias para que a política de DLP está procurando por quando ele é avaliado. 
   
@@ -28,7 +28,7 @@ Por exemplo, para uma política de **Número de conta bancária US** configurada
     
 - **[Definição:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)** Uma política de DLP é 75% confiante de que detectou esse tipo de informações confidenciais if, dentro de uma proximidade de 300 caracteres: 
     
-  - A expressão regular Regex_usa_bank_account_number encontra o conteúdo que corresponde ao padrão
+  - A expressão regular Regex_usa_bank_account_number localiza o conteúdo que corresponde ao padrão.
     
   - Uma palavra-chave de Keyword_usa_Bank_Account for encontrada.
     

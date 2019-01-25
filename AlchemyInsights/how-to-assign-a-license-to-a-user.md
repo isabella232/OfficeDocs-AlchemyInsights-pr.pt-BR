@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
 ms.openlocfilehash: 61adcd2ba21a98793d072d3fad2d9d2e68fa3c20
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28275077"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29457535"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Como atribuir uma licença a um usuário
 
 Um usuário precisa de uma licença têm acesso aos serviços. Aqui estão as etapas para adicionar, alterar ou remover uma licença de um usuário.
   
-1. No Centro de administração, vá para a página de [Usuários ativos](https://go.microsoft.com/fwlink/p/?linkid=834822) ou escolha **usuários** \> **usuários ativos**.
+1. No Centro de administração, vá para a página [Usuários ativos](https://go.microsoft.com/fwlink/p/?linkid=834822) ou escolha **Usuários** \> **Usuários ativos**.
     
 2. Marque a caixa ao lado do nome do usuário a quem você deseja atribuir, alterar ou remover uma licença.
     
