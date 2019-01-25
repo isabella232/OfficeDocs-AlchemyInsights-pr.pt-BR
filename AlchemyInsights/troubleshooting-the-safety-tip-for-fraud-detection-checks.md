@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.openlocfilehash: 24842e8cc5c6e47fb0eb637e6a3211637ede1ed8
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28275122"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29457055"
 ---
 # <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Verifica se a dica de segurança de detecção de fraude da solução de problemas
 
@@ -24,7 +24,7 @@ Para obter mais informações, consulte [verifica se a dica de vermelho safety (
   
 Aqui estão alguns outros links que podem ajudar:
   
-- [Como o Office 365 usa a estrutura de política do remetente (SPF) para evitar a falsificação](https://docs.microsoft.com/en-us/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
+- Como o Office 365 usa o Sender Policy Framework (SPF) para evitar a falsificação
     
 - [Configurar o SPF no Office 365 para ajudar a evitar falsificações](https://docs.microsoft.com/en-us/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
     

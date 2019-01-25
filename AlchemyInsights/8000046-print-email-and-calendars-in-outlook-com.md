@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 40063c6e-2c45-420d-ae63-9eb274b64f5e
 ms.openlocfilehash: 5b35728e723d2eab2f648ffa4850335551e8edd3
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28275193"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29456713"
 ---
 # <a name="print-email-and-calendars-in-outlookcom"></a>Email de impressão e calendários no Outlook.com
 

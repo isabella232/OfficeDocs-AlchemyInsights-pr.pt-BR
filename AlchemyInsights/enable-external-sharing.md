@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
 ms.openlocfilehash: 92c9660fda35489bfe94538800cff7060557c9a6
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28274563"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29456873"
 ---
 # <a name="enable-external-sharing"></a>Habilitar compartilhamento externo
 
@@ -33,7 +33,7 @@ ms.locfileid: "28274563"
     
   - "Permitir que os dois usuários externos que aceitam compartilhamento convites e links de convidados anônimo"
     
-- **Conjuntos de sites individuais**
+- Conjuntos de sites individuais
     
   - Conjuntos - conjunto de sites Select em questão, de sites e, em seguida, clique em compartilhar - na faixa de opções -\> Certifique-se de que o compartilhamento opções estão selecionadas.
     

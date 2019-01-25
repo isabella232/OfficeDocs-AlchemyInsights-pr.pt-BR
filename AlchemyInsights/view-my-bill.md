@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
 ms.openlocfilehash: 6e4f8fbc8382d4f71f1163f97b6dab24fe762742
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28275204"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29456914"
 ---
 # <a name="view-my-bill"></a>Exibir minha bill
 
-1. No Centro de administração, vá para a página de [letras](https://go.microsoft.com/fwlink/p/?linkid=848039) ou escolha **faturamento** \> **letras**.
+1. No Centro de Administração, vá para a página [Faturas](https://go.microsoft.com/fwlink/p/?linkid=848039) ou escolha **Cobrança** \> **Faturas**.
     
 2. Escolha o mês e a data da fatura desejada e, em seguida, escolha **Exibir**.
     
