@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 35a22eeb-a426-4839-85b1-13745ed1d2c2
 ms.openlocfilehash: b7822172182686129b844f591449a5874e1dda79
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28274134"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29456827"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="e59db-102">Saiba mais sobre as opções de compartilhamento de calendário externa</span><span class="sxs-lookup"><span data-stu-id="e59db-102">Learn about external calendar sharing options</span></span>
+# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="ff902-102">Saiba mais sobre as opções de compartilhamento de calendário externa</span><span class="sxs-lookup"><span data-stu-id="ff902-102">Learn about external calendar sharing options</span></span>
 
-<span data-ttu-id="e59db-103">[Compartilhar calendários com usuários externos](https://support.office.com/article/FB00DD4E-2D5F-4E8D-8FF4-94B2CF002BDD)
-</span><span class="sxs-lookup"><span data-stu-id="e59db-103">[Share calendars with external users](https://support.office.com/article/FB00DD4E-2D5F-4E8D-8FF4-94B2CF002BDD)</span></span>
+<span data-ttu-id="ff902-103">[Compartilhar calendários com usuários externos](https://support.office.com/article/FB00DD4E-2D5F-4E8D-8FF4-94B2CF002BDD)
+</span><span class="sxs-lookup"><span data-stu-id="ff902-103">[Share calendars with external users](https://support.office.com/article/FB00DD4E-2D5F-4E8D-8FF4-94B2CF002BDD)</span></span>
   
 
