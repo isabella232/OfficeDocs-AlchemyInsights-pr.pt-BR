@@ -10,24 +10,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 81ce6c8b-6f73-4489-9539-f14680168a8e
 ms.openlocfilehash: 5e61290f4e9014cf53fc2f6af20c197d23ac9289
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28275177"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29456621"
 ---
-# <a name="change-your-account-picture"></a><span data-ttu-id="7ebcf-102">Alterar sua imagem de conta</span><span class="sxs-lookup"><span data-stu-id="7ebcf-102">Change your account picture</span></span>
+# <a name="change-your-account-picture"></a><span data-ttu-id="90f81-102">Alterar sua imagem de conta</span><span class="sxs-lookup"><span data-stu-id="90f81-102">Change your account picture</span></span>
 
-1. <span data-ttu-id="7ebcf-103">Vá para a [Microsoft suas informações de conta](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="7ebcf-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
+1. <span data-ttu-id="90f81-103">Vá para a [Microsoft suas informações de conta](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="90f81-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
     
-2. <span data-ttu-id="7ebcf-104">Selecione **Alterar imagem**.</span><span class="sxs-lookup"><span data-stu-id="7ebcf-104">Select **Change picture**.</span></span> 
+2. <span data-ttu-id="90f81-104">Selecione **Alterar imagem**.</span><span class="sxs-lookup"><span data-stu-id="90f81-104">Select **Change picture**.</span></span> 
     
-3. <span data-ttu-id="7ebcf-105">Selecione uma **nova imagem**.</span><span class="sxs-lookup"><span data-stu-id="7ebcf-105">Select **New picture**.</span></span> 
+3. <span data-ttu-id="90f81-105">Selecione uma **nova imagem**.</span><span class="sxs-lookup"><span data-stu-id="90f81-105">Select **New picture**.</span></span> 
     
-4. <span data-ttu-id="7ebcf-106">Escolha a imagem que você deseja usar e selecione **Abrir**.</span><span class="sxs-lookup"><span data-stu-id="7ebcf-106">Choose the picture you want to use and select **Open**.</span></span> 
+4. <span data-ttu-id="90f81-106">Escolha a imagem que você deseja usar e selecione **Abrir**.</span><span class="sxs-lookup"><span data-stu-id="90f81-106">Choose the picture you want to use and select **Open**.</span></span> 
     
-5. <span data-ttu-id="7ebcf-107">Arraste ou redimensionar a caixa de imagem e selecione **Salvar**.</span><span class="sxs-lookup"><span data-stu-id="7ebcf-107">Drag or resize the image box and select **Save**.</span></span> 
+5. <span data-ttu-id="90f81-107">Arraste ou redimensionar a caixa de imagem e selecione **Salvar**.</span><span class="sxs-lookup"><span data-stu-id="90f81-107">Drag or resize the image box and select **Save**.</span></span> 
     
-<span data-ttu-id="7ebcf-108">Espere até 24 horas para que as alterações a uma foto de perfil ou nome a ser entram em vigor.</span><span class="sxs-lookup"><span data-stu-id="7ebcf-108">Please allow up to 24 hours for changes to your profile photo or name to go into effect.</span></span>
+<span data-ttu-id="90f81-108">Espere até 24 horas para que as alterações a uma foto de perfil ou nome a ser entram em vigor.</span><span class="sxs-lookup"><span data-stu-id="90f81-108">Please allow up to 24 hours for changes to your profile photo or name to go into effect.</span></span>
   
 

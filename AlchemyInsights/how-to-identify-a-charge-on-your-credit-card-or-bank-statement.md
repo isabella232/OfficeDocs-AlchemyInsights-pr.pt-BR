@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
 ms.openlocfilehash: 5bb5632fb0578613cc9d96663c776de93c752016
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28274705"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29457474"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a><span data-ttu-id="ce3d1-102">Como identificar uma carga no seu cartão de crédito ou extrato bancário</span><span class="sxs-lookup"><span data-stu-id="ce3d1-102">How to identify a charge on your credit card or bank statement</span></span>
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a><span data-ttu-id="40461-102">Como identificar uma carga no seu cartão de crédito ou extrato bancário</span><span class="sxs-lookup"><span data-stu-id="40461-102">How to identify a charge on your credit card or bank statement</span></span>
 
-<span data-ttu-id="ce3d1-103">A descrição de cobrança para uma assinatura do Office 365 tem esta aparência:</span><span class="sxs-lookup"><span data-stu-id="ce3d1-103">The charge description for an Office 365 subscription looks like this:</span></span>
+<span data-ttu-id="40461-103">A descrição de cobrança para uma assinatura do Office 365 tem esta aparência:</span><span class="sxs-lookup"><span data-stu-id="40461-103">The charge description for an Office 365 subscription looks like this:</span></span>
   
-<span data-ttu-id="ce3d1-104">MSFT \* E012345ABC 0000 - MSBILL.INFO, WA</span><span class="sxs-lookup"><span data-stu-id="ce3d1-104">MSFT \* E012345ABC 0000 - MSBILL.INFO, WA</span></span>
+<span data-ttu-id="40461-104">MSFT \* E012345ABC 0000 - MSBILL.INFO, WA</span><span class="sxs-lookup"><span data-stu-id="40461-104">MSFT \* E012345ABC 0000 - MSBILL.INFO, WA</span></span>
   
-<span data-ttu-id="ce3d1-p101">A cadeia de caracteres 10 caracteres alfanuméricos seguindo MSFT \* é o número de faturas a carga se refere à. Para localizar a fatura, vá para a página de [letras](https://go.microsoft.com/fwlink/p/?linkid=848039) ou escolha **faturamento** \> **listas** para exibir suas faturas recentes. O número da fatura está perto o canto direito do documento faturas.</span><span class="sxs-lookup"><span data-stu-id="ce3d1-p101">The 10 character alpha-numeric string following MSFT \* is the Invoice Number the charge relates to. To find the invoice, go to the [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page, or choose **Billing** \> **Bills** to view your recent invoices. The invoice number is near the right corner of the invoice document.</span></span> 
+<span data-ttu-id="40461-p101">A cadeia de caracteres 10 caracteres alfanuméricos seguindo MSFT \* é o número de faturas a carga se refere à. Para localizar a fatura, vá para a página de [letras](https://go.microsoft.com/fwlink/p/?linkid=848039) ou escolha **faturamento** \> **listas** para exibir suas faturas recentes. O número da fatura está perto o canto direito do documento faturas.</span><span class="sxs-lookup"><span data-stu-id="40461-p101">The 10 character alpha-numeric string following MSFT \* is the Invoice Number the charge relates to. To find the invoice, go to the [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page, or choose **Billing** \> **Bills** to view your recent invoices. The invoice number is near the right corner of the invoice document.</span></span> 
   
 
