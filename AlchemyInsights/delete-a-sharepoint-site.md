@@ -2,51 +2,30 @@
 title: Excluir um site do SharePoint
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29457501"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660004"
 ---
-# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="5b77a-102">Excluir um site do SharePoint</span><span class="sxs-lookup"><span data-stu-id="5b77a-102">Delete a SharePoint site</span></span>
-
- <span data-ttu-id="5b77a-103">**Exclua sites que pertencem a um grupo do Office 365:**</span><span class="sxs-lookup"><span data-stu-id="5b77a-103">**Delete sites that belong to an Office 365 group:**</span></span>
+# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="9fc4f-102">Excluir um site do SharePoint</span><span class="sxs-lookup"><span data-stu-id="9fc4f-102">Delete a SharePoint site</span></span>
+ <span data-ttu-id="9fc4f-103">**Excluir sites do Centro de administração do SharePoint novo**</span><span class="sxs-lookup"><span data-stu-id="9fc4f-103">**Delete sites from the new SharePoint admin center**</span></span>
   
-<span data-ttu-id="5b77a-p101">Quando os usuários criarem um novo site de equipe da página inicial do SharePoint (ou criar um novo site de equipe da guia novo SharePoint admin center preview), um grupo do Office 365 correspondente é criado automaticamente. Sites do Office 365 equipe conectado por grupo também são criados quando você cria um grupo do Office 365 ou uma equipe no Microsoft Teams. Para excluir um site do SharePoint que pertence a um grupo do Office 365, você precisará excluir o grupo do Office 365 em si.</span><span class="sxs-lookup"><span data-stu-id="5b77a-p101">When users create a new team site from SharePoint Home (or you create a new team site from the new SharePoint admin center preview), a corresponding Office 365 group is automatically created. Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams. To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
+<span data-ttu-id="9fc4f-p101">Para excluir um site ativo, vá para o Centro de administração do SharePoint atual, clique em "Experimente agora" na parte superior direita. Selecione **sites ativos**, selecione o site e selecione **Excluir**. A [exibição e a restauração excluídos no novo SharePoint admin center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selecione **sites excluídos**. Para obter mais informações, consulte [Gerenciar sites no novo SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).</span><span class="sxs-lookup"><span data-stu-id="9fc4f-p101">To delete an active site, go to the current SharePoint admin center, click "Try it now" in the upper right. Select **Active sites**, select the site, and then select **Delete**. To [view and restore deleted sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), select **Deleted sites**. For more info, see [Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).</span></span>
   
-1. <span data-ttu-id="5b77a-107">Vá até a [página grupos do Centro de administração do Office 365](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="5b77a-107">Go to the [Groups page of the Office 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+<span data-ttu-id="9fc4f-p102">**Importante:** Se o site for parte de uma política de retenção, você não poderá excluí-la até que o site foi removido do [segurança &amp; Centro de administração de conformidade](https://protection.office.com/?rfr=AdminCenter#/homepage). Consulte [Visão geral das políticas de retenção](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) para obter mais informações.</span><span class="sxs-lookup"><span data-stu-id="9fc4f-p102">**Important:** If the site is part of a retention policy, you may not be able to delete it until the site is removed from the [Security &amp; Compliance Admin Center](https://protection.office.com/?rfr=AdminCenter#/homepage). See [Overview of Retention Policies](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) for more info.</span></span> 
   
-2. <span data-ttu-id="5b77a-108">Marque a caixa de seleção ao lado do grupo.</span><span class="sxs-lookup"><span data-stu-id="5b77a-108">Select the check box next to the group.</span></span>
-  
-3. <span data-ttu-id="5b77a-109">Selecione **Excluir**.</span><span class="sxs-lookup"><span data-stu-id="5b77a-109">Select **Delete**.</span></span> 
-  
-<span data-ttu-id="5b77a-110">Observação: Quando você exclui um grupo, pode haver um atraso antes que o site foi removido do SharePoint.</span><span class="sxs-lookup"><span data-stu-id="5b77a-110">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
-  
- <span data-ttu-id="5b77a-111">**Exclua sites de comunicação ou clássico:**</span><span class="sxs-lookup"><span data-stu-id="5b77a-111">**Delete communication sites or classic sites:**</span></span>
-  
-1. <span data-ttu-id="5b77a-112">Vá para o site.</span><span class="sxs-lookup"><span data-stu-id="5b77a-112">Go to the site.</span></span>
-  
-2. <span data-ttu-id="5b77a-113">Clique no \* \* configurações \* \* (ícone de engrenagem roda) no canto superior direito.</span><span class="sxs-lookup"><span data-stu-id="5b77a-113">Click the \*\* Settings \*\* (gear wheel icon) in the upper right.</span></span> 
-  
-3. <span data-ttu-id="5b77a-p102">Clique em **configurações do Site**. Em **Informações de Site** ou **Ações do Site**, clique em **Excluir este site**e clique em **Excluir**.</span><span class="sxs-lookup"><span data-stu-id="5b77a-p102">Click **Site settings**. Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span> 
-  
- <span data-ttu-id="5b77a-116">**Exclua um conjunto de sites do SharePoint:**</span><span class="sxs-lookup"><span data-stu-id="5b77a-116">**Delete a SharePoint site collection:**</span></span>
-  
-<span data-ttu-id="5b77a-117">Para excluir um conjunto de sites clássico:</span><span class="sxs-lookup"><span data-stu-id="5b77a-117">To delete a classic site collection:</span></span>
-  
-1. <span data-ttu-id="5b77a-118">No Centro de administração do SharePoint clássico, na página conjuntos de sites, marque a **caixa de seleção** ao lado do conjunto de sites.</span><span class="sxs-lookup"><span data-stu-id="5b77a-118">In the classic SharePoint admin center, on the site collections page, select the **check box** next to the site collection.</span></span> 
-  
-2. <span data-ttu-id="5b77a-119">Na guia conjuntos de sites, selecione **Excluir.**</span><span class="sxs-lookup"><span data-stu-id="5b77a-119">On the Site Collections tab, select **Delete.**</span></span>
-  
- <span data-ttu-id="5b77a-120">**Excluir um site por acidente?**</span><span class="sxs-lookup"><span data-stu-id="5b77a-120">**Deleted a site by accident?**</span></span>
-  
-<span data-ttu-id="5b77a-121">Consulte [restaurar um conjunto de sites excluídos](https://go.microsoft.com/fwlink/?linkid=867660).</span><span class="sxs-lookup"><span data-stu-id="5b77a-121">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
+<span data-ttu-id="9fc4f-110">Dicas:</span><span class="sxs-lookup"><span data-stu-id="9fc4f-110">Tips:</span></span>
+- <span data-ttu-id="9fc4f-p103">Administradores de globais e administradores do SharePoint agora podem excluir sites que pertencem a um **Grupo do Office 365**. Isso excluirá o grupo e todos os seus recursos, incluindo todos os canais equipes e calendário e a caixa de correio do Outlook. Para obter mais informações, consulte [Excluir um site do SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)</span><span class="sxs-lookup"><span data-stu-id="9fc4f-p103">Global admins and SharePoint admins can now delete sites that belong to an **Office 365 Group**. This will delete the group and all its resources, including the Outlook mailbox and calendar, and any Teams channels. For more info, see [Delete a SharePoint site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)</span></span>
+- <span data-ttu-id="9fc4f-p104">Você pode recuperar sites excluídos por 93 dias. Observe que os grupos excluídos devem ser restaurados dentro de 30 dias. Para obter mais informações, consulte [sites excluídos do modo de exibição e a restauração](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).</span><span class="sxs-lookup"><span data-stu-id="9fc4f-p104">You can recover deleted sites for 93 days. Note that deleted groups must be restored within 30 days. For more info, see [View and restore deleted sites](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).</span></span>
+- <span data-ttu-id="9fc4f-117">Para remover completamente um site com o Powershell, consulte o exemplo do cmdlet [Remove-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) .</span><span class="sxs-lookup"><span data-stu-id="9fc4f-117">To completely remove a site with Powershell, see the [Remove-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) cmdlet example.</span></span> 
   
 
