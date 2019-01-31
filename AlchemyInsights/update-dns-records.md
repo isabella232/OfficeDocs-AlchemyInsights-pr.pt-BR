@@ -2,35 +2,30 @@
 title: Atualizar registros DNS
 ms.author: pebaum
 author: pebaum
-ms.date: 12/13/2018
+ms.date: 1/18/2019
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-search.appverid:
-- MET150
-- MOE150
-- MEW150
-- MED150
-- MBS150
-ms.assetid: b6c579b1-7665-4705-8b40-691cc9d9f59a
-ms.openlocfilehash: 51f798a1e03bfe607368e6a40e11dd62cddcf1c7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
+ms.openlocfilehash: 88bc1117efc6ff7a846fe245c3ab43194e1b222c
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29457109"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29659939"
 ---
-# <a name="update-your-dns-records"></a><span data-ttu-id="a7c8c-102">Atualize seus registros DNS</span><span class="sxs-lookup"><span data-stu-id="a7c8c-102">Update your DNS records</span></span>
+# <a name="update-dns-records"></a><span data-ttu-id="5562f-102">Atualizar registros DNS</span><span class="sxs-lookup"><span data-stu-id="5562f-102">Update DNS Records</span></span>
 
-<span data-ttu-id="a7c8c-p101">Para fazer o seu domínio personalizado, trabalhando com o Office 365, você precisará atualizar seus registros DNS. Use os links abaixo para obter instruções detalhadas.</span><span class="sxs-lookup"><span data-stu-id="a7c8c-p101">To get your custom domain working with Office 365 you'll need to update your DNS records. Use the links below to find detailed instructions.</span></span>
+
+
+<span data-ttu-id="5562f-p101">Configurar seus registros DNS é importante para a realização de sua assinatura do Office 365 trabalhando com seu nome de domínio personalizado. Use os links abaixo para adicionar ou atualizar seus registros DNS.</span><span class="sxs-lookup"><span data-stu-id="5562f-p101">Setting up your DNS records is important to getting your Office 365 subscription working with your custom domain name. Use the links below to add or update your DNS records.</span></span>
   
- <span data-ttu-id="a7c8c-105">**Artigo da Ajuda** (para qualquer registrador de domínio)</span><span class="sxs-lookup"><span data-stu-id="a7c8c-105">**Help Article** (for any domain registrar)</span></span> 
-  
-- [<span data-ttu-id="a7c8c-106">Criar registros de DNS em qualquer provedor de hospedagem de DNS para o Office 365</span><span class="sxs-lookup"><span data-stu-id="a7c8c-106">Create DNS records at any DNS hosting provider for Office 365</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [<span data-ttu-id="5562f-105">Criar registros de DNS em qualquer provedor de hospedagem de DNS para o Office 365</span><span class="sxs-lookup"><span data-stu-id="5562f-105">Create DNS records at any DNS hosting provider for Office 365</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
     
- <span data-ttu-id="a7c8c-107">**Guia de vídeo** (para domínios hospedados em GoDaddy.com)</span><span class="sxs-lookup"><span data-stu-id="a7c8c-107">**Video Guide** (for domains hosted at GoDaddy.com)</span></span> 
-  
-- [<span data-ttu-id="a7c8c-108">Configurar seu domínio e usuários</span><span class="sxs-lookup"><span data-stu-id="a7c8c-108">Set up your domain and users</span></span>](https://support.office.com/article/26524a2c-1d65-48ab-8927-ae0b27370c62)
+- [<span data-ttu-id="5562f-106">Adicionar ou editar registros DNS personalizados</span><span class="sxs-lookup"><span data-stu-id="5562f-106">Add or edit custom DNS records</span></span>](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
     
 
