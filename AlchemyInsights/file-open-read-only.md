@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 46b2489e86c018b3cbd6feb07a3a2e397de383b6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6c4610a133cf4202310bfd166a61ab84ca6ecdbb
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499514"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661775"
 ---
 # <a name="file-open-read-only"></a>Abra o arquivo somente leitura
 
@@ -30,7 +30,7 @@ Você pode verificar as propriedades de arquivo, clicando duas vezes no arquivo 
   
  **O conteúdo está no modo de exibição protegido**
   
-Arquivos da Internet e de outros locais potencialmente não seguras podem conter vírus, worms ou outros tipos de malware que podem danificar o computador. Isso também geralmente é o caso com anexos de email ou arquivos que você baixou. Para ajudar a proteger seu computador, os arquivos a partir desses locais potencialmente não seguros são abertos no modo de exibição protegido. Usando o modo de exibição protegido, você pode ler um arquivo e ver seu conteúdo ao mesmo tempo, reduzir os riscos. Para obter mais informações sobre o modo de exibição protegido e como alterar as configurações, consulte este artigo: [o que é o modo de exibição protegido?](https://support.office.com/en-us/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Arquivos da Internet e de outros locais potencialmente não seguras podem conter vírus, worms ou outros tipos de malware que podem danificar o computador. Isso também geralmente é o caso com anexos de email ou arquivos que você baixou. Para ajudar a proteger seu computador, os arquivos a partir desses locais potencialmente não seguros são abertos no modo de exibição protegido. Usando o modo de exibição protegido, você pode ler um arquivo e ver seu conteúdo ao mesmo tempo, reduzir os riscos. Para obter mais informações sobre o modo de exibição protegido e como alterar as configurações, consulte este artigo: [o que é o modo de exibição protegido?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **OneDrive está cheio?**
   
@@ -38,7 +38,7 @@ Se o arquivo é armazenado em OneDrive e o espaço de armazenamento do OneDrive 
   
  **Office é ativada?**
   
-Se o Office não está ativado, ou se sua assinatura expirou, você pode estar em somente leitura modo de funcionalidade reduzida. Para obter informações sobre como ativar o Office, consulte: [produto não licenciado e erros de ativação no Office](https://support.office.com/en-us/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Se o Office não está ativado, ou se sua assinatura expirou, você pode estar em somente leitura modo de funcionalidade reduzida. Para obter informações sobre como ativar o Office, consulte: [produto não licenciado e erros de ativação no Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Se tudo mais falhar …**
   

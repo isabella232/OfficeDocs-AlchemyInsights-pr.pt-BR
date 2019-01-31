@@ -3,31 +3,30 @@ title: Excluir grupo sites
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 6/8/2018
+ms.date: 1/24/2019
 ms.audience: Admin
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 521e61b64be253be1eee3d7d41f930d55e1492a3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b0541ae0fadd4bad34476fa80bd501bdde739c23
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29457618"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660659"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Excluir um site do SharePoint que pertence a um grupo do Office 365
 
-Quando os usuários criarem um novo site de equipe da página inicial do SharePoint (ou criar um novo site de equipe da guia novo SharePoint admin center preview), um grupo do Office 365 correspondente é criado automaticamente. Sites do Office 365 equipe conectado por grupo também são criados quando você cria um grupo do Office 365 ou uma equipe no Microsoft Teams. Para excluir um site do SharePoint que pertence a um grupo do Office 365, você precisará excluir o grupo do Office 365 em si. 
+Administradores de globais e administradores do SharePoint agora podem excluir sites que pertencem a um grupo do Office 365. Excluir esses sites excluirá o grupo e todos os seus recursos, incluindo todos os canais equipes e calendário e a caixa de correio do Outlook.
   
-1. Vá até a [página grupos do Centro de administração do Office 365](https://portal.office.com/adminportal/home#/groups).
-    
-2. Marque a caixa de seleção ao lado do grupo.
-    
-3. Selecione **Excluir**.
-    
-Observação: Quando você exclui um grupo, pode haver um atraso antes que o site foi removido do SharePoint.
+Importante: 
+- Você pode recuperar sites excluídos por 93 dias. Para obter mais informações, consulte exibir e restaurar sites excluídos. Observe que os grupos excluídos devem ser restaurados dentro de 30 dias. 
+- Se o site for parte de uma política de retenção, você não poderá excluí-la até que o site foi removido do [segurança &amp; Centro de administração de conformidade](https://protection.office.com/?rfr=AdminCenter#/retention). Consulte [Visão geral das políticas de retenção](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) para obter mais informações. 
+  
+A [exibição e a restauração excluídos no novo SharePoint admin center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selecione **sites excluídos**. Selecione o site que tenha sido excluído e escolha restaurar ou excluir (que irá excluir permanentemente o site). Para excluir um site ativo, selecione sites do **Active** , selecione o site e selecione **Excluir**. Para obter mais informações, consulte [Gerenciar sites no novo SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
 

@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: bf1843d007da336520c47d3a6782fb43d280bcb3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 62876e70201a5df147d1720303d53c951b205058
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29456789"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661919"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>O que fazer se o tamanho da caixa de correio já for 100GB
 
@@ -32,6 +32,6 @@ Para habilitar o arquivamento de email:
     
 4. Após alguns minutos, uma nova pasta será exibida no Outlook do seu usuário na web chamado *Arquivo In-loco* ou no Outlook app chamado *arquivo morto Online - \<nome\> * . O usuário pode arrastar e soltar o email para o arquivo morto. 
     
-Você pode acessar uma quantidade ilimitada de armazenamento para arquivamento. Para saber mais, consulte [Habilitar o arquivamento ilimitado](https://support.office.com/en-us/article/enable-unlimited-archiving-in-office-365-admin-help-e2a789f2-9962-4960-9fd4-a00aa063559e).
+Você pode acessar uma quantidade ilimitada de armazenamento para arquivamento. Para saber mais, consulte [Habilitar o arquivamento ilimitado](https://support.office.com/article/enable-unlimited-archiving-in-office-365-admin-help-e2a789f2-9962-4960-9fd4-a00aa063559e).
   
 

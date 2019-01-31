@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 9e2a369f4b1bf87da8b12224b5f6e8b1138db9dd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
+ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454202"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662918"
 ---
 # <a name="required-customer-facing-h1-h2-doesnt-work"></a>Necessários ao cliente voltado à S1, S2 não funciona
 Texto de exemplo bloquear -, siga estas instruções:
 
-1. Arquivos na pasta **AlchemyInsights** devem ter o ID de regra e nome da regra a partir do [portal Alquimia parceiro](https://alchemyportal.azurewebsites.net) no mane.
+1. Arquivos na pasta **AlchemyInsights** devem ter o ID da regra e o nome da regra a partir do [portal Alquimia parceiro](https://alchemyportal.azurewebsites.net) no nome de arquivo.
     1. ***976-How-to-enable-litigation-hold*** ex.
 1. Use os metadados na parte superior desse arquivo como seu modelo. Nada mais é necessário.
 1. No [portal Alquimia parceiro](https://alchemyportal.azurewebsites.net), navegue até a seção **título percepção de cliente:** e usá-la como uma partida aponte para seu título S1 para o insight. 
@@ -34,3 +34,8 @@ Texto de exemplo bloquear -, siga estas instruções:
     1. Links sempre deve ser um **"links web" / externo** OR **profunda-links para os elementos de interface do usuário**, os links não internos.
 
 E isso realmente já é um pouco muito longo. Prática recomendada é aproximadamente 400 caracteres--
+
+Depois que o conteúdo está pronto, retire-o à ramificação ao vivo. Em seguida, vá para o [portal de parceiros Alquimia](https://alchemyportal.azurewebsites.net) e insira o nome do arquivo no campo url. Certifique-se de Insight revisado e publicado diz "Sim" e clique em regra de atualização. (Isso terá uma aparência mais bonito na nova versão do portal - liberando em breve.)
+
+![campo URL](media/for-content-team.PNG)
+

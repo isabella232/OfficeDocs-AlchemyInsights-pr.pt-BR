@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: 9ee9fe3a5cb9f1c40a1141a9abe241c4f7fdc360
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: abadf8e1fdba18a4c31f349498bc2abb75d66a43
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29457464"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661127"
 ---
 # <a name="how-to-enable-seamless-sso"></a>Como habilitar o SSO perfeita
 
-Habilite o SSO perfeita por meio de [Conectar Azure AD](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect).
+Habilite o SSO perfeita por meio de [Conectar Azure AD](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-Se você estiver fazendo uma nova instalação do Windows Azure Connect da AD, escolha o [caminho de instalação personalizada](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Na página de **logon do usuário** , escolha a opção de **Habilitar o serviço single sign-on** . 
+Se você estiver fazendo uma nova instalação do Windows Azure Connect da AD, escolha o [caminho de instalação personalizada](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Na página de **logon do usuário** , escolha a opção de **Habilitar o serviço single sign-on** . 
   
 Para verificar se você habilitou o SSO perfeita corretamente:
   
@@ -32,6 +32,6 @@ Para verificar se você habilitou o SSO perfeita corretamente:
     
 3. Verifique se que esse perfeita sign-on único é **habilitado**.
     
-Para saber mais, consulte [Azure Active Directory perfeita Single Sign-On: início rápido](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+Para saber mais, consulte [Azure Active Directory perfeita Single Sign-On: início rápido](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   
 

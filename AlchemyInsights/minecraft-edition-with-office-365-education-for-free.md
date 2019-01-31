@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: 17304586ab659d81099091df5836985bf15992e7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4310c499b8b19f5712bebed7e8a6666e4b602fda
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29457336"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657527"
 ---
-[Livre de educação para Minecraft Edition com o Office 365](https://docs.microsoft.com/en-us/education/windows/get-minecraft-for-education)
+[Livre de educação para Minecraft Edition com o Office 365](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
 - **Minecraft: edição de educação** requer Windows 10 
     
 - Avaliações ou inscrições do **Minecraft: edição de educação** são oferecidas aos inquilinos de educação que são gerenciados pelo Windows Azure Active Directory (AD Azure) 
     
-  - Se sua escola não tiver um locatário do Azure AD, o [administrador de TI pode configurar um](https://docs.microsoft.com/en-us/education/windows/school-get-minecraft) como parte do processo de obtenção **Minecraft: edição de educação**.
+  - Se sua escola não tiver um locatário do Azure AD, o [administrador de TI pode configurar um](https://docs.microsoft.com/education/windows/school-get-minecraft) como parte do processo de obtenção **Minecraft: edição de educação**.
     
   - Educação do Office 365, que inclui versões on-line de aplicativos do Office, além de armazenamento on-line de 1 TB é livre para professores e alunos. [Inscreva-se a sua escola Office 365 educacional](https://products.office.com/academic/office-365-education-plan).
     
   - Se a sua escola tem uma assinatura do Office 365 educação, ela inclui um livre assinatura do Windows Azure AD. [Assinatura de registrar seu livre Azure AD](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
     
-[Aprenda como professores podem obter e distribuir Minecraft: edição de educação](https://docs.microsoft.com/en-us/education/windows/teacher-get-minecraft).
+[Aprenda como professores podem obter e distribuir Minecraft: edição de educação](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
   
-[Saiba como os administradores de TI podem obter e distribuir Minecraft: edição de educação](https://docs.microsoft.com/en-us/education/windows/school-get-minecraft)e como gerenciar permissões para Minecraft.
+[Saiba como os administradores de TI podem obter e distribuir Minecraft: edição de educação](https://docs.microsoft.com/education/windows/school-get-minecraft)e como gerenciar permissões para Minecraft.
   
 

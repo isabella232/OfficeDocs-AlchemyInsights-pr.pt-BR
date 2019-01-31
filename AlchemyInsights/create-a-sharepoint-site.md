@@ -2,29 +2,25 @@
 title: Criar um site do SharePoint
 ms.author: kirks
 author: Techwriter40
-ms.date: 1/3/2019
+ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 00f3e971a4dda8b0f5feee1ad2f08101192a2816
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 92bb7b5f0a684936db52f6be9e00c8dff3378bb5
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29457082"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657491"
 ---
 # <a name="create-a-sharepoint-site"></a>Criar um site do SharePoint
 
-Para gerenciar sites em que o novo centro de administração do SharePoint, vá para o Centro de administração do SharePoint atual, clique "Experimente agora" no canto superior direito e selecione sites ativos. Para obter informações sobre o novo centro de administração do SharePoint, consulte [começar com o novo centro de administração do SharePoint.](https://docs.microsoft.com/en-us/sharepoint/get-started-new-admin-center)
+Consulte [Gerenciar sites no novo SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-site-creation ) para opções de criação de site. Selecione para criar um [site de equipe](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (que será criado um grupo do Office 365) ou um [site de comunicação](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). Para criar um [site clássico](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)ou um novo site de equipe que não inclui um grupo do Office 365, clique em **outras opções**. 
   
-1. Clique em **Criar**. 
-    
-2. Selecione para criar um site de equipe (que será criado um grupo do Office 365) ou em um site de comunicação. Para criar um site clássico ou um novo site de equipe que não inclui um grupo do Office 365, clique em **outras opções**. Para informações sobre os novos modelos de site, consulte [criar um site de equipe no SharePoint Online](https://support.office.com/en-us/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) e [criar um site de comunicação no SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb).
-  
- **Observação:** Você não pode criar um novo site com a mesma URL de um site existente. Se você excluiu um site e desejam usar novamente a URL, é possível que o site com a URL que você estiver procurando para usar ainda está presente no **sites excluídos.** Clique em **sites Deleted**, realce o site para excluir permanentemente e clique no botão **Excluir** . 
-  
- **Observação:** Para gerenciar quem pode criar sites, consulte [Gerenciar a criação de sites no SharePoint Online](https://docs.microsoft.com/en-us/sharepoint/manage-site-creation).
-    
-
+Dicas:
+- *Você não pode criar um site com a mesma URL de um site existente. Se você excluiu um site e desejam usar novamente a URL, é possível que o site excluído ainda existe em **sites Deleted**. Para gerenciar excluído, consulte sites [Excluir um Site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Para remover completamente um site com o Powershell, consulte o exemplo do cmdlet [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .*
+- *Alguns usuários podem não ser capazes de criar um site. Consulte [Gerenciar a criação de sites no SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).*
+- *É possível que o site aparece preso no **Criando** mais do que o esperado. Se mais de 24 horas passados desde o primeiro vimos esse problema, efetue um tíquete de suporte. Em muitos casos, podemos já estiver trabalhando em uma solução. Envie-pelo menos 24 horas para concluir uma solução.*
