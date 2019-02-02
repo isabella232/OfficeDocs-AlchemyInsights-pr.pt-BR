@@ -11,16 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
-ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
+ms.openlocfilehash: 278a26f4b986a85e33442baef690d3bb44462ace
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662918"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697118"
 ---
-# <a name="required-customer-facing-h1-h2-doesnt-work"></a>Necessários ao cliente voltado à S1, S2 não funciona
-Texto de exemplo bloquear -, siga estas instruções:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Obrigatório Alquimia cabeçalho S1, S2 não funcionam.
+Práticas recomendadas e diretrizes para a criação de Alquimia:
 
+1. **Não aninhar Alquimia ideias de pesquisas nas pastas**- Isso interromperá a estrutura da url. Estamos analisando corrigindo isso.
 1. Arquivos na pasta **AlchemyInsights** devem ter o ID da regra e o nome da regra a partir do [portal Alquimia parceiro](https://alchemyportal.azurewebsites.net) no nome de arquivo.
     1. ***976-How-to-enable-litigation-hold*** ex.
 1. Use os metadados na parte superior desse arquivo como seu modelo. Nada mais é necessário.
@@ -35,7 +36,6 @@ Texto de exemplo bloquear -, siga estas instruções:
 
 E isso realmente já é um pouco muito longo. Prática recomendada é aproximadamente 400 caracteres--
 
-Depois que o conteúdo está pronto, retire-o à ramificação ao vivo. Em seguida, vá para o [portal de parceiros Alquimia](https://alchemyportal.azurewebsites.net) e insira o nome do arquivo no campo url. Certifique-se de Insight revisado e publicado diz "Sim" e clique em regra de atualização. (Isso terá uma aparência mais bonito na nova versão do portal - liberando em breve.)
-
-![campo URL](media/for-content-team.PNG)
+Depois que o conteúdo está pronto, retire-o à ramificação ao vivo. Em seguida, vá para o [portal de parceiros Alquimia](https://alchemyportal.azurewebsites.net) e insira o nome do arquivo no campo url. Certifique-se de Insight revisado e publicado diz "Sim" e clique em regra de atualização. **(Isso terá uma aparência mais bonito na nova versão do portal - liberando em breve.)** 
+ ![campo url](media/for-content-team.PNG)
 
