@@ -11,15 +11,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 907e4547-f840-4448-8af2-98de3b0ddd06
-ms.openlocfilehash: 10334e96d30796cb36aedba38fb48f1fe41513ff
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 2224255e125675814ca3583cd855483109828c75
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29655327"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29757576"
 ---
 # <a name="install-skype-for-business"></a>Instale o Skype para Business
 
-Você pode instalar o Skype para os negócios seguindo as etapas neste artigo: [Instale o Skype para negócios](https://support.office.com/article/https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)
+Você pode instalar o Skype para os negócios seguindo as etapas neste artigo: [Instale o Skype para negócios](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)
   
 
