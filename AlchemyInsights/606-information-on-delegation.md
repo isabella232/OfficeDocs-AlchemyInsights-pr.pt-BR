@@ -11,19 +11,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 853f9dd9fd84c90b0f184f7b348d8eb931933ac8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9f5719bfc7b6a7d35f114cd21f39cbc2b628824
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29457485"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770641"
 ---
-# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a>Sobre representantes no Outlook e Outlook na web
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Delegação de solução de problemas no Outlook e Outlook na web
 
-Para obter mais informações, consulte estes tópicos:
-  
-- **Outlook**: [Permitir que outra pessoa gerencie seu email e calendário](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)
-    
-- **Outlook na web**: [delegação de calendário do Outlook na web para negócios](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)
-    
+**Solução de problemas com a ferramenta SaRA:**
 
+1. Baixe e instale a ferramenta de SaRA a partir daqui
+1. Selecione Outlook, em seguida, "Estou tendo problemas com meu calendário"
+1. Digamos que Sim para máquina afetada
+1. Adicione o endereço de email do usuário afetado
+1. Selecione "Estou tendo problemas com permissões de representante"
+1. No prompt do próximo, se você estiver a pessoa que oferecendo permissões, insira o endereço de email do seu representante. Se você tiver recebido permissões e você for o representante, insira o endereço de email da pessoa que forneceu permissões.
+1. No próximo menu, selecione a opção que satisfaz o seu cenário. 
+1. No menu próximo, selecione o nível de permissão.
+1. Nesse estágio, ferramenta SaRA executará verificações automatizadas e fornecerá resolução possível ou se desejar fornecerá um log de diagnóstico que pode ser usado para solução de problemas.
+1. Você pode encontrar os logs na pasta resultados SaRA localizada em C:\Users\Username\AppData\Local\SaraResults
