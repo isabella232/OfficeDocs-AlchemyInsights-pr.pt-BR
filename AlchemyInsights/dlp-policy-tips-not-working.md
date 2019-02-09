@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: c59fb005168e02b4aa8dda26b335ac763ab61aa0
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: f7dfc010c3624b2192da01d9e50e58dd6bb653df
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657744"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786722"
 ---
+# <a name="dlp-policy-tip-issues"></a>Problemas de dica de política de DLP
+
 Ao usar **políticas de DLP**, os usuários podem ser notificados sobre uma violação de política com **dicas de política**. Os administradores podem configurar dicas de política para exibir ao testar sua política DLP ou quando a política estiver em modo de imposição total. 
   
 Para configurar a política de dicas em sua política de DLP na Central de segurança e conformidade no modo de imposição total faça o seguinte:
