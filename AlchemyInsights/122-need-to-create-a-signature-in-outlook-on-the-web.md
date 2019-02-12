@@ -7,18 +7,18 @@ ms.date: 4/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 9468585d-e98e-4774-9176-44be073c54d0
-ms.openlocfilehash: 57449c6fcb7d038012cb65e261aa5e6d0b347f05
-ms.sourcegitcommit: 91cd01f9cb692a02dd3534f6ce58315f38cf13e9
+ms.openlocfilehash: 141bf3464cb8fb8ffa6bf2a11f08db584a5bab9c
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29663880"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29899376"
 ---
-# <a name="need-to-create-an-email-signature"></a><span data-ttu-id="f7115-102">Você precisa criar uma assinatura de email?</span><span class="sxs-lookup"><span data-stu-id="f7115-102">Need to create an email signature?</span></span>
+# <a name="need-to-create-an-email-signature"></a><span data-ttu-id="2e6ef-102">Você precisa criar uma assinatura de email?</span><span class="sxs-lookup"><span data-stu-id="2e6ef-102">Need to create an email signature?</span></span>
 
-<span data-ttu-id="f7115-p101">Se você tiver uma conta do Outlook ou um a conta de web (Office 365 trabalho ou escola) do Outlook, você pode criar uma assinatura e automaticamente adicioná-lo a todas as mensagens de saída ou seletivamente adicioná-lo às mensagens de saída específicas. Observe que a sua assinatura de email é diferente no Outlook e Outlook na web. Para criar sua assinatura de email, consulte [criar e adicionar uma assinatura às mensagens no Outlook](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) ou [criar e adicionar uma assinatura de email no Outlook na web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx).</span><span class="sxs-lookup"><span data-stu-id="f7115-p101">If you have an Outlook account or an Outlook on the web (Office 365 work or school) account, you can create a signature and automatically add it to all outgoing messages, or selectively add it to specific outgoing messages. Note that your email signature is different in Outlook and Outlook on the web. To create your email signature, see [Create and add a signature to messages in Outlook](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) or [Create and add an email signature in Outlook on the web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx).</span></span>
+<span data-ttu-id="2e6ef-p101">Se você tiver uma conta do Outlook ou um a conta de web (Office 365 trabalho ou escola) do Outlook, você pode criar uma assinatura e automaticamente adicioná-lo a todas as mensagens de saída ou seletivamente adicioná-lo às mensagens de saída específicas. Observe que a sua assinatura de email é diferente no Outlook e Outlook na web. Para criar sua assinatura de email, consulte [criar e adicionar uma assinatura às mensagens no Outlook](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) ou [criar e adicionar uma assinatura de email no Outlook na web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx).</span><span class="sxs-lookup"><span data-stu-id="2e6ef-p101">If you have an Outlook account or an Outlook on the web (Office 365 work or school) account, you can create a signature and automatically add it to all outgoing messages, or selectively add it to specific outgoing messages. Note that your email signature is different in Outlook and Outlook on the web. To create your email signature, see [Create and add a signature to messages in Outlook](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) or [Create and add an email signature in Outlook on the web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx).</span></span>
 
