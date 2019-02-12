@@ -6,14 +6,14 @@ ms.date: 6/26/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
-ms.openlocfilehash: 05ab8844df6b34a9c7ae556b91ece341e1370ccd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: def9c77aaa31aa3d06e00661e80ab8747ca32844
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29457287"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29932856"
 ---
 # <a name="set-up-information-management-policies"></a>Configurar políticas de gerenciamento de informações
 
@@ -21,7 +21,7 @@ ms.locfileid: "29457287"
     
 2. Clique em **configurações**e, em seguida, clique em **Configurações do Site**. Se o site for um site do Office 365 conectado por grupo, clique em **configurações**, clique em **Conteúdo do Site**e, em seguida, clique em **Configurações do Site**.
     
-3. Em Administração do Conjunto de Sites, clique em Recursos do conjunto de sites.
+3. Em **Administração do Conjunto de Sites**, clique em **Recursos do conjunto de sites**.
     
 4. Em **Gerenciamento de registros no local**, clique em **Ativar**.
     
