@@ -658,41 +658,41 @@
 
 | Publicado em |Título do tópico | Alteração |
 |------|------------|--------|
-| 1/29/2019 | [Alquimia Insights Home](/AlchemyInsights/index) | modificado |
-| 1/29/2019 | [Solução de problemas de ativação](/AlchemyInsights/activation-troubleshooting) | modificado |
-| 1/29/2019 | [Você está recebendo muito phishing ou spam na sua caixa de correio?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | modificado |
-| 1/29/2019 | [Não é possível adicionar padrão fluxo de trabalho de aprovação de 2010](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | modificado |
-| 1/29/2019 | [Criar um site do SharePoint](/AlchemyInsights/create-a-sharepoint-site) | modificado |
-| 1/29/2019 | [Excluir um site do SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | modificado |
-| 1/29/2019 | [Excluir um site do SharePoint](/AlchemyInsights/delete-a-sharepoint-site) | modificado |
-| 1/29/2019 | [DLP não funcionando conforme o esperado](/AlchemyInsights/dlp-not-working-as-expected) | modificado |
-| 1/29/2019 | [Você tem mensagens legítimas sendo marcadas como spam?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | modificado |
-| 1/29/2019 | [Código de erro 30125-4 ou 30125-1011 durante a instalação do Office](/AlchemyInsights/error-code-30125-4-or-30125-1011-when-installing-office) | modificado |
-| 1/29/2019 | [Você ativou equipes para alunos?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | modificado |
-| 1/29/2019 | [Como ativar o Office](/AlchemyInsights/how-to-activate-office) | modificado |
-| 1/29/2019 | [Como instalar o Office Mac a partir do portal](/AlchemyInsights/how-to-install-mac-office-from-the-portal) | modificado |
-| 1/29/2019 | [Como instalar o Office em um iPad](/AlchemyInsights/how-to-install-office-on-an-ipad) | modificado |
-| 1/29/2019 | [Como instalar o Office em um iPhone](/AlchemyInsights/how-to-install-office-on-an-iphone) | modificado |
-| 1/29/2019 | [Como verificar seu domínio com o Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | modificado |
-| 1/29/2019 | [Instalação congela ou enfrenta](/AlchemyInsights/installation-hangs-or-gets-stuck) | modificado |
-| 1/29/2019 | [Equipes da Microsoft - acesso de convidado](/AlchemyInsights/microsoft-teamsguest-access) | modificado |
-| 1/29/2019 | [Opções de pagamento](/AlchemyInsights/payment-options) | modificado |
-| 1/29/2019 | [Infraestrutura de publicação com um Site de comunicação](/AlchemyInsights/publishing-infrastructure-with-a-communication-site) | modificado |
-| 1/29/2019 | [Perguntas relacionadas ao Office 2019](/AlchemyInsights/questions-related-to-office-2019) | modificado |
-| 1/29/2019 | [Soluções para o erro 30015-4](/AlchemyInsights/solutions-for-error-30015-4) | modificado |
-| 1/29/2019 | [Soluções para o erro 30016-4](/AlchemyInsights/solutions-for-error-30016-4) | modificado |
-| 1/29/2019 | [Soluções para o erro 30174-4](/AlchemyInsights/solutions-for-error-30174-4) | modificado |
-| 1/29/2019 | [Soluções para problemas durante a instalação do Office](/AlchemyInsights/solutions-for-issues-while-installing-office) | modificado |
-| 1/29/2019 | [Soluções para ' não pôde ser instalado o Office (64 bits ou 32 bits)](/AlchemyInsights/solutions-for-office-64-bit-or-32-bit-couldn-t-be-installed) | modificado |
-| 1/29/2019 | [Soluções para 'Sistema operacional não suportado'](/AlchemyInsights/solutions-for-unsupported-operating-system) | modificado |
-| 1/29/2019 | [Etapas para resolver o erro de ativação do office 0x80070005](/AlchemyInsights/steps-to-resolve-office-activation-error-0x80070005) | adicionado |
-| 1/29/2019 | [Etapas para resolver o erro de ativação do Office 0xc004b100](/AlchemyInsights/steps-to-resolve-office-activation-error-0xc004b100) | adicionado |
-| 1/29/2019 | [Sugestões para solucionar erros 'Produto não licenciado'](/AlchemyInsights/suggestions-for-solving-unlicensed-product-errors) | modificado |
-| 1/29/2019 | [Versão suportada da ferramenta de migração do SharePoint](/AlchemyInsights/supported-version-of-the-sharepoint-migration-tool) | modificado |
-| 1/29/2019 | [Verifica se a dica de segurança de detecção de fraude da solução de problemas](/AlchemyInsights/troubleshooting-the-safety-tip-for-fraud-detection-checks) | modificado |
-| 1/29/2019 | [Desinstalar o Office](/AlchemyInsights/uninstall-office) | modificado |
-| 1/29/2019 | [Atualizar registros DNS](/AlchemyInsights/update-dns-records) | modificado |
-| 1/29/2019 | [Onde deseja instalar o Office a partir de](/AlchemyInsights/where-to-install-office-from) | modificado |
+| 29/1/2019 | [Alquimia Insights Home](/AlchemyInsights/index) | modificado |
+| 29/1/2019 | [Solução de problemas de ativação](/AlchemyInsights/activation-troubleshooting) | modificado |
+| 29/1/2019 | [Você está recebendo muito phishing ou spam na sua caixa de correio?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | modificado |
+| 29/1/2019 | [Não é possível adicionar padrão fluxo de trabalho de aprovação de 2010](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | modificado |
+| 29/1/2019 | [Criar um site do SharePoint](/AlchemyInsights/create-a-sharepoint-site) | modificado |
+| 29/1/2019 | [Excluir um site do SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | modificado |
+| 29/1/2019 | [Excluir um site do SharePoint](/AlchemyInsights/delete-a-sharepoint-site) | modificado |
+| 29/1/2019 | [DLP não funcionando conforme o esperado](/AlchemyInsights/dlp-not-working-as-expected) | modificado |
+| 29/1/2019 | [Você tem mensagens legítimas sendo marcadas como spam?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | modificado |
+| 29/1/2019 | [Código de erro 30125-4 ou 30125-1011 durante a instalação do Office](/AlchemyInsights/error-code-30125-4-or-30125-1011-when-installing-office) | modificado |
+| 29/1/2019 | [Você ativou equipes para alunos?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | modificado |
+| 29/1/2019 | [Como ativar o Office](/AlchemyInsights/how-to-activate-office) | modificado |
+| 29/1/2019 | [Como instalar o Office Mac a partir do portal](/AlchemyInsights/how-to-install-mac-office-from-the-portal) | modificado |
+| 29/1/2019 | [Como instalar o Office em um iPad](/AlchemyInsights/how-to-install-office-on-an-ipad) | modificado |
+| 29/1/2019 | [Como instalar o Office em um iPhone](/AlchemyInsights/how-to-install-office-on-an-iphone) | modificado |
+| 29/1/2019 | [Como verificar seu domínio com o Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | modificado |
+| 29/1/2019 | [Instalação congela ou enfrenta](/AlchemyInsights/installation-hangs-or-gets-stuck) | modificado |
+| 29/1/2019 | [Equipes da Microsoft - acesso de convidado](/AlchemyInsights/microsoft-teamsguest-access) | modificado |
+| 29/1/2019 | [Opções de pagamento](/AlchemyInsights/payment-options) | modificado |
+| 29/1/2019 | [Infraestrutura de publicação com um Site de comunicação](/AlchemyInsights/publishing-infrastructure-with-a-communication-site) | modificado |
+| 29/1/2019 | [Perguntas relacionadas ao Office 2019](/AlchemyInsights/questions-related-to-office-2019) | modificado |
+| 29/1/2019 | [Soluções para o erro 30015-4](/AlchemyInsights/solutions-for-error-30015-4) | modificado |
+| 29/1/2019 | [Soluções para o erro 30016-4](/AlchemyInsights/solutions-for-error-30016-4) | modificado |
+| 29/1/2019 | [Soluções para o erro 30174-4](/AlchemyInsights/solutions-for-error-30174-4) | modificado |
+| 29/1/2019 | [Soluções para problemas durante a instalação do Office](/AlchemyInsights/solutions-for-issues-while-installing-office) | modificado |
+| 29/1/2019 | [Soluções para ' não pôde ser instalado o Office (64 bits ou 32 bits)](/AlchemyInsights/solutions-for-office-64-bit-or-32-bit-couldn-t-be-installed) | modificado |
+| 29/1/2019 | [Soluções para 'Sistema operacional não suportado'](/AlchemyInsights/solutions-for-unsupported-operating-system) | modificado |
+| 29/1/2019 | [Etapas para resolver o erro de ativação do office 0x80070005](/AlchemyInsights/steps-to-resolve-office-activation-error-0x80070005) | adicionado |
+| 29/1/2019 | [Etapas para resolver o erro de ativação do Office 0xc004b100](/AlchemyInsights/steps-to-resolve-office-activation-error-0xc004b100) | adicionado |
+| 29/1/2019 | [Sugestões para solucionar erros 'Produto não licenciado'](/AlchemyInsights/suggestions-for-solving-unlicensed-product-errors) | modificado |
+| 29/1/2019 | [Versão suportada da ferramenta de migração do SharePoint](/AlchemyInsights/supported-version-of-the-sharepoint-migration-tool) | modificado |
+| 29/1/2019 | [Verifica se a dica de segurança de detecção de fraude da solução de problemas](/AlchemyInsights/troubleshooting-the-safety-tip-for-fraud-detection-checks) | modificado |
+| 29/1/2019 | [Desinstalar o Office](/AlchemyInsights/uninstall-office) | modificado |
+| 29/1/2019 | [Atualizar registros DNS](/AlchemyInsights/update-dns-records) | modificado |
+| 29/1/2019 | [Onde deseja instalar o Office a partir de](/AlchemyInsights/where-to-install-office-from) | modificado |
 | 1/30/2019 | [Pasta de RecoverableItems 1336 está cheio](/AlchemyInsights/1336-recoverableitems-folder-is-full) | modificado |
 | 1/30/2019 | [1800014 instalação móveis do Outlook de solução de problemas para uma caixa de correio compartilhada](/AlchemyInsights/1800014-troubleshooting-outlook-mobile-setup-for-a-shared-mailbox) | modificado |
 | 1/30/2019 | [1800014 usando uma caixa de correio compartilhada em um dispositivo móvel](/AlchemyInsights/1800014-using-a-shared-mailbox-on-a-mobile-device) | modificado |
@@ -838,3 +838,57 @@
 | 1/30/2019 | [123, obtendo uma conta desativada erro no OWA?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | modificado |
 | 2/1/2019 | [é igual ao nome de arquivo é melhor [regra #-descrição]](/AlchemyInsights/1-alchemy-insight-template) | modificado |
 | 2/1/2019 | [Alterar as permissões em uma caixa de correio](/AlchemyInsights/changing-permissions-on-a-mailbox) | modificado |
+
+
+## <a name="week-of-february-04-2019"></a>Semana de 04 de fevereiro de 2019
+
+
+| Publicado em |Título do tópico | Alteração |
+|------|------------|--------|
+| 2/4/2019 | [Adicionar usuários ao Office 365](/AlchemyInsights/add-users-to-office-365) | modificado |
+| 2/6/2019 | [Deixando de funcionário](/AlchemyInsights/employee-leaving) | modificado |
+| 2/6/2019 | [Tomada de controle do administrador](/AlchemyInsights/admin-takeover) | modificado |
+| 2/6/2019 | [127 recebendo um erro de TenantAccessBlockedException ao acessar email?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | modificado |
+| 2/6/2019 | [Nome de exibição de alteração 959](/AlchemyInsights/959-change-display-name) | modificado |
+| 2/6/2019 | [Adicionar ou remover um alias de email para um usuário](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | modificado |
+| 2/6/2019 | Adicionar estações a uma assinatura pré-pago | removido |
+| 2/6/2019 | [Adicionar usuários ao Office 365](/AlchemyInsights/add-users-to-office-365) | modificado |
+| 2/6/2019 | [Adicionando usuários externos a um grupo de distribuição?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | modificado |
+| 2/6/2019 | Administrador – configuração Global do Office 365 e administração | removido |
+| 2/6/2019 | Administrador – gerenciar meus usuários, grupos e recursos | removido |
+| 2/6/2019 | Administrador – domínio de configuração e as configurações de DNS | removido |
+| 2/6/2019 | Administrador – entrar e problemas de senha | removido |
+| 2/6/2019 | [Cancelar a assinatura do Office 365](/AlchemyInsights/cancel-office-365-subscription) | modificado |
+| 2/6/2019 | [Alterar um usuário nome e endereço de email](/AlchemyInsights/change-a-user-s-name-and-email-address) | modificado |
+| 2/6/2019 | Comércio - gerenciar listas, pagamentos, assinaturas e licenças | removido |
+| 2/6/2019 | [Recebendo um erro TenantAccessBlockedException ao acessar email?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | modificado |
+| 2/6/2019 | [Tendo problemas de entrega de email?](/AlchemyInsights/having-email-delivery-issues-0) | modificado |
+| 2/6/2019 | [Tendo problemas de entrega de email?](/AlchemyInsights/having-email-delivery-issues) | modificado |
+| 2/6/2019 | [Tendo problemas obtendo o Outlook para se conectar?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | modificado |
+| 2/6/2019 | [Tendo problemas obtendo o Outlook para se conectar?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | modificado |
+| 2/6/2019 | Intune - Download, instalação e uso Intune | removido |
+| 2/6/2019 | [Problema com Skype para os negócios?](/AlchemyInsights/issue-with-skype-for-business) | modificado |
+| 2/6/2019 | ODSP | removido |
+| 2/6/2019 | Cliente do Office - Excel | removido |
+| 2/6/2019 | [Usuário restaurar excluído](/AlchemyInsights/restore-deleted-user) | modificado |
+| 2/6/2019 | [Serviço incidente em andamento](/AlchemyInsights/service-incident-in-progress-0) | modificado |
+| 2/6/2019 | [Serviço incidente em andamento](/AlchemyInsights/service-incident-in-progress-1) | modificado |
+| 2/6/2019 | [Serviço incidente em andamento](/AlchemyInsights/service-incident-in-progress-2) | modificado |
+| 2/6/2019 | [Serviço incidente em andamento](/AlchemyInsights/service-incident-in-progress-3) | modificado |
+| 2/6/2019 | [Serviço incidente em andamento](/AlchemyInsights/service-incident-in-progress-4) | modificado |
+| 2/6/2019 | [Serviço incidente em andamento](/AlchemyInsights/service-incident-in-progress-5) | modificado |
+| 2/6/2019 | [Serviço incidente em andamento](/AlchemyInsights/service-incident-in-progress) | modificado |
+| 2/6/2019 | [Configurando o Project](/AlchemyInsights/setting-up-project) | modificado |
+| 2/6/2019 | Recursos de conformidade da instalação, como arquivo morto, retenção, retenção de litígio, eDiscovery e MDM | removido |
+| 2/6/2019 | Usando o instalador Offline para Office | removido |
+| 2/6/2019 | Yammer - instalação e usar os serviços do Yammer | removido |
+| 2/7/2019 | [Excel falhando?](/AlchemyInsights/excel-crashing) | modificado |
+| 2/7/2019 | [Como adicionar ou editar um VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | modificado |
+| 2/7/2019 | [Livre de educação para Minecraft Edition com o Office 365](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | modificado |
+| 2/7/2019 | [606 informações sobre delegação](/AlchemyInsights/606-information-on-delegation) | modificado |
+| 2/7/2019 | [O grupo não estiver sendo exibido na lista de grupos](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | modificado |
+| 2/8/2019 | [Dicas de política de DLP não funcionando](/AlchemyInsights/dlp-policy-tips-not-working) | modificado |
+| 2/8/2019 | [Regra DLP para EUA / número de passaporte do Reino Unido não funcionando](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | modificado |
+| 2/8/2019 | [Livre de educação para o Office 365](/AlchemyInsights/office-365-education-for-free) | modificado |
+| 2/8/2019 | [Licenças necessárias para o Microsoft ToDo](/AlchemyInsights/required-licences-for-microsoft-todo) | modificado |
+| 2/8/2019 | [Políticas de retenção no Centro de administração do Exchange não funcionando](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | modificado |

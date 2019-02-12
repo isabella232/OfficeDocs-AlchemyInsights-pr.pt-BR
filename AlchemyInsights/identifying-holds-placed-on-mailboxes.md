@@ -7,14 +7,14 @@ ms.date: 11/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 086aa3626601a80208b9791e151243ef4dd0cabd
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: b993f28d9321805003f04a7eb168f81a7acd3030
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29661163"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29929292"
 ---
 Você tem o conteúdo que está sendo **mantidos** por um **bloqueio** que não é possível identificar? Precisa **saber** onde o bloqueio está localizado na caixa de **correio** ? Isenções ( *recursos de retenção* ) podem ser aplicadas por um dos métodos a seguir no Office 365: 
   
