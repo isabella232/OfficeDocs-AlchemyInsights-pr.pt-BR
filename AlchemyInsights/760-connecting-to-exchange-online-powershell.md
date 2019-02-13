@@ -7,19 +7,19 @@ ms.date: 4/26/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 0f9e4dc5-1e06-4941-860b-4474a6f63247
-ms.openlocfilehash: 71da1ef4936867a0029093a15786f58f037f56fa
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 66c0a65b42334059503a8de8e3a7b9366872abc0
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29456872"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941928"
 ---
-# <a name="connect-to-exchange-online-powershell"></a><span data-ttu-id="2d1ae-102">Conectar-se ao Exchange Online PowerShell</span><span class="sxs-lookup"><span data-stu-id="2d1ae-102">Connect to Exchange Online PowerShell</span></span>
+# <a name="connect-to-exchange-online-powershell"></a><span data-ttu-id="44618-102">Conectar-se ao Exchange Online PowerShell</span><span class="sxs-lookup"><span data-stu-id="44618-102">Connect to Exchange Online PowerShell</span></span>
 
-<span data-ttu-id="2d1ae-103">Para usar o PowerShell no Exchange Online, consulte [Connect to Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).</span><span class="sxs-lookup"><span data-stu-id="2d1ae-103">To use PowerShell in Exchange Online, see [Connect to Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).</span></span>
+<span data-ttu-id="44618-103">Para usar o PowerShell no Exchange Online, consulte [Connect to Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).</span><span class="sxs-lookup"><span data-stu-id="44618-103">To use PowerShell in Exchange Online, see [Connect to Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).</span></span>
   
 

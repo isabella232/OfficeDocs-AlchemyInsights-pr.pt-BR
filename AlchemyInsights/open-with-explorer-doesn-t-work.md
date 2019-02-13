@@ -7,26 +7,26 @@ ms.date: 12/10/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: b8f07022-69fe-4112-a2f6-d3a6cedb966c
-ms.openlocfilehash: b55fc7bd5670e655334ef7be368b245c8899633a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f788c3c626cdeb19970edb59563c59eea60e2992
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29456597"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29906792"
 ---
-# <a name="open-with-explorer-isnt-working"></a><span data-ttu-id="fde4f-102">Abrir com Explorer não está funcionando</span><span class="sxs-lookup"><span data-stu-id="fde4f-102">Open with Explorer isn't working</span></span>
+# <a name="open-with-explorer-isnt-working"></a><span data-ttu-id="c9752-102">Abrir com Explorer não está funcionando</span><span class="sxs-lookup"><span data-stu-id="c9752-102">Open with Explorer isn't working</span></span>
 
-<span data-ttu-id="fde4f-p101">Se **Abrir com Explorer** ou **modo de exibição no Gerenciador de arquivos** não funcionar, verifique se que o serviço de cliente está definido para **execução** seguindo as etapas abaixo. Por exemplo, ela pode levar muito tempo para abrir uma biblioteca do SharePoint ou OneDrive quando o serviço não está sendo executado.</span><span class="sxs-lookup"><span data-stu-id="fde4f-p101">If **Open with Explorer** or **View in File Explorer** doesn't work make sure the WebClient service is set to **Running** by following the steps below. For example, it might take a long time to open a SharePoint or OneDrive library when the service is not running.</span></span> 
+<span data-ttu-id="c9752-p101">Se **Abrir com Explorer** ou **modo de exibição no Gerenciador de arquivos** não funcionar, verifique se que o serviço de cliente está definido para **execução** seguindo as etapas abaixo. Por exemplo, ela pode levar muito tempo para abrir uma biblioteca do SharePoint ou OneDrive quando o serviço não está sendo executado.</span><span class="sxs-lookup"><span data-stu-id="c9752-p101">If **Open with Explorer** or **View in File Explorer** doesn't work make sure the WebClient service is set to **Running** by following the steps below. For example, it might take a long time to open a SharePoint or OneDrive library when the service is not running.</span></span> 
   
-1. <span data-ttu-id="fde4f-105">Na caixa de pesquisa do Windows, digite executar, selecione o aplicativo da área de trabalho, Services. msc do tipo e selecione **Enter**a executar.</span><span class="sxs-lookup"><span data-stu-id="fde4f-105">In the Windows search box, type run, select the Run desktop app, type services.msc, and then select **Enter**.</span></span>
+1. <span data-ttu-id="c9752-105">Na caixa de pesquisa do Windows, digite executar, selecione o aplicativo da área de trabalho, Services. msc do tipo e selecione **Enter**a executar.</span><span class="sxs-lookup"><span data-stu-id="c9752-105">In the Windows search box, type run, select the Run desktop app, type services.msc, and then select **Enter**.</span></span>
     
-2. <span data-ttu-id="fde4f-p102">Role para baixo até o serviço de cliente e verifique a coluna **Status** . Se o status do serviço de cliente não estiver **em execução**, clique duas vezes em serviço, clique em **Iniciar**e, em seguida, clique em **Okey**. Habilite o serviço, se necessário, selecionando **Manual** ou **automático** na caixa **tipo de inicialização** .</span><span class="sxs-lookup"><span data-stu-id="fde4f-p102">Scroll down to the WebClient service and check the **Status** column. If the WebClient service status is not **Running**, double-click the service, click **Start**, and then click **OK**. Enable the service, if needed, by selecting either **Manual** or **Automatic** in the **Startup type** box.</span></span> 
+2. <span data-ttu-id="c9752-p102">Role para baixo até o serviço de cliente e verifique a coluna **Status** . Se o status do serviço de cliente não estiver **em execução**, clique duas vezes em serviço, clique em **Iniciar**e, em seguida, clique em **Okey**. Habilite o serviço, se necessário, selecionando **Manual** ou **automático** na caixa **tipo de inicialização** .</span><span class="sxs-lookup"><span data-stu-id="c9752-p102">Scroll down to the WebClient service and check the **Status** column. If the WebClient service status is not **Running**, double-click the service, click **Start**, and then click **OK**. Enable the service, if needed, by selecting either **Manual** or **Automatic** in the **Startup type** box.</span></span> 
     
 > [!NOTE]
-> <span data-ttu-id="fde4f-p103">Para solucionar problemas de abertura no Gerenciador de arquivos, consulte [Abrir no Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Explore a sincronização como uma alternativa melhor: [arquivos de sincronização do SharePoint com o novo cliente de sincronização do OneDrive](https://go.microsoft.com/fwlink/?linkid=871666).</span><span class="sxs-lookup"><span data-stu-id="fde4f-p103">To troubleshoot issues opening in File Explorer, see [Open in Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Explore sync as a better alternative: [Sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=871666).</span></span> 
+> <span data-ttu-id="c9752-p103">Para solucionar problemas de abertura no Gerenciador de arquivos, consulte [Abrir no Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Explore a sincronização como uma alternativa melhor: [arquivos de sincronização do SharePoint com o novo cliente de sincronização do OneDrive](https://go.microsoft.com/fwlink/?linkid=871666).</span><span class="sxs-lookup"><span data-stu-id="c9752-p103">To troubleshoot issues opening in File Explorer, see [Open in Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Explore sync as a better alternative: [Sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=871666).</span></span> 
   
 
