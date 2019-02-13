@@ -8,27 +8,27 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
-ms.openlocfilehash: 06a0b5b8d29052e6033de5938b8ea67ceabc9848
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 98627edcd2b685673dda8a8a18821eddf9b64bc1
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29658103"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29936348"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a><span data-ttu-id="16dc9-102">Verifica se a dica de segurança de detecção de fraude da solução de problemas</span><span class="sxs-lookup"><span data-stu-id="16dc9-102">Troubleshooting the safety tip for fraud detection checks</span></span>
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a><span data-ttu-id="4eb06-102">Verifica se a dica de segurança de detecção de fraude da solução de problemas</span><span class="sxs-lookup"><span data-stu-id="4eb06-102">Troubleshooting the safety tip for fraud detection checks</span></span>
 
 
 
-<span data-ttu-id="16dc9-p101">Se você estiver obtendo uma dica de segurança que diz "o remetente falhou nossas verificações de detecção de fraude e pode não ser que eles parecem estar" e o remetente não passou por DKIM ou SPF verificações de autenticação. O melhor método para resolver esse problema é para o emissor autorizar a próprios. Se o remetente está enviando em seu nome, você precisará autorizá-los, adicionando o endereço IP do remetente ao seu registro SPF.</span><span class="sxs-lookup"><span data-stu-id="16dc9-p101">If you are getting a safety tip that says "The sender failed our fraud detection checks and may not be who they appear to be", then the sender failed to pass either DKIM or SPF authentication checks. The best method to resolve this is for the sender to authorize themselves. If the sender is sending on your behalf, you need to authorize them by adding the sender's IP address to your SPF record.</span></span>
+<span data-ttu-id="4eb06-p101">Se você estiver obtendo uma dica de segurança que diz "o remetente falhou nossas verificações de detecção de fraude e pode não ser que eles parecem estar" e o remetente não passou por DKIM ou SPF verificações de autenticação. O melhor método para resolver esse problema é para o emissor autorizar a próprios. Se o remetente está enviando em seu nome, você precisará autorizá-los, adicionando o endereço IP do remetente ao seu registro SPF.</span><span class="sxs-lookup"><span data-stu-id="4eb06-p101">If you are getting a safety tip that says "The sender failed our fraud detection checks and may not be who they appear to be", then the sender failed to pass either DKIM or SPF authentication checks. The best method to resolve this is for the sender to authorize themselves. If the sender is sending on your behalf, you need to authorize them by adding the sender's IP address to your SPF record.</span></span>
   
-<span data-ttu-id="16dc9-106">Para obter mais informações, consulte [verifica se a dica de vermelho safety (suspeitas) para detecção de fraude da solução de problemas](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) .</span><span class="sxs-lookup"><span data-stu-id="16dc9-106">See [Troubleshooting the red (suspicious) safety tip for fraud detection checks](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) for more info.</span></span> 
+<span data-ttu-id="4eb06-106">Para obter mais informações, consulte [verifica se a dica de vermelho safety (suspeitas) para detecção de fraude da solução de problemas](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) .</span><span class="sxs-lookup"><span data-stu-id="4eb06-106">See [Troubleshooting the red (suspicious) safety tip for fraud detection checks](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) for more info.</span></span> 
   
-<span data-ttu-id="16dc9-107">Aqui estão alguns outros links que podem ajudar:</span><span class="sxs-lookup"><span data-stu-id="16dc9-107">Here are some other links that can help:</span></span>
+<span data-ttu-id="4eb06-107">Aqui estão alguns outros links que podem ajudar:</span><span class="sxs-lookup"><span data-stu-id="4eb06-107">Here are some other links that can help:</span></span>
   
-- [<span data-ttu-id="16dc9-108">Como o Office 365 usa a estrutura de política do remetente (SPF) para evitar a falsificação</span><span class="sxs-lookup"><span data-stu-id="16dc9-108">How Office 365 uses sender policy framework (SPF) to prevent spoofing</span></span>](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
+- [<span data-ttu-id="4eb06-108">Como o Office 365 usa a estrutura de política do remetente (SPF) para evitar a falsificação</span><span class="sxs-lookup"><span data-stu-id="4eb06-108">How Office 365 uses sender policy framework (SPF) to prevent spoofing</span></span>](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
     
-- [<span data-ttu-id="16dc9-109">Configurar o SPF no Office 365 para ajudar a evitar falsificações</span><span class="sxs-lookup"><span data-stu-id="16dc9-109">Set up SPF in Office 365 to help prevent spoofing</span></span>](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [<span data-ttu-id="4eb06-109">Configurar o SPF no Office 365 para ajudar a evitar falsificações</span><span class="sxs-lookup"><span data-stu-id="4eb06-109">Set up SPF in Office 365 to help prevent spoofing</span></span>](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
     
 
