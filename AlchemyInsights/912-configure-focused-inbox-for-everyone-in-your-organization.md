@@ -1,5 +1,5 @@
 ---
-title: Entrada de Visão focalizada Configure 912 para todos em sua organização
+title: 912 configurar a caixa de entrada destaques para todos em sua organização
 ms.author: chrisda
 author: chrisda
 manager: serdars
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: fa4198a8ca09acd3138eb1543682da2b86a5b8c4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 88dc9e01a50100f94afe659556ecc93fe8cec5b6
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913242"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209005"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="e9252-102">Ativar focalizados em caixa de entrada ativada ou desativada para todos</span><span class="sxs-lookup"><span data-stu-id="e9252-102">Turn Focused Inbox on or off for everyone</span></span>
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="75285-102">Ativar ou desativar a caixa de entrada destaques para todos</span><span class="sxs-lookup"><span data-stu-id="75285-102">Turn Focused Inbox on or off for everyone</span></span>
 
-<span data-ttu-id="e9252-103">Para obter instruções, consulte [Configurar focalizados em caixa de entrada todos em sua organização](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).</span><span class="sxs-lookup"><span data-stu-id="e9252-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).</span></span>
+<span data-ttu-id="75285-103">Para obter instruções, consulte [Configurar a caixa de entrada destaques para todos em sua organização](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).</span><span class="sxs-lookup"><span data-stu-id="75285-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).</span></span>
   
- <span data-ttu-id="e9252-p101">**Observação**: esse procedimento requer o PowerShell do Exchange Online. Você gostaria de fazer isso no Centro de administração do Office 365? [Votar aqui!](https://go.microsoft.com/fwlink/p/?linkid=862489)</span><span class="sxs-lookup"><span data-stu-id="e9252-p101">**Note**: This procedure requires Exchange Online PowerShell. Would you like to do this in the Office 365 admin center instead? [Vote here!](https://go.microsoft.com/fwlink/p/?linkid=862489)</span></span>
+ <span data-ttu-id="75285-p101">**Observação**: este procedimento requer o PowerShell do Exchange Online. Você gostaria de fazer isso no centro de administração do Microsoft 365? [Vote aqui!](https://go.microsoft.com/fwlink/p/?linkid=862489)</span><span class="sxs-lookup"><span data-stu-id="75285-p101">**Note**: This procedure requires Exchange Online PowerShell. Would you like to do this in the Microsoft 365 admin center instead? [Vote here!](https://go.microsoft.com/fwlink/p/?linkid=862489)</span></span>
   
 

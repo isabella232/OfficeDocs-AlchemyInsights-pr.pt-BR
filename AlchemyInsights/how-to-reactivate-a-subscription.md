@@ -1,5 +1,5 @@
 ---
-title: Como reativá-lo uma assinatura
+title: Como reativar uma assinatura
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c04ac62ab623a8a512b80257ec642167382f21aa
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c04ed7dd2383edb8c82dba7d2547591ba2cff325
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900204"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208141"
 ---
-# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="768c0-102">Como reativá-lo uma assinatura</span><span class="sxs-lookup"><span data-stu-id="768c0-102">How to reactivate a subscription</span></span>
+# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="ff2ea-102">Como reativar uma assinatura</span><span class="sxs-lookup"><span data-stu-id="ff2ea-102">How to reactivate a subscription</span></span>
 
-<span data-ttu-id="768c0-103">Se sua assinatura expirou, foi cancelada ou desabilitada pela Microsoft, você poderá reativá-lo no Centro de administração do Office 365.</span><span class="sxs-lookup"><span data-stu-id="768c0-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Office 365 admin center.</span></span>
+<span data-ttu-id="ff2ea-103">Se sua assinatura expirou, foi cancelada ou desabilitada pela Microsoft, você pode reativá-la no centro de administração do Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="ff2ea-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="768c0-104">No Centro de administração, vá até a página [Assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) ou escolha **Cobrança** \> **Assinaturas**.</span><span class="sxs-lookup"><span data-stu-id="768c0-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="ff2ea-104">No Centro de administração, vá até a página [Assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) ou escolha **Cobrança** \> **Assinaturas**.</span><span class="sxs-lookup"><span data-stu-id="ff2ea-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="768c0-105">Escolha a assinatura que você gostaria de reativá-lo.</span><span class="sxs-lookup"><span data-stu-id="768c0-105">Choose the subscription that you would like to reactivate.</span></span>
+2. <span data-ttu-id="ff2ea-105">Escolha a assinatura que você deseja reativar.</span><span class="sxs-lookup"><span data-stu-id="ff2ea-105">Choose the subscription that you would like to reactivate.</span></span>
     
-3. <span data-ttu-id="768c0-106">Escolha o botão **Reativar** à direita.</span><span class="sxs-lookup"><span data-stu-id="768c0-106">Choose the **Reactivate** button on the right.</span></span> 
+3. <span data-ttu-id="ff2ea-106">Escolha o \*\*\*\* botão reativar à direita.</span><span class="sxs-lookup"><span data-stu-id="ff2ea-106">Choose the **Reactivate** button on the right.</span></span> 
     
-4. <span data-ttu-id="768c0-p101">Você será solicitado a atualizar os detalhes de pagamento. Quando todas as informações estão corretas, escolha **Enviar**.</span><span class="sxs-lookup"><span data-stu-id="768c0-p101">You will be asked to update the payment details. When all information is correct, choose **Submit**.</span></span>
+4. <span data-ttu-id="ff2ea-p101">Você será solicitado a atualizar os detalhes de pagamento. Quando todas as informações estiverem corretas, escolha **Enviar**.</span><span class="sxs-lookup"><span data-stu-id="ff2ea-p101">You will be asked to update the payment details. When all information is correct, choose **Submit**.</span></span>
     
-5. <span data-ttu-id="768c0-p102">Uma confirmação aparecerá na parte inferior da tela. Escolha **Fechar** para retornar à página de **assinaturas** .</span><span class="sxs-lookup"><span data-stu-id="768c0-p102">A confirmation will show on the bottom of the screen. Choose **Close** to return to the **Subscriptions** page.</span></span> 
+5. <span data-ttu-id="ff2ea-p102">Uma confirmação será exibida na parte inferior da tela. Escolha **fechar** para retornar à página **assinaturas** .</span><span class="sxs-lookup"><span data-stu-id="ff2ea-p102">A confirmation will show on the bottom of the screen. Choose **Close** to return to the **Subscriptions** page.</span></span> 
     
-6. <span data-ttu-id="768c0-111">Se a assinatura não aparecer ativo após alguns minutos, atualize a página.</span><span class="sxs-lookup"><span data-stu-id="768c0-111">If the subscription does not appear Active after a few minutes, refresh the page.</span></span>
+6. <span data-ttu-id="ff2ea-111">Se a assinatura não aparecer ativa após alguns minutos, atualize a página.</span><span class="sxs-lookup"><span data-stu-id="ff2ea-111">If the subscription does not appear Active after a few minutes, refresh the page.</span></span>
     
-<span data-ttu-id="768c0-112">Para obter mais informações, consulte: [Renovar o Office 365 para empresas](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)</span><span class="sxs-lookup"><span data-stu-id="768c0-112">For more information, see: [Renew Office 365 for business](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)</span></span>
+<span data-ttu-id="ff2ea-112">Para obter mais informações, consulte: reNovar o [Office 365 for Business](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)</span><span class="sxs-lookup"><span data-stu-id="ff2ea-112">For more information, see: [Renew Office 365 for business](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)</span></span>
   
 
