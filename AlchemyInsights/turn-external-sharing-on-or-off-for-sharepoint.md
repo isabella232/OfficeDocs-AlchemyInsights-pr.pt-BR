@@ -1,5 +1,5 @@
 ---
-title: Ativar externo ou desativar o compartilhamento para SharePoint
+title: Ativar ou desativar o compartilhamento externo do SharePoint
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ad290ba4-169e-4866-9c78-2763319e9ed0
-ms.openlocfilehash: 4db09cced893480f842585268bf850dc49f0d20a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1b915ff5514711e2ff27b07e35748d53689a486f
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935925"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209329"
 ---
-# <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>Ativar externo ou desativar o compartilhamento para SharePoint
+# <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>Ativar ou desativar o compartilhamento externo do SharePoint
 
-1. No Centro de administração do Office 365, vá para [os serviços &amp; página suplementos](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)e clique em **Sites**.
+1. No centro de administração do Microsoft 365, vá para [a &amp; página suplementos de serviços](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)e clique em **sites**.
     
-2. Ativar ou desativar o a configuração ou selecione uma opção de compartilhamento se ele está ligado.
+2. Ative ou desative a configuração ou selecione uma opção de compartilhamento se ela estiver ativada.
     
 > [!NOTE]
-> Desativar compartilhamento para SharePoint desativa-lo para OneDrive. Para permitir que externo de qualquer site de compartilhamento, a configuração de toda a organização deve estar em. gt _ permitir externo de compartilhamento para OneDrive ou quaisquer sites individuais do SharePoint, você deve ativá-la toda a organização para SharePoint. Em seguida, você pode desativá-lo para conjuntos de sites específico. Para gerenciar as configurações de compartilhamento externo para sites de comunicação e sites que pertencem aos grupos do Office 365, você precisará usar o novo centro de administração do SharePoint (preview) ou PowerShell. Para obter mais informações sobre como gerenciar as configurações de compartilhamento externo, consulte [Ativar externo ou desativar o compartilhamento](https://go.microsoft.com/fwlink/?linkid=866426). 
+> Desativar o compartilhamento para o SharePoint o desativa para o OneDrive. Para permitir o compartilhamento externo em qualquer site, a configuração em toda a organização deve estar ativada. > para permitir o compartilhamento externo para o OneDrive ou qualquer site individual do SharePoint, você deve ativá-lo no âmbito da organização para SharePoint. Você pode desativá-la para conjuntos de sites específicos. Para gerenciar as configurações de compartilhamento externo para sites de comunicação e sites que pertencem a grupos do Office 365, você precisa usar o novo centro de administração do SharePoint (versão prévia) ou o PowerShell. Para obter mais informações sobre como gerenciar configurações de compartilhamento externo, consulte [Ativar ou desativar o compartilhamento externo](https://go.microsoft.com/fwlink/?linkid=866426). 
   
 [Saiba mais sobre compartilhamento externo no SharePoint](https://go.microsoft.com/fwlink/?linkid=734908)
   

@@ -1,5 +1,5 @@
 ---
-title: Como reativá-lo uma assinatura
+title: Como reativar uma assinatura
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c04ac62ab623a8a512b80257ec642167382f21aa
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c04ed7dd2383edb8c82dba7d2547591ba2cff325
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900204"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208141"
 ---
-# <a name="how-to-reactivate-a-subscription"></a>Como reativá-lo uma assinatura
+# <a name="how-to-reactivate-a-subscription"></a>Como reativar uma assinatura
 
-Se sua assinatura expirou, foi cancelada ou desabilitada pela Microsoft, você poderá reativá-lo no Centro de administração do Office 365.
+Se sua assinatura expirou, foi cancelada ou desabilitada pela Microsoft, você pode reativá-la no centro de administração do Microsoft 365.
   
 1. No Centro de administração, vá até a página [Assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) ou escolha **Cobrança** \> **Assinaturas**.
     
-2. Escolha a assinatura que você gostaria de reativá-lo.
+2. Escolha a assinatura que você deseja reativar.
     
-3. Escolha o botão **Reativar** à direita. 
+3. Escolha o **** botão reativar à direita. 
     
-4. Você será solicitado a atualizar os detalhes de pagamento. Quando todas as informações estão corretas, escolha **Enviar**.
+4. Você será solicitado a atualizar os detalhes de pagamento. Quando todas as informações estiverem corretas, escolha **Enviar**.
     
-5. Uma confirmação aparecerá na parte inferior da tela. Escolha **Fechar** para retornar à página de **assinaturas** . 
+5. Uma confirmação será exibida na parte inferior da tela. Escolha **fechar** para retornar à página **assinaturas** . 
     
-6. Se a assinatura não aparecer ativo após alguns minutos, atualize a página.
+6. Se a assinatura não aparecer ativa após alguns minutos, atualize a página.
     
-Para obter mais informações, consulte: [Renovar o Office 365 para empresas](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)
+Para obter mais informações, consulte: reNovar o [Office 365 for Business](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)
   
 

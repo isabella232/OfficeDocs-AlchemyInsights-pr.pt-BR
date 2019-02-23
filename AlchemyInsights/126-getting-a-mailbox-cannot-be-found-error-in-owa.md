@@ -1,5 +1,5 @@
 ---
-title: 126 obtendo uma caixa de correio não pode ser encontrado erro no OWA?
+title: 126 não é possível encontrar um erro ao obter uma caixa de correio no OWA?
 ms.author: chrisda
 author: chrisda
 manager: serdars
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 808b36c247458123da6ee43500c1380f6407e7cd
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b7d54e9fb29bf94ec540e6059e932ec33f326495
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904632"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209797"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Obtendo uma caixa de correio não encontrada erro no Outlook na web?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Obter um erro de caixa de correio não encontrada no Outlook na Web?
 
-Se você estiver usando o Outlook na web e você receber um erro de **caixa de correio não pôde ser localizada para** , a conta que você usou para se conectar ao Outlook na web não tem uma licença do Exchange Online e, portanto, nenhuma caixa de correio está associada à conta. Seu administrador pode atribuir uma licença à sua conta, seguindo estas etapas: 
+Se você estiver usando o Outlook na Web e **não foi possível encontrar uma caixa de correio para** o erro, a conta que você usou para se conectar ao Outlook na Web não tem uma licença do Exchange Online e, portanto, nenhuma caixa de correio está associada à conta. O administrador pode atribuir uma licença à sua conta, seguindo estas etapas: 
   
-1. Abra o [Centro de administração do Office 365](https://portal.office.com/adminportal/home#/homepage) e em **usuários ativos**, selecione **Editar um usuário**.
+1. Abra o [centro de administração do Microsoft 365](https://portal.office.com/adminportal/home#/homepage) e, em **usuários ativos**, selecione **Editar um usuário**.
     
-2. Na página **Editar um usuário** que é aberta, selecione o usuário. Na página de propriedades de usuário é aberta, clique em **Editar** para **licenças de produto**.
+2. Na página **Editar um usuário** que é aberta, selecione o usuário. Na página de propriedades do usuário que é aberta, clique em **Editar** para **licenças de produto**.
     
-3. Na página **licenças do produto** que é aberta, selecione o valor apropriado do **local** e atribuir uma licença que contém o Exchange Online (expandir a licença para ver seus detalhes). Quando terminar, clique em **Salvar**.
+3. Na página **licenças de produto** que é aberta, selecione o valor de **local** apropriado e atribua uma licença que contenha o Exchange Online (expanda a licença para ver seus detalhes). Quando tiver terminado, clique em **salvar**.
     
 

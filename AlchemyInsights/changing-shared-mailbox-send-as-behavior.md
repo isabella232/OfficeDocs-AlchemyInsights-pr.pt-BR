@@ -1,5 +1,5 @@
 ---
-title: Alterar o comportamento de enviar como caixa de correio compartilhada
+title: Alterando a caixa de correio compartilhada enviar como comportamento
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: 467897569b5c1da3dfbc83e00167ed02f0e8eaf8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cb2dd4baf1035b1625b9f598930fc914de3fa266
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919788"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208205"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a>Alterar o comportamento de enviar como caixa de correio compartilhada
+# <a name="changing-shared-mailbox-send-as-behavior"></a>Alterando a caixa de correio compartilhada enviar como comportamento
 
 Por padrão, as mensagens enviadas da caixa de correio compartilhada não são salvas na sua pasta Itens enviados. Em vez disso, elas são salvas na pasta Itens enviados da pessoa que enviou a mensagem.
   
-Se desejar todos os membros para ver o email enviado, no Centro de administração do Office 365, edite os detalhes de caixa de correio compartilhada e escolha **itens enviados** \> **Editar**.
+se você deseja que todos os membros vejam o email enviado, no centro de administração do Microsoft 365, edite os detalhes da caixa de correio compartilhada e escolha \> **edição**de **itens enviados** .
   
-Para obter mais informações, consulte [criar uma caixa de correio compartilhada](https://support.office.com/article/create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9).
+Para ler mais, consulte [criar uma caixa de correio compartilhada](https://support.office.com/article/create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9).
   
 

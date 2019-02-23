@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 5298f192-326b-4820-b007-7e1a1c3c2b13
-ms.openlocfilehash: 075ceb583e5a2a7533dfb4b77eec01a65de6a4e0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8239f72c41c45b42b467c05e249b284e0a2c1afb
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918636"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208249"
 ---
 # <a name="restore-a-deleted-onedrive"></a>Restaurar um OneDrive excluído
 
-Depois que você excluir um usuário, você pode acessar o OneDrive do usuário por meio do Centro de administração do Office 365 para 30 dias. Outros usuários podem continuar a acessar conteúdo compartilhado no OneDrive para o período de tempo que você configurou no Centro de administração do OneDrive. (Para saber como configurar isso, consulte [definir a retenção de arquivo padrão para os usuários excluídos do OneDrive](https://go.microsoft.com/fwlink/?linkid=874267).) Após esse tempo, o OneDrive for movido para a Lixeira por 93 dias e, em seguida, ele é excluído.
+Depois de excluir um usuário, você pode acessar o OneDrive do usuário através do centro de administração do Microsoft 365 por 30 dias. Outros usuários podem continuar a acessar o conteúdo compartilhado no OneDrive durante o período de tempo definido no centro de administração do OneDrive. (Para saber como configurar isso, confira [definir a retenção de arquivo padrão para usuários do onedrive excluídos](https://go.microsoft.com/fwlink/?linkid=874267).) Após esse período, o OneDrive será movido para a lixeira por 93 dias e, em seguida, será excluído.
   
-Após os 30 dias iniciais, quando o usuário excluído deixou de aparece no Centro de administração do Office 365, você pode acessar OneDrive do usuário através do PowerShell. Para informações, consulte [restaurar um OneDrive excluído](https://go.microsoft.com/fwlink/?linkid=874269).
+Após os 30 dias iniciais, quando o usuário excluído não aparecer mais no centro de administração do Microsoft 365, você poderá acessar o OneDrive do usuário através do PowerShell. Para obter informações, consulte [Restore a Deleted onedrive](https://go.microsoft.com/fwlink/?linkid=874269).
   
 

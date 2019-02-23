@@ -1,5 +1,5 @@
 ---
-title: Verificar o Status de sincronização de identidade AAD
+title: Verificar o status de sincronização de identidade do AAD
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: c4b0dfdf1b5cc52bd08dc6f7273efb67f6bec117
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b2788e98cf7c94d8dd4c1543145f30a442072f1e
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913380"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209689"
 ---
-# <a name="check-aad-identity-sync-status"></a>Verificar status da sincronização de identidade AAD
+# <a name="check-aad-identity-sync-status"></a>Verificar o status de sincronização de identidade do AAD
 
-Verificar status da sincronização é fácil: 
+A verificação do status da sincronização é fácil: 
   
-- Faça logon no Centro de administração do Office 365 e escolha * * DirSync Status * * na home page. 
+- Entre no centro de administração do Microsoft 365 e escolha * * dirSync status * * na página inicial. 
     
-- Como alternativa, você pode ir para usuários \> usuários ativos e na página usuários ativos, escolha mais \> sincronização de diretórios.
+- Como alternativa, você pode ir para usuários \> ativos do usuário e, na página usuários ativos, escolha mais \> sincronização de diretórios.
     
-- No painel de sincronização de diretórios, escolha Ir para gerenciamento de DirSync. 
+- No painel de sincronização de diretórios, escolha ir para gerenciamento dirSync. 
     
-Se houver um problema com a sincronização de diretórios, os erros são listados nesta página. Para obter mais informações sobre erros diferentes que podem ser encontrados, consulte [identificar erros de sincronização de diretórios no Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).
+Se houver um problema com a sincronização de diretório, os erros serão listados nesta página. Para obter mais informações sobre diferentes erros que você pode encontrar, consulte [identificar erros de sincronização de diretório no Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).
   
 

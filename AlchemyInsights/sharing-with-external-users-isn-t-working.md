@@ -1,5 +1,5 @@
 ---
-title: Compartilhando com usuários externos não está funcionando
+title: O compartilhamento com usuários externos não está funcionando
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -11,32 +11,32 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 20b538846997c021b6e88596a1e8aff401ea935b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 4b132a3cb0fac015ab44a1fa08565af15b7e8121
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900852"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207673"
 ---
-# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Corrigir problemas ao compartilhar o conteúdo do SharePoint com usuários externos
+# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Corrigir problemas de compartilhamento de conteúdo do SharePoint com usuários externos
 
-Certifique-se de compartilhamento externo está ativado para a sua organização:
+Certifique-se de que o compartilhamento externo está ativado para sua organização:
   
-1. Vá até o [serviços &amp; página de suplementos no Centro de administração do Office 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)e clique em **Sites**.
+1. Vá até a [página &amp; suplementos de serviços no centro de administração do Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)e clique em **sites**.
     
-2. Verifique se que a configuração está ativada para "Ligado". Se "Apenas usuários externos existentes" são selecionados, verifique se o usuário externo está listado no Centro de administração do Office 365.
+2. Certifique-se de que a configuração está ativada para "ativado". Se "somente usuários externos existentes" estiver selecionado, certifique-se de que o usuário externo está listado no centro de administração do Microsoft 365.
     
-Certifique-se de externo compartilhá-lo ativado para o site. Para um conjunto de sites clássico:
+Verifique se o compartilhamento externo está ativado para o site. Para um conjunto de sites clássico:
   
-1. No Centro de administração do SharePoint clássico, no painel esquerdo, clique em **conjuntos de sites**.
+1. No centro de administração do SharePoint clássico, no painel esquerdo, clique em **conjuntos de sites**.
     
-2. Selecione o site ou sites e na faixa de opções, clique em **compartilhar**.
+2. Selecione o site ou sites e, na faixa de opções, clique em **compartilhamento**.
     
-Para um site de equipe que pertence a um grupo do Office 365, ou um site de comunicação:
+Para um site de equipe que pertença a um grupo do Office 365 ou um site de comunicação:
   
-- Esses novos tipos de site têm o compartilhamento mesmo definindo como sua configuração de toda a organização, a menos que a configuração de toda a organização permite o compartilhamento de arquivos usando links que não exigem entrar. Nesse caso, os sites permitem o compartilhamento com usuários externos novos e existentes que entram. Para alterar a configuração de sites específicos, use o novo centro de administração do SharePoint (preview) ou PowerShell. [Saiba mais](https://go.microsoft.com/fwlink/?linkid=871863).
+- Esses novos tipos de site têm a mesma configuração de compartilhamento que a configuração em toda a organização, a menos que a configuração em toda a organização permita o compartilhamento de arquivos usando links que não exigem logon. Nesse caso, os sites permitem o compartilhamento com usuários externos novos e existentes que entram. Para alterar a configuração de sites específicos, use o novo centro de administração do SharePoint (versão prévia) ou o PowerShell. [Saiba mais](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
-> A configuração de compartilhamento externa para qualquer site pode ser mais restritiva do que a configuração de toda a organização, mas não mais permissivo do que a configuração de toda a organização. 
+> A configuração de compartilhamento externo para qualquer site pode ser mais restritiva do que a configuração em toda a organização, mas não mais permissiva do que a configuração em toda a organização. 
   
 

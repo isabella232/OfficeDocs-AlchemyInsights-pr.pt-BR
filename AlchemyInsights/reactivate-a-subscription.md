@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 78dd997b1e8870fc5a06fc6560753717b8d7e39d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e15b6e7c958d3efdfe8baa21494c356c7b7d7614
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905316"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209437"
 ---
 # <a name="reactivate-a-subscription"></a>Reativar uma assinatura
 
-Se sua assinatura expirar, foi desabilitada pela Microsoft, ou você cancelou-lo no meio de um termo de inscrição, você poderá reativá-lo no Centro de administração do Office 365.
+Se sua assinatura expirar, tiver sido desabilitada pela Microsoft ou cancelada no meio de um termo de assinatura, você poderá reativá-la no centro de administração do Microsoft 365.
   
 1. No Centro de administração, vá até a página [Assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) ou escolha **Cobrança** \> **Assinaturas**.
     
-2. Escolha a assinatura que você deseja reativar e, em seguida, escolher **Reativar**.
+2. Escolha a assinatura que você deseja reativar e, em seguida ****, escolha reativar.
     
-    Se você não vir **Reativar** como uma ação disponível, use a opção "Vamos ligue para você" para falar com um engenheiro de suporte para reativar a assinatura. 
+    Se você não vir **reativar** como uma ação disponível, use a opção "Deixe-nos chamar você" para falar com um engenheiro de suporte para reativar sua assinatura. 
     
-3. Insira os detalhes de pagamento. Você pode atualizar suas informações de pagamento existente aqui.
+3. Insira os detalhes de pagamento. Você pode atualizar suas informações de pagamento existentes aqui.
     
 

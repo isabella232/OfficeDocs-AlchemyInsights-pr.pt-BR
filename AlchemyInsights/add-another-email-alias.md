@@ -1,5 +1,5 @@
 ---
-title: Adicione outro alias de email
+title: Adicionar outro alias de email
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 831d5a97b9d6006b63ae5540b8d4505bc5a98fee
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1fd498dbbc96b2226c42553b652c04cfbb5e75ca
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918564"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207997"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Criar ou adicionar um alias de email para um usuário
 
-Você precisa criar um alias de email para um usuário ou adicionar um endereço de email adicionais? Basta seguir estas etapas!
+Precisa criar um alias de email para um usuário ou adicionar um endereço de email adicional? Basta seguir estas etapas!
   
-1. No Centro de administração do Office 365, vá para a página [usuários](https://go.microsoft.com/fwlink/p/?linkid=834822) ou escolha **usuários** \> **Usuários ativos**.
+1. no centro de administração do Microsoft 365, acesse a página [usuários](https://go.microsoft.com/fwlink/p/?linkid=834822) ou escolha usuários **ativos**do **usuário** \> .
     
 2. Na página **Usuários ativos**, selecione o nome da pessoa que você deseja editar. 
     
 3. À direita, na linha **Nome de usuário/Aliases de email**, escolha **Editar**.
     
-4. Na caixa **Alias** , digite um novo email e selecione **Adicionar**. Se você comprou sua assinatura de GoDaddy ou outro parceiro, para definir o novo alias como o principal, você deve ir para o console de gerenciamento de GoDaddy/parceiro. 
+4. Na caixa **alias** , digite um novo email e, em seguida, escolha **Adicionar**. Se você comprou sua assinatura do GoDaddy ou de outro parceiro, para definir o novo alias como principal, você deve ir para o console de gerenciamento do GoDaddy/parceiro. 
     
     **IMPORTANTE**: a mensagem de erro " **Não é possível localizar um parâmetro que coincida com o nome de parâmetro 'EmailAddresses**" indica que está demorando um pouco mais para o Office 365 terminar de configurar seu locatário ou domínio personalizado, se você adicionou um recentemente. O processo de configuração pode levar até quatro horas para ser concluído. Aguarde um pouco até ele terminar e tente novamente. Se o problema persistir, peça ao Suporte para fazer uma sincronização completa para você.
     
-    Geralmente, levará cerca de 30 minutos para o novo alias entrem em vigor.
+    Em geral, leva cerca de 30 minutos para que o novo alias entre em vigor.
     
-    **Para obter mais detalhes, consulte este artigo:** [Adicionar aliases de email adicionais para um usuário](https://support.office.com/article/Add-additional-email-aliases-to-a-user-0b0bd900-68b1-4bf5-808b-5d240a7739f4.aspx)
+    **Para obter mais detalhes, consulte este artigo:** [Adicionar aliases de email adicionais a um usuário](https://support.office.com/article/Add-additional-email-aliases-to-a-user-0b0bd900-68b1-4bf5-808b-5d240a7739f4.aspx)
     
 
