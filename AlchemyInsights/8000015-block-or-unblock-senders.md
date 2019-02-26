@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: 49750888b92a62058efe8f09ccb03930afae43f5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e4932e5d5cedcd98917ee6578a818284b8a93926
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941496"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243813"
 ---
 # <a name="block-or-unblock-senders"></a>Bloquear ou desbloquear remetentes
 
-Adicione qualquer endereço de email ou domínio à sua lista de remetentes bloqueados para mover essas mensagens diretamente para a pasta Lixo eletrônico. Email é automaticamente removido da pasta Lixo eletrônico, depois de 14 dias e não é recuperável.
+Adicione qualquer endereço de email ou domínio à sua lista de remetentes bloqueados para mover essas mensagens diretamente para a pasta lixo eletrônico. O email é removido automaticamente da pasta lixo eletrônico após 14 dias e não é recuperável.
   
-1. Vá para **configurações** \> **configurações de exibição completos**. 
+1. Vá para configurações do modo de exibição **configurações** \> **completas**. 
     
-2. Selecione **email** \> **lixo eletrônico**. 
+2. Selecione **mensagem** \> de **lixo eletrônico**. 
     
-3. Para bloquear um remetente, digite o endereço de email ou o domínio que você deseja bloquear e selecione **Adicionar**. 
+3. Para bloquear um remetente, insira o endereço de email ou domínio que você deseja bloquear e selecione **Adicionar**. 
     
-    Para desbloquear um remetente, selecione o item na lista e selecione **Remover**![excluir](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).
+    Para desbloquear um remetente, selecione o item na lista e selecione **remover**.
     
 4. Selecione **Salvar**. 
     
-Para saber mais, consulte [bloquear remetentes ou desbloquear remetentes no Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873133).
+Para saber mais, confira [bloquear remetentes ou desbloquear remetentes no Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873133).
   
 

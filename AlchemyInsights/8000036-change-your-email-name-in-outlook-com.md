@@ -9,32 +9,32 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
-ms.openlocfilehash: e92c0a1f08d56128a1dc04022af2cbba78dd3909
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 67a16f6c3bae7b797cee4e823741a2196cd6d426
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928644"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244245"
 ---
 # <a name="change-your-email-name-in-outlookcom"></a>Alterar seu nome de email no Outlook.com
 
-Se você tiver um endereço de email e deseja alterar os destinatários de nome verá em suas mensagens:
+Se você tiver um endereço de email e quiser alterar o nome que os destinatários verão nas suas mensagens:
   
-1. No Outlook.com, selecione sua imagem de conta no canto superior direito da página.
+1. No Outlook.com, selecione a imagem da conta no canto superior direito da página.
     
 2. Selecione **Editar perfil**. 
     
-3. Selecione **Editar o nome** para fazer alterações e selecione **Salvar**. 
+3. Selecione **Editar nome** para fazer alterações e selecione **salvar**. 
     
-Espere até 24 horas para que as alterações a uma foto de perfil ou nome a ser entram em vigor.
+Aguarde até 24 horas para que as alterações na foto ou nome do seu perfil entrem em vigor.
   
-Se você tiver mais de um alias de email ou endereço conectado à sua conta Outlook.com, você pode optar por enviar email a partir de qualquer um dos seus endereços.
+Se você tiver mais de um alias de email ou endereço conectado à sua conta do Outlook.com, poderá optar por enviar emails de qualquer um dos seus endereços.
   
-1. No Outlook.com, Componha uma nova mensagem ou responder a uma mensagem.
+1. No Outlook.com, redija uma nova mensagem ou resposta a uma mensagem.
     
-2. Na janela de redação, selecione ![mais o ícone de ações de grupo. ](media/b97ea7cd-eeb0-49c5-a564-7ca2d2e33909.png) \> **Mostrar de** ver a linha. 
+2. Na janela de redação, selecione "..." \> **Mostrar de** para ver a linha de. 
     
-3. **Selecione** e escolha qual endereço de email que você deseja usar. 
+3. Selecione **from** e escolha o endereço de email que você deseja usar. 
     
 Para obter mais informações, consulte [Enviar email de um endereço diferente no Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001701&amp;clcid=0x409).
   

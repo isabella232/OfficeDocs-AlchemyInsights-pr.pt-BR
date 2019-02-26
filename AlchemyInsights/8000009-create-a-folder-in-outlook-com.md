@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 3b8d2755-e80b-47fb-9c1a-35fe9cb30c04
-ms.openlocfilehash: 03b4600945196449a4bdcd28898c1869bf7bdac8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a5a2c370fba7e00dc5c6367d070176c08f31fbd7
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918600"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244101"
 ---
-# <a name="create-a-folder"></a>Crie uma pasta
+# <a name="create-a-folder"></a>Criar uma pasta
 
-1. No painel esquerdo, selecione **Criar nova pasta**![criar o novo botão de pasta](media/d8e28612-fbdb-4d28-a4d0-14f7834cfd97.png) ao lado de **pastas**. 
+1. No painel esquerdo, selecione **criar nova pasta** ao lado de **pastas**. 
     
-2. Na caixa nova pasta, insira um nome para a pasta e pressione Enter.
+2. Na caixa nova pasta, digite um nome para a pasta e pressione Enter.
     
-Para saber mais, consulte [criar uma pasta no Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873114).
+Para saber mais, confira [criar uma pasta no Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873114).
   
 

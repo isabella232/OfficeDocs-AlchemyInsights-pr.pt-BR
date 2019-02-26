@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e03a7476-f02d-4c2c-bc55-42cad0ab8622
-ms.openlocfilehash: 0b9022698567a572156201a40271ee46ec01e5fc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 26e7ecf0d6c2fe5eb94fa2fc10015e45850f955e
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920112"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244713"
 ---
-# <a name="deal-with-spam-or-phishing-scams-in-your-inbox"></a>Lidar com golpes de phishing ou spam na sua caixa de entrada
+# <a name="deal-with-spam-or-phishing-scams-in-your-inbox"></a>Lidar com spam ou golpes de phishing na sua caixa de entrada
 
-Se você receber um email alertando que se parece com spam ou um esquema de phishing, você pode relatá-la clicando com a mensagem e selecione **Marcar como lixo eletrônico**. 
+Se você receber um email que parece spam ou um golpe de phishing, poderá relatá-lo clicando com o botão direito do mouse na mensagem e seleciona **Marcar como lixo eletrônico**. 
   
-Os filtros de lixo eletrônico Outlook.com melhoram quando você marca uma mensagem como lixo eletrônico. Você também pode relatá-la como um esquema de phishing ou bloquear os endereços de email e os domínios que você não deseja receber mensagens de.
+Os filtros de lixo eletrônico no Outlook.com melhoram quando você marca uma mensagem como lixo eletrônico. Você também pode relatá-lo como um golpe de phishing ou bloquear os endereços de email e domínios dos quais você não deseja receber mensagens.
   
-Se você acredita que recebeu um phishing ou falsificação golpes, marcar o email como lixo eletrônico, vá para a pasta Lixo eletrônico e selecione **não spam** \> **Phishing** para marcá-la como um esquema de phishing. Saiba mais sobre como [lidar com mau uso, phishing ou falsificação](https://go.microsoft.com/fwlink/p/?linkid=873139).
+Se você achar que recebeu um phishing ou golpe por falsificação, marque o email como lixo eletrônico, vá para a pasta lixo eletrônico e selecione **não spam** \> **phishing** para marcá-lo como um golpe de phishing. Saiba mais sobre como [lidar com abuso, phishing ou falsificação](https://go.microsoft.com/fwlink/p/?linkid=873139).
   
-Para bloquear os endereços de email, acesse **configurações**![configurações](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Opções** \> **Remetentes bloqueados**. Para adicionar endereços ou domínios à sua lista de remetentes confiáveis, selecione **remetentes confiáveis**. 
+Para bloquear endereços de email, vá para **Opções** \> de **configurações** \> bloqueados de **remetentes**. Para adicionar endereços ou domínios à sua lista de remetentes confiáveis, selecione **remetentes confiáveis**. 
   
-Se você está vendo um aumento no spam, leia como [ajudar a manter o spam e lixo eletrônico fora da sua caixa de entrada](https://go.microsoft.com/fwlink/p/?linkid=873140).
+Se você estiver vendo um aumento no spam, leia como [ajudar a manter spam e lixo eletrônico fora da sua caixa de entrada](https://go.microsoft.com/fwlink/p/?linkid=873140).
   
 

@@ -1,5 +1,5 @@
 ---
-title: 8000015 recebendo email de bloqueados remetentes no Outlook.com
+title: 8000015 recebendo emails de remetentes bloqueados no Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46a04853-e422-41cc-9bb7-a46d6b6f8aa0
-ms.openlocfilehash: f58b61fc6bef7cf759cac7a5ea13a455f80301f3
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9fd6dfc057ff592bdb9609096ba3115be6264aa7
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920402"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244065"
 ---
-# <a name="receiving-email-from-blocked-senders"></a>Recebendo email de remetentes bloqueados
+# <a name="receiving-email-from-blocked-senders"></a>Recebendo emails de remetentes bloqueados
 
-Se o email de um remetente bloqueado ainda aparece na caixa de entrada, o remetente pode ser ocultando seus endereços de email reais.
+Se o email de um remetente bloqueado ainda aparecer na sua caixa de entrada, o remetente poderá ocultar seu endereço de email real.
   
 Para verificar o endereço de email real de um remetente:
   
-1. Selecione ![ações mais](media/11884972-7ebb-4afe-8b50-63efefb7cca8.png) na parte superior da janela de mensagem e selecione **Exibir a origem da mensagem**.
+1. Selecione o ícone de envelope na parte superior da janela de mensagens e selecione **Exibir origem da mensagem**.
     
-2. Role para baixo a **origem da mensagem** até encontrar os campos **da** . 
+2. Role a **fonte da mensagem** até encontrar o campo **de** . 
     
-3. Realce o endereço de email dentro \< \> e com o botão direito à **cópia**
+3. Realce o endereço de email \< \> colocado dentro e clique com o botão direito do mouse para **copiar**
     
-4. Use este endereço de email real para bloquear o destinatário. Leia como para [bloquear remetentes ou desbloquear remetentes no Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e.aspx).
+4. Use esse endereço de email real para bloquear o remetente. Leia como [bloquear remetentes ou desbloquear remetentes no Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e.aspx).
     
-Para obter mais informações, leia o que fazer se você está [recebendo email de remetentes bloqueados](https://go.microsoft.com/fwlink/p/?linkid=2002011&amp;clcid=0x409).
+Para obter mais informações, leia o que fazer se você estiver [recebendo emails de remetentes bloqueados](https://go.microsoft.com/fwlink/p/?linkid=2002011&amp;clcid=0x409).
   
 

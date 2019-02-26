@@ -1,5 +1,5 @@
 ---
-title: 8000034 confirmações de leitura no Outlook.com
+title: 8000034 recibos de leitura no Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cae0e22-0dfc-4575-9f62-041aacbd9da9
-ms.openlocfilehash: 9f3a47f27099c5e53e251ed9d80a18dd643069f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 251ffb13eb2c0042b9c077acc8845f89c06ab2d7
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29898512"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243957"
 ---
 # <a name="read-receipts-in-outlookcom"></a>Confirmações de leitura no Outlook.com
 
-Você não pode solicitar uma confirmação de leitura no Outlook.com, mas você poderá solicitar confirmações de leitura para mensagens de Outlook.com enviadas usando o Outlook para Windows. Para saber como, consulte [Add e solicitação de notificações de entrega e confirmações de leitura](https://go.microsoft.com/fwlink/p/?linkid=874355).
+Você não pode solicitar uma confirmação de leitura no Outlook.com, mas pode solicitar confirmações de leitura para mensagens do Outlook.com enviadas usando o Outlook para Windows. Para saber como, confira [Adicionar e solicitar confirmações de leitura e notificações de entrega](https://go.microsoft.com/fwlink/p/?linkid=874355).
   
-Para escolher como o Outlook.com responde às solicitações de confirmação de leitura, vá para **configurações**![configurações](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Opções** \> **email** \> **o processamento automático** \> **confirmações de leitura**. 
+para escolher como o Outlook.com responderá às solicitações de confirmação de leitura, vá até **opções** \> de **configurações** \> **email** \> **processamento** \> de recibos de **leitura**automática. 
   
-No Outlook.com beta, selecione **configurações**![configurações](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) e procure **confirmações de leitura**. 
+No Outlook.com beta, selecione **configurações** e procure confirmações de **leitura**. 
   
 
