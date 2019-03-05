@@ -1,5 +1,5 @@
 ---
-title: Como faço para atualizar as informações do meu cartão de crédito?
+title: Como faço para atualizar minhas informações de cartão de crédito?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -7,22 +7,22 @@ ms.date: 2/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: ae1634d9ff33c8c50574842b9bc689582db496dd
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 81bb27d7e09a528e07162298ff4f98b75c2dd41a
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917664"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30405167"
 ---
-# <a name="how-do-i-update-my-credit-card-information"></a>Como faço para atualizar as informações do meu cartão de crédito?
+# <a name="how-do-i-update-my-credit-card-information"></a>Como faço para atualizar minhas informações de cartão de crédito?
 
 1. No Centro de administração, vá até a página [Assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) ou escolha **Cobrança** \> **Assinaturas**.
     
-2. Escolha a assinatura que você comprou com o cartão de crédito ou conta bancária que você deseja atualizar, selecione **Atualizar detalhes de pagamento**.
+2. Selecione a assinatura que você comprou com o cartão de crédito ou conta bancária que deseja atualizar e, em seguida, escolha **atualizar detalhes de pagamento**.
     
 3. Escolha a seta suspensa em **Adicionar ou selecionar um método de pagamento**, escolha o cartão ou a conta que deseja atualizar e escolha **Editar detalhes**.
     
@@ -30,6 +30,6 @@ ms.locfileid: "29917664"
     
 5. Nosso sistema exibirá uma mensagem de confirmação.
     
-Para obter informações adicionais, consulte [Troubleshooting cartões de crédito e bank contas](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Para saber mais, confira [solucionar problemas de cartões de crédito e contas bancárias](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
 

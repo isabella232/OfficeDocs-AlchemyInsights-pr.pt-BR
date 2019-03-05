@@ -1,5 +1,5 @@
 ---
-title: Solucionando a 'Não é um domínio aceito' erro
+title: Resolvendo o erro ' não é um domínio aceito '
 ms.author: pebaum
 author: pebaum
 ms.date: 5/8/2018
@@ -8,19 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5190e27b-f94b-4f3c-b5b8-841e2bd7cff9
-ms.openlocfilehash: 4a0dc41c198a38b60b7c256e9e78648ebf3d5b55
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c202527610f349bef1129b1307f7cb10c13f2165
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900672"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30404483"
 ---
-"Não é um domínio aceito" Erro
+# <a name="got-a-parameter-cannot-be-found-error"></a>Recebeu um erro "não foi possível encontrar o parâmetro"?
 
-# <a name="got-a-parameter-cannot-be-found-error"></a>Você tem um erro de 'Parâmetro não pode ser encontrado'?
-
-Se você receber a mensagem de erro **"não foi encontrado um parâmetro que coincide com o nome do parâmetro ' EmailAddresses"**, significa que está demorando um pouco mais para o Office 365 terminar de configurar seu locatário ou seu domínio personalizado se você adicionou um recentemente. 
+Se você receber a mensagem de erro **"não é possível localizar um parâmetro que corresponda ao nome de parâmetro" EmailAddresses "**, isso significa que está demorando muito mais para que o Office 365 conclua a configuração do seu locatário ou do seu domínio personalizado, se você tiver adicionado um. 
   
-O processo de instalação pode demorar até 4 horas para ser concluída. Aguarde um momento, de modo que o processo de configuração tem a hora de término e tente novamente.
+O processo de instalação pode levar até 4 horas para ser concluído. Aguarde um pouco para que o processo de configuração tenha tempo para terminar e tente novamente.
   
 

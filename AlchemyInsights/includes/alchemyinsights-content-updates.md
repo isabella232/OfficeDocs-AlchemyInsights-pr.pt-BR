@@ -3,22 +3,6 @@
 
 
 
-## <a name="week-of-january-21-2019"></a>Semana de 21 de janeiro de 2019
-
-
-| Publicado em |Título do tópico | Alteração |
-|------|------------|--------|
-| 1/22/2019 | [1047 o serviço AntiSpam 550 5.7.708 não está disponível. Acesso negado, tráfego não aceito deste IP](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | modificado |
-| 1/22/2019 | [1049 AntiSpam 4.5.3 muitos destinatários (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | modificado |
-| 1/22/2019 | [1050 o servidor antispam 4.7.500 está ocupado. Tente novamente mais tarde em [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | modificado |
-| 1/22/2019 | [1051 antispam 4.7.500 acesso negado, tente novamente mais tarde](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | modificado |
-| 1/22/2019 | [ReTransmitir emails por meio do Office 365](/AlchemyInsights/relay-email-through-office-365) | modificado |
-| 1/24/2019 | [Controlar a criação de grupos](/AlchemyInsights/control-creation-of-groups) | modificado |
-| 1/24/2019 | [Problemas do Outlook com o Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | adicioná |
-| 1/24/2019 | [Restaurar um grupo do Office 365 usando o Centro de administração do Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | renomeado |
-| 1/24/2019 | [Solucionar problemas com o Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | renomeado |
-
-
 ## <a name="week-of-january-28-2019"></a>Semana de 28 de janeiro de 2019
 
 
@@ -734,3 +718,57 @@
 | 2/22/2019 | [Permissões do usuário](/AlchemyInsights/user-permissions) | modificado |
 | 2/22/2019 | [Quando o demonstrativo de cobrança é gerado?](/AlchemyInsights/when-is-the-billing-statement-generated) | modificado |
 | 2/22/2019 | [Como verificar seu domínio com o Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | modificado |
+
+
+## <a name="week-of-february-25-2019"></a>Semana de 25 de fevereiro de 2019
+
+
+| Publicado em |Título do tópico | Alteração |
+|------|------------|--------|
+| 2/25/2019 | [1800014 obter suporte no aplicativo para o aplicativo móvel do Outlook](/AlchemyInsights/1800014-get-in-app-support-for-the-outlook-mobile-app) | modificado |
+| 2/25/2019 | [1800014 configurar email no aplicativo móvel do Outlook](/AlchemyInsights/1800014-set-up-email-in-the-outlook-mobile-app) | modificado |
+| 2/25/2019 | [8000001 desativar a caixa de entrada destaques](/AlchemyInsights/8000001-turn-off-focused-inbox) | modificado |
+| 2/25/2019 | [8000009 criar uma pasta no Outlook.com](/AlchemyInsights/8000009-create-a-folder-in-outlook-com) | modificado |
+| 2/25/2019 | [8000012 excluir um contato no Outlook.com](/AlchemyInsights/8000012-delete-a-contact-in-outlook-com) | modificado |
+| 2/25/2019 | [8000013 Alterar fonte em Outlook.com](/AlchemyInsights/8000013-change-font-in-outlook-com) | modificado |
+| 2/25/2019 | [8000014 como alterar o idioma no Outlook.com](/AlchemyInsights/8000014-how-to-change-language-in-outlook-com) | modificado |
+| 2/25/2019 | [8000015 bloquear ou desbloquear remetentes](/AlchemyInsights/8000015-block-or-unblock-senders) | modificado |
+| 2/25/2019 | [8000015 recebendo emails de remetentes bloqueados no Outlook.com](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | modificado |
+| 2/25/2019 | [8000029 lidar com phishing no Outlook.com](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | modificado |
+| 2/25/2019 | [8000029 lidar com spam no Outlook.com](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | modificado |
+| 2/25/2019 | [8000029 lidar com spam ou phishing no Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | modificado |
+| 2/25/2019 | [8000033 como responder ou encaminhar mensagens no Outlook.com beta](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | modificado |
+| 2/25/2019 | [8000034 recibos de leitura no Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | modificado |
+| 2/25/2019 | [8000036 alterar seu nome de email no Outlook.com](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | modificado |
+| 2/25/2019 | [8000046 imprimir emails e calendários no Outlook.com](/AlchemyInsights/8000046-print-email-and-calendars-in-outlook-com) | modificado |
+| 2/25/2019 | [8000047 como criar uma assinatura de email no Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | modificado |
+| 2/25/2019 | [8000052 anexar arquivos no Outlook.com](/AlchemyInsights/8000052-attach-files-in-outlook-com) | modificado |
+| 2/25/2019 | [8000059 como alterar a ação do tema (FMS)](/AlchemyInsights/8000059-how-to-change-theme-action-fms) | modificado |
+| 2/25/2019 | [Etapas recomendadas a serem executadas se uma conta for comprometida](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | modificado |
+| 2/26/2019 | [Restaurar um grupo do Office 365 excluído](/AlchemyInsights/restore-a-deleted-office-365-group) | modificado |
+| 2/26/2019 | [9000215 assinaturas de Outlook.com](/AlchemyInsights/9000215-outlook-com-subscriptions) | adicioná |
+| 2/27/2019 | [arquivos PST 9000199 no Outlook.com](/AlchemyInsights/9000199-outlook-com-read-pst-files) | adicioná |
+| 2/27/2019 | [9000202 opções de Outlook.com](/AlchemyInsights/9000202-outlook-com-options) | adicioná |
+| 2/27/2019 | [9000203 filtros Outlook.com](/AlchemyInsights/9000203-outlook-com-filters) | adicioná |
+| 2/28/2019 | [8000036 alterar img/nome do perfil no Outlook.com](/AlchemyInsights/8000036-6-outlook-com-update-profile) | adicioná |
+| 2/28/2019 | [8000049 ícone do Skype ausente no Outlook.com](/AlchemyInsights/8000049-2-outlook-com-skype-button) | adicioná |
+| 2/28/2019 | [8000088 salvar email no Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | adicioná |
+| 2/28/2019 | [9000071 não é possível digitar @ símbolo no Mac](/AlchemyInsights/9000071-outlook-com-cant-type-@-on-mac) | adicioná |
+| 2/28/2019 | [9000193 desfazer mover ou excluir no Outlook.com](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | adicioná |
+| 2/28/2019 | [9000198 Outlook.com calendário beta](/AlchemyInsights/9000198-outlook-com-calendar-beta) | adicioná |
+| 3/1/2019 | [8000035 solicitação para reverter do Outlook.com beta para o Outlook.com clássico](/AlchemyInsights/8000035-5-outlook-com-roll-back-from-beta-to-classic) | adicioná |
+| 3/1/2019 | [8000035 como fazer o novo Outlook.com parecer com o antigo](/AlchemyInsights/8000035-7-make-new-outlook-com-like-old-version) | adicioná |
+| 3/1/2019 | [8000043 configurações POP, IMAP e SMTP para Outlook.com](/AlchemyInsights/8000043-2-outlook-com-pop-imap-smtp-settings) | adicioná |
+| 3/1/2019 | [8000090 Outlook.com selecionar tudo](/AlchemyInsights/8000090-outlook-com-select-all) | adicioná |
+| 3/1/2019 | [8000091 Outlook.com reagir pop up](/AlchemyInsights/8000091-outlook-com-react-pop-up) | adicioná |
+| 3/1/2019 | [8000092 Outlook.com exibir a origem da mensagem](/AlchemyInsights/8000092-outlook-com-view-message-source) | adicioná |
+| 3/1/2019 | [8000093 Outlook.com permissões de conta conectada](/AlchemyInsights/8000093-outlook-com-connected-account-permissions) | adicioná |
+| 3/1/2019 | [1800009Outlook para suporte ao aplicativo Mac](/AlchemyInsights/1800009-outlook-for-mac-in-app-support) | modificado |
+| 3/1/2019 | [8000057 links seguros no Outlook.com](/AlchemyInsights/8000057-safe-links-in-outlook-com-0) | modificado |
+| 3/1/2019 | [Catálogo de endereços do 9000232 Outlook.com](/AlchemyInsights/9000232-outlook-com-address-book) | adicioná |
+| 3/1/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/9000233-outlook-com-pin) | adicioná |
+| 3/1/2019 | [9000234 Outlook.com erro interno do servidor](/AlchemyInsights/9000234-outlook-com-internal-server-error) | adicioná |
+| 3/1/2019 | [9000236 Outlook.com adicionar conta](/AlchemyInsights/9000236-outlook-com-add-account) | adicioná |
+| 3/1/2019 | [9000238 Outlook.com adicionar alias](/AlchemyInsights/9000238-outlook-com-add-alias) | adicioná |
+| 3/1/2019 | [9000239 Outlook.com encaminhamento](/AlchemyInsights/9000239-outlook-com-forwarding) | adicioná |
+| 3/1/2019 | [9000240 respostas Outlook.com](/AlchemyInsights/9000240-outlook-com-replies) | adicioná |

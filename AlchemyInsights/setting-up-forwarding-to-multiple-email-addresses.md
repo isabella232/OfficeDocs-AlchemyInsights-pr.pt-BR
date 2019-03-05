@@ -1,5 +1,5 @@
 ---
-title: Configurando o encaminhamento para vários endereços de email
+title: ConFigurando o encaminhamento para vários endereços de email
 ms.author: pebaum
 author: pebaum
 ms.date: 5/8/2018
@@ -8,21 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 81205bed-e32a-468d-9d4c-9e881622908b
-ms.openlocfilehash: 10787624ae8d6d590afac531e87a54b644cf4451
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 56aab96dddff0a5f3aa6c3256ca564a6533c5448
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935016"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30404411"
 ---
-# <a name="setting-up-forwarding-to-multiple-email-addresses"></a>Configurando o encaminhamento para vários endereços de email
+# <a name="setting-up-forwarding-to-multiple-email-addresses"></a>ConFigurando o encaminhamento para vários endereços de email
 
-Em primeiro lugar, navegue para [Gerenciar grupos](https://portal.office.com/adminportal/home#/groups)
+Se você precisar configurar o encaminhamento de email para um grupo de usuários, crie uma lista de distribuição, adicione vários usuários a ela e configure o encaminhamento para essa lista. Primeiro, navegue até [gerenciar grupos](https://portal.office.com/adminportal/home#/groups)
   
 1. Criar uma *lista de distribuição* 
     
-2. Adicionar vários usuários a ela
+2. Adicionar vários usuários a ele
     
-3. Configurar o encaminhamento de caixa de correio a esse grupo
+3. Em seguida, configure o encaminhamento de caixa de correio para esse grupo
     
 
