@@ -1,5 +1,5 @@
 ---
-title: Permita que as equipes da Microsoft
+title: Habilitar o Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: e00c589059b2f02ce9d6a77ca2a2ffb9d90771dc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 98a7a07a85506f8f94b5a55ebf0e797443a0260a
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917196"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468903"
 ---
-# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="7f75e-102">Habilitar e usar as equipes da Microsoft</span><span class="sxs-lookup"><span data-stu-id="7f75e-102">Enable and Use Microsoft Teams</span></span>
+# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="1cb15-102">Habilitar e usar o Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="1cb15-102">Enable and Use Microsoft Teams</span></span>
 
-<span data-ttu-id="7f75e-103">Você pode usar estes artigos para habilitar e usar Teams da Microsoft:</span><span class="sxs-lookup"><span data-stu-id="7f75e-103">You can use these articles to enable and use Microsoft Teams:</span></span>
-  
-- [<span data-ttu-id="7f75e-104">Como posso obter acesso ao Teams da Microsoft?</span><span class="sxs-lookup"><span data-stu-id="7f75e-104">How do I get access to Microsoft Teams?</span></span>](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)
-    
-- [<span data-ttu-id="7f75e-105">Configurações do administrador for Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="7f75e-105">Administrator settings for Microsoft Teams</span></span>](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)
-    
+
+<span data-ttu-id="1cb15-103">Se você não tem acesso ao Microsoft Teams, confira [como posso obter acesso ao Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)</span><span class="sxs-lookup"><span data-stu-id="1cb15-103">If you don’t have access to Microsoft Teams at all, check out [How do I get access to Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)</span></span>
+
+<span data-ttu-id="1cb15-104">Se você já tem o Microsoft Teams e precisa saber como configurá-lo e gerenciá-lo, consulte [Administrative Settings for Microsoft Teams](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)</span><span class="sxs-lookup"><span data-stu-id="1cb15-104">If you already have Microsoft Teams and need to know how to configure and manage it, see [Administrator settings for Microsoft Teams](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)</span></span>
 
