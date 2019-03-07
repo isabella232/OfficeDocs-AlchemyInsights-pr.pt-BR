@@ -8,19 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: a48883d8c6471d7830723cf0ff3d2a063246aefe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d70ed9689ed08b66b4b5171920bac02769009b44
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904848"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468975"
 ---
 # <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Atualizar para a versão completa do Microsoft Teams
 
-Você pode atualizar do Microsoft Teams (gratuito) para a versão completa do Microsoft Teams sempre que você está pronto.
-  
-Clique em **vamos ligue para você** abaixo é a melhor maneira de iniciar o processo de atualização. 
-  
-Um agente de suporte contatará você e ajuda você selecionar um plano do Office 365, insira suas informações de contato e pagamento, selecione seu nome de domínio org e atualizar sua lista de participação do membro.
-  
+Precisa atualizar da versão gratuita para a completa do Microsoft Teams? Consulte [atualizar o Microsoft Teams gratuitamente para a versão de assinatura do Office 365](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)
+
+Você precisará atender a estes requisitos:
+- Você é a pessoa que se inscreveu para a versão gratuita do teams.
+- Se você tiver seu próprio domínio, ele já não poderá ser associado ao Azure Active Directory.
+- Para transferir dados ao atualizar, você deve inscrever-se durante o processo de atualização. Se você comprou o Office 365 fora do processo de atualização, não é possível transferir dados.
+
 

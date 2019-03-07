@@ -1,5 +1,5 @@
 ---
-title: Equipes da Microsoft - acesso de convidado
+title: Microsoft Teams-acesso de convidado
 ms.author: heidip
 author: microsoftheidi
 ms.date: 1/18/2019
@@ -9,18 +9,22 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: e9b8b86c5e00dc23e78d204d6e375554f96f805f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941568"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468471"
 ---
-# <a name="microsoft-teams---guest-access"></a>Equipes da Microsoft - acesso de convidado
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams-acesso de convidado
 
+Você precisa de ajuda para ativar e configurar o recurso de acesso de convidados no Microsoft Teams?
 
-Se você precisar habilitar ou configurar a função de acesso de convidado no Microsoft Teams, temos um guia de instruções passo a passo para você: [Lista de verificação de acesso de convidado](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
-  
-Você pode precisar aguardar até 24 horas para que as alterações de configuração de equipes entrem em vigor.
-  
+Veja o que você precisa fazer:
+
+1. Autorizar o acesso de convidados.
+1. Adicione usuários convidados à sua equipe.
+1. Configurar permissões de usuário convidado.
+
+Para obter mais informações, incluindo vídeos explicativos, consulte [acesso de convidados no Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/guest-access).
 

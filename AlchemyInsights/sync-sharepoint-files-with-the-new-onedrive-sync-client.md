@@ -7,30 +7,30 @@ ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: b70ade0a61234b641a3514a2ef80d07a9219565a
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: b11b8e56a64e87aabb0d188e5566a868bbe2fd6d
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29968621"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30469011"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Sincronizar arquivos do SharePoint com o novo cliente de sincronização do OneDrive
 
-1. No Centro de administração do SharePoint clássico, selecione **configurações**.
+1. No centro de administração do SharePoint clássico, selecione **configurações**.
     
-2. Verifique se "Botão de sincronização do OneDrive" é definido como "Mostrar o botão de sincronização".
+2. Verifique se o botão "sincronização do OneDrive" está definido como "mostrar o botão Sincronizar".
     
-3. Para "Sincronização do cliente para SharePoint", selecione **Inicie o novo cliente**.
+3. Em "sincronizar cliente para SharePoint", selecione **iniciar o novo cliente**.
     
     > [!NOTE]
-    > Se essa opção não aparecer, sua organização já está configurada para usar o novo cliente de sincronização do OneDrive para sincronizar os arquivos do SharePoint. 
+    > Se essa opção não aparecer, sua organização já está configurada para usar o novo cliente de sincronização do OneDrive para sincronizar arquivos do SharePoint. 
   
 4. Clique em **OK**.
     
-Para obter mais informações, consulte [habilitar usuários sincronizar os arquivos do SharePoint com o novo cliente de sincronização do OneDrive](https://go.microsoft.com/fwlink/?linkid=866433). Para obter instruções dar aos seus usuários, consulte [os arquivos de sincronização do SharePoint com o novo cliente de sincronização do OneDrive](https://go.microsoft.com/fwlink/?linkid=866427).
+Para obter mais informações, consulte [habilitar usuários para sincronizar arquivos do SharePoint com o novo cliente de sincronização do onedrive](https://go.microsoft.com/fwlink/?linkid=866433). Para obter instruções para dar aos seus usuários, confira [sincronizar arquivos do SharePoint com o novo cliente de sincronização do onedrive](https://go.microsoft.com/fwlink/?linkid=866427).
   
 
