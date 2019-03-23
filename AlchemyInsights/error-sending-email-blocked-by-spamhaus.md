@@ -1,5 +1,5 @@
 ---
-title: Erro ao enviar email bloqueada pelo SpamHaus
+title: Erro de envio de email bloqueado pelo SpamHaus
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: 249f16d057b0539d71dc514ac35df28ab78fa061
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 7d6ad2667613ae948a4abcefafe8d91cf89d2418
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912336"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761621"
 ---
-# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a><span data-ttu-id="eb3db-102">Erro ao enviar email: cliente host bloqueado usando Spamhaus</span><span class="sxs-lookup"><span data-stu-id="eb3db-102">Error sending email: Client host blocked using Spamhaus</span></span>
+# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a><span data-ttu-id="2061b-102">Erro ao enviar email: host do cliente bloqueado usando Spamhaus</span><span class="sxs-lookup"><span data-stu-id="2061b-102">Error sending email: Client host blocked using Spamhaus</span></span>
 
-<span data-ttu-id="eb3db-p101">O endereço IP que enviou a mensagem é em uma lista de bloqueios pertencente a [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245). Os motivos para que estão sendo bloqueadas pelo Spamhaus incluem contas comprometidas, comprometida máquinas compartilhando um endereço IP público e políticas de provedor de serviços de Internet (ISP). Correções possíveis são:</span><span class="sxs-lookup"><span data-stu-id="eb3db-p101">The IP address that sent the message is on a block list owned by [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245). Reasons for being blocked by Spamhaus include compromised accounts, compromised machines sharing a public IP address, and Internet Service Provider (ISP) policies. Possible fixes are:</span></span>
+<span data-ttu-id="2061b-103">O endereço IP que enviou a mensagem está em uma lista de bloqueio de Propriedade do [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245).</span><span class="sxs-lookup"><span data-stu-id="2061b-103">The IP address that sent the message is on a block list owned by [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245).</span></span> <span data-ttu-id="2061b-104">Os motivos para serem bloqueados pelo Spamhaus incluem contas comprometidas, máquinas comprometidas compartilhando um endereço IP público e políticas de provedor de serviços de Internet.</span><span class="sxs-lookup"><span data-stu-id="2061b-104">Reasons for being blocked by Spamhaus include compromised accounts, compromised machines sharing a public IP address, and Internet Service Provider (ISP) policies.</span></span> <span data-ttu-id="2061b-105">As possíveis correções são:</span><span class="sxs-lookup"><span data-stu-id="2061b-105">Possible fixes are:</span></span>
   
-- <span data-ttu-id="eb3db-106">Bloqueado para mensagens de entrada para o Office 365, onde você pode controlar o servidor de email de origem, você precisará determinar a causa e remover o bloqueio do site Spamhaus.</span><span class="sxs-lookup"><span data-stu-id="eb3db-106">For blocked inbound messages to Office 365 where you control the source email server, you need to determine the cause and remove the block from the Spamhaus website.</span></span>
+- <span data-ttu-id="2061b-106">Para mensagens de entrada bloqueadas para o Office 365, onde você controla o servidor de email de origem, é necessário determinar a causa e remover o bloco do site do Spamhaus.</span><span class="sxs-lookup"><span data-stu-id="2061b-106">For blocked inbound messages to Office 365 where you control the source email server, you need to determine the cause and remove the block from the Spamhaus website.</span></span>
     
-- <span data-ttu-id="eb3db-p102">Bloqueado para mensagens de entrada para o Office 365 onde o endereço IP de origem pertence a outra pessoa, o proprietário do endereço precisa remover o bloqueio do site Spamhaus. Se o endereço IP está na lista de bloqueio de política (PBL), o proprietário pode atribuir um endereço IP estático diferente ou remova o endereço do PBL.</span><span class="sxs-lookup"><span data-stu-id="eb3db-p102">For blocked inbound messages to Office 365 where the source IP address belongs to someone else, the address owner needs to remove the block from the Spamhaus website. If the IP address is on the Policy Block List (PBL), the owner can assign a different static IP address or remove the address from the PBL.</span></span>
+- <span data-ttu-id="2061b-107">Para mensagens de entrada bloqueadas para o Office 365, onde o endereço IP de origem pertence a outra pessoa, o proprietário do endereço precisa remover o bloco do site do Spamhaus.</span><span class="sxs-lookup"><span data-stu-id="2061b-107">For blocked inbound messages to Office 365 where the source IP address belongs to someone else, the address owner needs to remove the block from the Spamhaus website.</span></span> <span data-ttu-id="2061b-108">Se o endereço IP estiver na lista de bloqueio de política (PBL), o proprietário poderá atribuir um endereço IP estático diferente ou remover o endereço do PBL.</span><span class="sxs-lookup"><span data-stu-id="2061b-108">If the IP address is on the Policy Block List (PBL), the owner can assign a different static IP address or remove the address from the PBL.</span></span>
     
-- <span data-ttu-id="eb3db-p103">Para mensagens de saída bloqueadas do seu domínio do Office 365, você poderá receber esse erro, se as mensagens são roteadas através de um serviço de terceiros 3º. Você pode usar uma ferramenta de pesquisa WHOIS para encontrar o proprietário do endereço IP bloqueado.</span><span class="sxs-lookup"><span data-stu-id="eb3db-p103">For blocked outbound messages from your Office 365 domain, you can receive this error if the messages are routed through a 3rd party service. You can use a WHOIS lookup tool to find the blocked IP address owner.</span></span>
+- <span data-ttu-id="2061b-109">Para mensagens de saída bloqueadas do seu domínio do Office 365, você poderá receber esse erro se as mensagens forem encaminhadas através de um serviço de terceiros.</span><span class="sxs-lookup"><span data-stu-id="2061b-109">For blocked outbound messages from your Office 365 domain, you can receive this error if the messages are routed through a 3rd party service.</span></span> <span data-ttu-id="2061b-110">Você pode usar uma ferramenta de pesquisa WHOIS para localizar o proprietário do endereço IP bloqueado.</span><span class="sxs-lookup"><span data-stu-id="2061b-110">You can use a WHOIS lookup tool to find the blocked IP address owner.</span></span>
     
 

@@ -1,5 +1,5 @@
 ---
-title: OneDrive de compartilhar arquivos com usuários externos
+title: Compartilhar arquivos do OneDrive com usuários externos
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -9,36 +9,36 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 3bc62deb513c809a25277295642394c5cab9436c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9b920dff8facdec51f005489e7433db738447e5e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917844"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754422"
 ---
-# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a><span data-ttu-id="1be7f-102">Compartilhar arquivos no OneDrive com pessoas fora da sua organização</span><span class="sxs-lookup"><span data-stu-id="1be7f-102">Share files in OneDrive with people outside your organization</span></span>
+# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a><span data-ttu-id="62838-102">Compartilhar arquivos no OneDrive com pessoas de fora da sua organização</span><span class="sxs-lookup"><span data-stu-id="62838-102">Share files in OneDrive with people outside your organization</span></span>
 
-1. <span data-ttu-id="1be7f-103">Use o iniciador app para ir para o OneDrive no navegador da web.</span><span class="sxs-lookup"><span data-stu-id="1be7f-103">Use the app launcher to go to OneDrive in your web browser.</span></span> 
+1. <span data-ttu-id="62838-103">Use o inicializador de aplicativos para ir para o OneDrive em seu navegador da Web.</span><span class="sxs-lookup"><span data-stu-id="62838-103">Use the app launcher to go to OneDrive in your web browser.</span></span> 
     
-2. <span data-ttu-id="1be7f-104">Selecione o arquivo ou pasta que você deseja compartilhar e, em seguida, selecione **compartilhar**.</span><span class="sxs-lookup"><span data-stu-id="1be7f-104">Select the file or folder you want to share, and then select **Share**.</span></span> 
+2. <span data-ttu-id="62838-104">Selecione o arquivo ou pasta que você deseja compartilhar e selecione **compartilhar**.</span><span class="sxs-lookup"><span data-stu-id="62838-104">Select the file or folder you want to share, and then select **Share**.</span></span> 
     
-3. <span data-ttu-id="1be7f-105">Se o tipo de vínculo for definido como "pessoas no \<sua organização\>," clique na seta para baixo e selecione uma das seguintes opções:</span><span class="sxs-lookup"><span data-stu-id="1be7f-105">If the link type is set to "People in \<your organization\>," click the down arrow and select one of the following:</span></span> 
+3. <span data-ttu-id="62838-105">Se o tipo de link estiver definido como "pessoas \<da sua\>organização", clique na seta para baixo e selecione uma destas opções:</span><span class="sxs-lookup"><span data-stu-id="62838-105">If the link type is set to "People in \<your organization\>," click the down arrow and select one of the following:</span></span> 
     
-  - <span data-ttu-id="1be7f-p101">**Qualquer pessoa que** oferece acesso a qualquer pessoa que recebe este link, se eles recebem-la diretamente de você ou encaminhadas a partir de outra pessoa. Isso pode incluir pessoas fora da sua organização.</span><span class="sxs-lookup"><span data-stu-id="1be7f-p101">**Anyone** gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.</span></span> 
+  - <span data-ttu-id="62838-106">**Qualquer pessoa** dá acesso a qualquer pessoa que receber esse link, se ele o receberá diretamente de você ou encaminhada de outra pessoa.</span><span class="sxs-lookup"><span data-stu-id="62838-106">**Anyone** gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else.</span></span> <span data-ttu-id="62838-107">Isso pode incluir pessoas de fora da sua organização.</span><span class="sxs-lookup"><span data-stu-id="62838-107">This may include people outside of your organization.</span></span> 
     
-  - <span data-ttu-id="1be7f-p102">**Pessoas específicas** concede acesso somente para as pessoas você especificar, embora outras pessoas podem já ter acesso. Se as pessoas encaminham o convite de compartilhamento, apenas as pessoas que já têm acesso ao item será capazes de usar o link.</span><span class="sxs-lookup"><span data-stu-id="1be7f-p102">**Specific people** gives access only to the people you specify, although other people may already have access. If people forward the sharing invitation, only people who already have access to the item will be able to use the link.</span></span> 
+  - <span data-ttu-id="62838-108">**Pessoas específicas** só dão acesso às pessoas que você especificar, embora outras pessoas já possam ter acesso.</span><span class="sxs-lookup"><span data-stu-id="62838-108">**Specific people** gives access only to the people you specify, although other people may already have access.</span></span> <span data-ttu-id="62838-109">Se as pessoas encaminharem o convite de compartilhamento, somente as pessoas que já têm acesso ao item poderão usar o link.</span><span class="sxs-lookup"><span data-stu-id="62838-109">If people forward the sharing invitation, only people who already have access to the item will be able to use the link.</span></span> 
     
     > [!NOTE]
-    > <span data-ttu-id="1be7f-p103">Se uma destas opções não está disponível ou se quiser que um tipo de link diferente seja exibida por padrão, você poderá alterar as configurações de toda a organização indo para o Centro de administração do OneDrive e clicando em **compartilhamento** , no painel esquerdo. [Saiba mais](https://go.microsoft.com/fwlink/?linkid=871961)</span><span class="sxs-lookup"><span data-stu-id="1be7f-p103">If one of these options isn't available, or if you want a different link type to appear by default, you can change your organization-wide settings by going to the OneDrive admin center and clicking **Sharing** in the left pane. [Learn more](https://go.microsoft.com/fwlink/?linkid=871961)</span></span>
+    > <span data-ttu-id="62838-110">Se uma dessas opções não estiver disponível ou se você quiser que um tipo de link diferente apareça por padrão, poderá alterar suas configurações de toda a organização indo para o centro de administração do OneDrive e clicando em **compartilhamento** no painel esquerdo.</span><span class="sxs-lookup"><span data-stu-id="62838-110">If one of these options isn't available, or if you want a different link type to appear by default, you can change your organization-wide settings by going to the OneDrive admin center and clicking **Sharing** in the left pane.</span></span> [<span data-ttu-id="62838-111">Saiba mais</span><span class="sxs-lookup"><span data-stu-id="62838-111">Learn more</span></span>](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. <span data-ttu-id="1be7f-p104">Por padrão, a **Permitir edição** é ativada. Se desejar que as pessoas visualizarem somente seus arquivos, desmarque a caixa de seleção.</span><span class="sxs-lookup"><span data-stu-id="1be7f-p104">By default, **Allow editing** is turned on. If you want people to only view your files, uncheck the check box.</span></span> 
+4. <span data-ttu-id="62838-112">Por padrão, a opção **permitir edição** está ativada.</span><span class="sxs-lookup"><span data-stu-id="62838-112">By default, **Allow editing** is turned on.</span></span> <span data-ttu-id="62838-113">Se você quiser que as pessoas apenas exibam seus arquivos, desmarque a caixa de seleção.</span><span class="sxs-lookup"><span data-stu-id="62838-113">If you want people to only view your files, uncheck the check box.</span></span> 
     
-5. <span data-ttu-id="1be7f-114">Insira os nomes das pessoas que deseja compartilhar com e uma mensagem, se desejar.</span><span class="sxs-lookup"><span data-stu-id="1be7f-114">Enter the names of the people you want to share with and a message, if you want.</span></span>
+5. <span data-ttu-id="62838-114">Insira os nomes das pessoas com as quais você deseja compartilhar e uma mensagem, se desejar.</span><span class="sxs-lookup"><span data-stu-id="62838-114">Enter the names of the people you want to share with and a message, if you want.</span></span>
     
-6. <span data-ttu-id="1be7f-115">Quando você estiver pronto para enviar o link, clique em **Enviar**.</span><span class="sxs-lookup"><span data-stu-id="1be7f-115">When you're ready to send the link, click **Send**.</span></span> 
+6. <span data-ttu-id="62838-115">Quando estiver pronto para enviar o link, clique em **Enviar**.</span><span class="sxs-lookup"><span data-stu-id="62838-115">When you're ready to send the link, click **Send**.</span></span> 
     
-[<span data-ttu-id="1be7f-116">Saiba mais</span><span class="sxs-lookup"><span data-stu-id="1be7f-116">Learn more</span></span>](https://go.microsoft.com/fwlink/?linkid=871861)
+[<span data-ttu-id="62838-116">Saiba mais</span><span class="sxs-lookup"><span data-stu-id="62838-116">Learn more</span></span>](https://go.microsoft.com/fwlink/?linkid=871861)
   
 

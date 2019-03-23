@@ -1,39 +1,37 @@
 ---
-title: Senhas de aplicativos
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 senhas de aplicativo
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938220"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762520"
 ---
-# <a name="app-passwords"></a><span data-ttu-id="3e451-102">Senhas de aplicativos</span><span class="sxs-lookup"><span data-stu-id="3e451-102">App passwords</span></span>
+# <a name="app-passwords"></a><span data-ttu-id="42430-102">Senhas de aplicativo</span><span class="sxs-lookup"><span data-stu-id="42430-102">App passwords</span></span>
 
-<span data-ttu-id="3e451-p101">Uma senha de app é um código que dá uma permissão de aplicativo ou dispositivo para acessar sua conta do Office 365. Se seu administrador tiver ativada a autenticação multifator para sua organização, e você estiver usando aplicativos que se conectam à sua conta do Office 365, você precisará gerar uma senha de aplicativo para que o aplicativo que possa se conectar ao Office 365. Por exemplo, se você estiver usando o Outlook 2016 ou anterior com o Office 365, você precisará criar uma senha do aplicativo.</span><span class="sxs-lookup"><span data-stu-id="3e451-p101">An app password is a code that gives an app or device permission to access your Office 365 account. If your admin has turned on multi-factor authentication for your organization, and you're using apps that connect to your Office 365 account, you'll need to generate an app password so the app can connect to Office 365. For example, if you're using Outlook 2016 or earlier with Office 365, you'll need to create an app password.</span></span>
+<span data-ttu-id="42430-103">Uma senha de aplicativo é um código que oferece permissão a um aplicativo ou dispositivo para acessar sua conta corporativa ou de estudante do Office 365.</span><span class="sxs-lookup"><span data-stu-id="42430-103">An app password is a code that gives an app or device permission to access your Office 365 work or school account.</span></span> <span data-ttu-id="42430-104">Se sua conta requer autenticação multifator (MFA) e o aplicativo se conecta à sua conta, você precisa gerar uma senha de aplicativo para que o aplicativo possa se conectar ao Office 365.</span><span class="sxs-lookup"><span data-stu-id="42430-104">If your account requires multi-factor authentication (MFA), and the app connects to your account, you need to generate an app password so the app can connect to Office 365.</span></span> <span data-ttu-id="42430-105">Por exemplo, o Outlook 2016 e versões anteriores do Outlook precisam de uma senha de aplicativo.</span><span class="sxs-lookup"><span data-stu-id="42430-105">For example, Outlook 2016 and earlier versions Outlook of require an app password.</span></span>
   
-1. <span data-ttu-id="3e451-p102">Verifique se o seu administrador do Office 365 tiver ativada a autenticação multifator para sua conta. Se eles ainda não, ao tentar fazer essas etapas você não verá as opções no Office 365.</span><span class="sxs-lookup"><span data-stu-id="3e451-p102">Check whether your Office 365 admin has turned on multi-factor authentication for your account. If they haven't, when you try to do these steps you won't see the options in Office 365.</span></span>
+ <span data-ttu-id="42430-106">**Observação**: antes de tentar as etapas a seguir, verifique com seu administrador do Office 365 se a MFA é necessária para a sua conta.</span><span class="sxs-lookup"><span data-stu-id="42430-106">**Note**: Before you try the following steps, verify with your Office 365 admin that MFA is required for your account.</span></span> <span data-ttu-id="42430-107">Se não for, as opções descritas nas etapas não estarão disponíveis para você.</span><span class="sxs-lookup"><span data-stu-id="42430-107">If it isn't, the options described in the steps won't be available to you.</span></span>
+  
+1. <span data-ttu-id="42430-108">Entre no Office 365 com sua conta corporativa ou de estudante e sua senha.</span><span class="sxs-lookup"><span data-stu-id="42430-108">Sign in to Office 365 with your work or school account and your password.</span></span>
     
-2. <span data-ttu-id="3e451-p103">Entrar no Office 365 com sua conta de trabalho ou da escola com sua senha como faria normalmente. Depois que você escolher **entrar**, você verá uma página com seu nome de usuário e algumas opções</span><span class="sxs-lookup"><span data-stu-id="3e451-p103">Sign in to Office 365 with your work or school account with your password like you normally do. After you choose **Sign in**, you'll see a page with your user name and a few options</span></span> 
+2. <span data-ttu-id="42430-109">Escolha **Configurar agora**.</span><span class="sxs-lookup"><span data-stu-id="42430-109">Choose **Set it up now**.</span></span>
     
-3. <span data-ttu-id="3e451-110">Escolha **montá-lo agora**.</span><span class="sxs-lookup"><span data-stu-id="3e451-110">Choose **Set it up now**.</span></span> 
+3. <span data-ttu-id="42430-110">Selecione o método de autenticação e siga os prompts.</span><span class="sxs-lookup"><span data-stu-id="42430-110">Select your authentication method and follow the prompts.</span></span>
     
-4. <span data-ttu-id="3e451-111">Selecione seu método de autenticação e, em seguida, siga os prompts da página.</span><span class="sxs-lookup"><span data-stu-id="3e451-111">Select your authentication method and then follow the prompts on the page.</span></span>
+4. <span data-ttu-id="42430-111">Após verificar seu método de contato alternativo, escolha **Avançar**.</span><span class="sxs-lookup"><span data-stu-id="42430-111">After you verify your alternate contact method, choose **Next**.</span></span>
     
-5. <span data-ttu-id="3e451-112">Depois de verificar seu método de contato alternativo, escolha **Avançar**.</span><span class="sxs-lookup"><span data-stu-id="3e451-112">After you verify your alternate contact method, choose **Next**.</span></span> 
-    
-6. <span data-ttu-id="3e451-p104">Você obterá uma senha do aplicativo que você pode usar com o Outlook, Apple Mail, etc. Escolha o ícone de cópia para copiar a senha para sua área de transferência. Você não precisa memorizar essa senha.</span><span class="sxs-lookup"><span data-stu-id="3e451-p104">You'll get an app password that you can use with Outlook, Apple Mail, etc. Choose the copy icon to copy the password to your clipboard. You won't need to memorize this password.</span></span> 
-    
-7. <span data-ttu-id="3e451-115">Quando você adicionar sua conta de email do Office 365 para o Outlook (ou outro aplicativo) e você for solicitado para uma senha, passadas essa senha do aplicativo na caixa senha, em vez de digitar a senha da sua conta.</span><span class="sxs-lookup"><span data-stu-id="3e451-115">When you add your Office 365 email account to Outlook (or another app), and you're prompted for a password, past this app password into the Password box, instead of typing your account password.</span></span> 
+5. <span data-ttu-id="42430-112">Você receberá uma senha de aplicativo que pode ser usada com o Outlook, o Apple mail e outros aplicativos que a exigem.</span><span class="sxs-lookup"><span data-stu-id="42430-112">You'll get an app password that you can use with Outlook, Apple Mail, and other apps that require it.</span></span> <span data-ttu-id="42430-113">Escolha **copiar** para copiar a senha para que você possa colá-la em outro lugar (você não precisará memorizar).</span><span class="sxs-lookup"><span data-stu-id="42430-113">Choose **Copy** to copy the password so you can paste it elsewhere (you don't need to memorize it).</span></span> 
     
 

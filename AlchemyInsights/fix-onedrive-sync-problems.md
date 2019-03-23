@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 3a05fcd2-639a-4f16-a6ed-1cffa35fbdb3
-ms.openlocfilehash: 8cbb56016643502838e33ab4a6482e84c2b26212
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: c97444d0afa001f20e7c0edcd798501cc21bda46
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29969665"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759426"
 ---
-# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="5bb7f-102">Corrigir problemas de sincronização do OneDrive</span><span class="sxs-lookup"><span data-stu-id="5bb7f-102">Fix OneDrive sync problems</span></span>
+# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="70fb6-102">Corrigir problemas de sincronização do OneDrive</span><span class="sxs-lookup"><span data-stu-id="70fb6-102">Fix OneDrive sync problems</span></span>
 
-- <span data-ttu-id="5bb7f-103">Seleção que você pode acessar seu OneDrive conta online: clique no ícone do iniciador de app no canto superior esquerdo e, em seguida, clique em OneDrive.</span><span class="sxs-lookup"><span data-stu-id="5bb7f-103">Check that you can access your OneDrive account online: Click the app launcher icon in the upper left, and then click OneDrive.</span></span>
+- <span data-ttu-id="70fb6-103">Verifique se você pode acessar sua conta do OneDrive online: clique no ícone do inicializador de aplicativos no canto superior esquerdo e, em seguida, clique em OneDrive.</span><span class="sxs-lookup"><span data-stu-id="70fb6-103">Check that you can access your OneDrive account online: Click the app launcher icon in the upper left, and then click OneDrive.</span></span>
     
-- <span data-ttu-id="5bb7f-104">Verifique se seu computador está atualizado: [baixar as atualizações mais recentes do Windows](http://go.microsoft.com/fwlink/p/?LinkId=825773), [Baixe a versão mais recente do OneDrive](https://go.microsoft.com/fwlink/p/?linkid=844652)</span><span class="sxs-lookup"><span data-stu-id="5bb7f-104">Make sure your computer is up to date: [Download the latest Windows updates](http://go.microsoft.com/fwlink/p/?LinkId=825773), [Download the latest version of OneDrive](https://go.microsoft.com/fwlink/p/?linkid=844652)</span></span>
+- <span data-ttu-id="70fb6-104">Certifique-se de que seu computador está atualizado: [Baixe as atualizações mais recentes do Windows](http://go.microsoft.com/fwlink/p/?LinkId=825773), [Baixe a versão mais recente do onedrive](https://go.microsoft.com/fwlink/p/?linkid=844652)</span><span class="sxs-lookup"><span data-stu-id="70fb6-104">Make sure your computer is up to date: [Download the latest Windows updates](http://go.microsoft.com/fwlink/p/?LinkId=825773), [Download the latest version of OneDrive](https://go.microsoft.com/fwlink/p/?linkid=844652)</span></span>
     
-- <span data-ttu-id="5bb7f-p101">Desvincular OneDrive e execute novamente a instalação do OneDrive: com o botão direito no ícone de nuvem OneDrive azul na área de notificação, na extremidade direita da barra de tarefas. Clique em **configurações**e, em seguida, clique em **desvincular este PC**. Siga as etapas em Bem-vindo ao Assistente de OneDrive para configurar o OneDrive novamente.</span><span class="sxs-lookup"><span data-stu-id="5bb7f-p101">Unlink OneDrive and run OneDrive setup again: Right-click the blue OneDrive cloud icon in the notification area, at the far right of the taskbar. Click **Settings**, and then click **Unlink this PC**. Follow the steps in the Welcome to OneDrive wizard to set up OneDrive again.</span></span>
+- <span data-ttu-id="70fb6-105">Desvincule o OneDrive e execute a configuração do OneDrive novamente: clique com o botão direito do mouse no ícone azul na nuvem do OneDrive na área de notificação, na extrema direita da barra de tarefas.</span><span class="sxs-lookup"><span data-stu-id="70fb6-105">Unlink OneDrive and run OneDrive setup again: Right-click the blue OneDrive cloud icon in the notification area, at the far right of the taskbar.</span></span> <span data-ttu-id="70fb6-106">Clique em **configurações**e, em seguida, clique em **desvincular este computador**.</span><span class="sxs-lookup"><span data-stu-id="70fb6-106">Click **Settings**, and then click **Unlink this PC**.</span></span> <span data-ttu-id="70fb6-107">Siga as etapas no assistente de boas-vindas do OneDrive para configurar o OneDrive novamente.</span><span class="sxs-lookup"><span data-stu-id="70fb6-107">Follow the steps in the Welcome to OneDrive wizard to set up OneDrive again.</span></span>
     
-[<span data-ttu-id="5bb7f-108">Mais etapas para solução de problemas de sincronização</span><span class="sxs-lookup"><span data-stu-id="5bb7f-108">More steps for troubleshooting sync problems</span></span>](https://go.microsoft.com/fwlink/?linkid=866431)
+[<span data-ttu-id="70fb6-108">Mais etapas para solucionar problemas de sincronização</span><span class="sxs-lookup"><span data-stu-id="70fb6-108">More steps for troubleshooting sync problems</span></span>](https://go.microsoft.com/fwlink/?linkid=866431)
   
 
