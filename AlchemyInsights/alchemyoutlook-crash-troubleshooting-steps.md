@@ -1,5 +1,5 @@
 ---
-title: Alquimia - falha do Outlook etapas de solução de problemas
+title: Alchemy-etapas de solução de problemas do Outlook com falha
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -9,25 +9,25 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 5e54975a9783490c406a15e6572f3858c7123bb7
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: 096e98335f99a28a9d7dba215ccc5334caf9f137
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29968405"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758346"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>Etapas de solução de problemas de falha de Outlook
+# <a name="outlook-crash-troubleshooting-steps"></a>Etapas de solução de problemas de pane do Outlook
 
-Se você estiver tendo problemas de falha da área de trabalho do Outlook, inicie seguindo as 3 etapas abaixo, que são listadas em detalhes neste artigo: [como solucionar problemas que fazer com que o Outlook falha ou travar quando usado com o Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+Se você estiver tendo problemas de falha na área de trabalho do Outlook, comece seguindo as 3 etapas abaixo, que estão listadas em detalhes neste artigo: [como solucionar problemas que causam o Outlook falhar ou travar quando usado com o Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
   
-Etapa 1: Investigar possíveis problemas com suplementos.
+Etapa 1: investigar possíveis problemas com os suplementos.
   
-Etapa 2: Outlook reparo e executar a [ferramenta Assistente de recuperação e suporte para solucionar problemas de erros de inicialização do Outlook](https://aka.ms/SaRA-OutlookWontStart) na máquina afetada. 
+Etapa 2: reparar o Outlook e executar a [ferramenta de assistente de recuperação e suporte para solucionar erros de inicialização do Outlook](https://aka.ms/SaRA-OutlookWontStart) no computador afetado. 
   
-Etapa 3: Criar um novo perfil do Outlook ou você pode executar a [ferramenta de perfil do Outlook](https://aka.ms/SaRA-OutlookSetupProfile) na máquina afetada. 
+Etapa 3: criar um novo perfil do Outlook ou você pode executar a [ferramenta de perfil do Outlook](https://aka.ms/SaRA-OutlookSetupProfile) na máquina afetada. 
   
-Se o problema ocorreu após uma atualização e as etapas acima não funcionarem, você talvez seja necessário reverter para um build anterior. Consulte [como reverter para uma versão anterior do Office 2013 ou Office 2016 Click-to-Run](https://support.microsoft.com/help/2770432).
+Se o problema ocorreu após uma atualização e as etapas acima não funcionarem, talvez seja necessário reverter para uma compilação anterior. Veja [como reverter para uma versão anterior do office 2013 ou office 2016 clique para executar](https://support.microsoft.com/help/2770432).
   
 

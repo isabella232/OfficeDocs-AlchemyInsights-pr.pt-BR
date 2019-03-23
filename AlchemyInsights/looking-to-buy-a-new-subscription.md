@@ -1,5 +1,5 @@
 ---
-title: Procurando para adquirir uma nova assinatura?
+title: Procurando comprar uma nova assinatura?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,35 +9,35 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: eb4e20f4d88e6246195426b02f4f63555a8ba0f9
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 68912255fb1c76e417c59bf131dae08d8551fd3c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917448"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757302"
 ---
-# <a name="looking-to-buy-a-new-subscription"></a>Procurando para adquirir uma nova assinatura?
+# <a name="looking-to-buy-a-new-subscription"></a>Procurando comprar uma nova assinatura?
 
-Se você já tiver um Office 365 para assinatura de negócios e você deseja comprar outra assinatura para sua organização, vá para a página de [Serviços de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) ou escolha **faturamento** \> **Serviços de compra** para ver uma lista de assinaturas disponível para sua organização. 
+se você já tiver uma assinatura do Office 365 for business e quiser comprar outra assinatura para sua organização, vá para a página [comprar serviços](https://go.microsoft.com/fwlink/p/?linkid=868433) ou escolha serviços de **** \> **compra** de cobrança para ver uma lista de assinaturas disponível para sua organização. 
   
-1. Passe o mouse sobre os blocos de assinatura e clique em **Comprar agora**.
+1. Passe o mouse sobre o bloco assinatura e clique em **comprar agora**.
     
-2. Escolha como você gostaria de pagamento e o número de licenças de usuário necessárias.
+2. Escolha como você gostaria de pagar e o número de licenças de usuário necessárias.
     
-3. Escolha **o Check-Out**. Na próxima página, você pode revisar a ordem e conclua a compra.
+3. Escolha **fazer check-out**. Na próxima página, você pode revisar a ordem e concluir a compra.
     
-4. Se você não tiver feito compras, escolha **Adicionar ao carrinho** \> **Continuar compras** para voltar para o catálogo e comprar outra assinatura. 
+4. Se você não tiver feito as compras, escolha **Adicionar ao carrinho** \> **continuar comprando** para voltar ao catálogo e comprar outra assinatura. 
     
-5. Quando sua compra estiver concluída, você pode precisar reatribuir licenças ou cancelar uma assinatura. Para obter ajuda com isso, consulte a seção recursos adicionais a seguir.
+5. Quando a compra estiver concluída, talvez seja necessário reatribuir licenças ou cancelar uma assinatura. Para obter ajuda com isso, confira a seção recursos adicionais abaixo.
     
  **Recursos adicionais:**
   
 - [Atribuir licenças a usuários no Office 365 para empresas](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- [Cancelar o Office 365 para empresas](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Cancelar o Office 365 for Business](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
-- Se você estiver interessado em troca de assinaturas, consulte [Alternar para um diferentes do Office 365 para o plano de negócios.](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)
+- Se você estiver interessado em mudar de assinatura, consulte [alternar para um plano diferente do Office 365 para empresas.](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)
     
 
