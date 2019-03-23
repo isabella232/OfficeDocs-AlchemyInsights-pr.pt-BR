@@ -1,5 +1,5 @@
 ---
-title: Ativando uma assinatura de licença de Volume do Microsoft Office 365
+title: Ativando uma assinatura de licença de volume do Microsoft Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: c5163e1a4fa13a4aeccc9506c798d6df1654ad53
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 25a501f6c07bfee15c18b0cce4f27dd2e6ec3e47
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940628"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757878"
 ---
-# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Ativando uma assinatura de licença de Volume do Microsoft Office 365
+# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Ativando uma assinatura de licença de volume do Microsoft Office 365
 
-1. Faça logon no seu [portal Volume Licensing Service Center (VLSC)](http://go.microsoft.com/fwlink/p/?LinkId=329762).
+1. Entre em seu portal do centro de serviços de licenciamento por [volume (VLSC)](http://go.microsoft.com/fwlink/p/?LinkId=329762).
     
-2. Navegue até sua assinatura do Office 365 e selecione **Ativar**.
+2. Navegue até a sua assinatura do Office 365 e escolha **Ativar**.
     
-3. Um email será enviado ao seu contato do Online Services (OLS).
+3. Um email será enviado ao seu contato dos serviços online (OLS).
     
-4. O email de ativação fornecerá com duas opções: **Inscreva-se**ou **entrar**. Se você tiver criado anteriormente uma versão de avaliação, escolha **entrar**. Se você ainda não tiver um locatário do Office 365, escolha **Inscreva-se**.
+4. O email de ativação oferecerá duas opções: inscrever- **se**ou **entrar**. Se você já criou uma avaliação, escolha **entrar**. Se você ainda não tiver um locatário do Office 365, escolha **inscrever-** se.
     
-5. Entrar no Office 365 ([https://portal.office.com](https://portal.office.com)) usando suas credenciais de administrador existentes do Office 365. Depois que você entra com êxito no, você receberá outro email confirmando sua compra.
+5. Entre no Office 365 ([https://portal.office.com](https://portal.office.com)) usando suas credenciais de administrador do Office 365 existentes. Após entrar com êxito, você receberá outro email confirmando sua compra.
     
-6. Depois que você tiver entrado, você pode ir para a página de [assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) ou escolha **faturamento**  - \> **inscrições** para verificar que o Office 365 das assinaturas adquiridas estiverem ativadas dentro de seu locatário. (Você também pode escolha a guia **assinatura** no VLSC para exibir detalhes de verificar que sua assinatura tenha sido inserida.) 
+6. depois de entrar, você pode ir para a página [assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) ou escolher **assinaturas** de **cobrança**  - \> para verificar se suas assinaturas do Office 365 adquiridas estão ativadas no seu locatário. (Você também pode escolher a guia **assinatura** no VLSC para exibir detalhes, verificando se sua assinatura foi depositada.) 
     
 

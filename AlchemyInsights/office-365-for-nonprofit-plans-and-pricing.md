@@ -1,5 +1,5 @@
 ---
-title: Office 365 para planos sem fins lucrativos e preços
+title: Office 365 para preços e planos sem fins lucrativos
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 84a51e2bb3da804ac1bcc3c7cb8f0efb1fbf58fe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cfe62608a50d634616fc9f57461eda1b401110f1
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920544"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757446"
 ---
-# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 para planos sem fins lucrativos e preços
+# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 para preços e planos sem fins lucrativos
 
-Organizações sem fins lucrativos qualificadas podem receber o Office 365 sem fins lucrativos como uma doação ou atualize a recursos avançados com um desconto significativo. Para se qualificar para um plano sem fins lucrativos do Office 365, você deverá manter [reconhecidos beneficentes status](https://go.microsoft.com/fwlink/p/?LinkID=330253) na política de não-discriminação do seu país e assinar da Microsoft. A Microsoft se reserva o direito de verificar qualificação a qualquer momento e para suspender o serviço para organizações não qualificados. 
+Não lucrativões qualificados podem receber o Office 365 sem fins lucrativos como doação ou atualizar para recursos avançados em um desconto significativo. Para se qualificar para um plano sem fins lucrativos do Office 365, você deve manter o [status de caridade reconhecido](https://go.microsoft.com/fwlink/p/?LinkID=330253) no seu país e assinar a política de não-discriminação da Microsoft. A Microsoft reserva-se o direito de verificar a qualificação a qualquer momento e suspender o serviço para organizações inqualificadas. 
   
-Consulte as [Perguntas frequentes sobre](https://products.office.com/nonprofit/office-365-nonprofit) outras perguntas sobre esta oferta. 
+Consulte as [perguntas frequentes](https://products.office.com/nonprofit/office-365-nonprofit) para saber mais sobre essa oferta. 
   
-- [Revise os planos de sem fins lucrativos](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
+- [Analisar os planos sem fins lucrativos](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
     
 - [Comparar todos os planos do Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
     

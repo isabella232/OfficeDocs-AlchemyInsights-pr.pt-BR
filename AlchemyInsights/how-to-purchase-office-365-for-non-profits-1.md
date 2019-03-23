@@ -1,5 +1,5 @@
 ---
-title: Como comprar o Office 365 para fins lucrativos não
+title: Como comprar o Office 365 para não-lucros
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: a00ca76dc8253a6e9f82753919bf27ed171c7dbc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d1207f4fa2917f5d3dde3dea850fdd7ee0f05e50
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933864"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765652"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>Como comprar o Office 365 para fins lucrativos não
+# <a name="how-to-purchase-office-365-for-non-profits"></a>Como comprar o Office 365 para não-lucros
 
-Seu status como uma organização sem fins lucrativos qualificados do Microsoft foi aprovada. Para comprar:
+Seu status como uma organização sem fins lucrativos qualificados da Microsoft foi aprovado. Para comprar:
   
-1. No Centro de administração, vá para a página de [Serviços de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) ou escolha **faturamento** \> **Serviços de compra**.
+1. No centro de administração, vá para a página [comprar serviços](https://go.microsoft.com/fwlink/p/?linkid=868433) ou escolha **serviços de compra**de **cobrança** \> .
     
-2. Escolha na lista em **Planos de não-lucros**.
+2. Escolha na lista em **planos sem lucros cessantes**.
     
-3. Passe o mouse sobre a assinatura que você deseja comprar e escolha **Comprar agora**.
+3. Passe o mouse sobre a assinatura que você deseja comprar e escolha **comprar agora**.
     
 

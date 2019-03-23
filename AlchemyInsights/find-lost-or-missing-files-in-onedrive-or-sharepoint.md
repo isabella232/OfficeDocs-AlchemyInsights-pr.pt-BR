@@ -1,5 +1,5 @@
 ---
-title: Localizar arquivos perdidos ou ausentes em OneDrive ou SharePoint
+title: Localizar arquivos perdidos ou ausentes no OneDrive ou no SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: 7327d570ab76c8dc0581c004b8701b1f4270d425
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: 3da4aab8de8ac36d87a51f101d6da304e1b383f5
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29968153"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757590"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Localizar arquivos perdidos ou ausentes em OneDrive ou SharePoint
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Localizar arquivos perdidos ou ausentes no OneDrive ou no SharePoint
 
-- Verificar a Lixeira navegando até seu OneDrive ou o site do SharePoint na web e clicando em Lixeira no painel à esquerda. (Se você não vir a Recycle bin no painel esquerdo, clique no ícone configurações e, em seguida, selecione o **conteúdo do Site**. **Lixeira** estiver na extremidade direita da barra de comandos na parte superior.) 
+- Verifique a lixeira navegando até o seu OneDrive ou site do SharePoint na Web e clique em lixeira no painel esquerdo. (Se você não vir lixeira no painel esquerdo, clique no ícone configurações e selecione **conteúdo do site**. A **Lixeira** fica na extrema direita da barra de comandos na parte superior. 
     
-- Se você está sincronizando os arquivos em seu computador, verifique a Lixeira no seu computador. 
+- Se você estiver sincronizando os arquivos em seu computador, verifique a lixeira no computador. 
     
-- Se você não vir o item você está procurando e ela foi excluída recentemente, um administrador de conjunto de sites pode ser capaz de restaurá-lo de que a Lixeira do conjunto de sites. Se você for o administrador do conjunto de sites, consulte [restaurar itens excluídos da Lixeira do conjunto de sites](https://go.microsoft.com/fwlink/?linkid=866439).
+- Se você não vir o item que está procurando e tiver sido excluído recentemente, um administrador do conjunto de sites poderá restaurá-lo da lixeira do conjunto de sites. Se você for o administrador do conjunto de sites, confira [restaurar itens excluídos da lixeira do conjunto de sites](https://go.microsoft.com/fwlink/?linkid=866439).
     
-[Mais ajuda restaurando excluído arquivos e pastas em OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
+[Mais ajuda para restaurar arquivos e pastas excluídos no OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

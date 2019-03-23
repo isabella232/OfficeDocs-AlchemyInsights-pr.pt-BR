@@ -1,5 +1,5 @@
 ---
-title: Cancelar a assinatura do Office 365
+title: Cancelar assinatura do Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 1118757c5c8f738dd63883116e82d60b883cd11d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 545d39d9ea83acfc2e5def49ac3877edbc8275de
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927609"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753162"
 ---
-# <a name="cancelling-your-office-365-subscription"></a>Cancelando a sua assinatura do Office 365?
+# <a name="cancelling-your-office-365-subscription"></a>Cancelar sua assinatura do Office 365?
 
-Infelizmente para vê-lo indo, mas são as suas opções para cancelar a sua assinatura aqui:
+Lamentamos ver você, mas aqui estão suas opções para cancelar sua assinatura:
   
-- Se você for um cliente de avaliação, não há nada para cancelar. Assinaturas de avaliação expiração automaticamente, a menos que você fornecer um método de pagamento.
+- Se você for um cliente de avaliação, não haverá nada para cancelar. As assinaturas de avaliação expiram automaticamente, a menos que você forneça um método de pagamento.
     
-- Se você tiver menos de 25 licenças atribuídas, você pode cancelar sua assinatura online. Vá para [faturamento](https://admin.microsoft.com/adminportal/home#/subscriptions) \> **inscrições**e escolha **as ações mais** \> **Cancelar a assinatura**.
+- Se você tiver menos de 25 licenças atribuídas, poderá cancelar sua assinatura online. Vá até [](https://admin.microsoft.com/adminportal/home#/subscriptions) \> **assinaturas**de cobrança e, em seguida, escolha **mais ações** \> **cancelar assinatura**.
     
-- Se você tiver mais de 25 licenças atribuídas, você pode remover usuários até que você tem menos de 25 ou usar a opção "Vamos ligue para você" para conversar com um engenheiro de suporte.
+- Se você tiver mais de 25 licenças atribuídas, poderá remover os usuários até menos de 25 ou usar a opção "Deixe-nos chamar você" para falar com um engenheiro de suporte.
     
-- Para saber mais sobre o cancelamento de uma inscrição ou para obter instruções detalhadas, consulte [Cancelar o Office 365 para empresas](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx).
+- Para saber mais sobre como cancelar uma assinatura ou para obter instruções passo a passo, confira [cancelar o Office 365 for Business](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx).
     
 

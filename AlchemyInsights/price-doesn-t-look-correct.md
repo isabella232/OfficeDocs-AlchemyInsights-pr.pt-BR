@@ -1,5 +1,5 @@
 ---
-title: Preço não parece estar correto?
+title: O preço não parece correto?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: e4e9b39718a09f8ad9baa50a4ff4ac1ed43147f0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1bb010cac9727561554bf955f76ca0c3d3f15da1
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905064"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752233"
 ---
-# <a name="price-doesnt-look-correct"></a>Preço não parece estar correto?
+# <a name="price-doesnt-look-correct"></a>O preço não parece correto?
 
-Se o preço sobre sua fatura não parece estar correto, isso poderia ser devido a uma mudança de preço a renovação. Se você não acredita que isso explica o problema, use a opção "Vamos ligue para você" para falar com um engenheiro de suporte.
+Se o preço da fatura não parecer correto, isso pode ser devido a uma alteração de preço na renovação. Se você não acredita que isso explique o problema, use a opção "Deixe-nos chamar você" para falar com um engenheiro de suporte.
   
 

@@ -1,5 +1,5 @@
 ---
-title: Como comprar os planos de educação do Office 365
+title: Como adquirir planos de educação do Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 09f40c86-05d7-45ef-a6d1-3292509353c2
-ms.openlocfilehash: a13a7d4c765e3c4bbe41ee69df17e2a8ae19ed3e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 7cd0582305e619a9277482f865fa51fb30316136
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929256"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765580"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Como comprar os planos de educação do Office 365
+# <a name="how-to-purchase-office-365-education-plans"></a>Como adquirir planos de educação do Office 365
 
-Sua qualificação de educação do Office 365 está sob revisão. Você pode esperar receber uma notificação sobre a determinação da sua qualificação antes de sua avaliação expira.
+Sua qualificação do Office 365 Education está em revisão. Você pode esperar receber uma notificação sobre a determinação de sua elegibilidade antes que a avaliação expire.
   
 

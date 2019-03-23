@@ -1,5 +1,5 @@
 ---
-title: O que é um site de hub?
+title: O que é um site do Hub?
 ms.author: clake
 author: spowriter
 manager: scotv
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c74df953-2ddc-4375-aea0-9f410881bb2e
-ms.openlocfilehash: 7be7928baa630021f590b435a3d4710056ff6dca
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cd414235a38d24b0889ccb400e011c387919691c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911472"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765724"
 ---
-# <a name="whats-a-hub-site"></a>O que é um site de hub?
+# <a name="whats-a-hub-site"></a>O que é um site do Hub?
 
-Ajuda você a um site de hub organizar sites e fornecer-lhes uma navegação comuns e identidade visual. Global ou do SharePoint administradores poderão criar sites de hub e especificar quais usuários podem associar seus sites com o site de hub. Para obter mais informações, consulte [sites de hub do SharePoint no Office 365](https://go.microsoft.com/fwlink/?linkid=869388).
+Um site de Hub ajuda você a organizar sites e a fornecer uma navegação e uma identidade visual comuns. Os administradores globais ou do SharePoint poderão criar sites do Hub e especificar quais usuários podem associar seus sites ao site do Hub. Para saber mais, confira [sites de Hub do SharePoint novo no Office 365](https://go.microsoft.com/fwlink/?linkid=869388).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Tomada de controle do administrador
+title: Administração de tomada
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 53aeac4c-00cb-4395-9d9b-b344cc5ada6f
-ms.openlocfilehash: fe57eacf1137b8ef26fbd4721eb35a443a80dd8c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 445ad25eacf5a873473bebd0e9c62fb1f81003d3
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932784"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764140"
 ---
-# <a name="become-an-admin"></a>Torne-se um administrador
+# <a name="become-an-admin"></a>Tornar-se um administrador
 
-Para assumir a função de administrador para esta organização, você precisa assumir. Siga as instruções deste guia para obter instruções detalhadas: [como realizar uma tomada de controle do administrador de TI com O365](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)
+Para assumir a função de administrador para esta organização, você precisa assumir o controle. Siga as instruções deste guia para obter instruções detalhadas: [como realizar um tomada de administração de ti com o O365](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)
 

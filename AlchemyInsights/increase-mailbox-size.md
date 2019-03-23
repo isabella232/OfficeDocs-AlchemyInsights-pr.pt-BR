@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 3ecff82230295ca161dc83efcede3d989bb7cb5a
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208285"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752118"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Mudar de plano para aumentar o tamanho da caixa de correio
 
@@ -34,4 +34,4 @@ Se o tamanho da caixa de correio for de 50 GB, você poderá aumentá-lo para 10
     
 Para obter mais detalhes, consulte [mudar para um plano diferente do Office 365](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-
+Se você tiver um [plano do O365 que ofereça suporte a um arquivo morto no local](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), também poderá obter armazenamento de email adicional habilitando uma caixa de correio de arquivo morto.  Uma caixa de correio de arquivo morto fornece armazenamento adicional e permite que você mova, copie e pesquise mensagens na caixa de correio principal e de arquivo morto. Para obter etapas sobre como habilitar uma caixa de correio de arquivo morto, consulte [habilitar uma caixa de correio de arquivo](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).

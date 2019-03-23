@@ -1,5 +1,5 @@
 ---
-title: Restaurar sua OneDrive
+title: Restaurar o OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: ec6f47f32e47c2e75544e36b8c1cd6f165f5f890
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: aa8fce9a3666e875efe0260f3604e13292dd4a26
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29969881"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763924"
 ---
-# <a name="restore-your-onedrive"></a>Restaurar sua OneDrive
+# <a name="restore-your-onedrive"></a>Restaurar o OneDrive
 
-Se muitos dos seus arquivos OneDrive obtém excluídos, overwritted, corrompidos ou infectados por malware, você pode restaurar seu OneDrive inteiro para um horário anterior nos últimos 30 dias.
+Se vários arquivos do OneDrive forem excluídos, overwritted, corrompidos ou infectados por malware, você poderá restaurar todo o OneDrive para um momento anterior nos últimos 30 dias.
   
-1. Vá para a sua OneDrive no navegador da web.
+1. Vá para o OneDrive em seu navegador da Web.
     
-2. Clique no ícone configurações no canto superior direito e selecione **restaurar sua OneDrive**.
+2. Clique no ícone configurações no canto superior direito e selecione **restaurar o onedrive**.
     
-3. Selecione uma data na lista ou escolha **personalizado de data e hora**.
+3. Selecione uma data na lista ou escolha **data e hora personalizadas**.
     
-4. Clique em **Restaurar** para desfazer todas as atividades depois da data selecionada. 
+4. Clique em **restaurar** para desfazer todas as atividades após a data selecionada. 
     
-[Usando a restauração de arquivos de mais ajuda](https://go.microsoft.com/fwlink/?linkid=872874)
+[Mais ajuda para usar a restauração de arquivos](https://go.microsoft.com/fwlink/?linkid=872874)
   
 

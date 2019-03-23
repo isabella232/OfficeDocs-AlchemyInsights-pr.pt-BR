@@ -9,24 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c46c757e-d2e6-46e9-95b2-5b47bb4bd572
-ms.openlocfilehash: 43624ba1dfd46905502129de9e093efd56046ce4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 2bb3d677cc35040363f6806d95cbe0c41b25f6cc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911940"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765472"
 ---
 # <a name="delete-a-sharepoint-page"></a>Excluir uma página do SharePoint
 
-1. Vá para o site onde a página está.
+1. Vá para o site em que a página está.
     
-2. No lado esquerdo, clique em **Conteúdo do Site**.
+2. No lado esquerdo, clique em **conteúdo do site**.
     
-3. No lado esquerdo da página conteúdo do Site, clique em **páginas**.
+3. No lado esquerdo da página conteúdo do site, clique em **páginas**.
     
-4. Selecione a página e, em seguida, clique nas reticências (…) à direita da página.
+4. Selecione a página e, em seguida, clique nas reticências (...) à direita da página.
     
 5. Clique em **Excluir**.
     
