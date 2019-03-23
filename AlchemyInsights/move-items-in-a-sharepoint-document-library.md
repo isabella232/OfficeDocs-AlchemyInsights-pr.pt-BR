@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: fc166470e0f40c9dea5f21bf2d89912459fc8142
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d3b7b8504d4ffcdccfe39645ee462e4e2e36b660
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900240"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759966"
 ---
 # <a name="move-items-in-a-sharepoint-document-library"></a>Mover itens em uma biblioteca de documentos do SharePoint
 
-Você pode mover itens para locais diferentes dentro de uma biblioteca de documentos. Se você tiver [configurado a opção de versão de multidifusão](https://go.microsoft.com/fwlink/?linkid=622980), você também pode mover itens entre sites. Quando você mover documentos, histórico dele também é movido.
+Você pode mover itens para diferentes locais dentro de uma biblioteca de documentos. Se você tiver [configurado a opção de lançamento direcionado](https://go.microsoft.com/fwlink/?linkid=622980), também poderá mover itens entre sites. Quando você move documentos, seus históricos também são movidos.
   
-1. Em um navegador da web, navegue até os arquivos, pastas ou links que você deseja mover e, em seguida, clique em **Mover para**.
+1. Em um navegador da Web, navegue até os arquivos, pastas ou links que você deseja mover e, em seguida, clique em **mover para**.
     
     > [!NOTE]
-    > **Mover para** não está disponível se você estiver usando a experiência clássica do SharePoint Online. 
+    > **Mover para** não estará disponível se você estiver usando a experiência clássica do SharePoint Online. 
   
-2. Em **Escolher um destino**, selecione o local para o qual você deseja mover os itens. Se você estiver movendo a outro site ou subsite e não vê-los listados, clique em **navegar sites** para ver a lista completa de sites que você pode mover para. 
+2. Em **escolher um destino**, selecione o local para o qual você deseja mover os itens. Se você estiver migrando para um site ou subsite diferente e não o vir listado, clique em **procurar sites** para ver a lista completa de sites para os quais você pode mover. 
     
-    Para criar uma nova pasta para mover os arquivos para, selecione um local na hierarquia da pasta, clique em **nova pasta**, insira um nome para a pasta e clique na marca de seleção para salvar o nome.
+    Para criar uma nova pasta para a qual mover os arquivos, selecione um local na hierarquia de pastas, clique em **nova pasta**, insira um nome para a pasta e clique na marca de seleção para salvar o nome.
     
-3. Clique em **Mover aqui**.
+3. Clique em **mover aqui**.
     
 

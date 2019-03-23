@@ -1,5 +1,5 @@
 ---
-title: Cancelando a sua assinatura do Office 365?
+title: Cancelar sua assinatura do Office 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: cf96af3b2e70279f38651ed09c4189ff7369cb7e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: acb02010098931a2d1ee2a9e781c86dc67fb98ef
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928412"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755574"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Cancelando a sua assinatura do Office 365?
+# <a name="canceling-your-office-365-subscription"></a>Cancelar sua assinatura do Office 365?
 
-Infelizmente para vê-lo indo! 
+Lamentamos ver você! 
   
-Com base nos dados da sua organização, podemos acredite que todas as suas assinaturas atuais tem menos de 25 estações. Para cancelar a sua assinatura online, vá para a página de [assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) ou vá para **faturamento** \> **assinaturas**, escolha **as ações mais** \> **Cancelar a assinatura**.
+Com base nos dados da sua organização, acreditamos que todas as suas assinaturas atuais têm menos de 25 estações. Para cancelar sua assinatura online, vá para a [página assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) ou vá para **assinaturas**de **cobrança** \> e, em seguida, escolha **mais ações** \> **cancelar assinatura**.
   
-Para saber mais sobre o cancelamento de uma inscrição ou para obter instruções detalhadas, consulte este artigo: [Cancelar o Office 365 para empresas](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+Para saber mais sobre como cancelar uma assinatura ou instruções passo a passo, consulte este artigo: [cancelar o Office 365 for Business](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
   
 

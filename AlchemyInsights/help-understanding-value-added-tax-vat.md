@@ -1,5 +1,5 @@
 ---
-title: Ajudar Noções básicas sobre o valor adicionado imposto (VAT)
+title: Ajuda para entender o imposto sobre valor agregado (VAT)
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: 122ffe07011a549d213c0c7acc5177ab6e3e952c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: fa174850f1e2810a2d38833f5dca4360ee53d4be
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29907620"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753342"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>Ajudar Noções básicas sobre o valor adicionado imposto (VAT)
+# <a name="help-understanding-value-added-tax-vat"></a>Ajuda para entender o imposto sobre valor agregado (VAT)
 
-Se você estiver em um país que usa valores adicionado VAT (imposto sobre), como o Reino Unido, Microsoft Invoicing calcula a VAT para você e aplica a quantidade às suas faturas.
+Se você estiver em um país que usa o imposto sobre valor agregado (VAT), como o Reino Unido, o faturamento da Microsoft calcula o IVA para você e aplica o valor às faturas.
   
-Por motivos de imposto, você também deve especificar seu número de registro de VAT nas configurações de faturamento.
+Por motivos de impostos, você também deve especificar o número de registro do VAT nas configurações do faturamento.
   
-Não é possível adicionar ou remover taxas de VAT, mas você pode alterar a taxa de VAT padrão nas configurações. Por padrão, faturamento usa um serviço para validar os números de inscrição de VAT, mas recomendamos que você leia [isenção de responsabilidade VIES](https://go.microsoft.com/fwlink/?LinkID=841741) publicadas pela comissão europeu. Se você optar por desabilitar o serviço, você deve verificar todos os números de inscrição de VAT. 
+Não é possível adicionar ou remover taxas de IVA, mas você pode alterar a taxa de IVA padrão em configurações. Por padrão, o faturamento usa um serviço para validar os números de registro de IVA, mas recomendamos que você leia a isenção de [responsabilidade do vies](https://go.microsoft.com/fwlink/?LinkID=841741) publicada pela Comissão Européia. Se você optar por desabilitar o serviço, deverá verificar todos os números de registro de IVA. 
   
 

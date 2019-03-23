@@ -1,5 +1,5 @@
 ---
-title: Onde está o Power Pivot?
+title: Onde o é o Power pivot?
 ms.author: chrsm
 author: chrsm
 manager: jecon
@@ -9,35 +9,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 53156353d82bf5e36164f9af58ae48aaf002aa7e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1ff407cea0a992ca4236218cfdf93ec315e723a9
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912876"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761261"
 ---
-# <a name="where-is-power-pivot"></a>Onde está o Power Pivot?
+# <a name="where-is-power-pivot"></a>Onde o é o Power pivot?
 
-Há três razões por que você não vir Power Pivot:
+Há três razões pelas quais você não vê o Power pivot:
   
- **Sua versão do Excel não inclui-la**
+ **Sua versão do Excel não a inclui**
   
-Nem todas as versões do Excel incluem Power Pivot. Você precisará atualizar para uma versão do Office que inclui o Power Pivot. [Verifique a lista de versões compatíveis.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+Nem todas as versões do Excel incluem o Power pivot. Será necessário atualizar para uma versão do Office que inclua o Power pivot. [Verifique a lista de versões com suporte.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
- **Você não ativou o Power Pivot**
+ **Você não ativou o Power pivot**
   
-Se você estiver trabalhando em uma versão do Excel que suporta o Power Pivot, verificar se o suplemento está habilitado:
+Se você estiver trabalhando em uma versão do Excel que suporte o Power pivot, verifique se o suplemento está habilitado:
   
-1. Escolha **arquivo** \> **Opções** \> **Suplementos**.
+1. Escolha **suplementos de** **Opções** \> de **arquivo** \> .
     
-2. Na caixa suspensa **Gerenciar** , escolha **suplementos COM** e clique em **Ir**.
+2. Na caixa suspensa **gerenciar** , escolha suplementos de **com** e clique em **ir**.
     
-3. Na caixa de diálogo **suplementos Com** , marque a caixa de seleção ao lado de **Microsoft PowerPivot para Excel**e, em seguida, clique em **Okey**. 
+3. Na caixa de diálogo suplementos de **com** , marque a caixa de seleção ao lado de **Microsoft Power pivot para Excel**e clique em **OK**. 
     
- **Você tem várias contas ou assinaturas**
+ **Você tem várias assinaturas ou contas**
   
-Você pode ter diferentes assinaturas do Office 365 atribuídas às contas de usuário diferente. Verifique se que você estiver conectado a uma conta com uma versão do Excel que suporta o Power Pivot. Verifique a lista de [versões compatíveis](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)e siga as instruções para [Alternar entre diferentes contas do Office](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
+Você pode ter assinaturas diferentes do Office 365 atribuídas a diferentes contas de usuário. Verifique se você está conectado a uma conta com uma versão do Excel que suporte o Power pivot. Verifique a lista de [versões com suporte](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)e siga as instruções para [alternar entre diferentes contas do Office](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
   
 

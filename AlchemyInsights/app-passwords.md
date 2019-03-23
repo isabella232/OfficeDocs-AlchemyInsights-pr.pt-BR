@@ -1,39 +1,37 @@
 ---
-title: Senhas de aplicativos
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 senhas de aplicativo
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938220"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762520"
 ---
-# <a name="app-passwords"></a>Senhas de aplicativos
+# <a name="app-passwords"></a>Senhas de aplicativo
 
-Uma senha de app é um código que dá uma permissão de aplicativo ou dispositivo para acessar sua conta do Office 365. Se seu administrador tiver ativada a autenticação multifator para sua organização, e você estiver usando aplicativos que se conectam à sua conta do Office 365, você precisará gerar uma senha de aplicativo para que o aplicativo que possa se conectar ao Office 365. Por exemplo, se você estiver usando o Outlook 2016 ou anterior com o Office 365, você precisará criar uma senha do aplicativo.
+Uma senha de aplicativo é um código que oferece permissão a um aplicativo ou dispositivo para acessar sua conta corporativa ou de estudante do Office 365. Se sua conta requer autenticação multifator (MFA) e o aplicativo se conecta à sua conta, você precisa gerar uma senha de aplicativo para que o aplicativo possa se conectar ao Office 365. Por exemplo, o Outlook 2016 e versões anteriores do Outlook precisam de uma senha de aplicativo.
   
-1. Verifique se o seu administrador do Office 365 tiver ativada a autenticação multifator para sua conta. Se eles ainda não, ao tentar fazer essas etapas você não verá as opções no Office 365.
+ **Observação**: antes de tentar as etapas a seguir, verifique com seu administrador do Office 365 se a MFA é necessária para a sua conta. Se não for, as opções descritas nas etapas não estarão disponíveis para você.
+  
+1. Entre no Office 365 com sua conta corporativa ou de estudante e sua senha.
     
-2. Entrar no Office 365 com sua conta de trabalho ou da escola com sua senha como faria normalmente. Depois que você escolher **entrar**, você verá uma página com seu nome de usuário e algumas opções 
+2. Escolha **Configurar agora**.
     
-3. Escolha **montá-lo agora**. 
+3. Selecione o método de autenticação e siga os prompts.
     
-4. Selecione seu método de autenticação e, em seguida, siga os prompts da página.
+4. Após verificar seu método de contato alternativo, escolha **Avançar**.
     
-5. Depois de verificar seu método de contato alternativo, escolha **Avançar**. 
-    
-6. Você obterá uma senha do aplicativo que você pode usar com o Outlook, Apple Mail, etc. Escolha o ícone de cópia para copiar a senha para sua área de transferência. Você não precisa memorizar essa senha. 
-    
-7. Quando você adicionar sua conta de email do Office 365 para o Outlook (ou outro aplicativo) e você for solicitado para uma senha, passadas essa senha do aplicativo na caixa senha, em vez de digitar a senha da sua conta. 
+5. Você receberá uma senha de aplicativo que pode ser usada com o Outlook, o Apple mail e outros aplicativos que a exigem. Escolha **copiar** para copiar a senha para que você possa colá-la em outro lugar (você não precisará memorizar). 
     
 

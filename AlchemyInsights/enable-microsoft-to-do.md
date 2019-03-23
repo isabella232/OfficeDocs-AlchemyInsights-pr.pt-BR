@@ -1,5 +1,5 @@
 ---
-title: Habilitar tarefas pendentes do Microsoft
+title: Habilitar o Microsoft to-do
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
-ms.openlocfilehash: aa852f37c365ce1df8527438938e0dbcd95cbd19
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 39bd4634d31b8ff33081c10e566e05f7e1561404
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928032"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759894"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a>Como habilitar o Microsoft To-Do
+# <a name="how-to-enable-microsoft-to-do"></a>Como habilitar o Microsoft to-do
 
-Para usar o Microsoft To-Do, um administrador deve habilitar o aplicativo na conta de cada usuário. Vá até o [serviços &amp; página suplementos](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) da página de configurações de administração do Office 365 para habilitar tarefas pendentes para cada usuário. 
+Para usar o Microsoft to-do, um administrador deve habilitar o aplicativo na conta de cada usuário. Vá até a [página &amp; suplementos de serviços](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) da página Configurações de administração do Office 365 para habilitar a tarefa pendente para cada usuário. 
   
-Microsoft To-Do utiliza os recursos no Exchange Online para sincronizar e armazenar itens de tarefas pendentes dos usuários. Para usar o Microsoft To-Do, um usuário precisa de uma caixa de correio do Exchange Online válida.
+O Microsoft to-do usa recursos do Exchange Online para sincronizar e armazenar os itens de tarefas pendentes dos usuários. Para usar o Microsoft to-do, um usuário precisa de uma caixa de correio válida do Exchange Online.
   
-Para obter informações adicionais, consulte [Administração de visualização de tarefas pendentes do Microsoft](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
+Para obter informações adicionais, consulte [Administração de visualização da Microsoft](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
   
- **Observação**: se você receber um erro 501 ao tentar fazer logon em [http://todo.microsoft.com](http://todo.microsoft.com), tente [https://to-do.microsoft.com](https://to-do.microsoft.com).
+ **Observação**: se você receber um erro 501 ao tentar fazer o login [http://todo.microsoft.com](http://todo.microsoft.com), tente [https://to-do.microsoft.com](https://to-do.microsoft.com).
   
 

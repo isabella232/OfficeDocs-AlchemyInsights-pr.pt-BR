@@ -1,5 +1,5 @@
 ---
-title: Gerenciar meu tesouro
+title: Gerenciar minha lista
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f844501a-e575-48b8-9c1b-9f800c7b89f8
-ms.openlocfilehash: 39b7f2a566ce3f6b759c4a23cb1f602be909205e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: eff17074de4c198ec475573081a01f4288dd3ecb
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906003"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759822"
 ---
-# <a name="manage-my-bill-and-payments"></a>Gerenciar minhas bill e pagamentos
+# <a name="manage-my-bill-and-payments"></a>Gerenciar minhas faturas e pagamentos
 
-Como um administrador, você tem acesso a todas as suas opções de cobrança e pagamentos no Centro de administração.
+Como administrador, você tem acesso a todas as suas opções de cobrança e pagamentos no centro de administração.
   
-- Exiba seu bill ou faturas.
+- Exibir sua cobrança ou fatura.
     
 - Adicionar, atualizar ou remover sua opção de pagamento.
     
-- Alternar para um diferentes do Office 365.
+- Mudar para um outro Office 365.
     
-- Renove sua assinatura.
+- ReNovar sua assinatura.
     
-- Compre outra assinatura.
+- Comprar outra assinatura.
     
-- Estenda sua avaliação.
+- Estenda a avaliação.
     
-- Cancele sua assinatura.
+- Cancelar sua assinatura.
     
 
