@@ -1,5 +1,5 @@
 ---
-title: Alterar os NameServers
+title: Alterar nameservers
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: 61c4c5e43a247679bf18fd3861dd98fbe9a7b3eb
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: ea25afd85e9ef1ae89f3a8908dc1e83a4433c890
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405311"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754674"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Atualizar os servidores de nomes de domínio para o Office 365
+# <a name="update-your-domain-nameservers-to-office-365"></a>Atualize seus nameservers de domínio para o Office 365
 
-Observação: às vezes, as alterações de nameserver podem levar até 48 horas para se propagar.
+Observação: às vezes, as alterações de nameserver podem levar até 48 horas para serem propagadas.
   
 Para configurar o domínio no Office 365, os servidores de nomes no seu registrador precisam ser atualizados. Crie ou edite registros de servidor de nomes no seu registrador de domínio.
   

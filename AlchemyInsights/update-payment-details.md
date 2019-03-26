@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f8d8b8d1-aed2-47df-b9bc-5f71b3c109dd
-ms.openlocfilehash: 366a29a2d3c0345ce857904bdceb8250ea88dc0f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: a20d332a32514e7c7608e825883b9e85f7d1a093
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404663"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755610"
 ---
 # <a name="update-payment-details"></a>Atualizar detalhes de pagamento
 
-1. No centro de administração, vá para a [página métodos de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806) ou escolha métodos de **pagamento**de **cobrança** \> .
+1. No Centro de administração, acesse a página [Formas de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806), ou escolha **Cobrança** \> **Formas de pagamento**.
     
     > [!NOTE]
-    > Se você tiver um loop que lhe envia de volta para a Home Page de administrador antes que as atualizações sejam concluídas, experimente o modo InPrivate ou incógnito. 
+    > Se houver um loop que o envia de volta para a home page do administrador antes da conclusão das atualizações, experimente o modo InPrivate ou Anônimo. 
   
 2. Escolha o cartão de crédito que você deseja atualizar.
     
     > [!NOTE]
-    > Se outro administrador adicionar a forma de pagamento, você não poderá atualizar as informações do cartão de crédito ou da conta bancária para ela. Se o cartão de crédito estiver prestes a expirar e o outro administrador não puder atualizá-lo, você poderá impedir a interrupção do serviço adicionando um cartão de crédito ou uma nova conta de banco diferente para a assinatura escolhendo **Adicionar método de pagamento**. 
+    > Se outro administrador adicionou a forma de pagamento, você não poderá atualizar as informações de cartão de crédito ou conta bancária. Caso o cartão de crédito esteja prestes a expirar e o outro administrador não possa atualizar as informações, você poderá adicionar outro cartão de crédito ou uma nova conta bancária à assinatura para evitar a interrupção do serviço, escolhendo **Adicionar forma de pagamento**. 
   
-3. Na página **detalhes do pagamento** , escolha **Editar detalhes do pagamento**.
+3. Na página **Detalhes de pagamento**, escolha **Editar detalhes de pagamento**. 
     
-4. Faça as atualizações e, em seguida, escolha **salvar**.
+4. Faça as atualizações e, em seguida, escolha **Salvar**.
     
-5. Para remover essa método de pagamento, escolha **excluir**.
+5. Para remover essa forma de pagamento, escolha **Excluir**.
     
-Para obter mais informações, consulte [Adicionar, atualizar ou remover um cartão de crédito ou uma conta bancária no Office 365 para empresas](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) e [solucionar problemas de cartões de crédito e contas bancárias](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Para obter mais informações, confira [Adicionar, atualizar ou remover cartão de crédito ou conta bancária no Office 365 para empresas](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) e [Como solucionar problemas com cartões de crédito e contas bancárias](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
 
