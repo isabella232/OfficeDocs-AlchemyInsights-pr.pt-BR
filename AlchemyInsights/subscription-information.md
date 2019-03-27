@@ -1,5 +1,5 @@
 ---
-title: Informações de inscrição
+title: Informações de assinatura
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: e8ce1a06ba230b6907e1e3cc7dfdc829ab8b49cf
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a90c9b76d5ad80508d1e38fabe21eb944fe9681e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905172"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766660"
 ---
-# <a name="subscription-information"></a>Informações de inscrição
+# <a name="subscription-information"></a>Informações de assinatura
 
-Para obter informações sobre as assinaturas você proprietário, vá para a página de [assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) ou escolha **faturamento** \> **assinaturas**.
+Para obter informações sobre as assinaturas de sua propriedade, acesse a [página assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) ou escolha **assinaturas**de **cobrança** \> .
   
 Informações importantes sobre cada assinatura:
   
 - Status de cada
     
-- Licenças adquiridas
+- Licenças compradas
     
 - Licenças atribuídas
     
-- Status de faturamento recorrente
+- Status de cobrança recorrente
     
-- Balancear
+- Carga
     
 - Método de pagamento
     
-- Próxima data de expiração ou faturamento
+- Próxima cobrança ou data de vencimento
     
 

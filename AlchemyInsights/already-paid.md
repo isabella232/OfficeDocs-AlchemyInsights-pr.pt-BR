@@ -1,5 +1,5 @@
 ---
-title: Já pagou?
+title: Já pago?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: 76c5d1bba93abf52bf60bf59d0b901e70fff3598
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 33897829d1ab902e423eb2f8e9e1b2dfc5f869fd
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29923561"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766912"
 ---
-# <a name="already-paid"></a>Já pagou?
+# <a name="already-paid"></a>Já pago?
 
-Se você já tiver enviado pagamento, você poderá nos informar:
+Se você já enviou o pagamento, pode nos informar:
   
-1. Vá para a página de [assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) ou escolha **faturamento** \> **assinaturas**.
+1. Vá para a [página assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) ou escolha **assinaturas**de **cobrança** \> .
     
-2. Escolha uma assinatura e na seção **meu tesouro** , escolha **Obrigação do modo de exibição**.
+2. Escolha uma assinatura e, na seção **minha fatura** , escolha **Exibir cobrança**.
     
-3. Na página de **detalhes de Bill** , escolha **já pagou?** Você será solicitado a digitar informações relacionadas ao pagamento que foi enviado. 
+3. Na página **detalhes da lista** , escolha **já pago?** Você será solicitado a inserir informações relacionadas ao pagamento enviado. 
     
-4. Quando tem sido inseridas todas as informações necessárias, escolha **Enviar**.
+4. Quando todas as informações necessárias tiverem sido inseridas, escolha **Enviar**.
     
 

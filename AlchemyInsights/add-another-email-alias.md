@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 1fd498dbbc96b2226c42553b652c04cfbb5e75ca
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 66d20ca17287ee762266a22a376f59f5f8975a00
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30207997"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767308"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Criar ou adicionar um alias de email para um usuário
 
@@ -28,7 +28,7 @@ Precisa criar um alias de email para um usuário ou adicionar um endereço de em
     
 3. À direita, na linha **Nome de usuário/Aliases de email**, escolha **Editar**.
     
-4. Na caixa **alias** , digite um novo email e, em seguida, escolha **Adicionar**. Se você comprou sua assinatura do GoDaddy ou de outro parceiro, para definir o novo alias como principal, você deve ir para o console de gerenciamento do GoDaddy/parceiro. 
+4. Na caixa **alias** , digite um novo email e, em seguida, escolha **Adicionar**. Se você comprou a assinatura da GoDaddy ou de outro parceiro, vá até o respectivo console de gerenciamento para definir o novo alias como principal. 
     
     **IMPORTANTE**: a mensagem de erro " **Não é possível localizar um parâmetro que coincida com o nome de parâmetro 'EmailAddresses**" indica que está demorando um pouco mais para o Office 365 terminar de configurar seu locatário ou domínio personalizado, se você adicionou um recentemente. O processo de configuração pode levar até quatro horas para ser concluído. Aguarde um pouco até ele terminar e tente novamente. Se o problema persistir, peça ao Suporte para fazer uma sincronização completa para você.
     

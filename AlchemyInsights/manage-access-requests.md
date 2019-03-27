@@ -9,24 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: ba64b23e5f179b3b0cfd2226e565d8f72d097b45
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 401600c1e6eb635e8b973d1d16a6ad05f0c795b5
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29921048"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766048"
 ---
 # <a name="manage-access-requests"></a>Gerenciar solicitações de acesso
 
-Quando um usuário tenta acessar um item no SharePoint e não têm permissão, eles verão uma mensagem que precisam de permissão para acessar o item. O usuário pode solicitar acesso (em alguns casos, um item específico ou para ingressar no grupo) e um proprietário de site podem aprovar ou recusar a solicitação. Se alguém que não é um proprietário de site compartilha um site com outra pessoa, o proprietário do site também receberá uma solicitação de acesso para o novo usuário. Para aprovar ou recusar as solicitações de acesso:
+Quando um usuário tenta acessar um item no SharePoint e ele não tem permissão, ele verá uma mensagem de que precisa de permissão para acessar o item. O usuário pode solicitar acesso (em alguns casos, ao item específico ou ingressar no grupo) e um proprietário de site pode aprovar ou recusar a solicitação. Se alguém que não é proprietário do site compartilhar um site com outra pessoa, o proprietário do site também receberá uma solicitação de acesso para o novo usuário. Para aprovar ou recusar solicitações de acesso:
   
-1. Vá para o site, clique no ícone configurações no canto superior direito e clique em **Configurações do Site**. (Se você não vir as configurações do Site, clique em **permissões do Site**e clique em **configurações de permissões avançadas**. Procure um banner que tem um link chamado "Mostrar solicitações de acesso e convites".)
+1. Vá para o site, clique no ícone configurações no canto superior direito e clique em **configurações do site**. (Se você não vir as configurações do site, clique em **permissões do site**e em **configurações de permissões avançadas**. Procure uma faixa que tenha um link chamado "mostrar solicitações de acesso e convites".)
     
-2. Em **usuários e permissões**, clique em **convites e solicitações de acesso**. (Se isso não aparecer, solicitações de acesso não foram feitas.)
+2. Em **Usuários e Permissões**, clique em **Acessar solicitações e convites**. (Se isso não aparecer, não foram feitas solicitações de acesso.)
     
-3. Para conceder a permissão de usuário individualmente, clique em **Aprovar** ou **Recusar**. Para selecionar um nível de permissão específico, primeiro clique nas reticências (…) ao lado do nome da pessoa. Como alternativa, adicione o usuário a um grupo que tem permissão para o site. Para sites de comunicação e sites de equipe clássico, você pode fazer isso na página Configurações do Site. Para sites que pertencem a um grupo do Office 365, você pode adicionar o usuário ao grupo.
+3. Para conceder a permissão de usuário individualmente, clique em **aprovar** ou **recusar**. Para selecionar um nível de permissão específico, clique primeiro nas reticências (...) ao lado do nome da pessoa. Como alternativa, adicione o usuário a um grupo que tenha permissão para o site. Para sites de comunicação e sites de equipe clássicos, você pode fazer isso na página Configurações de site. Para sites que pertencem a um grupo do Office 365, você pode adicionar o usuário ao grupo.
     
     [Gerenciar solicitações de acesso](https://go.microsoft.com/fwlink/?linkid=2008747)
     

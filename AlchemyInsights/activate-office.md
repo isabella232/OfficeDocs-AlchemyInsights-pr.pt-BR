@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 89af7e4b-9b49-4c50-a604-21003ad30004
-ms.openlocfilehash: 06eddc680ae28c81a702f821be830cb586724e25
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 56f857d9dfa5e30b56788b2eeb3756ec06ea6e5a
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939156"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766984"
 ---
 # <a name="activate-office"></a>Ativar o Office
 
-Você pode ativar o Office login usando sua conta do trabalho ou da escola. Use as etapas neste artigo para ativar o Office: [Ativar o Office](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx).
+Você pode ativar o Office entrando usando sua conta corporativa ou de estudante. Use as etapas deste artigo para ativar o Office: [ativar o Office](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx).
   
 
