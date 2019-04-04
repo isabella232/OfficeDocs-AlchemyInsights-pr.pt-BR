@@ -1,5 +1,5 @@
 ---
-title: Código de erro 550 5.7.705 acesso negado, locatário excedeu o limite
+title: Código de erro 550 5.7.705 acesso negado, o locatário excedeu o limite
 ms.author: chrisda
 author: chrisda
 ms.date: 4/9/2018
@@ -8,15 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9e6df5ee-ede8-421d-ba25-a3a3d0ca0a5d
-ms.openlocfilehash: 1eecc9a699a950760fd00cb96c11d167e40344f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 06c8c3e3686dbb1567551c8a727af669593285c6
+ms.sourcegitcommit: 26774fd0e24a02cc6ee2433eccbbfc27ebc9f850
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29907728"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "31396994"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 acesso negado, locatário excedeu o limite
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 acesso negado, o locatário excedeu o limite
 
-Essa mensagem ocorre quando uma quantidade excessiva email em massa ou spam foi enviado por sua organização do Office 365. Para remover este bloco, você precisa entender e explicam a causa a um agente de suporte, bem como corrigir o problema subjacente.
-  
+Esta mensagem ocorre quando muitos spams ou emails em massa são enviados pela sua organização e colocam um bloco no email de saída.
+As causas comuns são servidores comprometidos ou contas de administrador comprometidas que foram usadas para criar conectores. Qualquer uma das condições pode permitir que o spam passe pela sua organização.
+
+Para remover esse bloco, você precisa entender e explicar a causa de um agente de suporte, bem como corrigir o problema subjacente.
+Clique em **Fale conosco** abaixo quando estiver pronto.
 
