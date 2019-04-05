@@ -1,5 +1,5 @@
 ---
-title: Não é possível adicionar padrão fluxo de trabalho de aprovação de 2010
+title: Não é possível adicionar o fluxo de trabalho de aprovação padrão 2010
 ms.author: kirks
 author: Techwriter40
 ms.date: 1/28/2019
@@ -9,14 +9,18 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: fd630f0f3411b2c65fbd88fffedca3ec80f50c33
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8c6dabcc63ff45be8811fe109517be3098b3ecee
+ms.sourcegitcommit: b14aa00b42ce4ca9d7dc3aa1fd57e66eae115447
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936227"
+ms.lasthandoff: 03/28/2019
+ms.locfileid: "30951097"
 ---
-# <a name="cant-add-default-2010-approval-workflow"></a>Não é possível adicionar padrão fluxo de trabalho de aprovação de 2010
+# <a name="cant-add-default-2010-approval-workflow"></a>Não é possível adicionar o fluxo de trabalho de aprovação padrão 2010
 
-Em um conjunto de sites do Microsoft SharePoint, é possível adicionar um fluxo de trabalho reutilizável globalmente (por exemplo, "aprovação - SharePoint 2010") a uma lista ou biblioteca. O fluxo de trabalho de aprovação pode estar ausente. Para resolver esse problema consulte [não é possível adicionar um fluxo de trabalho reutilizável globalmente a uma lista do SharePoint ou biblioteca](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library). 
+Em um conjunto de sites do Microsoft SharePoint, você não pode adicionar um fluxo de trabalho reutilizável globalmente (como "Approval-SharePoint 2010") a uma lista ou biblioteca. O fluxo de trabalho de aprovação pode estar ausente. Para resolver esse problema, consulte [não é possível adicionar um fluxo de trabalho reutilizável globalmente a uma lista ou biblioteca do SharePoint](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library). 
+
+Para obter mais informações sobre as aprovações de fluxo de trabalho, consulte [tudo sobrehttps://support.office.com/en-us/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742)fluxos de trabalho de aprovação] (. 
+ 
+Saiba mais sobre [aprovações modernas no fluxo] (https://flow.microsoft.com/en-us/blog/introducing-modern-approvals). 
   
