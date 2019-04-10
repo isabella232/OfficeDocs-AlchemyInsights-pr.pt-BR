@@ -1,5 +1,5 @@
 ---
-title: Gerencie os dicionários de pesquisa no SharePoint Online
+title: Gerenciar dicionários de pesquisa no SharePoint Online
 ms.author: kirks
 author: Techwriter40
 ms.date: 11/27/2018
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 1490255d19a6eb62403f9c923438579b6a29480b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 22da75a32e3ac0415e1196f8a6b2fd62b41f875d
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922741"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747874"
 ---
 # <a name="manage-search-dictionaries"></a>Gerenciar diretórios de pesquisa
 
-Dicionários de pesquisa no SharePoint online são gerenciados no repositório de termos do SharePoint Online que está localizada no Centro de administração clássico do SharePoint Online. Para obter mais informações sobre como adicionar ou editar os dicionários de pesquisa, consulte [Gerenciar pesquisar dicionários](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
+Os dicionários de pesquisa no SharePoint Online são gerenciados no repositório de termos do SharePoint Online, que está localizado no novo centro de administração do SharePoint. Para obter mais informações sobre como adicionar ou editar dicionários de pesquisa, consulte [gerenciar dicionários de pesquisa](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
   
-Se você não estiverem vendo um termo de dicionário de pesquisa definido aparecem no repositório de termos, aguarde até 24 horas. Se o dicionário ainda não aparece após 24 horas, efetue um tíquete de suporte.
+Se você não estiver vendo um conjunto de termos do dicionário de pesquisa exibido no repositório de termos, Aguarde 24 horas. Se o dicionário ainda não aparecer após 24 horas, registre um tíquete de suporte.
   
 

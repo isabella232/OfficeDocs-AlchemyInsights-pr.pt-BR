@@ -1,5 +1,5 @@
 ---
-title: External compartilhamento com um Site de equipe
+title: Compartilhamento externo com um site de equipe
 ms.author: kirks
 author: Techwriter40
 ms.date: 1/3/2019
@@ -8,27 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 8753cb5595607a7ea63e1861affcd16d61e7827e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cc5f917522f31349c48c8232496dc862d6769539
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936260"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747478"
 ---
-# <a name="external-sharing-with-a-team-site"></a>External compartilhamento com um Site de equipe
+# <a name="external-sharing-with-a-team-site"></a>Compartilhamento externo com um site de equipe
 
-Para ativar o compartilhamento para Sites de equipe de usuário externo, siga estas etapas: 
+Para ativar o compartilhamento de usuário externo para sites de equipe, siga estas etapas: 
   
-1. Abra o **Centro de administração moderno** - se você estiver no Centro de administração do clássico você verá um botão **Testar agora** ou **tente a visualização** da parte superior direita. Você será levado para o Centro de administração moderno. 
+1. No novo centro de administração do SharePoint, clique em **sites ativos**.
   
-2. Selecione **Sites ativos**. 
+2. Selecione um site que tenha um modelo de **site de equipe** . 
   
-3. Selecione um site que tem um modelo de **Site de equipe** . 
+3. Selecione o botão **compartilhamento** no menu superior. 
   
-4. Selecione o botão de **compartilhamento** no menu superior. 
+ **Observação**: por padrão, quando um site de equipe moderno é criado, a opção de compartilhamento externo será definida para usuários externos novos e existentes. 
   
- **Observação**: por padrão, quando um Site de equipe moderno é criado, o External compartilhamento opção será definido para novas e existentes de usuários externos. 
-  
- **Observação:** Se você tiver mais de um site selecionado, o botão **compartilhamento** aparecerá desabilitado. Selecione apenas um site. 
+ **Observação:** Se você tiver mais de um site selecionado, o botão **compartilhamento** será exibido desabilitado. Selecione apenas um site. 
   
 

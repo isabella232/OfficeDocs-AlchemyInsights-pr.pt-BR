@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1f6b170-bead-4e1c-b119-f6affd2b2264
-ms.openlocfilehash: 73fce3adccc039e7c6acdf4a9fc6f69b359c9d51
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a04d56256bfa55e2b4c912c5294891f109059c3c
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932424"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747802"
 ---
 # <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>Conectar sites de equipe do SharePoint clássicos a novos grupos do Office 365
 
-Para avaliar se seus conjuntos de sites do SharePoint estão prontos para conectar ao Office 365 grupos, use a [ferramenta de scanner de modernização do SharePoint](https://go.microsoft.com/fwlink/?linkid=873066). Essa ferramenta pode ajudá-lo a planejar sua estratégia de modernização do site e criará um relatório detalhado, incluindo as áreas que precisam de atenção.
+Para avaliar se os conjuntos de sites do SharePoint estão prontos para se conectar aos grupos do Office 365, use a [ferramenta Verificador de modernizaÇão do SharePoint](https://go.microsoft.com/fwlink/?linkid=873066). Esta ferramenta pode ajudá-lo a planejar sua estratégia de modernização de site e criará um relatório detalhado, incluindo áreas que precisam de atenção.
   
-Se você quiser permitir que administradores de conjunto de sites de conectar sites de equipe clássico novos grupos de um comando de menu novo, que estamos adicionando, você não precisa fazer nada. Se, no entanto, você deseja desabilitar essa opção, você precisará alterar a configuração padrão. [Saiba como](https://go.microsoft.com/fwlink/?linkid=2004316). Observe que global e administradores do SharePoint no Office 365 sempre será capazes de conectar sites novos grupos usando o cmdlet do PowerShell ou a API.
+Se você deseja permitir que administradores de conjunto de sites conectem sites de equipe clássicos a novos grupos de um novo comando de menu que estamos adicionando, não é necessário fazer nada. Se, no entanto, você quiser desabilitar essa opção, será necessário alterar a configuração padrão. [Saiba como](https://go.microsoft.com/fwlink/?linkid=2004316). Observe que os administradores globais e do SharePoint no Office 365 sempre poderão conectar sites a novos grupos usando o cmdlet ou a API do PowerShell.
   
 

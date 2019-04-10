@@ -8,29 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: ee558542fe692e5dd637a2943b8b8b436b329ef5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 402e10c131a0c331938854e2176983f1007fb315
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29914316"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747406"
 ---
 # <a name="anonymous-sharing"></a>Compartilhamento anônimo
 
  **Habilitar acesso anônimo**
   
-No Centro de administração do SharePoint clássico, clique em **compartilhamento** no painel à esquerda. 
+No novo centro de administração do SharePoint, clique em **compartilhamento** no painel esquerdo. 
   
-- Selecione o seguinte: **Permitir compartilhamento autenticados usuários externos e usando o acesso anônimo.**
+- Selecione o seguinte: **permitir o compartilhamento para usuários externos autenticados e usar o acesso anônimo.**
   
-(Opcionalmente, você pode definir os links para expirar em um número específico de dias e selecionar como os destinatários podem usar os vínculos.)
+(Opcionalmente, você pode definir os links para expirar em um determinado número de dias e selecionar como os destinatários poderão usar os links.)
     
- **Compartilhar um arquivo ou pasta anonimamente**
+ **Compartilhar um arquivo ou uma pasta anonimamente**
   
-- Selecione o arquivo ou pasta que você deseja compartilhar e, em seguida, clique em **compartilhar**. 
+- Selecione o arquivo ou pasta que você deseja compartilhar e clique em **compartilhar**. 
     
-- Com quem você deseja neste link para se trabalhar? Clique em **ninguém.**
+- Para quem você deseja que este link funcione? clique em **qualquer pessoa.**
   
- **Observação**: **qualquer pessoa que** cria um link que qualquer pessoa pode usar para acessar o documento ou pasta, mesmo se eles não estiver conectados ao Office 365 ou OneDrive. Use esta opção para compartilhar com qualquer pessoa, dentro ou fora da empresa. Esse link também pode ser encaminhado ao redor para qualquer pessoa. 
+ **Observação**: **qualquer pessoa** cria um link que pode ser usado por qualquer pessoa para acessar o documento ou a pasta, mesmo que eles não estejam conectados ao Office 365 ou onedrive. Use isso para compartilhar com qualquer pessoa, dentro ou fora da sua empresa. Este link também pode ser encaminhado para qualquer pessoa. 
     
 

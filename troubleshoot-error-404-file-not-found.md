@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 2b0f6d84c53b812fe0552fc05473eebdfcc8d71a
-ms.sourcegitcommit: 56c52c73e752414d66785f175c3a0e2925ad41c1
+ms.openlocfilehash: 467feb3cb436a2e0135162657876e5c45d8d56bd
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31044028"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747227"
 ---
 # <a name="troubleshoot-error-404-file-not-found"></a>Solucionar erro 404, arquivo não encontrado
 
@@ -23,7 +23,7 @@ Para resolver o erro 404 de um site que foi renomeado, movido ou excluído:
 Para sites clássicos existentes no centro de administração clássico, confira [restaurar um conjunto de sites excluído](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
 
 
-Para sites modernos (comunicação, grupo conectado ou outros sites) que existem na nova visualização do centro de administração, confira [Exibir e restaurar sites excluídos no novo centro de administração do SharePoint](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
+Para sites modernos (comunicação, grupo conectado ou outros sites) que existem no novo centro de administração do SharePoint, confira [Exibir e restaurar sites excluídos no novo centro de administração do SharePoint](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
 
 Para resolver o erro 404 para um arquivo (ou outro item) que foi renomeado, movido ou excluído:
 

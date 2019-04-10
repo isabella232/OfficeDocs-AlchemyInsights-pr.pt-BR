@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 25bc059326d1c91fcdd331811dfc402ecd16f688
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754638"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747982"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Excluir sites que pertencem a um grupo do Office 365:
 
-Quando os usuários criarem um novo site de equipe do SharePoint Home (ou se você criar um novo site de equipe a partir da nova visualização do centro de administração do SharePoint), um grupo do Office 365 correspondente será criado automaticamente. Os sites de equipe conectados ao grupo do Office 365 também são criados quando você cria um grupo do Office 365 ou uma equipe no Microsoft Teams. Para excluir um site do SharePoint que pertença a um grupo do Office 365, você precisa excluir o grupo do Office 365 propriamente dito. 
+Quando os usuários criarem um novo site de equipe do SharePoint Home ou você criar um novo site de equipe a partir do novo centro de administração do SharePoint, um grupo do Office 365 correspondente será criado automaticamente. Os sites de equipe conectados ao grupo do Office 365 também são criados quando você cria um grupo do Office 365 ou uma equipe no Microsoft Teams. Para excluir um site do SharePoint que pertença a um grupo do Office 365, você precisa excluir o grupo do Office 365 propriamente dito. 
   
 1. Vá para a [página grupos do centro de administração do Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
@@ -40,11 +40,11 @@ Observação: quando você exclui um grupo, pode haver um atraso antes de o site
   
 **Excluir um conjunto de sites do SharePoint:**
 
-Para excluir um conjunto de sites clássico:
+Para excluir um site:
   
-1. No centro de administração do SharePoint clássico, na página conjuntos de sites, marque a **caixa de seleção** ao lado do conjunto de sites. 
+1. No novo centro de administração do SharePoint, na página sites, clique na **caixa de seleção** ao lado do site que você deseja excluir. 
     
-2. Na guia conjuntos de sites, selecione **excluir.**
+2. Na barra de ferramentas faixa de opções, clique em **excluir.**
     
 **Excluiu um site acidentalmente?**
 
