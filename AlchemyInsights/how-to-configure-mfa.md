@@ -10,17 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 955
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 254437168231538815370af6a5f23927feea1b7a
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: d6f09ad04e308bfff9ade45c76ab842afaae30df
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30779605"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858660"
 ---
 # <a name="configure-multi-factor-authentication-in-office-365"></a>Configurar a autenticação multifator no Office 365
 
 Para configurar a MFA, confira [Configurar a autenticação multifator para usuários do Office 365](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx).
-  
-Observe que você precisa ser um administrador global do Office 365 para habilitar e configurar a MFA.
-  
 
+Observe que você precisa ser um administrador global do Office 365 para habilitar e configurar a MFA.

@@ -1,5 +1,5 @@
 ---
-title: Avaliação bloqueado pelo Spamhaus de locatário do Office 365
+title: Locatário do Office 365 de avaliação bloqueado pelo Spamhaus
 ms.author: chrisda
 author: chrisda
 ms.date: 11/4/2017
@@ -8,15 +8,13 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
-ms.openlocfilehash: dea96a28ed27b0077f56ab0c917d0667c424a028
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 7162b8b89c09834332eefc17f6e0f9a6e214f955
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922768"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859056"
 ---
-# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Erro quando um usuário de avaliação do Office 365 envia email: cliente host bloqueado usando Spamhaus
+# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Erro quando um usuário de avaliação do Office 365 envia email: host de cliente bloqueado usando Spamhaus
 
-Ela será exibida se você está enviando email de uma nova organização de avaliação do Office 365. Para ajudar a impedir mau uso, podemos bloquear endereços IP que são conhecidos como tenham sido comprometidas. Essa verificação específica não mais é imposta após iniciar usando pagos licenças. Você poderá fazer relevo temporário solicitando um novo endereço IP do seu provedor de serviços de internet (ISP) ou, removendo o bloqueio do site [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) . 
-  
-
+Parece que você está enviando emails de uma nova organização de avaliação do Office 365. Para ajudar a evitar abusos, bloqueiamos endereços IP conhecidos que foram comprometidos anteriormente. Essa verificação específica não é mais imposta após você começar a usar licenças pagas. Você pode obter um alívio temporário solicitando um novo endereço IP do seu provedor de serviços de Internet (ISP) ou removendo o bloco do site do [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .
