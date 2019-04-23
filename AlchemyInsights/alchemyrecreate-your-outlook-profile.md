@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 70982aa9-2bd2-4ad9-bc53-d27a02a67709
-ms.openlocfilehash: 62d18bf39bcebf4bb22e88dda6d87020816459d7
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 678a881b70b2117dc2d93b5835aafc0389706cdb
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761765"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869619"
 ---
 # <a name="create-an-outlook-profile"></a>Criar um perfil do Outlook
 
-Para criar ou recriar seu perfil do Outlook, você pode executar a [ferramenta de perfil do Outlook](https://aka.ms/SaRA-OutlookSetupProfile) na máquina afetada. 
+Para criar ou recriar seu perfil do Outlook, você pode executar o [ferramenta de perfil do Outlookhttps://aka.ms/ ] (SaRA-OutlookSetupProfile-Alchemy) na máquina afetada. 
   
 A ferramenta executará várias verificações e, quando você estiver pronto, criará um perfil do Outlook com seu endereço de email.
   

@@ -1,5 +1,5 @@
 ---
-title: Dicas de política de DLP não funcionando
+title: Dicas de política de DLP que não funcionam
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: ffed863e8d44d2513fbcf53edd9bfa14b859b913
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cddc790c7ad64cb917fb91df9fcdb60fd22bb306
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900780"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869583"
 ---
-# <a name="dlp-policy-tip-issues"></a>Problemas de dica de política de DLP
+# <a name="dlp-policy-tip-issues"></a>Problemas de dica de política DLP
 
-Ao usar **políticas de DLP**, os usuários podem ser notificados sobre uma violação de política com **dicas de política**. Os administradores podem configurar dicas de política para exibir ao testar sua política DLP ou quando a política estiver em modo de imposição total. 
+Ao usar **políticas DLP**, os usuários podem ser notificados de uma violação de política com **dicas de política**. Os administradores podem configurar dicas de política para exibir durante o teste da política de DLP ou quando a política está no modo de imposição total. 
   
-Para configurar a política de dicas em sua política de DLP na Central de segurança e conformidade no modo de imposição total faça o seguinte:
+Para configurar dicas de política em sua política de DLP no centro de segurança e conformidade no modo de imposição completa, faça o seguinte:
   
-- Certifique-se de dicas de política tem sido **habilitado** na regra de DLP usando as etapas descritas [aqui](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- Verifique se as dicas de **** política foram habilitadas na regra DLP usando as etapas [aqui](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
     
-- Verifique se seu **conteúdo corresponde** o que é **necessário** para acionar a regra descrita neste artigo [aqui](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+- Verifique se o **conteúdo corresponde** ao que é **necessário** para acionar a regra descrita neste artigo [aqui](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
     
-- Exibição de dicas de política no OWA e no Outlook. No entanto, ao usar o **Outlook 2013 ou posterior**, dicas de política são exibidas somente sob certas condições. Essas condições estão listadas aqui: [condições suportados para o Outlook 2013 ou posterior para exibir dicas de política](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- As dicas de política são exibidas no OWA e no Outlook. No enTanto, ao usar o **Outlook 2013 ou posterior**, as dicas de política são exibidas apenas em determinadas condições. Essas condições estão listadas aqui: [condições suportadas para o Outlook 2013 ou posterior para exibir dicas de política](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
     
-Para obter informações adicionais sobre as dicas de política DLP, consulte: [Mostrar dicas de política para políticas de DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+Para obter informações adicionais sobre dicas de política de DLP, consulte: [Mostrar dicas de política para políticas de DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
   
 
