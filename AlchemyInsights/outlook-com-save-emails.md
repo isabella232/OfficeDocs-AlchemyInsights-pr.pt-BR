@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000088
-ms.openlocfilehash: 1444dedf40529bf14fa65fe90f98b70e6c5a784c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 435415ca29d9ba26e6c27919ab1dcc0e64368357
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30779150"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903724"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Salvando mensagens no Outlook.com
 
@@ -29,4 +29,4 @@ O utilitário Microsoft print to PDF incluído no Windows 10 permite que você i
 4. Selecione **Imprimir**.
 5. Insira um nome de arquivo e, em seguida, selecione **salvar**.
 
-**Observação:** Isso não é recomendado em computadores compartilhados ou públicos, já que outros usuários podem ter acesso a PDFs salvos no computador e que não são excluídos.
+**Observação:** Isso não é recomendado em computadores compartilhados ou públicos, já que outros usuários podem ter acesso a PDFs salvos no computador e não são excluídos.
