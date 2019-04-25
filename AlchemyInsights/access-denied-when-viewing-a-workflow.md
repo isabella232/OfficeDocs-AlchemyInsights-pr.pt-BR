@@ -1,5 +1,5 @@
 ---
-title: Acesso negado ao visualizar um fluxo de trabalho
+title: Acesso negado ao exibir um fluxo de trabalho
 ms.author: kirks
 author: Techwriter40
 ms.date: 11/27/2018
@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
 ms.openlocfilehash: 43369c600687d6ac253f70a8535dc2bd0d41687e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918811"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389875"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Acesso negado ao visualizar um fluxo de trabalho
+# <a name="access-denied-when-viewing-a-workflow"></a>Acesso negado ao exibir um fluxo de trabalho
 
-SharePoint 2013 fluxos de trabalho que tentam enviar um email para um grupo do SharePoint pode falhar com uma mensagem de erro "Acesso negado" se a associação de grupo do SharePoint não estiver definida como todos.
+Os fluxos de trabalho do SharePoint 2013 que tentam enviar um email a um grupo do SharePoint podem falhar com uma mensagem de erro "acesso negado" se a associação do grupo do SharePoint não estiver definida como todos.
   
  **Para resolver esse problema, siga estas etapas:**
   
- 1. Permitir todas as pessoas ver os membros do grupo do SharePoint. 
+ 1. Permitir que todos vejam os membros do grupo do SharePoint. 
   
- 2. Remova o grupo do SharePoint para ou CC linha do email. 
+ 2. Remova o grupo do SharePoint da linha para ou CC do email. 
   
- 3. Adicione explicitamente os usuários para ou CC linha se a visibilidade de associação não pode ser alterada para o grupo do SharePoint. 
+ 3. Adicione explicitamente os usuários à linha para ou CC se a visibilidade da associação não puder ser alterada para o grupo do SharePoint. 
   
-Para exibir mais detalhes, consultem [HTTP não autorizado para /_vti_bin/client.svc/sp.utilities.utility.SendEmail ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Para exibir mais detalhes, consulte [http não autorizado para/_vti_bin/Client.svc/SP.Utilities.Utility.SendEmail ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   
 

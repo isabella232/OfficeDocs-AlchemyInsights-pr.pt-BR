@@ -1,5 +1,5 @@
 ---
-title: Políticas de retenção no Centro de administração do Exchange não funcionando
+title: As políticas de retenção no centro de administração do Exchange não estão funcionando
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,48 +10,48 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
 ms.openlocfilehash: c9061fa728edaab6575a7b1027783e56739a6d14
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29934980"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371286"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Políticas de retenção no Centro de administração do Exchange
+# <a name="retention-policies-in-exchange-admin-center"></a>Políticas de retenção no centro de administração do Exchange
 
- **Problema:** Recém-criadas ou políticas de retenção atualizado no Centro de administração do Exchange não estiver aplicando a caixas de correio ou itens não são movidas para a caixa de correio de arquivo morto ou excluídos. 
+ **Problema:** As políticas de retenção recém-criadas ou atualizadas no centro de administração do Exchange não estão aplicando caixas de correio ou itens não são movidos para a caixa de correio de arquivo morto ou excluídos. 
   
  **Causas raiz:**
   
-- Isso pode ocorrer porque o **Assistente de pasta gerenciada** não processado caixa de correio do usuário. Assistente de pasta gerenciada tentará processar cada caixa de correio em sua organização baseada na nuvem uma vez a cada sete dias. Se você alterar uma marca de retenção ou aplica uma política de retenção diferente para uma caixa de correio, você pode aguardar até que o Assist de pasta gerenciada processa a caixa de correio ou é possível executar o cmdlet Start-ManagedFolderAssistant para iniciar o Assistente de pasta gerenciada para processar uma versão específica caixa de correio. A execução deste cmdlet é útil para testes ou solução de problemas de uma política de retenção ou as configurações de marca de retenção. Para obter mais informações, visite a [executar o Assistente de pasta gerenciada](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
+- Talvez o **Assistente de pasta gerenciada** não tenha processado a caixa de correio do usuário. O assistente de pasta gerenciada tenta processar cada caixa de correio em sua organização baseada em nuvem uma vez a cada sete dias. Se você alterar uma marca de retenção ou aplicar uma política de retenção diferente para uma caixa de correio, poderá aguardar até que a pasta gerenciada auxiliar processe a caixa de correio ou você pode executar o cmdlet Start-ManagedFolderAssistant para iniciar o assistente de pasta gerenciada para processar um determinado nas. A execução deste cmdlet é útil para testar ou solucionar problemas de uma política de retenção ou configurações de marca de retenção. Para obter mais informações, visite [executar o assistente de pasta gerenciada](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
-  - **Solução:** Execute o seguinte comando para iniciar o Assistente de pasta gerenciada para uma caixa de correio específica: 
+  - **Solução:** Execute o seguinte comando para iniciar o assistente de pasta gerenciada para uma caixa de correio específica: 
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
-- Isso também pode ocorrer se **RetentionHold** tiver sido **habilitado** na caixa de correio. Se a caixa de correio foi colocada em um RetentionHold, a política de retenção na caixa de correio não será processada durante esse horário. Para mais informações sobre a configuração e consulte RetentionHold: [Caixa de correio de retenção](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
+- Isso também pode ocorrer se o **RetentionHold** tiver sido **habilitado** na caixa de correio. Se a caixa de correio tiver sido colocada em um RetentionHold, a política de retenção na caixa de correio não será processada durante esse tempo. Para mais informações sobre a configuração RetentionHold, consulte: [caixa de correio em retenção](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
-    **Solução:**
+    **Solução**
     
-  - Verificar o status da configuração de RetentionHold na caixa de correio específica no [EXO powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
+  - Verifique o status da configuração RetentionHold na caixa de correio específica no [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
     
   ```
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - Execute o seguinte comando para **Desabilitar** RetentionHold em uma caixa de correio específica: 
+  - Execute o seguinte comando para **desabilitar** o RetentionHold em uma caixa de correio específica: 
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false
   ```
 
-  - Agora, execute novamente a Assistente de pasta gerenciada:
+  - Agora, execute novamente o assistente de pasta gerenciada:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- **Observação:** Se uma caixa de correio for menor do que 10 MB, Assistente de pasta gerenciada não processe automaticamente a caixa de correio. 
+ **Observação:** Se uma caixa de correio for menor do que 10 MB, o assistente de pasta gerenciada não processará automaticamente a caixa de correio. 
   
 
