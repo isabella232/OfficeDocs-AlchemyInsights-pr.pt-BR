@@ -9,15 +9,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
 ms.openlocfilehash: 8b6bb50164bb48b955d6cc4873c547232efe1527
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405383"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370242"
 ---
 # <a name="the-domain-is-already-in-use"></a>O domínio já está em uso
 
-O domínio que você está tentando adicionar já pertence a outra organização. Primeiro você deve remover o domínio dessa organização antes de poder adicioná-lo a essa organização. Os artigos a seguir irão orientá-lo durante esses processos.
+O domínio que você está tentando adicionar já pertence a outra organização. Primeiro, você deve remover o domínio daquela organização para poder adicioná-lo a esta. Os artigos a seguir orientarão você durante esses processos.
   
 - [Remover um domínio do Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
     
