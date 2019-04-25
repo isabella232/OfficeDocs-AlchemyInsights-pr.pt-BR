@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
 ms.openlocfilehash: 04beb86b98947b142c0483c02147ab9145130b99
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754386"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407016"
 ---
-# <a name="credit-check-status-request"></a><span data-ttu-id="b2d91-102">Solicitação de status de verificação de crédito</span><span class="sxs-lookup"><span data-stu-id="b2d91-102">Credit check status request</span></span>
+# <a name="credit-check-status-request"></a><span data-ttu-id="06911-102">Solicitação de status de verificação de crédito</span><span class="sxs-lookup"><span data-stu-id="06911-102">Credit check status request</span></span>
 
-<span data-ttu-id="b2d91-103">Seu pedido está com verificação de crédito pendente.</span><span class="sxs-lookup"><span data-stu-id="b2d91-103">Your order is pending credit verification.</span></span> <span data-ttu-id="b2d91-104">Isso normalmente é concluído em menos de 24 horas, mas pode levar até 48 horas.</span><span class="sxs-lookup"><span data-stu-id="b2d91-104">This is normally completed in under 24 hours, but can take up to 48 hours.</span></span> <span data-ttu-id="b2d91-105">Quando concluir, o status da sua assinatura mudará de pendente para ativo e os serviços estarão disponíveis para uso.</span><span class="sxs-lookup"><span data-stu-id="b2d91-105">When complete, your subscription status will change from Pending to Active, and services will be available for use.</span></span>
+<span data-ttu-id="06911-103">Seu pedido está com verificação de crédito pendente.</span><span class="sxs-lookup"><span data-stu-id="06911-103">Your order is pending credit verification.</span></span> <span data-ttu-id="06911-104">Isso normalmente é concluído em menos de 24 horas, mas pode levar até 48 horas.</span><span class="sxs-lookup"><span data-stu-id="06911-104">This is normally completed in under 24 hours, but can take up to 48 hours.</span></span> <span data-ttu-id="06911-105">Quando concluir, o status da sua assinatura mudará de pendente para ativo e os serviços estarão disponíveis para uso.</span><span class="sxs-lookup"><span data-stu-id="06911-105">When complete, your subscription status will change from Pending to Active, and services will be available for use.</span></span>
   
 
