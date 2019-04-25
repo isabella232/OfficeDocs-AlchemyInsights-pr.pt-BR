@@ -1,5 +1,5 @@
 ---
-title: Não é possível adicionar o fluxo de trabalho de aprovação de 2010
+title: Não é possível adicionar o fluxo de trabalho de aprovação 2010
 ms.author: kirks
 author: Techwriter40
 ms.date: 12/3/2018
@@ -9,36 +9,36 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
 ms.openlocfilehash: 3741b1169ddf731725c18fbaed80bfb321e5db46
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925404"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32366823"
 ---
-# <a name="unable-to-add-2010-approval-workflow"></a>Não é possível adicionar o fluxo de trabalho de aprovação de 2010
+# <a name="unable-to-add-2010-approval-workflow"></a>Não é possível adicionar o fluxo de trabalho de aprovação 2010
 
-Em um conjunto de sites do Microsoft SharePoint, é possível adicionar um fluxo de trabalho reutilizável globalmente (por exemplo, "aprovação - SharePoint 2010") a uma lista ou biblioteca.
+Em um conjunto de sites do Microsoft SharePoint, você não pode adicionar um fluxo de trabalho reutilizável globalmente (como "Approval-SharePoint 2010") a uma lista ou biblioteca.
   
 Para resolver esse problema, siga estas etapas: 
   
 1. Abra o site raiz do conjunto de sites no SharePoint Designer 2013.
   
-2. Em **Objetos de Site**, selecione **fluxos de trabalho**. 
+2. Em **objetos de site**, selecione **fluxos de trabalho**. 
   
-3. Na seção **novo** da faixa de opções de **fluxos de trabalho** , selecione o **Fluxo de trabalho reutilizável**. 
+3. Na **nova** seção da faixa de opções **fluxos de trabalho** , selecione fluxo de trabalho reutilizável. **** 
   
-4. No formulário **Criar fluxo de trabalho reutilizável** , insira o nome * * *Repair2010* * *. Para o **Tipo de plataforma**, clique em **Fluxo de trabalho do SharePoint 2010**e clique em **Okey**. 
+4. No formulário **criar fluxo de trabalho** reutilizável, insira o nome * * *Repair2010* * *. Para **tipo de plataforma**, clique em **fluxo de trabalho do SharePoint 2010**e, em seguida, clique em **OK**. 
   
-1. Na seção **Salvar** da faixa de opções do **fluxo de trabalho** , selecione **Publicar**. 
+1. Na seção **salvar** da faixa de opções de **fluxo de trabalho** , selecione **publicar**. 
   
-2. Na seção **Gerenciar** da faixa de opções do **fluxo de trabalho** , selecione **Publicar globalmente**. Na caixa de diálogo de confirmação que aparece, selecione **Okey**. 
+2. Na seção **gerenciar** da faixa de opções de **fluxo de trabalho** , selecione **publicar globalmente**. Na caixa de diálogo de confirmação exibida, selecione **OK**. 
   
-3. Em um navegador da web, localize o site raiz do conjunto de sites e depois acesse **Configurações do Site** \> **Recursos do conjunto de sites**. Ativa/desativa o recurso de **fluxos de trabalho** : 
+3. Em um navegador da Web, localize o site raiz do conjunto de sites e acesse os **recursos do conjunto de sites**configurações \> de **site** . Alternar o recurso de **fluxos de trabalho** : 
   
-· Se o recurso está *ativado* , clique em **Desativar** e, em seguida, clique em **Ativar**. 
+· Se o recurso estiver *ativado* , clique em desativar e, em seguida **,** clique em **Ativar**. 
   
-· Se o recurso estiver *desativado* , clique em **Ativar**. 
+· Se o recurso for *desativado* , clique em **Ativar**. 
   
-Para obter mais informações consulte o [artigo](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)a seguir.
+Para obter mais informações, consulte o [artigo](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)a seguir.
   
 

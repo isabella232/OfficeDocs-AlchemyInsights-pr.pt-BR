@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
 ms.openlocfilehash: 3a2f33686c2d9fd6803c0a5fc208a2e6bd80cd4b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30757482"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402085"
 ---
 # <a name="expired-subscription"></a>Assinatura expirada
 
@@ -24,7 +24,7 @@ Parece que você tem uma ou mais assinaturas expiradas. Se quiser continuar o se
   
  **Reativar**
   
-1. No Centro de administração, vá até a página [Assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) ou escolha **Cobrança** \> **Assinaturas**.
+1. No Centro de administração, vá até a página [Assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054), ou escolha **Cobrança** \> **Assinaturas**.
     
 2. Escolha a assinatura a ser reativada.
     

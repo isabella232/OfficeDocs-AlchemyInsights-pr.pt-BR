@@ -1,5 +1,5 @@
 ---
-title: Torne-se um administrador
+title: Tornar-se um administrador
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 4/6/2018
@@ -9,14 +9,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: acff9f3e-e5d9-4eee-b1b3-9895a7cb27fc
 ms.openlocfilehash: dd8fccdf3519aa84cc7d7af65b74722494904ef8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922704"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396594"
 ---
-# <a name="become-an-admin"></a>Torne-se um administrador
+# <a name="become-an-admin"></a>Tornar-se um administrador
 
-Para assumir a função de administrador para esta organização, você precisa assumir o inquilino. 
+Para assumir a função de administrador para esta organização, você precisa assumir o locatário. 
   
-Siga as instruções deste guia: [faça uma tomada de controle de administração no Office 365](https://support.office.com/article/b9707ec8-2247-4e25-9bad-f11ddbc686e4)
+Siga as instruções deste guia: [tomada de administração no Office 365](https://support.office.com/article/b9707ec8-2247-4e25-9bad-f11ddbc686e4)

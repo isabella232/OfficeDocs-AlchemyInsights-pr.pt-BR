@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online ou OneDrive 'Configurando'
+title: SharePoint Online ou OneDrive ' setting up '
 ms.author: kirks
 author: Techwriter40
 ms.date: 9/21/2018
@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.openlocfilehash: 3f4f6cf96f8197b0840f26e922e1158c18d07c63
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932388"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32369522"
 ---
-"Configurando"
+"ConFigurando"
 
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online ou OneDrive "Configurando"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online ou OneDrive "conFigurando"
 
-Quando um usuário é adicionado a um locatário do Office 365 existente, eles podem ver a SharePoint Online ou OneDrive para ícones de negócios exibidos como "Setting up" até a conclusão do processo de provisionamento.
+Quando um usuário é adicionado a um locatário existente do Office 365, eles podem ver os ícones do SharePoint Online ou do OneDrive for Business exibidos como "configuração" até que o processo de provisionamento tenha sido concluído.
   
-Se mais de 24 horas passados desde o primeiro vimos esse problema, efetue um caso de suporte. Em muitos casos, podemos já estiver trabalhando em uma solução. Envie-pelo menos 24 horas para concluir uma solução.
+Se passar mais de 24 horas desde que você viu o problema pela primeira vez, registre um caso de suporte. Em muitos casos, já estamos trabalhando em uma solução. Aguarde pelo menos 24 horas para concluir uma solução.
   
 

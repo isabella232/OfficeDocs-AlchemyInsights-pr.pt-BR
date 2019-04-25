@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
 ms.openlocfilehash: c869609fa4527f46121eda563e0735378bcb0d3d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913452"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32394584"
 ---
-# <a name="change-intune-mdm-authority"></a>Alterar autoridade Intune MDM
+# <a name="change-intune-mdm-authority"></a>Alterar autoridade MDM do Intune
 
 Você pode alterar sua autoridade MDM sem abrir um caso de suporte. Consulte os seguintes documentos para obter instruções:
   
-- [Alterar autoridade MDM do Gerenciador de configuração para Intune autônomo](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [Alterar autoridade MDM do Gerenciador de configurações para o Intune autônomo](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [Alterar autoridade MDM do Intune autônomo para o Configuration Manager](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [Alterar autoridade MDM do Intune autônomo para o Gerenciador de configurações](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
     
- **Coexistência do MDM autoridade**
+ **CoExistência de autoridade MDM**
   
-- Você pode ter ambas as autoridades MDM ativas simultaneamente, se você já tiver habilitado do Office 365 MDM, mas quiser tentar MDM de Intune.
+- As duas autoridades de MDM podem ser ativas simultaneamente se você já tiver o Office 365 MDM habilitado, mas deseja tentar o Intune MDM.
     
-- Os administradores que já têm O365 MDM ativo simplesmente podem marcar Intune MDM como ativo do portal do Azure.
+- Administradores que já têm o O365 MDM ativo podem simplesmente marcar o MDM do Intune como ativo no portal do Azure.
     
-- Se você tiver Intune MDM mas quiser fazer uso do Office 365 MDM: Abra um tíquete abaixo e um agente de suporte ajudará habilite isso para você.
+- Se você tiver o Intune MDM, mas quiser usar o Office 365 MDM: Abra um tíquete abaixo e um agente de suporte ajudará a habilitá-lo para você.
     
 
