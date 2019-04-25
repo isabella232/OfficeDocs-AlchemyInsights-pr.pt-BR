@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 028e76e7-9701-4450-9fc9-f40232e8e68e
 ms.openlocfilehash: 264ddc388927f94da492a8d5ddffd6f6f1fb744e
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30752154"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371900"
 ---
-# <a name="problems-signing-in-to-microsoft-skype-for-business"></a><span data-ttu-id="a7854-102">Problemas para entrar no Microsoft Skype for Business</span><span class="sxs-lookup"><span data-stu-id="a7854-102">Problems Signing in to Microsoft Skype for Business</span></span>
+# <a name="problems-signing-in-to-microsoft-skype-for-business"></a><span data-ttu-id="7c542-102">Problemas para entrar no Microsoft Skype for Business</span><span class="sxs-lookup"><span data-stu-id="7c542-102">Problems Signing in to Microsoft Skype for Business</span></span>
 
-<span data-ttu-id="a7854-103">Baixe e use o [Assistente de recuperação e suporte (SaRA)](https://diagnostics.outlook.com/#/).</span><span class="sxs-lookup"><span data-stu-id="a7854-103">Download and use the [Support and Recovery Assistant (SaRA)](https://diagnostics.outlook.com/#/).</span></span> <span data-ttu-id="a7854-104">Essa ferramenta pode ajudá-lo a diagnosticar e corrigir automaticamente vários problemas conhecidos relacionados à entrada no Skype for Business.</span><span class="sxs-lookup"><span data-stu-id="a7854-104">This tool can help you automatically diagnose and fix a range of known issues related to signing in to Skype for Business.</span></span>
+<span data-ttu-id="7c542-103">Baixe e use o [Assistente de recuperação e suporte (SaRA)](https://diagnostics.outlook.com/#/).</span><span class="sxs-lookup"><span data-stu-id="7c542-103">Download and use the [Support and Recovery Assistant (SaRA)](https://diagnostics.outlook.com/#/).</span></span> <span data-ttu-id="7c542-104">Essa ferramenta pode ajudá-lo a diagnosticar e corrigir automaticamente vários problemas conhecidos relacionados à entrada no Skype for Business.</span><span class="sxs-lookup"><span data-stu-id="7c542-104">This tool can help you automatically diagnose and fix a range of known issues related to signing in to Skype for Business.</span></span>
   
 
