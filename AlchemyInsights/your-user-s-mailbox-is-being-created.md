@@ -1,5 +1,5 @@
 ---
-title: Caixa de correio do usuário está sendo criada.
+title: A caixa de correio do usuário está sendo criada
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 3/27/2018
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.openlocfilehash: 45684b414ee634c1e879a61c260dcdeff27a03be
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918492"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420652"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Sua caixa de correio de usuários está sendo criada.
+# <a name="your-users-mailbox-is-being-created"></a>Sua caixa de correio de usuários está sendo criada
 
-Pode demorar até 24 horas antes de uma nova caixa de correio está pronta para uso.
+Pode levar até 24 horas antes que uma nova caixa de correio esteja pronta para uso.
   
-Se a caixa de correio do usuário tenha sido "Preparando" para mais de uma hora, tente remover a licença do Exchange do usuário e novamente adicioná-lo de volta ou usar a opção "Vamos ligue para você" para conversar com um engenheiro de suporte.
+Se a caixa de correio do usuário estiver "se preparando" por mais de uma hora, tente remover a licença do Exchange do usuário e adicioná-la novamente, ou use a opção "Deixe-nos chamar você" para falar com um engenheiro de suporte.
   
 
