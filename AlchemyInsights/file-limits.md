@@ -9,21 +9,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
 ms.openlocfilehash: 3735499b4548f91455f787a60492267d68f2b47d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926808"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401887"
 ---
-# <a name="file-upload-limits-in-sharepoint-online"></a>Limites de carregamento de arquivo no SharePoint Online
+# <a name="file-upload-limits-in-sharepoint-online"></a>Limites de carregamento de arquivos no SharePoint Online
 
-- Uma biblioteca pode ter os arquivos e pastas até 30 milhões.
+- Uma biblioteca pode ter até 30 milhões arquivos e pastas.
     
-- O comprimento total da URL, incluindo o nome do arquivo não pode exceder 400 caracteres.
+- O comprimento total da URL, incluindo o nome do arquivo, não pode exceder 400 caracteres.
     
-- Precisa de cada arquivo ser menor do que 15 GB. Arquivos anexados aos itens de lista podem ser até 250 MB em tamanho.
+- Cada arquivo mush ter menos de 15 GB. Arquivos anexados a itens de lista podem ter até 250 MB de tamanho.
     
-- Para obter o desempenho ideal sincronizando com o novo cliente de sincronização do OneDrive, é recomendável armazenar não mais de 100.000 arquivos em uma biblioteca. 
+- Para sincronizar o desempenho ideal com o novo cliente de sincronização do OneDrive, recomendamos armazenar no máximo 100.000 arquivos em uma biblioteca. 
     
 [Caracteres que não podem ser usados em nomes de arquivo](https://go.microsoft.com/fwlink/?linkid=866430)
   

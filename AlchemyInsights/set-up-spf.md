@@ -1,5 +1,5 @@
 ---
-title: Configurar SPF
+title: Configurar o SPF
 ms.author: pebaum
 author: pebaum
 ms.date: 12/18/2018
@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
 ms.openlocfilehash: 5d7502e88ad17fd0e526d7f7cca56fe173275d84
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912228"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421768"
 ---
-# <a name="set-up-spf-in-office-365"></a>Configurar SPF no Office 365
+# <a name="set-up-spf-in-office-365"></a>Configurar o SPF no Office 365
 
-Atualize seus registros DNS para que você pode usar uma estrutura de política de remetente (SPF) com seu domínio personalizado para validar emails de saída enviados a partir de seu domínio personalizado. Isso ajuda a impedir que outras pessoas "falsificação" email como se ele enviados a partir de seu domínio.
+Atualize seus registros DNS para que você possa usar uma SPF (Sender Policy Framework) com seu domínio personalizado para validar emails de saída enviados do seu domínio personalizado. Isso ajuda a evitar que outras pessoas "falsificar" mensagens como se fossem enviadas do seu domínio.
   
-- [Configurar SPF no Office 365 para ajudar a impedir a falsificação](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [Configurar o SPF no Office 365 para ajudar a impedir a falsificação](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
     
-- [Ajuda para configurar todos os registros DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [Ajuda para configuração de todos os registros DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
     
 

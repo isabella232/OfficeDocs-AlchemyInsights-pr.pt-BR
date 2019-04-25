@@ -1,5 +1,5 @@
 ---
-title: Erro 0-1036 durante a instalação do office
+title: Erro 0-1036 ao instalar o Office
 ms.author: janellem
 author: janellem
 ms.date: 1/17/2019
@@ -10,28 +10,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
 ms.openlocfilehash: 6fe26f87c6108d25a28a5c55b31710d332b1ac79
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900492"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402763"
 ---
-# <a name="error-0-1036-when-installing-office"></a>Erro 0-1036 durante a instalação do office
+# <a name="error-0-1036-when-installing-office"></a>Erro 0-1036 ao instalar o Office
 
 
-Tente estas soluções para corrigir o erro do Office 0-1036:
+Tente estas soluções para corrigir o erro 0-1036 do Office:
   
-- Reinicie o computador e tente [instalar o Office](https://portal.office.com/OLS/MySoftware.aspx) novamente. 
+- ReInicie o computador e tente [instalar o Office](https://portal.office.com/OLS/MySoftware.aspx) novamente. 
     
 - Baixe e instale o [Assistente de recuperação e suporte](https://aka.ms/SARA-OfficeUninstall-Alchemy).
     
-1. Quando for aberto, dos **produtos de desinstalar o Office** selecione a versão que você deseja desinstalar e selecione **Avançar**.
+1. Ao abrir, de **desinstalar produtos do Office** , selecione a versão que você deseja desinstalar e selecione **Avançar**.
     
-2. Continue precisar passar por telas e reinicie seu computador quando solicitado.
+2. Continue passando por telas e reinicie o computador quando solicitado.
     
-    Após a reinicialização, o suporte e o Assistente de recuperação novamente abre automaticamente para concluir o processo de desinstalação.
+    Após a reinicialização, o assistente de recuperação e suporte será reaberto automaticamente para concluir o processo de desinstalação.
     
-3. Siga o restante prompts e [reinstalar o Office](https://portal.office.com/OLS/MySoftware.aspx) ou fechar o assistente. 
+3. Siga as solicitações restantes e reinstale o [Office](https://portal.office.com/OLS/MySoftware.aspx) ou feche o assistente. 
     
 - [Usar o instalador offline do Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) para instalar o Office 
     

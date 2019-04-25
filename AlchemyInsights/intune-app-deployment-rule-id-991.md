@@ -1,5 +1,5 @@
 ---
-title: Id da regra de implantação de aplicativo Intune 991
+title: ID da regra de implantação de aplicativo do Intune 991
 ms.author: pebaum
 author: pebaum
 ms.date: 9/10/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
 ms.openlocfilehash: c99070e484313464e5f6b92447930a62c90ef655
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941604"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410038"
 ---
-# <a name="intune-app-deployment"></a>Implantação de aplicativo Intune
+# <a name="intune-app-deployment"></a>Implantação de aplicativo do Intune
 
-Implantação de aplicativos com o Intune é um processo de três etapas:
+A implantação de aplicativos com o Intune é um processo de três etapas:
   
-1. **Adicionando um aplicativo** - você pode adicionar um aplicativo de App Store ou carregar um aplicativo de linha de negócios. 
+1. **Adicionando um aplicativo** – você pode adicionar um aplicativo da App Store ou carregar um aplicativo de linha de negócios. 
     
-2. **Atribuindo um aplicativo** - determinar o escopo da implantação do aplicativo. 
+2. **Atribuir um aplicativo** -determinar o escopo da implantação do aplicativo. 
     
-3. **Monitorando aplicativos** - exibir o status de instalação de aplicativos, listar apps descobertos e gerenciá-los adquiridos de lojas de aplicativos. 
+3. **Monitorar aplicativos** – exibir o status de instalação de aplicativos, listar aplicativos descobertos e gerenciar aplicativos comprados de repositórios de aplicativos. 
     
-Leia [o que é gerenciamento de aplicativo Intune](https://docs.microsoft.com/intune/app-management) para obter informações sobre como configurar e proteger os aplicativos e passo a passo. 
+Leia [o que é o Intune app Management](https://docs.microsoft.com/intune/app-management) para orientações e informações sobre como configurar e proteger aplicativos. 
   
 
