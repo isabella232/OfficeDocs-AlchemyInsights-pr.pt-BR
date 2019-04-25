@@ -1,5 +1,5 @@
 ---
-title: Solucionar problemas com inscrevendo macOS dispositivos no Microsoft Intune
+title: Solucionar problemas com a inscrição de dispositivos macOS no Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,22 +10,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.openlocfilehash: 787037983d026fa159fc64f2f0bfc283462c291e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941208"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420256"
 ---
-# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a><span data-ttu-id="c1f6b-102">Solucionar problemas com inscrevendo macOS dispositivos no Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="c1f6b-102">Troubleshoot issues with enrolling macOS devices in Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a><span data-ttu-id="b9eda-102">Solucionar problemas com a inscrição de dispositivos macOS no Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="b9eda-102">Troubleshoot issues with enrolling macOS devices in Microsoft Intune</span></span>
 
-<span data-ttu-id="c1f6b-103">Revise os recursos listados abaixo para resolver o problema agora.</span><span class="sxs-lookup"><span data-stu-id="c1f6b-103">Review the resources listed below to resolve your issue now.</span></span> 
+<span data-ttu-id="b9eda-103">ConFira os recursos listados abaixo para resolver seu problema agora.</span><span class="sxs-lookup"><span data-stu-id="b9eda-103">Review the resources listed below to resolve your issue now.</span></span> 
   
-1. <span data-ttu-id="c1f6b-p101">Use [Intune Portal de solução de problemas](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) para diagnosticar e resolver falhas de inscrição comuns. Revise [Este documento](https://docs.microsoft.com/intune/help-desk-operators) para obter mais detalhes.</span><span class="sxs-lookup"><span data-stu-id="c1f6b-p101">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures. Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span> 
+1. <span data-ttu-id="b9eda-104">Use o [portal de solução de problemas do Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) para diagnosticar e resolver falhas comuns de registro.</span><span class="sxs-lookup"><span data-stu-id="b9eda-104">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="b9eda-105">Revise [este documento](https://docs.microsoft.com/intune/help-desk-operators) para obter mais detalhes.</span><span class="sxs-lookup"><span data-stu-id="b9eda-105">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span> 
     
-2. <span data-ttu-id="c1f6b-106">Revise [Este documento](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) para obter uma lista dos erros comuns que impedem o registro e resoluções para cada um.</span><span class="sxs-lookup"><span data-stu-id="c1f6b-106">Review [this document](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span> 
+2. <span data-ttu-id="b9eda-106">Revise [este documento](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) para obter uma lista de erros comuns que impedem o registro e as resoluções de cada um.</span><span class="sxs-lookup"><span data-stu-id="b9eda-106">Review [this document](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span> 
     
-3. <span data-ttu-id="c1f6b-107">[Aprenda a registrar macOS dispositivos no Microsoft Intune](https://docs.microsoft.com/intune/macos-enroll).</span><span class="sxs-lookup"><span data-stu-id="c1f6b-107">[Learn how to enroll macOS devices in Microsoft Intune](https://docs.microsoft.com/intune/macos-enroll).</span></span>
+3. <span data-ttu-id="b9eda-107">[Saiba como registrar dispositivos MacOS no Microsoft Intune](https://docs.microsoft.com/intune/macos-enroll).</span><span class="sxs-lookup"><span data-stu-id="b9eda-107">[Learn how to enroll macOS devices in Microsoft Intune](https://docs.microsoft.com/intune/macos-enroll).</span></span>
     
-[<span data-ttu-id="c1f6b-108">Confira o guia de usuário final para registrar macOS dispositivo no Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="c1f6b-108">Check out end-user guide to enroll macOS device in Microsoft Intune</span></span>](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
+[<span data-ttu-id="b9eda-108">Consultar o guia do usuário final para registrar o dispositivo macOS no Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="b9eda-108">Check out end-user guide to enroll macOS device in Microsoft Intune</span></span>](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   
 

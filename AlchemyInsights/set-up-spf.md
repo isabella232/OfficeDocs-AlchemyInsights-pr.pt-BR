@@ -1,5 +1,5 @@
 ---
-title: Configurar SPF
+title: Configurar o SPF
 ms.author: pebaum
 author: pebaum
 ms.date: 12/18/2018
@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
 ms.openlocfilehash: 5d7502e88ad17fd0e526d7f7cca56fe173275d84
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912228"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421768"
 ---
-# <a name="set-up-spf-in-office-365"></a><span data-ttu-id="a9c40-102">Configurar SPF no Office 365</span><span class="sxs-lookup"><span data-stu-id="a9c40-102">Set up SPF in Office 365</span></span>
+# <a name="set-up-spf-in-office-365"></a><span data-ttu-id="161b1-102">Configurar o SPF no Office 365</span><span class="sxs-lookup"><span data-stu-id="161b1-102">Set up SPF in Office 365</span></span>
 
-<span data-ttu-id="a9c40-p101">Atualize seus registros DNS para que você pode usar uma estrutura de política de remetente (SPF) com seu domínio personalizado para validar emails de saída enviados a partir de seu domínio personalizado. Isso ajuda a impedir que outras pessoas "falsificação" email como se ele enviados a partir de seu domínio.</span><span class="sxs-lookup"><span data-stu-id="a9c40-p101">Update your DNS records so that you can use a Sender Policy Framework (SPF) with your custom domain to validate outbound email sent from your custom domain. This helps prevent others from "spoofing" mail as if it were sent from your domain.</span></span>
+<span data-ttu-id="161b1-103">Atualize seus registros DNS para que você possa usar uma SPF (Sender Policy Framework) com seu domínio personalizado para validar emails de saída enviados do seu domínio personalizado.</span><span class="sxs-lookup"><span data-stu-id="161b1-103">Update your DNS records so that you can use a Sender Policy Framework (SPF) with your custom domain to validate outbound email sent from your custom domain.</span></span> <span data-ttu-id="161b1-104">Isso ajuda a evitar que outras pessoas "falsificar" mensagens como se fossem enviadas do seu domínio.</span><span class="sxs-lookup"><span data-stu-id="161b1-104">This helps prevent others from "spoofing" mail as if it were sent from your domain.</span></span>
   
-- [<span data-ttu-id="a9c40-105">Configurar SPF no Office 365 para ajudar a impedir a falsificação</span><span class="sxs-lookup"><span data-stu-id="a9c40-105">Set up SPF in Office 365 to help prevent spoofing </span></span>](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [<span data-ttu-id="161b1-105">Configurar o SPF no Office 365 para ajudar a impedir a falsificação</span><span class="sxs-lookup"><span data-stu-id="161b1-105">Set up SPF in Office 365 to help prevent spoofing </span></span>](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
     
-- [<span data-ttu-id="a9c40-106">Ajuda para configurar todos os registros DNS</span><span class="sxs-lookup"><span data-stu-id="a9c40-106">Help setting up all DNS records</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [<span data-ttu-id="161b1-106">Ajuda para configuração de todos os registros DNS</span><span class="sxs-lookup"><span data-stu-id="161b1-106">Help setting up all DNS records</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
     
 
