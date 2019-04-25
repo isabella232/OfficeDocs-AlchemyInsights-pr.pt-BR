@@ -10,24 +10,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
 ms.openlocfilehash: a2c428b45672c3d895b88a653b541a1ab37326c8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29924720"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418565"
 ---
-# <a name="migrate-public-folder-data-to-office-365"></a><span data-ttu-id="db28e-102">Migrar dados de pasta pública para o Office 365</span><span class="sxs-lookup"><span data-stu-id="db28e-102">Migrate public folder data to Office 365</span></span>
+# <a name="migrate-public-folder-data-to-office-365"></a><span data-ttu-id="a9561-102">Migrar dados de pasta pública para o Office 365</span><span class="sxs-lookup"><span data-stu-id="a9561-102">Migrate public folder data to Office 365</span></span>
 
-<span data-ttu-id="db28e-p101">Se você não tiver muitas pastas públicas para trazer para o Office 365, seria a maneira mais fácil para ativá-los copiar os dados em. PST e importá-los para o Office 365. Para pequenas quantidades de dados, um simples de arrastar e soltar da pasta pública em um. Arquivo PST pode ser suficiente. Se você tiver mais dados do que esse (até 30GB), temos [documentado um processo](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) que você pode usar para Exportar pastas para arquivos PST.</span><span class="sxs-lookup"><span data-stu-id="db28e-p101">If you don't have a lot of public folders to bring into Office 365, the easiest way to bring them would be to copy the data into .PST files and then import them into Office 365. For small amounts of data, a simple drag and drop of public folder into a .PST file can be sufficient. If you have more data than that (up to 30GB), we have [documented a process](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) that you can use to export folders to PST files.</span></span> 
+<span data-ttu-id="a9561-103">Se você não tiver muitas pastas públicas para trazer para o Office 365, a maneira mais fácil de colocá-los seria copiar os dados para o. PST e, em seguida, importá-los para o Office 365.</span><span class="sxs-lookup"><span data-stu-id="a9561-103">If you don't have a lot of public folders to bring into Office 365, the easiest way to bring them would be to copy the data into .PST files and then import them into Office 365.</span></span> <span data-ttu-id="a9561-104">Para pequenas quantidades de dados, um simples arrastar e soltar de pasta pública em um. O arquivo PST pode ser suficiente.</span><span class="sxs-lookup"><span data-stu-id="a9561-104">For small amounts of data, a simple drag and drop of public folder into a .PST file can be sufficient.</span></span> <span data-ttu-id="a9561-105">Se você tiver mais dados do que (até 30GB), [documentamos um processo](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) que pode ser usado para exportar pastas para arquivos pst.</span><span class="sxs-lookup"><span data-stu-id="a9561-105">If you have more data than that (up to 30GB), we have [documented a process](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) that you can use to export folders to PST files.</span></span> 
   
-<span data-ttu-id="db28e-106">Para organizações maiores que estejam mudando pastas públicas no Office 365, temos várias guias disponíveis:</span><span class="sxs-lookup"><span data-stu-id="db28e-106">For larger organizations who are moving public folders into Office 365, we have several guides available:</span></span>
+<span data-ttu-id="a9561-106">Para organizações maiores que estão movendo pastas públicas para o Office 365, temos vários guias disponíveis:</span><span class="sxs-lookup"><span data-stu-id="a9561-106">For larger organizations who are moving public folders into Office 365, we have several guides available:</span></span>
   
-- <span data-ttu-id="db28e-107">[Pastas públicas herdadas de migração](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 e versões anterior)</span><span class="sxs-lookup"><span data-stu-id="db28e-107">[Migrate legacy public folders](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 and earlier)</span></span> 
+- <span data-ttu-id="a9561-107">[Migrar pastas públicas herdadas](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 e anteriores)</span><span class="sxs-lookup"><span data-stu-id="a9561-107">[Migrate legacy public folders](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 and earlier)</span></span> 
     
-- [<span data-ttu-id="db28e-108">Migrar pastas públicas do Exchange 2013</span><span class="sxs-lookup"><span data-stu-id="db28e-108">Migrate Exchange 2013 public folders</span></span>](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
+- [<span data-ttu-id="a9561-108">Migrar pastas públicas do Exchange 2013</span><span class="sxs-lookup"><span data-stu-id="a9561-108">Migrate Exchange 2013 public folders</span></span>](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
     
-- [<span data-ttu-id="db28e-109">Pastas públicas do Exchange 2016 mirate</span><span class="sxs-lookup"><span data-stu-id="db28e-109">Mirate Exchange 2016 public folders</span></span>](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
+- [<span data-ttu-id="a9561-109">Mirate pastas públicas do Exchange 2016</span><span class="sxs-lookup"><span data-stu-id="a9561-109">Mirate Exchange 2016 public folders</span></span>](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
     
-<span data-ttu-id="db28e-110">Você também tem a opção de [migrar pastas públicas para o Office 365 grupos](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="db28e-110">You also have the option to [migrate public folders to Office 365 Groups](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).</span></span>
+<span data-ttu-id="a9561-110">Você também tem a opção de [migrar pastas públicas para grupos do Office 365](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="a9561-110">You also have the option to [migrate public folders to Office 365 Groups](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).</span></span>
   
 

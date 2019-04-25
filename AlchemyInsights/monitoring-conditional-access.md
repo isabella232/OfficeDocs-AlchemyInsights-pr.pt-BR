@@ -1,5 +1,5 @@
 ---
-title: Monitoramento de acesso condicional
+title: Monitorar o acesso condicional
 ms.author: pebaum
 author: pebaum
 ms.date: 8/1/2018
@@ -9,32 +9,32 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
 ms.openlocfilehash: 756c5e98ed3e9cedd0152b5747ea6bf1ed31778e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29902328"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418457"
 ---
-# <a name="monitoring-conditional-access"></a><span data-ttu-id="76ea3-102">Monitoramento de acesso condicional</span><span class="sxs-lookup"><span data-stu-id="76ea3-102">Monitoring Conditional Access</span></span>
+# <a name="monitoring-conditional-access"></a><span data-ttu-id="9a23d-102">Monitorar o acesso condicional</span><span class="sxs-lookup"><span data-stu-id="9a23d-102">Monitoring Conditional Access</span></span>
 
-<span data-ttu-id="76ea3-p101">Usuários visados com acesso condicional receberá um email de notificação, se elas não atenderem aos requisitos de acesso da sua organização. Para resolver, recomendamos uma ou mais das seguintes soluções:</span><span class="sxs-lookup"><span data-stu-id="76ea3-p101">Users targeted with conditional access will receive a notification email if they do not meet your organization's access requirements. To resolve, we recommend one or more of the following solutions:</span></span>
+<span data-ttu-id="9a23d-103">Os usuários direcionados ao acesso condicional receberão um email de notificação se não atenderem aos requisitos de acesso da sua organização.</span><span class="sxs-lookup"><span data-stu-id="9a23d-103">Users targeted with conditional access will receive a notification email if they do not meet your organization's access requirements.</span></span> <span data-ttu-id="9a23d-104">Para resolver, recomendamos uma ou mais das seguintes soluções:</span><span class="sxs-lookup"><span data-stu-id="9a23d-104">To resolve, we recommend one or more of the following solutions:</span></span>
   
-- <span data-ttu-id="76ea3-p102">Se o dispositivo é provável que será registrado, avisa o usuário ir para o aplicativo de Portal da empresa e verifique se ele aparece no Portal de empresa. Caso contrário, o usuário deve registrar o dispositivo.</span><span class="sxs-lookup"><span data-stu-id="76ea3-p102">If the device is presumed to be enrolled, advise the user to go to the Company Portal app and verify that it appears in the Company Portal. If it doesn't, the user should enroll the device.</span></span>
+- <span data-ttu-id="9a23d-105">Se presumir que o dispositivo esteja inscrito, recomende que o usuário acesse o aplicativo do portal da empresa e verifique se ele aparece no portal da empresa.</span><span class="sxs-lookup"><span data-stu-id="9a23d-105">If the device is presumed to be enrolled, advise the user to go to the Company Portal app and verify that it appears in the Company Portal.</span></span> <span data-ttu-id="9a23d-106">Caso contrário, o usuário deverá registrar o dispositivo.</span><span class="sxs-lookup"><span data-stu-id="9a23d-106">If it doesn't, the user should enroll the device.</span></span>
     
-- <span data-ttu-id="76ea3-p103">No portal do Azure, vá para **Intune \> conformidade de dispositivo**. Em **Monitor** , clique em **conformidade do dispositivo**. Exiba o relatório de conformidade do dispositivo para verificar que o dispositivo do usuário está marcado como compatível.</span><span class="sxs-lookup"><span data-stu-id="76ea3-p103">In the Azure portal go to **Intune \> Device compliance**. Under **Monitor** click **Device compliance**. View your device compliance report to verify that the user's device is marked as compliant.</span></span> 
+- <span data-ttu-id="9a23d-107">No portal do Azure, vá para a \*\*conformidade de dispositivo do Intune \> \*\*.</span><span class="sxs-lookup"><span data-stu-id="9a23d-107">In the Azure portal go to **Intune \> Device compliance**.</span></span> <span data-ttu-id="9a23d-108">Em **monitorar** , clique em **conformidade de dispositivo**.</span><span class="sxs-lookup"><span data-stu-id="9a23d-108">Under **Monitor** click **Device compliance**.</span></span> <span data-ttu-id="9a23d-109">Exiba o relatório de conformidade do dispositivo para verificar se o dispositivo do usuário está marcado como compatível.</span><span class="sxs-lookup"><span data-stu-id="9a23d-109">View your device compliance report to verify that the user's device is marked as compliant.</span></span> 
     
-- <span data-ttu-id="76ea3-p104">No portal do Azure, vá para **Intune \> conformidade de dispositivo**. Em **Gerenciar**, clique em **políticas**. Na lista de políticas de conformidade, verifique se um perfil é atribuído ao dispositivo do usuário. Se nenhum perfil for atribuída, Intune não poderá confirmar o status de conformidade do dispositivo.</span><span class="sxs-lookup"><span data-stu-id="76ea3-p104">In the Azure portal go to **Intune \> Device compliance**. Under **Manage**, click **Policies**. In the list of compliance policies, verify that a profile is assigned to your user's device. If no profile is assigned, then Intune will not be able to confirm the device's compliance status.</span></span> 
+- <span data-ttu-id="9a23d-110">No portal do Azure, vá para a \*\*conformidade de dispositivo do Intune \> \*\*.</span><span class="sxs-lookup"><span data-stu-id="9a23d-110">In the Azure portal go to **Intune \> Device compliance**.</span></span> <span data-ttu-id="9a23d-111">Em **gerenciar**, clique em **políticas**.</span><span class="sxs-lookup"><span data-stu-id="9a23d-111">Under **Manage**, click **Policies**.</span></span> <span data-ttu-id="9a23d-112">Na lista de políticas de conformidade, verifique se um perfil foi atribuído ao dispositivo do usuário.</span><span class="sxs-lookup"><span data-stu-id="9a23d-112">In the list of compliance policies, verify that a profile is assigned to your user's device.</span></span> <span data-ttu-id="9a23d-113">Se nenhum perfil for atribuído, o Intune não conseguirá confirmar o status de conformidade do dispositivo.</span><span class="sxs-lookup"><span data-stu-id="9a23d-113">If no profile is assigned, then Intune will not be able to confirm the device's compliance status.</span></span> 
     
-- <span data-ttu-id="76ea3-114">Edite a atribuição de condicional de acesso do usuário.</span><span class="sxs-lookup"><span data-stu-id="76ea3-114">Edit the user's conditional access assignment.</span></span>
+- <span data-ttu-id="9a23d-114">Edite a atribuição de acesso condicional do usuário.</span><span class="sxs-lookup"><span data-stu-id="9a23d-114">Edit the user's conditional access assignment.</span></span>
     
-1. <span data-ttu-id="76ea3-115">No portal do Azure, vá para **Intune \> acesso condicional \> políticas**</span><span class="sxs-lookup"><span data-stu-id="76ea3-115">In the Azure portal go to **Intune \> Conditional access \> Policies**</span></span>
+1. <span data-ttu-id="9a23d-115">No portal do Azure, vá **para \> as políticas \> de acesso condicional do Intune**</span><span class="sxs-lookup"><span data-stu-id="9a23d-115">In the Azure portal go to **Intune \> Conditional access \> Policies**</span></span>
     
-2. <span data-ttu-id="76ea3-116">Selecione uma política na lista</span><span class="sxs-lookup"><span data-stu-id="76ea3-116">Select a policy from the list</span></span>
+2. <span data-ttu-id="9a23d-116">Selecionar uma política na lista</span><span class="sxs-lookup"><span data-stu-id="9a23d-116">Select a policy from the list</span></span>
     
-3. <span data-ttu-id="76ea3-117">Clique em **usuários e grupos**</span><span class="sxs-lookup"><span data-stu-id="76ea3-117">Click **Users and groups**</span></span>
+3. <span data-ttu-id="9a23d-117">Clique em **usuários e grupos**</span><span class="sxs-lookup"><span data-stu-id="9a23d-117">Click **Users and groups**</span></span>
     
-4. <span data-ttu-id="76ea3-p105">Para direcionar a uma determinada política no alguém, adicioná-los à lista de **inclusão** . Para garantir que uma pessoa for omitida da diretiva, adicioná-los à lista de **exclusões** .</span><span class="sxs-lookup"><span data-stu-id="76ea3-p105">To target a certain policy at someone, add them to the **Include** list. To ensure that a person is omitted from the policy, add them to the **Exclude** list.</span></span> 
+4. <span data-ttu-id="9a23d-118">Para direcionar uma determinada política em alguém, adicione-a à lista de **inclusões** .</span><span class="sxs-lookup"><span data-stu-id="9a23d-118">To target a certain policy at someone, add them to the **Include** list.</span></span> <span data-ttu-id="9a23d-119">Para garantir que uma pessoa seja omitida da política, adicione-a à lista de **exclusão** .</span><span class="sxs-lookup"><span data-stu-id="9a23d-119">To ensure that a person is omitted from the policy, add them to the **Exclude** list.</span></span> 
     
-<span data-ttu-id="76ea3-120">Leia mais: [como condicional monitore o acesso de dispositivos](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)</span><span class="sxs-lookup"><span data-stu-id="76ea3-120">Read more: [How to Monitor Conditional Access devices](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)</span></span>
+<span data-ttu-id="9a23d-120">Leia mais: [como monitorar dispositivos de acesso condicional](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)</span><span class="sxs-lookup"><span data-stu-id="9a23d-120">Read more: [How to Monitor Conditional Access devices](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)</span></span>
   
 

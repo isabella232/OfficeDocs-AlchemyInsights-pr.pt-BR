@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
 ms.openlocfilehash: 66188c1065ea9b844673af1214995be2da7fd810
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208033"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418354"
 ---
-# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a><span data-ttu-id="86645-102">Exibir relatórios sobre a atividade e o uso do OneDrive e do SharePoint</span><span class="sxs-lookup"><span data-stu-id="86645-102">View reports on OneDrive and SharePoint activity and usage</span></span>
+# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a><span data-ttu-id="36d82-102">Exibir relatórios sobre a atividade e o uso do OneDrive e do SharePoint</span><span class="sxs-lookup"><span data-stu-id="36d82-102">View reports on OneDrive and SharePoint activity and usage</span></span>
 
-<span data-ttu-id="86645-p101">Vá para a [página relatórios de uso no centro de administração do Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). Em **selecionar um relatório**, escolha o relatório de uso e atividade do onedrive ou do SharePoint.</span><span class="sxs-lookup"><span data-stu-id="86645-p101">Go to the [Usage reports page in the Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home). Under **Select a report**, choose the OneDrive or SharePoint activity or usage report.</span></span> 
+<span data-ttu-id="36d82-103">Vá para a [página relatórios de uso no centro de administração do Microsoft 365](https://admin.microsoft.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="36d82-103">Go to the [Usage reports page in the Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).</span></span> <span data-ttu-id="36d82-104">Em **selecionar um relatório**, escolha o relatório de uso e atividade do onedrive ou do SharePoint.</span><span class="sxs-lookup"><span data-stu-id="36d82-104">Under **Select a report**, choose the OneDrive or SharePoint activity or usage report.</span></span> 
   
-[<span data-ttu-id="86645-105">Mais informações sobre os relatórios do OneDrive</span><span class="sxs-lookup"><span data-stu-id="86645-105">More info about OneDrive reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875239)
+[<span data-ttu-id="36d82-105">Mais informações sobre os relatórios do OneDrive</span><span class="sxs-lookup"><span data-stu-id="36d82-105">More info about OneDrive reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875239)
   
-[<span data-ttu-id="86645-106">Mais informações sobre relatórios do SharePoint</span><span class="sxs-lookup"><span data-stu-id="86645-106">More info about SharePoint reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875240)
+[<span data-ttu-id="36d82-106">Mais informações sobre relatórios do SharePoint</span><span class="sxs-lookup"><span data-stu-id="36d82-106">More info about SharePoint reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875240)
   
 
