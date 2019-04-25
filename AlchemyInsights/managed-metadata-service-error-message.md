@@ -1,5 +1,5 @@
 ---
-title: Mensagem de erro do Managed Metadata Service
+title: Mensagem de erro do serviço de metadados gerenciados
 ms.author: kirks
 author: Techwriter40
 ms.date: 12/17/2018
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
 ms.openlocfilehash: 52c9d772410569adef01ea78bdfb21ab192a70b5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901572"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409102"
 ---
-# <a name="managed-metadata-service-error-message"></a><span data-ttu-id="d5677-102">Mensagem de erro do Managed Metadata Service</span><span class="sxs-lookup"><span data-stu-id="d5677-102">Managed Metadata Service error message</span></span>
+# <a name="managed-metadata-service-error-message"></a><span data-ttu-id="f9621-102">Mensagem de erro do serviço de metadados gerenciados</span><span class="sxs-lookup"><span data-stu-id="f9621-102">Managed Metadata Service error message</span></span>
 
-<span data-ttu-id="d5677-p101">Quando você abre o repositório de termos, você poderá ver uma mensagem de erro: "a Managed Metadata Service ou Conexão não atualmente está disponível. O Pool de aplicativos ou o serviço Web de metadados gerenciados pode não ter sido iniciado. Contate o administrador".</span><span class="sxs-lookup"><span data-stu-id="d5677-p101">When you open the Term Store, you may see an error message: "The Managed Metadata Service or Connection is currently not available. The Application Pool or Managed Metadata Web Service may not have been started. Please Contact your Administrator."</span></span>
+<span data-ttu-id="f9621-103">Ao abrir o repositório de termos, você pode ver uma mensagem de erro: "o serviço de metadados gerenciados ou a conexão não está disponível no momento.</span><span class="sxs-lookup"><span data-stu-id="f9621-103">When you open the Term Store, you may see an error message: "The Managed Metadata Service or Connection is currently not available.</span></span> <span data-ttu-id="f9621-104">O pool de aplicativos ou o serviço Web de metadados gerenciados pode não ter sido iniciado.</span><span class="sxs-lookup"><span data-stu-id="f9621-104">The Application Pool or Managed Metadata Web Service may not have been started.</span></span> <span data-ttu-id="f9621-105">Entre em contato com o administrador. "</span><span class="sxs-lookup"><span data-stu-id="f9621-105">Please Contact your Administrator."</span></span>
   
-<span data-ttu-id="d5677-p102">Se mais de 24 horas passados desde o primeiro vimos esse problema, efetue um caso de suporte. Sabemos que 24 horas pode parecer como muito tempo. Em muitos casos, podemos já estiver trabalhando em uma solução tão envie-pelo menos 24 horas.</span><span class="sxs-lookup"><span data-stu-id="d5677-p102">If more than 24 hours have passed since you first saw this issue, please log a support case. We understand that 24 hours may seem like a long time. In many cases, we're already working on a solution so please give us at least 24 hours.</span></span>
+<span data-ttu-id="f9621-106">Se passar mais de 24 horas desde que você viu o problema pela primeira vez, registre um caso de suporte.</span><span class="sxs-lookup"><span data-stu-id="f9621-106">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span> <span data-ttu-id="f9621-107">Entendemos que podem aparecer 24 horas por um longo tempo.</span><span class="sxs-lookup"><span data-stu-id="f9621-107">We understand that 24 hours may seem like a long time.</span></span> <span data-ttu-id="f9621-108">Em muitos casos, já estamos trabalhando em uma solução para nos dar pelo menos 24 horas.</span><span class="sxs-lookup"><span data-stu-id="f9621-108">In many cases, we're already working on a solution so please give us at least 24 hours.</span></span>
   
 
