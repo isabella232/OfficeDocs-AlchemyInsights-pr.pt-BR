@@ -1,5 +1,5 @@
 ---
-title: Informações sobre como litígio ou bloqueio in loco
+title: Informações sobre retenção de litígio ou in-loco
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
 ms.openlocfilehash: 9ecfb5bb167a0c959d39d47713bbb0e64862abb8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926916"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410398"
 ---
-- Para aplicar uma retenção de litígio espera ou um in-loco espera uma caixa de correio, é necessário ter uma [licença do Exchange Online plano 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Se você tiver quaisquer outro plano, atribua uma licença separada de [Arquivamento do Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) para a conta. 
+- Para aplicar uma retenção de litígio ou um bloqueio in-loco a uma caixa de correio, é necessária uma [licença do Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Se você tiver qualquer outro plano, atribua uma licença de arquivamento do [Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) separada à conta. 
     
-- **Para habilitar um litígio** para um único usuário, siga as etapas descritas [aqui](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Quando litígio estiver habilitado, todo o conteúdo na caixa de correio é colocado em espera.
+- **Para habilitar uma retenção de litígio** para um único usuário, siga as etapas descritas [aqui](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Quando a retenção de litígio está habilitada, todo o conteúdo da caixa de correio é colocado em espera.
     
-- Para aplicar um **bloqueio in-loco nos usuários único** ou uma isenção para **todas as caixas de correio em toda a organização**, você pode usar as políticas de retenção no Centro de conformidade e segurança do Office 365, seguindo as etapas descritas [aqui](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
+- Para aplicar um **bloqueio in-loco em um único usuário** ou em uma retenção a **todas as caixas de correio em toda a organização**, você pode usar as políticas de retenção no centro de segurança e conformidade do Office 365 seguindo as etapas descritas [aqui](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
     
     > [!NOTE]
-    > Políticas de retenção de toda a organização, novos usuários serão automaticamente adicionados à isenção. 
+    > Para políticas de retenção em toda a organização, novos usuários serão adicionados automaticamente à isenção. 
   
-- Para exibir ou descobrir o conteúdo de caixa de correio que é colocado em espera, use a **pesquisa de descoberta eletrônica e exportar**. Para obter informações sobre como usar a **pesquisa de descoberta eletrônica e exportar**, siga as etapas descritas [aqui](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+- Para exibir ou descobrir o conteúdo da caixa de correio que é colocado em espera, use **pesquisa e exportação de descoberta eletrônica**. Para obter informações sobre como usar a **pesquisa e exportação de descoberta eletrônica**, siga as etapas descritas [aqui](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
     
 

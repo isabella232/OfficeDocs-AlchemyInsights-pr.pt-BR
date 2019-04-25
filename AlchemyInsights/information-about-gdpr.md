@@ -1,5 +1,5 @@
 ---
-title: Informações sobre GDPR
+title: Informações sobre o RGPD
 ms.author: pebaum
 author: pebaum
 ms.date: 6/28/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
 ms.openlocfilehash: b3041ad829993480937fae111c9d43762ac86c3c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941424"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410838"
 ---
-# <a name="information-about-gdpr"></a>Informações sobre GDPR
+# <a name="information-about-gdpr"></a>Informações sobre o RGPD
 
-- Começar a usar o [confiança Portal de serviços.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+- Introdução ao portal de [confiança do serviço.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
     
-- Para qualquer coisa relacionados ao **Contrato de processamento de dados** (DPA), examine: 
+- Para qualquer coisa relacionada ao **contrato de processamento de dados** (DPA), revise: 
     
-  - [Recursos de Proteção de Dados](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
+  - [Recursos de proteção de dados](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
     
   - [Relatórios de Auditoria](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
     
-- Informações sobre **Solicitações de entidade de dados** (DSR) - descobrir, acessar, corrija, restringir, excluir, exportação for [aqui.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+- Informações sobre **solicitações de entidades de dados** (DSR)-descobrir, acessar, corrigir, restringir, excluir, exportar é [aqui.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
     
-- Informações sobre **Notificações de violação de dados** estão [aqui.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
+- As informações sobre a **notificação de violação de dados** estão [aqui.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
     
-- Informações sobre **locais de dados** estão [aqui.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
+- As informações sobre **locais de dados** estão [aqui.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
     
 

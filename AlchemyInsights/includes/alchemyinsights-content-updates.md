@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Semana de 11 de março de 2019
-
-
-| Publicado em |Título do tópico | Alteração |
-|------|------------|--------|
-| 3/12/2019 | 8000054 Outlook.com caixa de entrada não está carregando | adicioná |
-| 3/12/2019 | [8000078 Outlook.com caixa de entrada não está carregando](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | renomeado |
-| 3/12/2019 | [8000078 Outlook.com caixa de entrada não está carregando](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | modificado |
-| 3/13/2019 | [Retransmitir emails no Office 365](/AlchemyInsights/relay-email-through-office-365) | modificado |
-| 3/14/2019 | [igual ao nome do arquivo é melhor [regra #-Descrição]](/AlchemyInsights/1-alchemy-insight-template) | modificado |
-| 3/14/2019 | [Aumentar tamanho da caixa de correio](/AlchemyInsights/increase-mailbox-size) | modificado |
-| 3/15/2019 | [Cancelar a área de trabalho do Outlook ou substituir uma mensagem de email](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | adicioná |
-
-
 ## <a name="week-of-march-18-2019"></a>Semana de 18 de março de 2019
 
 
@@ -27,8 +13,8 @@
 | 3/19/2019 | [igual ao nome do arquivo é melhor](/AlchemyInsights/1-alchemy-insight-template) | modificado |
 | 3/20/2019 | [9000193 desfazer mover ou excluir no Outlook.com](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | modificado |
 | 3/21/2019 | [Outlook.com LinkedIn](/AlchemyInsights/8000079-outlook-com-linkedin) | renomeado |
-| 3/21/2019 | [Outlook.com como obter suporte](/AlchemyInsights/outlook-com-how-to-get-support-rule-1) | adicioná |
-| 3/21/2019 | [Outlook.com como obter suporte](/AlchemyInsights/outlook-com-how-to-get-support-rule-2) | adicioná |
+| 3/21/2019 | [Outlook.com como obter suporte](/AlchemyInsights/outlook-com-how-to-get-support-rule-1) | adicionado |
+| 3/21/2019 | [Outlook.com como obter suporte](/AlchemyInsights/outlook-com-how-to-get-support-rule-2) | adicionado |
 | 3/21/2019 | [igual ao nome do arquivo é melhor](/AlchemyInsights/alchemy-insight-template) | renomeado |
 | 3/22/2019 | 127 obter um erro TenantAccessBlockedException ao acessar email? | removido |
 | 3/22/2019 | 128 obter um erro TenantAccessBlockedException ao acessar email? | removido |
@@ -327,25 +313,25 @@
 | 3/22/2019 | [8000068-Outlook.com adicionar conta-espanhol](/AlchemyInsights/outlook-com-add-account-spanish) | renomeado |
 | 3/22/2019 | [9000236 Outlook.com adicionar conta](/AlchemyInsights/outlook-com-add-account) | renomeado |
 | 3/22/2019 | [9000238 Outlook.com adicionar alias](/AlchemyInsights/outlook-com-add-alias) | renomeado |
-| 3/22/2019 | [Outlook.com adicionando sinalizadores ou lembretes](/AlchemyInsights/outlook-com-adding-flags-reminders) | adicioná |
+| 3/22/2019 | [Outlook.com adicionando sinalizadores ou lembretes](/AlchemyInsights/outlook-com-adding-flags-reminders) | adicionado |
 | 3/22/2019 | [Catálogo de endereços do 9000232 Outlook.com](/AlchemyInsights/outlook-com-address-book) | renomeado |
 | 3/22/2019 | [8000076 Outlook.com bloquear remetente-francês](/AlchemyInsights/outlook-com-block-sender-french) | renomeado |
 | 3/22/2019 | [8000069-Outlook.com de bloqueio de remetente-espanhol](/AlchemyInsights/outlook-com-block-sender-spanish) | renomeado |
 | 3/22/2019 | [9000198 Outlook.com calendário beta](/AlchemyInsights/outlook-com-calendar-beta) | renomeado |
 | 3/22/2019 | [8000024 Outlook.com não é possível entrar no Outlook.com](/AlchemyInsights/outlook-com-can-t-sign-in-to-outlook-com) | renomeado |
-| 3/22/2019 | [Outlook.com não pode receber email](/AlchemyInsights/outlook-com-cannot-receive-email) | adicioná |
-| 3/22/2019 | [Outlook.com não pode enviar emails](/AlchemyInsights/outlook-com-cannot-send-email) | adicioná |
-| 3/22/2019 | [O Outlook.com não pode enviar ou receber emails](/AlchemyInsights/outlook-com-cannot-send-receive-email) | adicioná |
+| 3/22/2019 | [Outlook.com não pode receber email](/AlchemyInsights/outlook-com-cannot-receive-email) | adicionado |
+| 3/22/2019 | [Outlook.com não pode enviar emails](/AlchemyInsights/outlook-com-cannot-send-email) | adicionado |
+| 3/22/2019 | [O Outlook.com não pode enviar ou receber emails](/AlchemyInsights/outlook-com-cannot-send-receive-email) | adicionado |
 | 3/22/2019 | [8000070-Outlook.com não pode entrar-espanhol](/AlchemyInsights/outlook-com-cant-sign-in-spanish) | renomeado |
 | 3/22/2019 | [9000071 não é possível digitar @ símbolo no Mac](/AlchemyInsights/outlook-com-cant-type-@-on-mac) | renomeado |
-| 3/22/2019 | [Idioma de alteração do Outlook.com](/AlchemyInsights/outlook-com-change-language) | adicioná |
-| 3/22/2019 | [Outlook.com alterar a aparência da sua caixa de correio](/AlchemyInsights/outlook-com-change-look-of-mailbox) | adicioná |
+| 3/22/2019 | [Idioma de alteração do Outlook.com](/AlchemyInsights/outlook-com-change-language) | adicionado |
+| 3/22/2019 | [Outlook.com alterar a aparência da sua caixa de correio](/AlchemyInsights/outlook-com-change-look-of-mailbox) | adicionado |
 | 3/22/2019 | [8000075 Outlook.com alterar senha-francês](/AlchemyInsights/outlook-com-change-password-french) | renomeado |
 | 3/22/2019 | [8000074 Outlook.com conta de fechamento – francês](/AlchemyInsights/outlook-com-close-account-french) | renomeado |
 | 3/22/2019 | [8000067-Outlook.com conta de fechamento-espanhol](/AlchemyInsights/outlook-com-close-account-spanish) | renomeado |
 | 3/22/2019 | [8000093 Outlook.com permissões de conta conectada](/AlchemyInsights/outlook-com-connected-account-permissions) | renomeado |
-| 3/22/2019 | [Listas de contatos do Outlook.com](/AlchemyInsights/outlook-com-contact-lists) | adicioná |
-| 3/22/2019 | [Colar cópia Outlook.com](/AlchemyInsights/outlook-com-copy-paste) | adicioná |
+| 3/22/2019 | [Listas de contatos do Outlook.com](/AlchemyInsights/outlook-com-contact-lists) | adicionado |
+| 3/22/2019 | [Colar cópia Outlook.com](/AlchemyInsights/outlook-com-copy-paste) | adicionado |
 | 3/22/2019 | [9000203 filtros Outlook.com](/AlchemyInsights/outlook-com-filters) | renomeado |
 | 3/22/2019 | [8000071 Outlook.com Fix e-mail Sync-francês](/AlchemyInsights/outlook-com-fix-email-sync-french) | renomeado |
 | 3/22/2019 | [8000064 Outlook.com email não é possível sincronizar-espanhol](/AlchemyInsights/outlook-com-fix-email-sync-spanish) | renomeado |
@@ -362,10 +348,10 @@
 | 3/22/2019 | [8000061 Outlook.com pastas ausentes](/AlchemyInsights/outlook-com-missing-folders) | renomeado |
 | 3/22/2019 | [Outlook.com de revisão do MSA 8000060](/AlchemyInsights/outlook-com-msa-proofs) | renomeado |
 | 3/22/2019 | [9000202 opções de Outlook.com](/AlchemyInsights/outlook-com-options) | renomeado |
-| 3/22/2019 | [Phishing Outlook.com](/AlchemyInsights/outlook-com-phishing) | adicioná |
+| 3/22/2019 | [Phishing Outlook.com](/AlchemyInsights/outlook-com-phishing) | adicionado |
 | 3/22/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/outlook-com-pin) | renomeado |
 | 3/22/2019 | [8000043 configurações POP, IMAP e SMTP para Outlook.com](/AlchemyInsights/outlook-com-pop-imap-and-smtp-settings) | renomeado |
-| 3/22/2019 | [Outlook.com premium](/AlchemyInsights/outlook-com-premium) | adicioná |
+| 3/22/2019 | [Outlook.com premium](/AlchemyInsights/outlook-com-premium) | adicionado |
 | 3/22/2019 | [8000091 Outlook.com reagir pop up](/AlchemyInsights/outlook-com-react-pop-up) | renomeado |
 | 3/22/2019 | [arquivos PST 9000199 no Outlook.com](/AlchemyInsights/outlook-com-read-pst-files) | renomeado |
 | 3/22/2019 | [9000240 respostas Outlook.com](/AlchemyInsights/outlook-com-replies) | renomeado |
@@ -374,16 +360,16 @@
 | 3/22/2019 | [8000088 salvar email no Outlook.com](/AlchemyInsights/outlook-com-save-emails) | renomeado |
 | 3/22/2019 | [8000090 Outlook.com selecionar tudo](/AlchemyInsights/outlook-com-select-all) | renomeado |
 | 3/22/2019 | [8000048 Outlook.com envia um email ' em nome ' do meu endereço de email](/AlchemyInsights/outlook-com-sends-email-on-behalf-of-my-email-address) | renomeado |
-| 3/22/2019 | [Configurações do Outlook.com](/AlchemyInsights/outlook-com-settings) | adicioná |
+| 3/22/2019 | [Configurações do Outlook.com](/AlchemyInsights/outlook-com-settings) | adicionado |
 | 3/22/2019 | [8000049 ícone do Skype ausente no Outlook.com](/AlchemyInsights/outlook-com-skype-button) | renomeado |
-| 3/22/2019 | [Spam e lixo eletrônico do Outlook.com](/AlchemyInsights/outlook-com-spam) | adicioná |
+| 3/22/2019 | [Spam e lixo eletrônico do Outlook.com](/AlchemyInsights/outlook-com-spam) | adicionado |
 | 3/22/2019 | [8000049 Outlook.com status sempre mostra como disponível](/AlchemyInsights/outlook-com-status-always-shows-as-available) | renomeado |
-| 3/22/2019 | [As mensagens de parada do Outlook.com vão para a pasta de lixo eletrônico](/AlchemyInsights/outlook-com-stop-email-from-going-to-junk-folder) | adicioná |
+| 3/22/2019 | [As mensagens de parada do Outlook.com vão para a pasta de lixo eletrônico](/AlchemyInsights/outlook-com-stop-email-from-going-to-junk-folder) | adicionado |
 | 3/22/2019 | [8000054 Outlook.com limite de armazenamento excedido](/AlchemyInsights/outlook-com-storage-limit-exceeded) | renomeado |
 | 3/22/2019 | [9000215 assinaturas de Outlook.com](/AlchemyInsights/outlook-com-subscriptions) | renomeado |
 | 3/22/2019 | [9000193 desfazer mover ou excluir no Outlook.com](/AlchemyInsights/outlook-com-undo-move-delete) | renomeado |
 | 3/22/2019 | [8000036 alterar img/nome do perfil no Outlook.com](/AlchemyInsights/outlook-com-update-profile) | renomeado |
-| 3/22/2019 | [Atualização do Outlook.com](/AlchemyInsights/outlook-com-update) | adicioná |
+| 3/22/2019 | [Atualização do Outlook.com](/AlchemyInsights/outlook-com-update) | adicionado |
 | 3/22/2019 | [8000054 Outlook.com limite de armazenamento excedido](/AlchemyInsights/outlook-com-usage-limit-exceeded) | renomeado |
 | 3/22/2019 | [8000092 Outlook.com exibir a origem da mensagem](/AlchemyInsights/outlook-com-view-message-source) | renomeado |
 | 3/22/2019 | [1800009 suporte ao aplicativo do Outlook para Mac](/AlchemyInsights/outlook-for-mac-in-app-support) | renomeado |
@@ -399,7 +385,7 @@
 |------|------------|--------|
 | 3/25/2019 | [Idioma de alteração do Outlook.com](/AlchemyInsights/outlook-com-change-language) | modificado |
 | 3/27/2019 | [Excluir um site do SharePoint](/AlchemyInsights/delete-a-sharepoint-site) | modificado |
-| 3/28/2019 | Restringir o modo clássico do SharePoint Online | adicioná |
+| 3/28/2019 | Restringir o modo clássico do SharePoint Online | adicionado |
 | 3/28/2019 | [Não é possível adicionar o fluxo de trabalho de aprovação padrão 2010](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | modificado |
 | 3/28/2019 | [Restringir o modo clássico do SharePoint Online](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | renomeado |
 
@@ -409,20 +395,20 @@
 
 | Publicado em |Título do tópico | Alteração |
 |------|------------|--------|
-| 4/1/2019 | [Habilitar o Office 365 ATP para SharePoint, OneDrive e Microsoft Teams](/AlchemyInsights/enable-office-365-atp-spo-odb-teams) | adicioná |
-| 4/1/2019 | [Configuração de proteção avançada contra ameaças (ATP) do Office 365](/AlchemyInsights/office-365-atp-setup) | adicioná |
+| 4/1/2019 | [Habilitar o Office 365 ATP para SharePoint, OneDrive e Microsoft Teams](/AlchemyInsights/enable-office-365-atp-spo-odb-teams) | adicionado |
+| 4/1/2019 | [Configuração de proteção avançada contra ameaças (ATP) do Office 365](/AlchemyInsights/office-365-atp-setup) | adicionado |
 | 4/1/2019 | [9000071 não é possível digitar @ símbolo no Mac](/AlchemyInsights/outlook-com-cant-type-chars-on-mac) | renomeado |
 | 4/1/2019 | [Restaurar um grupo do Office 365 usando o centro de administração do Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | modificado |
-| 4/1/2019 | [Solucionar problemas com a proteção avançada contra ameaças do Office 365 (ATP)](/AlchemyInsights/troubleshoot-issues-office-365-atp) | adicioná |
-| 4/2/2019 | Rótulos de classificação no Office 365 | adicioná |
-| 4/2/2019 | Visão geral da prevenção de perda de dados (DLP) | adicioná |
-| 4/2/2019 | Aplicativo de área de trabalho para SharePoint | adicioná |
-| 4/2/2019 | Limites e restrições do site do Hub | adicioná |
-| 4/2/2019 | OneDrive: arquivos ou pastas ausentes | adicioná |
-| 4/2/2019 | Salvar site ou lista como modelo | adicioná |
-| 4/2/2019 | Visão geral dos sites do hub do SharePoint | adicioná |
-| 4/2/2019 | Estrutura de site e conteúdo removida | adicioná |
-| 4/2/2019 | Solucionar erro 404, arquivo não encontrado | adicioná |
+| 4/1/2019 | [Solucionar problemas com a proteção avançada contra ameaças do Office 365 (ATP)](/AlchemyInsights/troubleshoot-issues-office-365-atp) | adicionado |
+| 4/2/2019 | Rótulos de classificação no Office 365 | adicionado |
+| 4/2/2019 | Visão geral da prevenção de perda de dados (DLP) | adicionado |
+| 4/2/2019 | Aplicativo de área de trabalho para SharePoint | adicionado |
+| 4/2/2019 | Limites e restrições do site do Hub | adicionado |
+| 4/2/2019 | OneDrive: arquivos ou pastas ausentes | adicionado |
+| 4/2/2019 | Salvar site ou lista como modelo | adicionado |
+| 4/2/2019 | Visão geral dos sites do hub do SharePoint | adicionado |
+| 4/2/2019 | Estrutura de site e conteúdo removida | adicionado |
+| 4/2/2019 | Solucionar erro 404, arquivo não encontrado | adicionado |
 | 4/3/2019 | [Código de erro 550 5.7.705 acesso negado, o locatário excedeu o limite](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | modificado |
 
 
@@ -454,9 +440,9 @@
 | 4/9/2019 | [Ativar ou desativar o compartilhamento externo do SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | modificado |
 | 4/9/2019 | [Ativar ou desativar o compartilhamento externo do SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | modificado |
 | 4/9/2019 | Solucionar erro 404, arquivo não encontrado | modificado |
-| 4/9/2019 | [Acesso negado a um site do Project Web App](/AlchemyInsights/access-denied-to-a-project-online-site) | adicioná |
-| 4/9/2019 | [O Project online está em um estado somente leitura](/AlchemyInsights/project-online-is-in-a-read-only-state) | adicioná |
-| 4/9/2019 | [O Project Web App não está presente no conjunto de sites do SharePoint](/AlchemyInsights/project-web-app-missing-from-site-collection) | adicioná |
+| 4/9/2019 | [Acesso negado a um site do Project Web App](/AlchemyInsights/access-denied-to-a-project-online-site) | adicionado |
+| 4/9/2019 | [O Project online está em um estado somente leitura](/AlchemyInsights/project-online-is-in-a-read-only-state) | adicionado |
+| 4/9/2019 | [O Project Web App não está presente no conjunto de sites do SharePoint](/AlchemyInsights/project-web-app-missing-from-site-collection) | adicionado |
 | 4/12/2019 | [1048 o serviço 5.7.750 não está disponível. Cliente impedido de enviar de domínios não registrados](/AlchemyInsights/5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | modificado |
 | 4/12/2019 | [713 adicionando um endereço de email adicional a uma lista de distribuição](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | modificado |
 | 4/12/2019 | [718 adicionando contatos externos/pessoas fora da organização a uma lista de distribuição](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | modificado |
@@ -497,7 +483,7 @@
 | 4/12/2019 | [401 híbrido-FreeBusy](/AlchemyInsights/hybridfreebusy) | modificado |
 | 4/12/2019 | [929 regras de caixa de entrada para regras do deflectTransport](/AlchemyInsights/inbox-rules-to-deflecttransport-rules) | modificado |
 | 4/12/2019 | [922 regras de caixa de entrada](/AlchemyInsights/inbox-rules) | modificado |
-| 4/12/2019 | [Aumentar os limites de limitação de EWS para a migração de email](/AlchemyInsights/increase-ews-throttling-for-mail-migration) | adicioná |
+| 4/12/2019 | [Aumentar os limites de limitação de EWS para a migração de email](/AlchemyInsights/increase-ews-throttling-for-mail-migration) | adicionado |
 | 4/12/2019 | [1264 IP bloqueado para enviar muito spam (550 5.7.51)](/AlchemyInsights/ip-blocked-for-sending-too-much-spam-550-5-7-51) | modificado |
 | 4/12/2019 | [322 problemas quando um usuário está tendo problemas para enviar](/AlchemyInsights/issues-when-a-user-is-having-issues-sending) | modificado |
 | 4/12/2019 | [321 problemas quando um usuário não está recebendo emails](/AlchemyInsights/issues-when-a-user-isn-t-receiving-email) | modificado |
@@ -530,3 +516,47 @@
 | 4/12/2019 | [932 atualizando AADConnect](/AlchemyInsights/upgrading-aadconnect) | modificado |
 | 4/12/2019 | [725 usando alias de email no dispositivo móvel](/AlchemyInsights/using-email-alias-on-mobile-device) | modificado |
 | 4/12/2019 | [1554 erro do Winsock 10061](/AlchemyInsights/winsock-error-10061) | modificado |
+
+
+## <a name="week-of-april-15-2019"></a>Semana de 15 de abril de 2019
+
+
+| Publicado em |Título do tópico | Alteração |
+|------|------------|--------|
+| 15/4/2019 | [Alchemy-diagnosticar e resolver problemas de conectividade do Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | modificado |
+| 15/4/2019 | [Alchemy-recriar seu perfil do Outlook](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | modificado |
+| 15/4/2019 | [A DLP pode precisar de um tipo personalizado](/AlchemyInsights/dlp-might-need-custom-type) | adicionado |
+| 15/4/2019 | [DLP não está funcionando conforme esperado](/AlchemyInsights/dlp-not-working-as-expected) | modificado |
+| 15/4/2019 | [Dicas de política de DLP que não funcionam](/AlchemyInsights/dlp-policy-tips-not-working) | modificado |
+| 15/4/2019 | [Outlook.com erro 550](/AlchemyInsights/outlook-com-error-550) | adicionado |
+| 15/4/2019 | [Outlook.com sobre cota](/AlchemyInsights/outlook-com-over-quota) | adicionado |
+| 15/4/2019 | [Outlook.com remover o Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | adicionado |
+| 15/4/2019 | [Outlook.com remover o Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | adicionado |
+| 15/4/2019 | [182 execute SaRA para diagnosticar &amp; resolver problemas de autenticação do Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | modificado |
+| 4/16/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/outlook-com-pin) | modificado |
+| 4/16/2019 | [Outlook.com remover o Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | modificado |
+| 4/16/2019 | [8000088 salvar email no Outlook.com](/AlchemyInsights/outlook-com-save-emails) | modificado |
+| 4/16/2019 | [8000052 anexar arquivos no Outlook.com](/AlchemyInsights/attach-files-in-outlook-com) | modificado |
+| 4/16/2019 | [8000015 bloquear ou desbloquear remetentes](/AlchemyInsights/block-or-unblock-senders) | modificado |
+| 4/16/2019 | [8000014 como alterar o idioma no Outlook.com](/AlchemyInsights/how-to-change-language-in-outlook-com) | modificado |
+| 4/16/2019 | [8000059 como alterar o layout](/AlchemyInsights/how-to-change-your-layout) | modificado |
+| 4/16/2019 | [8000033 como responder ou encaminhar mensagens no Outlook.com beta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | modificado |
+| 4/16/2019 | [8000055 como entrar ou sair do Outlook.com](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | modificado |
+| 4/16/2019 | [8000062 movendo uma pasta no Outlook.com](/AlchemyInsights/moving-a-folder-in-outlook-com) | modificado |
+| 4/16/2019 | [Aplicar automaticamente rótulos de confidencialidade](/AlchemyInsights/auto-apply-sensitivity-labels) | adicionado |
+| 4/16/2019 | [Rótulos de sensibilidade não aparecem](/AlchemyInsights/sensitivity-labels-not-appearing) | adicionado |
+| 4/16/2019 | [Novos rótulos de retenção criados automaticamente](/AlchemyInsights/new-retention-labels-created-automatically) | adicionado |
+| 4/16/2019 | [Logs de auditoria do SharePoint e do OneDrive](/AlchemyInsights/classic-sharepoint-audit-log-reports) | adicionado |
+| 4/16/2019 | [Identificar eventos de mensagens de exclusão nos logs de auditoria](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | adicionado |
+| 4/16/2019 | [Identificar o encaminhamento de emails externos em caixas de correio em logs de auditoria](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | adicionado |
+| 4/16/2019 | [Identificar a atividade da regra de caixa de entrada nos logs de auditoria](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | adicionado |
+| 4/16/2019 | [Identificar endereço IP e cliente em logs de auditoria](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | adicionado |
+| 4/16/2019 | [Reparar arquivo. pst antes de importar](/AlchemyInsights/repair-pst-before-importing) | adicionado |
+| 4/16/2019 | [Relatórios do log de auditoria do SharePoint clássicos](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | adicionado |
+| 4/16/2019 | [Relatórios do log de auditoria do SharePoint clássicos](/AlchemyInsights/classic-sharepoint-audit-log-reports) | modificado |
+| 4/16/2019 | [Identificar o encaminhamento de emails externos em caixas de correio em logs de auditoria](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | modificado |
+| 4/16/2019 | [Identificar a atividade da regra de caixa de entrada nos logs de auditoria](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | modificado |
+| 4/16/2019 | [Relatórios do log de auditoria do SharePoint clássicos](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | modificado |
+| 17/4/2019 | [Corrigir problemas de entrega de emails em pastas públicas habilitadas para email](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | adicionado |
+| 17/4/2019 | [Mudanças do teams](/AlchemyInsights/teams-shifts) | modificado |
+| 4/18/2019 | [8000011 recuperar emails excluídos no Outlook.com](/AlchemyInsights/recover-deleted-email-in-outlook-com) | modificado |

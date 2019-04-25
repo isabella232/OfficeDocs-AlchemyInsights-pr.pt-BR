@@ -1,5 +1,5 @@
 ---
-title: Serviço incidente em andamento
+title: Incidente de serviço em andamento
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 9/19/2017
@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2ed85d10-162f-4e4a-a843-7ad20e00a077
 ms.openlocfilehash: 453a6e771f8e6bef4202c1f0bd7ff03035a157e5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904344"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32377908"
 ---
-# <a name="service-incident-in-progress"></a>Serviço incidente em andamento
+# <a name="service-incident-in-progress"></a>Incidente de serviço em andamento
 
-Você pode ser afetado por um incidente de serviço ou consultoria que está atualmente sendo investigado. Você pode verificar o status mais recente indo para a página de [Integridade do serviço](https://admin.microsoft.com/adminportal/home#/servicehealth) . 
+Você pode ter sido afetado por um incidente ou comunicado de serviço que está sendo investigado no momento. Você pode verificar o status mais recente indo para a página [integridade do serviço](https://admin.microsoft.com/adminportal/home#/servicehealth) . 
   
-Para sua conveniência, é possível encontrar um resumo deste incidente abaixo:
+Para sua conveniência, você pode encontrar um resumo deste incidente abaixo:
   
-> **Número de incidente:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Número do incidente:** [{Incidentid}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Afetar Descrição: {ImpactDescription}
+> Descrição do impacto: {ImpactDescription}
     
 
