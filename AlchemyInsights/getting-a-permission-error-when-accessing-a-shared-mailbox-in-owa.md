@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 124
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
 ms.openlocfilehash: f37553352721f2ece980f7aad3083600096a4eb3
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30786605"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400741"
 ---
 # <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Obtendo um erro de permissão ao abrir uma caixa de correio compartilhada no Outlook na Web?
 

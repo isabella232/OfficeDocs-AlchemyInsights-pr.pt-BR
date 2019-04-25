@@ -1,5 +1,5 @@
 ---
-title: Alterando o tamanho da mensagem ou um anexo
+title: Alterar o tamanho da mensagem ou do anexo
 ms.author: pebaum
 author: pebaum
 ms.date: 6/8/2018
@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
 ms.openlocfilehash: 5c7b57695700e2eede51d3ee971da2dc20768a62
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933769"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32393862"
 ---
-# <a name="changing-message-or-attachment-size"></a>Alterando o tamanho da mensagem ou um anexo
+# <a name="changing-message-or-attachment-size"></a>Alterar o tamanho da mensagem ou do anexo
 
-Como um administrador do Office 365, você pode alterar o tamanho máximo / mínimo de mensagens (que inclui anexos) que os usuários enviam. Você pode fazer isso para usuários individuais ou de todos os usuários (padrão da organização). Depois de alterar essa configuração, levará cerca de 30 minutos para entram em vigor.
+Como um administrador do Office 365, você pode alterar o tamanho máximo/mínimo de mensagens (que inclui anexos) que seus usuários enviam. Você pode fazer isso para usuários individuais ou todos os usuários (padrão da organização). Após alterar essa configuração, leva cerca de 30 minutos para entrar em vigor.
   
-- Para alterar o tamanho da mensagem para um usuário específico, vá até **Admin centrais** \> **Exchange** \> **destinatários** \> **caixas de correio**. Marque a caixa de correio do usuário. Clique no ícone de editar, em seguida, em **Restrições de tamanho de mensagem**, escolha **Exibir detalhes** e especifique o novo tamanho máximo da mensagem. 
+- Para **** alterar o tamanho da mensagem de um usuário específico, vá para central \> de **Administração** do **Exchange** \> **Recipients** \> . Selecione a caixa de correio de um usuário. Clique no ícone Editar e, em seguida, em **restrições de tamanho de mensagem**, escolha **Exibir detalhes** e especificar novo tamanho máximo de mensagem. 
     
-- Para saber como alterar essa opção para todas as caixas de correio, consulte [Este artigo](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- Para saber como alterar isso para todas as caixas de correio, leia [Este artigo](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
     
-- Para ler sobre os limites máximos usando o Outlook ou do Outlook na web, consulte [Este artigo](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits). Outlook Mobile tem um limite máximo de 25MB. Para obter o Outlook iOS e Android suporte, [clique aqui](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243).
+- Para ler sobre os limites máximos usando o Outlook ou o Outlook na Web, consulte [Este artigo](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits). O Outlook Mobile tem um limite máximo de 25 MB. Para obter suporte para o Outlook iOS e Android, [clique aqui](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243).
     
 
