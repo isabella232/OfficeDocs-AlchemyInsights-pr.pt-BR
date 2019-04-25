@@ -1,5 +1,5 @@
 ---
-title: Caixa de correio de usuário que está sendo criada
+title: Caixa de correio do usuário sendo criada
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6ad981b2-cb62-4495-b852-88df10299fe3
 ms.openlocfilehash: 469ede873bd8e946525726156474246b28ff63ba
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904956"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423387"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Caixa de correio do usuário está sendo criada.
+# <a name="your-users-mailbox-is-being-created"></a>A caixa de correio do usuário está sendo criada
 
-Pode levar uma hora antes de uma nova caixa de correio está pronta para uso.
+Pode levar até uma hora para que uma nova caixa de correio esteja pronta para uso.
   
-Se a caixa de correio do usuário tenha sido "Preparando" para mais de uma hora, você poderá tentar excluir e recriar o usuário ou usar a opção "Vamos ligue para você" para conversar com um engenheiro de suporte.
+Se a caixa de correio do usuário estiver "se preparando" por mais de uma hora, você pode tentar excluir e recriar o usuário ou usar a opção "Deixe-nos chamar você" para falar com um engenheiro de suporte.
   
 

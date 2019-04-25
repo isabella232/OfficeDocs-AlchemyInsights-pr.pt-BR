@@ -1,5 +1,5 @@
 ---
-title: Identificar isenções colocados em caixas de correio
+title: Identificando suspensões colocadas em caixas de correio
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,13 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
 ms.openlocfilehash: b993f28d9321805003f04a7eb168f81a7acd3030
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929292"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32413819"
 ---
-Você tem o conteúdo que está sendo **mantidos** por um **bloqueio** que não é possível identificar? Precisa **saber** onde o bloqueio está localizado na caixa de **correio** ? Isenções ( *recursos de retenção* ) podem ser aplicadas por um dos métodos a seguir no Office 365: 
+Você tem conteúdo que está sendo **mantido** por uma **retenção** que você não pode identificar? Precisa **descobrir** onde a retenção está localizada na **caixa de correio** ? As isenções ( *recursos de retenção* ) podem ser aplicadas por um dos seguintes métodos no Office 365: 
   
 - Retenção de litígio 
     
@@ -26,12 +26,12 @@ Você tem o conteúdo que está sendo **mantidos** por um **bloqueio** que não 
     
 - Política de retenção do Office 365 
     
-  - Políticas de retenção local específico
+  - Políticas de retenção de local específico
     
-  - Políticas de retenção de toda a organização
+  - Políticas de retenção em toda a organização
     
 - Rótulos do Office 365
     
-Para identificar qual tipo de bloqueio é aplicado à caixa de correio do usuário, consulte [como identificar o tipo de bloqueio colocado em uma caixa de correio do Exchange Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
+Para identificar qual tipo de retenção é aplicado à caixa de correio de um usuário, consulte [como identificar o tipo de retenção colocado em uma caixa de correio do Exchange Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
   
 

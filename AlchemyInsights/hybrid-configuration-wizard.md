@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 94bdd043-be92-435e-8e0f-7ce453368919
 ms.openlocfilehash: bc5fe90eda19c500b947fdde91a395805a1feee0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940927"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32416928"
 ---
 # <a name="hybrid-configuration-wizard"></a>Assistente de Configuração Híbrida
 
-O Assistente de configuração híbrida é um aplicativo que ajuda você a configurar uma nova implantação híbrida entre sua organização do Exchange no local e o Office 365. Se você já tiver uma implantação híbrida configurada, o assistente ajuda você a atualizar suas configurações de implantação híbrida. Para obter mais informações, confira:
+O assistente de configuração híbrida é um aplicativo que ajuda você a configurar uma nova implantação híbrida entre sua organização local do Exchange e o Office 365. Se você já tiver uma implantação híbrida configurada, o assistente ajuda a atualizar suas configurações de implantação híbrida. Para obter mais informações, confira:
   
-- [Execute o Assistente de configuração híbrida](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
+- [Executar o assistente de configuração híbrida](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
     
 - [Assistente de Configuração Híbrida](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
     
