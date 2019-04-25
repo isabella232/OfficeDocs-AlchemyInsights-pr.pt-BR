@@ -1,5 +1,5 @@
 ---
-title: Exibir o histórico de versão
+title: Exibir histórico de versão
 ms.author: toresing
 author: tomresing
 ms.date: 6/21/2018
@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 34c73c42-e4a0-41ab-8eb8-a834d4bb04c4
 ms.openlocfilehash: f9130294145e6ac09c6503f04d24d327c0761de9
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900744"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423027"
 ---
-# <a name="view-version-history-of-a-file-or-list-item"></a>Exibir o histórico de versão de um arquivo ou item de lista
+# <a name="view-version-history-of-a-file-or-list-item"></a>Exibir o histórico de versões de um item de arquivo ou de lista
 
-1. Vá para o site do SharePoint e abrir a lista ou biblioteca de barra Quick Launch. Se o nome da lista ou biblioteca não aparecer, clique em **Exibir todo o conteúdo do Site**ou **conteúdo do Site** e, em seguida, clique no nome.
+1. Vá para o site do SharePoint e abra a lista ou biblioteca na barra Inicialização rápida. Se o nome da lista ou biblioteca não for exibido, clique em **conteúdo do site** ou em **Exibir todo o conteúdo do site**e, em seguida, clique no nome.
     
-2. Com o botão direito o espaço entre o item ou o nome do documento e a data e, em seguida, clique em **Histórico de versão** do menu. Você pode precisar rolar no menu para ver o **Histórico de versão**. Se você não estiver visível, clique nas reticências (…) na caixa de diálogo e, em seguida, clique em **Histórico de versão**.
+2. Clique com o botão direito do mouse no espaço entre o item ou o nome do documento e a data e clique em **histórico de versões** no menu. Talvez seja necessário rolar o menu para ver o **histórico de versões**. Se você não vir, clique nas reticências (...) na caixa de diálogo e, em seguida, clique em **histórico de versões**.
     
-3. Na caixa de diálogo Histórico de versão, aponte para a versão que você deseja exibir e clique na seta à direita para obter uma lista de opções. Clique em **Exibir**.
+3. Na caixa de diálogo histórico da versão, aponte para a versão que você deseja exibir e clique na seta para baixo no lado direito para obter uma lista de opções. Clique em **Exibir**.
     
-[Saiba mais sobre o histórico de versão](https://go.microsoft.com/fwlink/?linkid=875709)
+[Saiba mais sobre o histórico de versões](https://go.microsoft.com/fwlink/?linkid=875709)
   
 

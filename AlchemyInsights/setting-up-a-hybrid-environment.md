@@ -1,5 +1,5 @@
 ---
-title: Configurando um ambiente híbrido
+title: ConFigurando um ambiente híbrido
 ms.author: dstrome
 author: dstrome
 manager: serdars
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
 ms.openlocfilehash: 281c7bcbcffde8760ac67e2a296a7d37cda0ab2a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900708"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421660"
 ---
-# <a name="setting-up-a-hybrid-environment"></a>Configurando um ambiente híbrido
+# <a name="setting-up-a-hybrid-environment"></a>ConFigurando um ambiente híbrido
 
-Para permitir que os usuários trabalham com facilidade juntos não importa se os seus dados armazenados em servidores locais ou no Office 365, você talvez precise configurar um ambiente híbrido. Para obter uma visão geral das suas opções, confira a [integração do Office 365 com ambientes locais](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx).
+Para permitir que seus usuários trabalhem de forma perfeita, não importa se os dados estão armazenados em servidores locais ou no Office 365, talvez seja necessário configurar um ambiente híbrido. Para obter uma visão geral das suas opções, confira a [integração do Office 365 com ambientes locais](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx).
   
 
