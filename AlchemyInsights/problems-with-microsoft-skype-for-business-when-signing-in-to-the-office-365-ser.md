@@ -1,5 +1,5 @@
 ---
-title: Problemas com o Microsoft Skype para negócios ao entrar no serviço do Office 365
+title: Problemas com o Microsoft Skype for Business ao entrar no serviço do Office 365
 ms.author: heidip
 author: microsoftheidi
 ms.date: 2/20/2018
@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d55c9095-317d-4283-860d-a82032f5e9f6
-description: Se você estiver tendo problemas para entrar na Skype para a empresa, você pode solucionar com suporte e o Assistente de recuperação (SaRA). Essa ferramenta ajuda você a diagnosticar automaticamente e corrigir uma gama de problemas conhecidos envolvendo sign-on para Skype para negócios.
+description: Se estiver tendo problemas para entrar no Skype for Business, você pode solucionar problemas com o assistente de recuperação e suporte (SaRA). Esta ferramenta ajuda você a diagnosticar e corrigir automaticamente vários problemas conhecidos que envolvem o logon para o Skype for Business.
 ms.openlocfilehash: a081cc87071e678eb70531249da84c1fc0443717
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905352"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372656"
 ---
-Se você estiver tendo problemas para entrar na Skype para a empresa, você pode solucionar com suporte e o Assistente de recuperação (SaRA). Essa ferramenta ajuda você a diagnosticar automaticamente e corrigir uma gama de problemas conhecidos envolvendo sign-on para Skype para negócios.
+Se estiver tendo problemas para entrar no Skype for Business, você pode solucionar problemas com o assistente de recuperação e suporte (SaRA). Esta ferramenta ajuda você a diagnosticar e corrigir automaticamente vários problemas conhecidos que envolvem o logon para o Skype for Business.
   
-[Saiba mais neste link](https://support.microsoft.com/help/4087361/troubleshooting-office-365-issues-signing-in-to-skype-for-business).
+[Você pode saber mais neste link](https://support.microsoft.com/help/4087361/troubleshooting-office-365-issues-signing-in-to-skype-for-business).
   
 

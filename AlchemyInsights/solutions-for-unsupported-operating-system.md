@@ -1,5 +1,5 @@
 ---
-title: Soluções para 'Sistema operacional não suportado'
+title: Soluções para ' sistema operacional sem suporte '
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -11,26 +11,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f8cf946c-89c7-4770-8f1f-d111e654e6cb
 ms.openlocfilehash: 87044ccbbf9d2ca4ddab200a890811ff7a7ad483
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29914568"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370998"
 ---
-# <a name="solutions-for-unsupported-operating-system"></a>Soluções para "Sistema operacional não suportado"
+# <a name="solutions-for-unsupported-operating-system"></a>Soluções para "sistema operacional não suportado"
 
 
 
-Ao tentar instalar o Office 365, talvez você veja uma mensagem de erro do **sistema operacional não suportado** se o seu dispositivo não cumprir os [requisitos do sistema](https://products.office.com/office-system-requirements).
+Ao tentar instalar o Office 365, você poderá ver uma mensagem de erro do **sistema operacional sem suporte** se o dispositivo não atender aos [requisitos do sistema](https://products.office.com/office-system-requirements).
   
 O Office 365 requer:
   
-- PC: 10 do Windows, Windows 8.1, Windows 8, Windows 7 Service Pack 1, Windows Server 2016, Windows Server 2012 R2, Windows Server 2012 ou Windows Server 2008 R2
+- PC: Windows 10, Windows 8,1, Windows 8, Windows 7 Service Pack 1, Windows Server 2016, Windows Server 2012 R2, Windows Server 2012 ou Windows Server 2008 R2
     
     OU
     
 - Mac OS X 10.10
     
-Se receber essa mensagem ao tentar instalar o Office em um dispositivo móvel ou um Chromebook, consulte [como instalar e executar o Microsoft Office em um Chromebook](https://support.office.com/article/32f14a23-2c1a-4579-b973-d4b1d78561ad?wt.mc_id=Alchemy_ClientDIA).
+Se tiver esta mensagem ao tentar instalar o Office em um dispositivo móvel ou um navegador, confira [como instalar e executar o Microsoft Office em um navegador](https://support.office.com/article/32f14a23-2c1a-4579-b973-d4b1d78561ad?wt.mc_id=Alchemy_ClientDIA).
   
 

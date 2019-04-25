@@ -1,5 +1,5 @@
 ---
-title: Experimentar repetida prompts de senha no Outlook para Mac?
+title: Experimentando prompts de senha repetida no Outlook para Mac?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/22/2017
@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
 ms.openlocfilehash: 5459a2d29fd5847f5841142d77d84805c3d12b01
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928320"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402319"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Experimentar repetida prompts de senha no Outlook para Mac?
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Experimentando prompts de senha repetida no Outlook para Mac?
 
-Podemos podem ajudar a fornecer mais especializado Outlook para ajuda Mac diretamente a partir do aplicativo.
+Podemos ajudar a fornecer ajuda mais especializada do Outlook para Mac diretamente do aplicativo.
   
-Vá para Mac do usuário afetado, abra o Outlook e clique em **Ajuda** \> **Suporte do contato**.
+Vá para o Mac do usuário afetado, abra o Outlook e clique em **ajuda** \> **para contatar o suporte**.
   
-Para saber mais sobre como usar o Outlook para suporte a Mac no aplicativo cliente, consulte este artigo: [novo contatar o suporte de recurso no 2016 do Outlook para Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
+Para saber mais sobre como usar o Outlook para Mac no aplicativo de suporte ao cliente, consulte este artigo: [novo recurso de suporte de contato no Outlook 2016 para Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
   
 
