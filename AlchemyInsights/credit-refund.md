@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
 ms.openlocfilehash: 63624f7487292d09034f55a9ec976efa18363a91
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911832"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406602"
 ---
 # <a name="creditrefund"></a>Crédito/reembolso
 
  **Cancelamento**
   
-Quando o cancelamento de uma assinatura, você receberá uma fatura final com um crédito vencimento na próxima data faturamento. Isso pode levar até 30 dias para receber a partir da data em que a assinatura foi cancelada.
+Ao cancelar uma assinatura, você receberá uma fatura final com um crédito devido na próxima data de cobrança. Isso pode levar até 30 dias para receber a partir da data em que a assinatura foi cancelada.
   
- **Alteração do assento**
+ **Alteração de assento**
   
-Quando licenças são removidas de uma assinatura, o horário não utilizado nessas licenças será aplicado como um crédito na próxima fatura. Isso pode levar até 30 dias para receber a partir da data em que as licenças são removidas.
+Quando as licenças forem removidas de uma assinatura, o tempo não usado nessas licenças será aplicado como um crédito na próxima lista. Isso pode levar até 30 dias para receber a partir da data em que as licenças foram removidas.
   
 

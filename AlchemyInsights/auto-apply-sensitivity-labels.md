@@ -10,11 +10,11 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: 65d359f9826e689963cfe5e83b37227cbadd526b
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31909020"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408707"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Aplicar automaticamente rótulos de confidencialidade
 
@@ -34,4 +34,4 @@ Atualmente, apenas o Windows dá suporte ao cliente de rotulação unificada.  O
 Para obter mais informações sobre rótulos de confidencialidade e aplicá-los automaticamente ao conteúdo, consulte:
 
 - [Visão geral de rótulos de confidencialidade](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-- [Aplicar um rótulo de confidencialidade ao conteúdo automaticamente](https://docs.microsoft.com/en-us/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Aplicar um rótulo de confidencialidade automaticamente ao conteúdo](https://docs.microsoft.com/en-us/office365/securitycompliance/apply_sensitivity_label_automatically)

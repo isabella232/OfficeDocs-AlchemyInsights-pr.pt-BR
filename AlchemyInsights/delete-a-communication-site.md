@@ -9,30 +9,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
 ms.openlocfilehash: d9e92b484e36e3fcc6a84dd655385b6e8d21434b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916224"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405796"
 ---
 # <a name="delete-a-communication-site"></a>Excluir um site de comunicação
 
-Para excluir um site de comunicação, execute as seguintes etapas: 
+Para excluir um site de comunicação, siga estas etapas: 
   
 1. Vá para o site. 
   
-2. Clique no ícone configurações (a engrenagem) no canto superior direito. 
+2. Clique no ícone de configurações (a engrenagem) no canto superior direito. 
   
-3. Em **Informações do Site**, clique em **Excluir este site**e clique em **Excluir**. 
+3. Em **informações do site**, clique em **excluir este site**e, em seguida, clique em **excluir**. 
   
-Os administradores também podem excluir um site de comunicação do Centro de administração do moderno seguindo estas etapas: 
+Os administradores também podem excluir um site de comunicação do centro de administração moderno seguindo estas etapas: 
   
-1. Experimente o novo centro de administração, clicando no botão **Testar agora** no canto superior direito. 
+1. Experimente o novo centro de administração clicando no botão **experimentar agora** no canto superior direito. 
   
-2. Selecione **Sites ativos**. 
+2. Selecione **sites ativos**. 
   
-3. Clique em Avançar para excluir o site e uma opção de **Excluir** serão exibidos no menu superior. 
+3. Clique em próximo ao site para excluir e uma opção de **exclusão** será exibida no menu superior. 
   
- **Observação:** Se você gostaria de excluir permanentemente o site de comunicação (por removê-lo da Lixeira) assim novamente, você pode usar a URL do site, use [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) para avaliar a Lixeira e [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) para remover o site da Lixeira. 
+ **Observação:** Se quiser excluir permanentemente o site de comunicação (removendo-o da lixeira) para que você possa reutilizar a URL do site, use [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) para avaliar a lixeira e [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) remover o site da lixeira. 
   
 
