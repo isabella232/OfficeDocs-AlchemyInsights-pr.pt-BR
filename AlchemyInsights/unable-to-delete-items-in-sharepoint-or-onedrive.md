@@ -1,0 +1,32 @@
+---
+title: Não é possível excluir itens no SharePoint ou no OneDrive
+ms.author: kirks
+author: Techwriter40
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.assetid: ''
+ms.openlocfilehash: 21d7b928fade48a6729c120e6ea33b16dafe799e
+ms.sourcegitcommit: 22ce2315c8cf643137ab3420cdc1cda41433d44a
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 05/14/2019
+ms.locfileid: "34057668"
+---
+# <a name="unable-to-delete-items"></a>Não é possível excluir itens
+
+Você está tendo problemas para excluir itens?
+
+- Verifique sempre se você tem as [permissões apropriadas](https://docs.microsoft.com/en-us/sharepoint/default-sharepoint-groups) para excluir o item ou se um [administrador de conjunto de sites](https://docs.microsoft.com/en-us/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator) tentou remover o item.
+
+- Certifique-se de que não haja uma configuração de [política de retenção](https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies) no item.
+
+- Verifique se o item não está [com check-out](https://support.office.com/en-us/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) para outro usuário.
+
+- Por fim, os administradores podem usar o PnP ( [padrões e práticas do SharePoint](https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) ) que contém uma biblioteca de comandos do PowerShell que permitem executar ações complexas de gerenciamento, como forçar exclusão de itens do Stubborn. 
+- [Remover arquivo PNP](https://docs.microsoft.com/en-us/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
+- [Remover pasta PNP](https://docs.microsoft.com/en-us/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
+- [Remover item de lista PNP](https://docs.microsoft.com/en-us/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
+- [Remover lista PNP](https://docs.microsoft.com/en-us/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
+- [Remover campo PNP (coluna)](https://docs.microsoft.com/en-us/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)
