@@ -1,0 +1,21 @@
+---
+title: Editar um arquivo somente leitura
+ms.author: kirks
+author: Techwriter40
+ms.date: 9/10/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
+ms.openlocfilehash: 5fcf591c5312daf7b817b17056078506f1d4a77b
+ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34718945"
+---
+# <a name="edit-a-read-only-file"></a>Editar um arquivo somente leitura
+
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Você pode achar que ao abrir arquivos, eles são abertos como somente leitura. Em alguns casos, isso se deve à segurança adicional, como quando você está abrindo arquivos da Internet e outros horários, pode ser devido a uma configuração que pode ser alterada. No artigo &ldquo; <a href="https://support.office.com/en-us/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15"><span style="color: blue;">por que o meu arquivo estava aberto em Read Only</span></a> &rdquo; , descrevemos alguns cenários em que um arquivo é aberto somente leitura e algumas etapas que você pode executar para alterar isso.</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Veja&rsquo;aqui como abrir arquivos do Office para edição.</span></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Em vez de clicar no título do documento, clique em <strong>menu abrir</strong> (os três pontos) e, em seguida, clique em <strong>Editar</strong>.</span></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Notes</span></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Se você&rsquo;já tiver documentos abertos para edição no Office Online quando clicar no título, você poderá configurar a biblioteca para fazer isso (desde que você tenha permissão para alterar as configurações da biblioteca):</span></li> </ul> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Se você tiver bibliotecas com <strong style="box-sizing: border-box;">check-out</strong>, colunas/metadados&nbsp; <strong style="box-sizing: border-box;">necessários </strong>ou quando a&nbsp; <strong style="box-sizing: border-box;">segurança de item de rascunho</strong> estiver definida como<strong style="box-sizing: border-box;">somente usuários que podem editar</strong> ou&nbsp;<strong style="box-sizing: border-box;">apenas usuários que podem aprovar itens</strong> na versão Configurações de uma biblioteca de documentos do SharePoint, esses itens serão sincronizados como <strong style="mso-bidi-font-weight: normal;">somente leitura.</strong></span></li> </ul> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Um documento do Office é aberto no modo de exibição protegido, embora você habilite a configuração de política "abrir documentos do Office como leitura/gravação ao navegar". Para obter mais informações, confira este <a href="https://support.microsoft.com/en-us/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the"> <span style="color: blue;">artigo.</span></a></span></li> </ul>
+
