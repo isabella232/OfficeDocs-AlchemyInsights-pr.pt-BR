@@ -2,7 +2,7 @@
 title: Identificar eventos de mensagens de exclusão nos logs de auditoria
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1370
 ms.assetid: ''
-ms.openlocfilehash: 93f8a192af6e689e2b2d04013f35b8da2b69e607
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0fb5d6aa0c99f7f68459c40302869bed69583b3f
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32416698"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34755141"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Logs de auditoria para mensagens de email excluídas
 
 A partir de janeiro de 2019, a Microsoft está ativando o log de auditoria de caixa de correio por padrão. Caso contrário, para revisar excluir eventos de mensagem para um usuário específico, você precisará habilitar manualmente as ações de exclusão para auditoria. Se o log de auditoria de caixa de correio já estiver habilitado para sua organização ou para o usuário específico, siga as etapas abaixo.
 
-1. Faça logon no [centro de conformidade do & de segurança do Office 365](https://protection.office.com/)
+1. Faça logon no [centro de conformidade & segurança do Office 365](https://protection.office.com/)
 
 2. Clique em **pesquisa e investigação** e selecione **pesquisa de log de auditoria**.
 

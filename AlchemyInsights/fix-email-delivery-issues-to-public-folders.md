@@ -2,7 +2,7 @@
 title: Corrigir problemas de entrega de emails em pastas públicas habilitadas para email
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1956
 ms.assetid: ''
-ms.openlocfilehash: 45665f900014c52e6a920325b0a3b0f6f79fb72d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 900b6cc2765937ee005c7e7dce5d33bbdf582601
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401316"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34752656"
 ---
 # <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Corrigir problemas de entrega de emails em pastas públicas habilitadas para email
 
@@ -31,4 +31,4 @@ Se os remetentes externos receberem o erro **que você não tem permissão (550 
 
 `Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous`Por exemplo, `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous`.
 
-Para permitir que usuários externos enviem email para esta pasta pública, adicione o direito de acesso createItems ao usuário anônimo. Por exemplo, `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`.
+Para permitir que usuários externos enviem email para esta pasta pública, adicione o direito de acesso CreateItems ao usuário anônimo. Por exemplo, `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`.
