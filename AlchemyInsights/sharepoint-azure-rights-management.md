@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: e8fb9a6ca409bb5f7a357c478821ca093210d3b0
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: c3d058c22d88eb9625dbdaecba7edd270977f351
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34735411"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760858"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>Proteção de IRM para arquivos do SharePoint
 
@@ -23,10 +23,10 @@ Para saber mais, leia [como os aplicativos e serviços do Office dão suporte ao
 
 [Configure o gerenciamento de direitos de informação (IRM) no centro de administração do SharePoint](https://docs.microsoft.com/en-us/office365/securitycompliance/set-up-irm-in-sp-admin-center).
 
-[Habilitar o IRM para as bibliotecas de documentos e listas do SharePoint](https://docs.microsoft.com/en-us/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
+[Habilitar o IRM para as bibliotecas de documentos e listas do SharePoint](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
 
-[Gerenciamento de direitos de informação no Office](https://support.office.com/en-US/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
+[Gerenciamento de direitos de informação no Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
 
-[Gerenciamento de direitos de informação no Exchange Online](https://docs.microsoft.com/en-us/office365/SecurityCompliance/information-rights-management-in-exchange-online).
+[Gerenciamento de direitos de informação no Exchange Online](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).
 
 

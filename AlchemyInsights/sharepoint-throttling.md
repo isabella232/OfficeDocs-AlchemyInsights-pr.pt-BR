@@ -7,24 +7,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: a1e3ddcd33ab9af1c1d0d79bf953339307e3aecc
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: 85dcf5954786bbd736084c08f82bcb3682168963
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736076"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34758334"
 ---
 # <a name="sharepoint-online-throttling"></a>Limitação do SharePoint Online
 
 SharePoint Online usa a limitação para manter o melhor desempenho e confiabilidade do serviço SharePoint Online. O número de ações do usuário ou simultâneas redução dos limites chamadas (por script ou código) para impedir o uso excessivo de recursos. Para obter mais informações, visite os links abaixo.
 
-- [Evite ficar limitado ou bloqueado no SharePoint Online](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [Evite ficar limitado ou bloqueado no SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
 - [Migração de dados e limitação de SPO](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)
 
-- [Velocidade de migração do SharePoint Online e do OneDrive ](https://docs.microsoft.com/en-us/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [Velocidade de migração do SharePoint Online e do OneDrive ](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
- - [Controlar a limitação do SharePoint Online usando retirada exponencial](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
+ - [Controlar a limitação do SharePoint Online usando retirada exponencial](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
 
-- [Planejamento de capacidade e teste de carregamento do SharePoint Online](https://support.office.com/en-us/article/Capacity-planning-and-load-testing-SharePoint-Online-c932bd9b-fb9a-47ab-a330-6979d03688c0)
+- [Planejamento de capacidade e teste de carregamento do SharePoint Online](https://support.office.com/article/Capacity-planning-and-load-testing-SharePoint-Online-c932bd9b-fb9a-47ab-a330-6979d03688c0)
 

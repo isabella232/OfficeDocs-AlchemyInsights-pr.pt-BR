@@ -8,13 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 875abf0c820c480f4dbf905f19d75cc4c299f9fb
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: de45b05aa3c8e8c3fd7b9d75b01a26f791135b51
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34718000"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34756331"
 ---
 # <a name="why-you-might-not-be-able-to-edit-files"></a>Por que você pode não conseguir editar arquivos?
 
-<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; ">Se um documento, uma planilha ou uma apresentação estiver bloqueada para edição&rsquo;e o t for aberto, talvez o arquivo já esteja sendo editado por outra pessoa ou tenha o arquivo com check-out. Vamos dar uma olhada rápida em alguns dos motivos pelos quais <a href="https://support.office.com/en-us/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b"><span style="color: blue;">você não poderá editar o arquivo</span></a>.</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Observação:</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Bibliotecas com check-out, colunas/metadados necessários ou quando a segurança de itens de rascunho está definida como somente usuários que podem editar ou apenas usuários que podem aprovar itens nas configurações de versão da biblioteca</span></p> <ul style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Para as bibliotecas do OneDrive, o OneDrive mostrará um ícone de cadeado ao lado do status de sincronização e o usuário não poderá sincronizar a biblioteca até que as configurações mencionadas tenham sido removidas.</span></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Para obter mais informações sobre arquivos bloqueados para o Word/Excel, consulte os artigos a seguir.</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O <a href="https://support.office.com/en-us/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3"> <span style="color: blue;">arquivo do Excel está bloqueado para edição por outro usuário</span></a></span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O <a href="https://support.microsoft.com/en-us/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when"> <span style="color: blue;">arquivo do Word está bloqueado para edição por outro usuário</span></a></span></p>
+Se um documento, planilha ou apresentação estiver bloqueado para edição e não puder ser aberto, talvez o arquivo já esteja sendo editado por outra pessoa ou tenha o arquivo com check-out. Vamos dar uma olhada rápida em alguns dos motivos pelos quais [você não poderá editar o arquivo](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+
+Observação: bibliotecas com check-out, colunas/metadados obrigatórios, ou quando a segurança de item de rascunho está definida como somente usuários que podem editar ou apenas usuários que podem aprovar itens nas configurações de versão da biblioteca.
+
+Para as bibliotecas do OneDrive, o OneDrive mostrará um ícone de cadeado ao lado do status de sincronização e o usuário não poderá sincronizar a biblioteca até que as configurações mencionadas tenham sido removidas.
+
+Para obter mais informações sobre arquivos bloqueados para o Word/Excel, consulte os artigos a seguir.
+
+- [O arquivo do Excel está bloqueado para edição por outro usuário](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+
+- [O arquivo do Word está bloqueado para edição por outro usuário](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
