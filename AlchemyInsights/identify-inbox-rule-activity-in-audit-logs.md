@@ -2,7 +2,7 @@
 title: Identificar a atividade da regra de caixa de entrada nos logs de auditoria
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1368
 ms.assetid: ''
-ms.openlocfilehash: 9339d9c58056f568dc994b75bffe39f2c8bbdd34
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f130846dd24cef81177934aa2a200c1056172d3f
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417235"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34755026"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identificar a atividade da regra de caixa de entrada nos logs de auditoria
 
-Você pode usar a pesquisa de log de auditoria no centro de conformidade do & de segurança para exibir eventos de regra de caixa de entrada (criando, modificando e excluindo regras de caixa de entrada).
+Você pode usar a pesquisa de log de auditoria no centro de conformidade de & de segurança para exibir eventos de regra de caixa de entrada (criando, modificando e excluindo regras de caixa de entrada).
 
-1. Faça logon no [centro de conformidade do & de segurança do Office 365](https://protection.office.com/)
+1. Faça logon no [centro de conformidade & segurança do Office 365](https://protection.office.com/)
 
 2. Clique em **pesquisa e investigação** e selecione **pesquisa de log de auditoria**.
 
