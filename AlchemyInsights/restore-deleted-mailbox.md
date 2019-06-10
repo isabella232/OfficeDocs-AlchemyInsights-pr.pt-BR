@@ -14,12 +14,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: d3808cdee54b748abec16035ecb5c093ec6d37f3
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 760587c0e58662283c3c1a647d1cc5fb81187545
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370530"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770726"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Restaurar uma caixa de correio excluída
 
@@ -33,6 +33,6 @@ Quando o usuário perde sua licença do Exchange Online, sua caixa de correio é
     
 3. Atribua a licença do Exchange Online e pressione **salvar**
     
-Se você estiver tentando recuperar uma caixa de correio compartilhada, ela também será recuperável por 30 dias. Você pode encontrá-los **** \> em usuários **excluídos** usuários; as caixas de correio compartilhadas não exigem uma licença. Se você perceber que precisa restaurar um usuário excluído, confira [restaurar um usuário no Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user).
+Se você estiver tentando recuperar uma caixa de correio compartilhada, ela também será recuperável por 30 dias. Você pode encontrá-los **** \> em usuários **excluídos** usuários; as caixas de correio compartilhadas não exigem uma licença. Se você perceber que precisa restaurar um usuário excluído, confira [restaurar um usuário no Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).
   
 

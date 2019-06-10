@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f30db7cdb083356b0ad02348b7c5188280dc88f0
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412458"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769883"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Mudar de plano para aumentar o tamanho da caixa de correio
 
@@ -24,7 +24,7 @@ Se o tamanho da caixa de correio já for 100 GB, não há uma maneira de aument�
   
 Se o tamanho da caixa de correio for de 50 GB, você poderá aumentá-lo para 100 GB alternando para o [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) ou o [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Aqui estão as etapas para mudar para um plano diferente do Office 365:
   
-1. no centro de administração do Microsoft 365, vá para a página [assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) ou escolha **assinaturas**de **cobrança** \> .
+1. No centro de administração do Microsoft 365, vá para a página [assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) ou escolha **assinaturas**de **cobrança** \> .
     
 2. Escolha **alternar planos** para exibir a lista de novos planos que estão disponíveis. 
     
@@ -34,4 +34,4 @@ Se o tamanho da caixa de correio for de 50 GB, você poderá aumentá-lo para 10
     
 Para obter mais detalhes, consulte [mudar para um plano diferente do Office 365](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-Se você tiver um [plano do O365 que ofereça suporte a um arquivo morto no local](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), também poderá obter armazenamento de email adicional habilitando uma caixa de correio de arquivo morto.  Uma caixa de correio de arquivo morto fornece armazenamento adicional e permite que você mova, copie e pesquise mensagens na caixa de correio principal e de arquivo morto. Para obter etapas sobre como habilitar uma caixa de correio de arquivo morto, consulte [habilitar uma caixa de correio de arquivo](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).
+Se você tiver um [plano do O365 que ofereça suporte a um arquivo morto no local](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), também poderá obter armazenamento de email adicional habilitando uma caixa de correio de arquivo morto.  Uma caixa de correio de arquivo morto fornece armazenamento adicional e permite que você mova, copie e pesquise mensagens na caixa de correio principal e de arquivo morto. Para obter etapas sobre como habilitar uma caixa de correio de arquivo morto, consulte [habilitar uma caixa de correio de arquivo](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
