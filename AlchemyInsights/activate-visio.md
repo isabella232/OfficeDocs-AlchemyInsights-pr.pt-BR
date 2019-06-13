@@ -12,20 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 0ddafabd1896040fc93d4ad49bc306bea3104492
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34764817"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34883149"
 ---
 # <a name="activate-visio"></a>Ativar o Visio
 
-O administrador precisa atribuir uma [licença do Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) a um usuário antes que o aplicativo da área de trabalho do Visio da área de trabalho incluído no Visio online Plan 2 possa ser instalado e ativado. (O Visio online plano 1 não inclui uma versão de área de trabalho do Visio).
+Antes que um usuário possa instalar e ativar o aplicativo de área de trabalho Visio da área de trabalho incluído no Visio online Plan 2, o usuário deve ter sido atribuído a uma [licença do Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+
+**Observação** O Visio online plano 1 não inclui uma versão de área de trabalho do Visio.
+
+Para ativar o Visio:
 
 1. [Instale o Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) se ele ainda não estiver instalado.
-2. Quando a instalação estiver concluída, abra o aplicativo. Em muitos casos, o aplicativo será ativado automaticamente e o usuário poderá começar a usar o Visio imediatamente.
-    Se for solicitado a entrar, o usuário deverá entrar com a mesma conta corporativa ou de estudante que recebeu a licença do Visio. 
+2. Quando a instalação estiver concluída, abra o Visio. Em muitos casos, o aplicativo é ativado automaticamente e você pode começar a usar o Visio imediatamente. Se solicitado a entrar, certifique-se de entrar com a mesma conta corporativa ou de estudante que recebeu uma licença do Visio. 
+
+Para problemas de ativação, execute a [solução de problemas de ativação](https://aka.ms/SARA-OfficeActivation-Alchemy) no computador afetado.
 
 Para obter informações detalhadas, consulte:<br>
 [Ativar o Office em um PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
