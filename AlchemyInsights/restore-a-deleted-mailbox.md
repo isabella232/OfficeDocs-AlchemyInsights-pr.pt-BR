@@ -9,12 +9,13 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7b5b4e06-6943-4b2f-b8e4-cdaf13e65c77
-ms.openlocfilehash: ed76b06d20bdaa74708ac6d95902f4c726838071
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.custom: ''
+ms.openlocfilehash: 3fa5fe283ebc89faff984e85731cdd3d70f5a7e6
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761783"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34899508"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Restaurar uma caixa de correio excluída
 
@@ -23,11 +24,10 @@ Quando um usuário perde sua licença do Exchange Online, sua caixa de correio �
 No portal de administração:
   
 - Vá até **Usuários** \> **Usuários ativos**. Selecione o usuário em questão.
-    
-- Selecione * * Editar * * para modificar as licenças de produto. 
-    
+
+- Selecione **Editar** para modificar as licenças de produto.
+
 - Atribua a licença do Exchange Online ao usuário e, em seguida, selecione **salvar**.
-    
+
 Caixas de correio compartilhadas também são recuperáveis dentro de 30 dias. Você pode encontrar caixas de correio compartilhadas em **** \> usuários **excluídos**usuários. As caixas de correio compartilhadas não exigem uma licença do Exchange Online.
   
-
