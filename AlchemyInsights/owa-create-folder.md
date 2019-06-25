@@ -3,7 +3,7 @@ title: Criar uma pasta no Outlook na Web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/7/2019
+ms.date: 5/21/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000009"
 - "1994"
-ms.openlocfilehash: 8a2cd698c250686147749b362fe72fb93ce3bb93
-ms.sourcegitcommit: 8e4126e64eca48be458242d744650878b8bb89e5
+ms.openlocfilehash: d25cde334f4a4407cda0f15991ead3d9e918d707
+ms.sourcegitcommit: c72efee4375c3462641639ec78a171d8eae6d631
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33663674"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34335335"
 ---
 # <a name="create-a-folder"></a>Criar uma pasta
 
-1. Na parte inferior do painel de pastas, selecione **nova pasta**.
-2. Na caixa nova pasta, digite um nome para a pasta e pressione Enter.
+1. Na parte inferior do painel de pastas, selecione **nova pasta**. Talvez seja necessário rolar para baixo no painel de pastas para ver o botão **nova pasta** .
+1. Na caixa de texto, digite um nome para a pasta e pressione Enter.
 
 Para saber mais, confira [trabalhar com pastas de mensagens no Outlook na Web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).

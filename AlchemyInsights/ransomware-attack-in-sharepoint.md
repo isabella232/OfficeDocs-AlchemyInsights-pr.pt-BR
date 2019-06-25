@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 4cd7db1d9a6a1c86e64cee040d9dc3c1d180832f
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 0a30faed3991c1e49d25df51db09636660884bf4
+ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132641"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "35199333"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ataque de ransomware no SharePoint ou no OneDrive
 
@@ -35,5 +35,6 @@ Informações adicionais:
 
 [Detecção de vírus na](https://docs.microsoft.com/en-us/office365/securitycompliance/virus-detection-in-spo)
 [criptografia de dados do SPO no ODB e no SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/data-encryption-in-odb-and-spo)
-[protegendo seus dados no SharePoint](https://docs.microsoft.com/en-us/sharepoint/safeguarding-your-data) ][proteção contra](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/ransomware-malware)
-ameaças de ransomware[e recuperando arquivos](https://support.office.com/en-ie/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+[protegendo seus dados na](https://docs.microsoft.com/en-us/sharepoint/safeguarding-your-data)
+[proteção](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/ransomware-malware)
+contra ameaças de ransomware do SharePoint[detecção de ransomware e recuperando arquivos](https://support.office.com/en-ie/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
