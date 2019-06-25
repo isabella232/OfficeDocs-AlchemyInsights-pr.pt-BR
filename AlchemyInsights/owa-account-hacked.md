@@ -9,15 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 02486a6be966465446858fc297ca4261e7d327ed
-ms.sourcegitcommit: ad4257df7113531cea883b477d505918da99b325
+ms.openlocfilehash: 1cc91134fdbd258a3fb1b445d2343d90f6749ef4
+ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34933886"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34957334"
 ---
-# <a name="outlookcom-account-hacked"></a><span data-ttu-id="6edd6-102">Conta do Outlook.com atacada</span><span class="sxs-lookup"><span data-stu-id="6edd6-102">Outlook.com account hacked</span></span>
+# <a name="outlook-on-the-web-account-hacked"></a><span data-ttu-id="7b973-102">Outlook na conta da Web invadido</span><span class="sxs-lookup"><span data-stu-id="7b973-102">Outlook on the web account hacked</span></span>
 
-<span data-ttu-id="6edd6-103">Se sua conta tiver sido invadida, siga as instruções em [como proteger e restaurar a função de email para uma conta e caixa de correio comprometida do Office 365 suspeitas](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).</span><span class="sxs-lookup"><span data-stu-id="6edd6-103">If your account has been hacked, follow the instructions in [How to secure and restore email function to a suspected compromised Office 365 account and mailbox](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).</span></span>
+<span data-ttu-id="7b973-103">Se sua conta tiver sido invadida, siga as instruções em [como proteger e restaurar a função de email para uma conta e caixa de correio comprometida do Office 365 suspeitas](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).</span><span class="sxs-lookup"><span data-stu-id="7b973-103">If your account has been hacked, follow the instructions in [How to secure and restore email function to a suspected compromised Office 365 account and mailbox](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).</span></span>
 
-<span data-ttu-id="6edd6-104">Para saber mais sobre as etapas adicionais que você pode executar para impedir que sua conta seja comprometida, confira [responder a uma conta de email comprometida no Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span><span class="sxs-lookup"><span data-stu-id="6edd6-104">To learn more about additional steps you can take to prevent your account from being compromised, see [Responding to a Compromised Email Account in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span></span>
+<span data-ttu-id="7b973-104">Para saber mais sobre as etapas adicionais que você pode executar para impedir que sua conta seja comprometida, confira [responder a uma conta de email comprometida no Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span><span class="sxs-lookup"><span data-stu-id="7b973-104">To learn more about additional steps you can take to prevent your account from being compromised, see [Responding to a Compromised Email Account in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span></span>
