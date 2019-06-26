@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: a79bc2557feccc3ceb5b02a4c1c79093ddf31233
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.openlocfilehash: 7701ddd79f81a2988d6fcfbcbbc18d6b9302f03a
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119747"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222728"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Siga ou dessiga um site do SharePoint
 
@@ -23,4 +23,4 @@ Assista ao vídeo para [acompanhar um site do SharePoint](https://support.office
 
 Se você não conseguir seguir ou cancelar o acompanhamento de um site e achar que os resultados não são o esperado, confira se o problema está relacionado a um único usuário ou a todos os usuários em sua organização. Se o problema for encontrado por todos os usuários, pode haver um problema de serviço temporário. 
 
-Verifique o [painel de integridade do serviço](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)para ver se sua organização é afetada.
+Verifique o [painel de integridade do serviço](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) para ver se sua organização é afetada.

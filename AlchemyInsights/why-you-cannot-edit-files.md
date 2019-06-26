@@ -1,5 +1,5 @@
 ---
-title: Abrir arquivo somente leitura
+title: Os arquivos estão bloqueados para edição
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 2b311b134afe0c71dcc6bfdcd387eec1a624c312
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 154e1c8493f8846087e943119f1308af9bff33eb
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757065"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222656"
 ---
 # <a name="why-you-might-not-be-able-to-edit-files"></a>Por que você pode não conseguir editar arquivos?
 
@@ -24,9 +24,9 @@ Observação: bibliotecas com check-out, colunas/metadados obrigatórios, ou qua
 
 Para as bibliotecas do OneDrive, o OneDrive mostrará um ícone de cadeado ao lado do status de sincronização e o usuário não poderá sincronizar a biblioteca até que as configurações mencionadas tenham sido removidas.
 
-Para obter mais informações sobre arquivos bloqueados para o Word/Excel, consulte os artigos a seguir.
+Para obter mais informações sobre arquivos bloqueados para o Word ou Excel, consulte os artigos a seguir.
 
-[O arquivo do Excel está bloqueado para edição por outro usuário](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [O arquivo do Excel está bloqueado para edição por outro usuário](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-[O arquivo do Word está bloqueado para edição por outro usuário](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [O arquivo do Word está bloqueado para edição por outro usuário](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 

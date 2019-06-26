@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: f6a22e5b4c982c14ca570988d6b8e7046c4de65b
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 018123d8a7f29666a122985105227dcdc28fd885
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757350"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223196"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>Carregar arquivos no OneDrive ou no SharePoint
 
 Você pode carregar arquivos para uma biblioteca de documentos no SharePoint Online arrastando-os do computador e soltando-os na biblioteca de documentos. Com o OneDrive, você pode sincronizar arquivos entre o computador e a nuvem, para que você possa acessar seus arquivos de qualquer lugar. Você também pode trabalhar com seus arquivos sincronizados diretamente no explorador de arquivos e acessar seus arquivos mesmo quando estiver offline. Para obter mais informações sobre upload e sincronização, visite os links abaixo.
 
-[Carregar uma pasta ou arquivos para uma biblioteca](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
+- [Carregar uma pasta ou arquivos para uma biblioteca](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
 
-[Carregar usando sincronização](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+- [Carregar usando sincronização](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
 
-[Limites de arquivo (caracteres inválidos, tamanho do carregamento de arquivos, comprimentos de caminho, etc.)](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Limites de arquivo (caracteres inválidos, tamanho do carregamento de arquivos, comprimentos de caminho, etc.)](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa?ui=en-US&amp;rs=en-US&amp;ad=US)
 
-[Corrigir problemas de sincronização do OneDrive](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
+- [Corrigir problemas de sincronização do OneDrive](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
 
-[Corrigir problemas ao carregar arquivos no site do OneDrive](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
+- [Corrigir problemas ao carregar arquivos no site do OneDrive](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
 
-[Maximizar a velocidade de upload e download](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
+- [Maximizar a velocidade de upload e download](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
