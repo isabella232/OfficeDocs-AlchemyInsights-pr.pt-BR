@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000084
-ms.openlocfilehash: 8f314b20f6095b83cb12b340f10aa04eb8f6dbc9
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.custom:
+- "1350"
+- "8000084"
+ms.openlocfilehash: d86f039cb0dba7cb7e4d21c0e43c1a3448265146
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33632068"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373653"
 ---
 # <a name="email-and-storage-quota-in-outlookcom"></a>Cota de email e armazenamento no Outlook.com
 
@@ -24,4 +26,6 @@ Para ajudar a reduzir o spam, o Outlook.com tem um limite diário de envio de em
 
 **Limites de armazenamento**
 
-Se a caixa de entrada estiver cheia, não será possível enviar ou receber mensagens e as pessoas que enviarem emails receberão uma mensagem de erro informando que sua caixa de entrada está cheia. Você pode [ver a quantidade de armazenamento usada](https://go.microsoft.com/fwlink/?linkid=2052089)ou pode [aprender a liberar espaço em sua caixa de correio](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e).
+Se a caixa de entrada estiver cheia, não será possível enviar ou receber mensagens e as pessoas que enviarem emails receberão uma mensagem de erro informando que sua caixa de entrada está cheia. Você pode ver a quantidade de armazenamento disponível em [ **configurações** > **Exibir todas as configurações** > do Outlook armazenamento**geral**> ](https://outlook.live.com/mail/options/general/storage)ou pode [aprender a liberar espaço na sua caixa de correio](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e).
+
+Se você tiver uma conta Premium, poderá exibir seu armazenamento em [ **configurações** > **Exibir todos os** > recursos**Premium**> de configurações do Outlook](https://outlook.live.com/mail/options/premium/features).
