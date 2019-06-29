@@ -8,29 +8,31 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1226
+ms.custom:
+- "1226"
+- "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 571f7211915d637f9c193cc453db38b29fc444de
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: f0f6547a4daca31a6330d2dc2f609dcdfcd8f4be
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761891"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370158"
 ---
-# <a name="repair-pst-file-before-importing"></a><span data-ttu-id="f73b9-102">Reparar arquivo. pst antes de importar</span><span class="sxs-lookup"><span data-stu-id="f73b9-102">Repair .pst file before importing</span></span>
+# <a name="repair-pst-file-before-importing"></a><span data-ttu-id="5fe67-102">Reparar arquivo. pst antes de importar</span><span class="sxs-lookup"><span data-stu-id="5fe67-102">Repair .pst file before importing</span></span>
 
-<span data-ttu-id="f73b9-103">Antes de importar um arquivo. pst no Outlook, verifique se o arquivo não está corrompido reparando o arquivo:</span><span class="sxs-lookup"><span data-stu-id="f73b9-103">Before you import a .pst file in Outlook, verify the file is not corrupted by repairing the file:</span></span>
+<span data-ttu-id="5fe67-103">Antes de importar um arquivo. pst no Outlook, verifique se o arquivo não está corrompido reparando o arquivo:</span><span class="sxs-lookup"><span data-stu-id="5fe67-103">Before you import a .pst file in Outlook, verify the file is not corrupted by repairing the file:</span></span>
 
-1. <span data-ttu-id="f73b9-104">Saia do Outlook.</span><span class="sxs-lookup"><span data-stu-id="f73b9-104">Exit Outlook.</span></span>
+1. <span data-ttu-id="5fe67-104">Saia do Outlook.</span><span class="sxs-lookup"><span data-stu-id="5fe67-104">Exit Outlook.</span></span>
 
-2. <span data-ttu-id="f73b9-105">Localizar e executar `Scanpst.exe` na pasta de programa do Office (c:\Arquivos de programas (x86)\<\Microsoft\> Office\root\Office versão ou c:\Arquivos\<de\>Programas\Microsoft Office\root\Office versão).</span><span class="sxs-lookup"><span data-stu-id="f73b9-105">Find and run `Scanpst.exe` in your Office program folder (C:\Program Files (x86)\Microsoft Office\root\Office\<Version\> or C:\Program Files\Microsoft Office\root\Office\<Version\>).</span></span>
+2. <span data-ttu-id="5fe67-105">Localizar e executar `Scanpst.exe` na pasta de programa do Office (c:\Arquivos de programas (x86)\<\Microsoft\> Office\root\Office versão ou c:\Arquivos\<de\>Programas\Microsoft Office\root\Office versão).</span><span class="sxs-lookup"><span data-stu-id="5fe67-105">Find and run `Scanpst.exe` in your Office program folder (C:\Program Files (x86)\Microsoft Office\root\Office\<Version\> or C:\Program Files\Microsoft Office\root\Office\<Version\>).</span></span>
 
-3. <span data-ttu-id="f73b9-106">Na **ferramenta de reparo da caixa de entrada do Microsoft Outlook**, clique em **procurar** para localizar o arquivo. pst (\\ por exemplo\>, em C:\Users<username \AppData\Local\Microsoft\Outlook).</span><span class="sxs-lookup"><span data-stu-id="f73b9-106">In the **Microsoft Outlook Inbox Repair tool**, click **Browse** to find the .pst file (for example, in C:\Users\\<username\>\AppData\Local\Microsoft\Outlook).</span></span> <span data-ttu-id="f73b9-107">Selecione o arquivo. pst e clique em **abrir**.</span><span class="sxs-lookup"><span data-stu-id="f73b9-107">Select the .pst file and then click **Open**.</span></span>
+3. <span data-ttu-id="5fe67-106">Na **ferramenta de reparo da caixa de entrada do Microsoft Outlook**, clique em **procurar** para localizar o arquivo. pst (\\ por exemplo\>, em C:\Users<username \AppData\Local\Microsoft\Outlook).</span><span class="sxs-lookup"><span data-stu-id="5fe67-106">In the **Microsoft Outlook Inbox Repair tool**, click **Browse** to find the .pst file (for example, in C:\Users\\<username\>\AppData\Local\Microsoft\Outlook).</span></span> <span data-ttu-id="5fe67-107">Selecione o arquivo. pst e clique em **abrir**.</span><span class="sxs-lookup"><span data-stu-id="5fe67-107">Select the .pst file and then click **Open**.</span></span>
 
-4. <span data-ttu-id="f73b9-108">Clique em **Iniciar** para iniciar a verificação.</span><span class="sxs-lookup"><span data-stu-id="f73b9-108">Click **Start** to begin the scan.</span></span>
+4. <span data-ttu-id="5fe67-108">Clique em **Iniciar** para iniciar a verificação.</span><span class="sxs-lookup"><span data-stu-id="5fe67-108">Click **Start** to begin the scan.</span></span>
 
-5. <span data-ttu-id="f73b9-109">Se forem encontrados erros no arquivo, clique em **reparar**e, em seguida, clique em **OK** quando o reparo estiver concluído.</span><span class="sxs-lookup"><span data-stu-id="f73b9-109">If errors are found in the file, click **Repair**, and then click **OK** when the repair is complete.</span></span>
+5. <span data-ttu-id="5fe67-109">Se forem encontrados erros no arquivo, clique em **reparar**e, em seguida, clique em **OK** quando o reparo estiver concluído.</span><span class="sxs-lookup"><span data-stu-id="5fe67-109">If errors are found in the file, click **Repair**, and then click **OK** when the repair is complete.</span></span>
 
-6. <span data-ttu-id="f73b9-110">Tente importar o arquivo. pst no Outlook novamente.</span><span class="sxs-lookup"><span data-stu-id="f73b9-110">Try to import the .pst file in Outlook again.</span></span>
+6. <span data-ttu-id="5fe67-110">Tente importar o arquivo. pst no Outlook novamente.</span><span class="sxs-lookup"><span data-stu-id="5fe67-110">Try to import the .pst file in Outlook again.</span></span>
 
-<span data-ttu-id="f73b9-111">Para obter mais informações, consulte [reparar arquivos de dados do Outlook](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) e [corrigir problemas de importação de um arquivo. pst do Outlook](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).</span><span class="sxs-lookup"><span data-stu-id="f73b9-111">For more information, see [Repair Outlook data files](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) and [Fix problems importing an Outlook .pst file](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).</span></span>
+<span data-ttu-id="5fe67-111">Para obter mais informações, consulte [reparar arquivos de dados do Outlook](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) e [corrigir problemas de importação de um arquivo. pst do Outlook](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).</span><span class="sxs-lookup"><span data-stu-id="5fe67-111">For more information, see [Repair Outlook data files](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) and [Fix problems importing an Outlook .pst file](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).</span></span>
