@@ -9,20 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- "1800021"
 - "1544"
-ms.openlocfilehash: 1a57499c77cd64ec93bf48703cc4d7c51d1ce77b
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+- "1800021"
+ms.openlocfilehash: 5ac1d37cf353a86bc729832efe55a8ce815b68bd
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770059"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35382725"
 ---
-# <a name="rules-and-alerts-error-the-operation-failed"></a><span data-ttu-id="42479-102">Erro de regras e alertas: "falha na operação"</span><span class="sxs-lookup"><span data-stu-id="42479-102">Rules and Alerts error: "The Operation failed"</span></span>
+# <a name="rules-and-alerts-error-the-operation-failed"></a><span data-ttu-id="ff5f6-102">Erro de regras e alertas: "falha na operação"</span><span class="sxs-lookup"><span data-stu-id="ff5f6-102">Rules and Alerts error: "The Operation failed"</span></span>
 
-<span data-ttu-id="42479-103">Você pode ver um erro de regras de caixa de entrada após instalar as seguintes atualizações:</span><span class="sxs-lookup"><span data-stu-id="42479-103">You may see an Inbox rules error after installing the following updates:</span></span>
-- [<span data-ttu-id="42479-104">Outlook 2016: KB de atualização de segurança de novembro</span><span class="sxs-lookup"><span data-stu-id="42479-104">Outlook 2016: November Security Update KB</span></span>](https://support.microsoft.com/help/4461506)
-- [<span data-ttu-id="42479-105">Outlook 2013: KB de atualização de segurança de novembro</span><span class="sxs-lookup"><span data-stu-id="42479-105">Outlook 2013: November Security Update KB</span></span>](https://support.microsoft.com/help/4461486)
-- [<span data-ttu-id="42479-106">Outlook 2010: KB de atualização de segurança de novembro</span><span class="sxs-lookup"><span data-stu-id="42479-106">Outlook 2010: November Security Update KB</span></span>](https://support.microsoft.com/help/4461585) 
+<span data-ttu-id="ff5f6-103">Você pode ver um erro de regras de caixa de entrada após instalar as seguintes atualizações:</span><span class="sxs-lookup"><span data-stu-id="ff5f6-103">You may see an Inbox rules error after installing the following updates:</span></span>
 
-<span data-ttu-id="42479-107">Você pode ver o status mais recente desse problema conhecido visitando o [erro do Outlook: "falha da operação..." ao selecionar Gerenciar regras & alertas](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).</span><span class="sxs-lookup"><span data-stu-id="42479-107">You can see the latest status of this known issue by visiting [Outlook Error: "The operation failed..." when selecting Manage Rules & Alerts](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).</span></span>
+- [<span data-ttu-id="ff5f6-104">Outlook 2016: KB de atualização de segurança de novembro</span><span class="sxs-lookup"><span data-stu-id="ff5f6-104">Outlook 2016: November Security Update KB</span></span>](https://support.microsoft.com/help/4461506)
+- [<span data-ttu-id="ff5f6-105">Outlook 2013: KB de atualização de segurança de novembro</span><span class="sxs-lookup"><span data-stu-id="ff5f6-105">Outlook 2013: November Security Update KB</span></span>](https://support.microsoft.com/help/4461486)
+- [<span data-ttu-id="ff5f6-106">Outlook 2010: KB de atualização de segurança de novembro</span><span class="sxs-lookup"><span data-stu-id="ff5f6-106">Outlook 2010: November Security Update KB</span></span>](https://support.microsoft.com/help/4461585)
+
+<span data-ttu-id="ff5f6-107">Você pode ver o status mais recente desse problema conhecido visitando o [erro do Outlook: "falha da operação..." ao selecionar Gerenciar regras & alertas](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).</span><span class="sxs-lookup"><span data-stu-id="ff5f6-107">You can see the latest status of this known issue by visiting [Outlook Error: "The operation failed..." when selecting Manage Rules & Alerts](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).</span></span>

@@ -8,22 +8,22 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000052
+ms.custom:
+- "857"
+- "8000052"
 ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
-ms.openlocfilehash: ea64b9d4a8153867e9752b57c3d3a35836772053
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 866def6b7e126cc5598ee1c7220b2d0698f41b88
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396711"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359681"
 ---
-# <a name="how-to-attach-files"></a><span data-ttu-id="c3dd2-102">Como anexar arquivos</span><span class="sxs-lookup"><span data-stu-id="c3dd2-102">How to attach files</span></span>
+# <a name="how-to-attach-files"></a><span data-ttu-id="abfd5-102">Como anexar arquivos</span><span class="sxs-lookup"><span data-stu-id="abfd5-102">How to attach files</span></span>
 
-  
-1. <span data-ttu-id="c3dd2-103">Redija uma nova mensagem ou resposta a uma mensagem.</span><span class="sxs-lookup"><span data-stu-id="c3dd2-103">Compose a new message or reply to a message.</span></span>
-    
-2. <span data-ttu-id="c3dd2-104">Na parte inferior do painel de redação, selecione o ícone de clipe de texto.</span><span class="sxs-lookup"><span data-stu-id="c3dd2-104">At the bottom of the compose pane, select the paperclip icon.</span></span>
-    
-<span data-ttu-id="c3dd2-105">Saiba mais sobre [como anexar arquivos no Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="c3dd2-105">Learn more about [how to attach files in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span></span>
-  
+1. <span data-ttu-id="abfd5-103">Redija uma nova mensagem ou resposta a uma mensagem.</span><span class="sxs-lookup"><span data-stu-id="abfd5-103">Compose a new message or reply to a message.</span></span>
 
+2. <span data-ttu-id="abfd5-104">Na parte inferior do painel de redação, selecione o ícone de clipe de texto.</span><span class="sxs-lookup"><span data-stu-id="abfd5-104">At the bottom of the compose pane, select the paperclip icon.</span></span>
+
+<span data-ttu-id="abfd5-105">Saiba mais sobre [como anexar arquivos no Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="abfd5-105">Learn more about [how to attach files in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span></span>
+  
