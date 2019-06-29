@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "435"
+- "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: fa174850f1e2810a2d38833f5dca4360ee53d4be
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 314eed3875d50cee87c7271bfbdba174bed8fb93
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400299"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35386325"
 ---
 # <a name="help-understanding-value-added-tax-vat"></a>Ajuda para entender o imposto sobre valor agregado (VAT)
 
@@ -24,6 +26,5 @@ Se você estiver em um país que usa o imposto sobre valor agregado (VAT), como 
   
 Por motivos de impostos, você também deve especificar o número de registro do VAT nas configurações do faturamento.
   
-Não é possível adicionar ou remover taxas de IVA, mas você pode alterar a taxa de IVA padrão em configurações. Por padrão, o faturamento usa um serviço para validar os números de registro de IVA, mas recomendamos que você leia a isenção de [responsabilidade do vies](https://go.microsoft.com/fwlink/?LinkID=841741) publicada pela Comissão Européia. Se você optar por desabilitar o serviço, deverá verificar todos os números de registro de IVA. 
+Não é possível adicionar ou remover taxas de IVA, mas você pode alterar a taxa de IVA padrão em configurações. Por padrão, o faturamento usa um serviço para validar os números de registro de IVA, mas recomendamos que você leia a isenção de [responsabilidade do vies](https://go.microsoft.com/fwlink/?LinkID=841741) publicada pela Comissão Européia. Se você optar por desabilitar o serviço, deverá verificar todos os números de registro de IVA.
   
-

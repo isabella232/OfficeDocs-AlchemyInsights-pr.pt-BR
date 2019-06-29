@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 125
+ms.custom:
+- "125"
+- "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: 87b682599fcedb1fb35a3c612de968c5aca9630b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 62ddd64bf9e12c0b2acd35dfb09d301ab99cfa8a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400669"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35386613"
 ---
 # <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Obter um erro de licença inválido no Outlook na Web?
 
 Se você estiver usando o Outlook na Web e receber um erro **** que contenha o **X-OWA-Error: Microsoft. Exchange. Data. Storage. InvalidLicenseException**, sua licença do Exchange Online não está atribuída corretamente ou foi recentemente venceu. O administrador pode atribuir uma licença a você seguindo estas etapas:
   
 1. Abra o [centro de administração do Microsoft 365](https://portal.office.com/adminportal/home#/homepage) e, em **usuários ativos**, selecione **Editar um usuário**.
-    
-2. Na página **Editar um usuário** que é aberta, selecione o usuário. Na página de propriedades do usuário que é aberta, clique em **Editar** para **licenças de produto**.
-    
-3. Na página **licenças de produto** que é aberta, selecione o valor de **local** apropriado e atribua uma licença que contenha o Exchange Online (expanda a licença para ver seus detalhes). Ao finalizar, clique em **Salvar**.
-    
 
+2. Na página **Editar um usuário** que é aberta, selecione o usuário. Na página de propriedades do usuário que é aberta, clique em **Editar** para **licenças de produto**.
+
+3. Na página **licenças de produto** que é aberta, selecione o valor de **local** apropriado e atribua uma licença que contenha o Exchange Online (expanda a licença para ver seus detalhes). Ao finalizar, clique em **Salvar**.
