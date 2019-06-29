@@ -1,5 +1,5 @@
 ---
-title: ConFigurando o projeto
+title: Configurando o projeto
 ms.author: pebaum
 author: pebaum
 ms.date: 6/12/2018
@@ -7,16 +7,19 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "33"
+- "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
 description: Não direcione mais de 500 palavras para um artigo.
-ms.openlocfilehash: fed43928bcf8a232901c0679376fed3f43705265
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 944387230dc641af258e101de672430b49da5935
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421408"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355073"
 ---
-# <a name="setting-up-project"></a>ConFigurando o projeto
+# <a name="setting-up-project"></a>Configurando o projeto
 
 Parece que você precisa de ajuda para configurar o Project com sua assinatura do Office 365.
 Aviso para usuários do Mac: o produto do projeto não está disponível para o MacOS no momento. Se você tiver um computador, será possível instalar o software usando as etapas abaixo.

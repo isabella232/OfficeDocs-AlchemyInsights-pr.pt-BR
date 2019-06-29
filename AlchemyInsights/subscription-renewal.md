@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "493"
+- "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 22831d13132fc004bd8f38218e4e598f1ab5679c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 8dfeeded3106f707a57a2d0bcfb84c5e7a3416ec
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370062"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354065"
 ---
 # <a name="subscription-recurring-billing"></a>Cobrança recorrente de assinatura
 
-Se você quiser saber quando sua assinatura mensal ou anual será cobrada (se a **cobrança recorrente** estiver ativada) ou expirar (se a **cobrança recorrente** estiver desativada): 
+Se você quiser saber quando sua assinatura mensal ou anual será cobrada (se a **cobrança recorrente** estiver ativada) ou expirar (se a **cobrança recorrente** estiver desativada):
   
 1. No Centro de administração, vá até a página [Assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054), ou escolha **Cobrança** \> **Assinaturas**.
-    
-2. Escolha a assinatura sobre a qual você deseja saber mais.
-    
-3. No lado direito do cartão de assinatura estão informações sobre o status da assinatura, a configuração de **cobrança recorrente** e a próxima data de cobrança ou de validade. 
-    
-4. Para continuar usando o serviço após esta data, altere as **configurações de cobrança** recorrentes para **** ativar. O status mostrará a próxima data de cobrança da assinatura.
-    
-5. Para interromper o serviço nesta data, alterne a opção de **cobrança recorrente** para **desativá**-la. O status mostrará a data de expiração da assinatura.
-    
 
+2. Escolha a assinatura sobre a qual você deseja saber mais.
+
+3. No lado direito do cartão de assinatura estão informações sobre o status da assinatura, a configuração de **cobrança recorrente** e a próxima data de cobrança ou de validade.
+
+4. Para continuar usando o serviço após esta data, altere as **configurações de cobrança** recorrentes para **** ativar. O status mostrará a próxima data de cobrança da assinatura.
+
+5. Para interromper o serviço nesta data, alterne a opção de **cobrança recorrente** para **desativá**-la. O status mostrará a data de expiração da assinatura.
