@@ -8,17 +8,19 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1081
+ms.custom:
+- "1081"
+- "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: fc2fcbeb3f40660b4abd5f45ef8eb1838d1d42a5
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ec385fcc57ff3b32575ec0232c3ed623887461fb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34751762"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35361409"
 ---
-# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="0de52-102">Criar e gerenciar caixas de correio de sala</span><span class="sxs-lookup"><span data-stu-id="0de52-102">Create and manage room mailboxes</span></span>
+# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="f7715-102">Criar e gerenciar caixas de correio de sala</span><span class="sxs-lookup"><span data-stu-id="f7715-102">Create and manage room mailboxes</span></span>
 
-<span data-ttu-id="0de52-103">Para criar e modificar caixas de correio de sala, confira [criar e gerenciar caixas de correio de sala](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="0de52-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
+<span data-ttu-id="f7715-103">Para criar e modificar caixas de correio de sala, confira [criar e gerenciar caixas de correio de sala](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="f7715-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
 
-<span data-ttu-id="0de52-104">Para saber mais sobre caixas de correio de salas e equipamentos (também conhecidas como caixas de correio de recursos), confira [caixas de correio de salas e equipamentos](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span><span class="sxs-lookup"><span data-stu-id="0de52-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>
+<span data-ttu-id="f7715-104">Para saber mais sobre caixas de correio de salas e equipamentos (também conhecidas como caixas de correio de recursos), confira [caixas de correio de salas e equipamentos](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span><span class="sxs-lookup"><span data-stu-id="f7715-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>

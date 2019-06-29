@@ -9,35 +9,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "257"
+- "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: fb585c2aa6317ef89c939680246506d2c86bbf67
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c4771f8a66d131d08a558a216c1d75869fbc13a3
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396747"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359322"
 ---
-# <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a><span data-ttu-id="dc83e-102">Comprar uma assinatura do Office 365 a partir da sua avaliação gratuita</span><span class="sxs-lookup"><span data-stu-id="dc83e-102">Buy a subscription to Office 365 from your free trial</span></span>
+# <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a><span data-ttu-id="4a2ba-102">Comprar uma assinatura do Office 365 a partir da sua avaliação gratuita</span><span class="sxs-lookup"><span data-stu-id="4a2ba-102">Buy a subscription to Office 365 from your free trial</span></span>
 
-<span data-ttu-id="dc83e-103">Você experimentou o Office 365 e agora está pronto para comprá-lo.</span><span class="sxs-lookup"><span data-stu-id="dc83e-103">You've tried Office 365, and now you're ready to buy.</span></span> <span data-ttu-id="dc83e-104">Você tem duas opções quando compra o Office 365 da versão de avaliação.</span><span class="sxs-lookup"><span data-stu-id="dc83e-104">You have two options when buying Office 365 from your trial version.</span></span>
+<span data-ttu-id="4a2ba-103">Você experimentou o Office 365 e agora está pronto para comprá-lo.</span><span class="sxs-lookup"><span data-stu-id="4a2ba-103">You've tried Office 365, and now you're ready to buy.</span></span> <span data-ttu-id="4a2ba-104">Você tem duas opções quando compra o Office 365 da versão de avaliação.</span><span class="sxs-lookup"><span data-stu-id="4a2ba-104">You have two options when buying Office 365 from your trial version.</span></span>
   
- <span data-ttu-id="dc83e-105">**Você pode comprar o mesmo plano de avaliação**</span><span class="sxs-lookup"><span data-stu-id="dc83e-105">**You can buy the same plan as your trial**</span></span>
+ <span data-ttu-id="4a2ba-105">**Você pode comprar o mesmo plano de avaliação**</span><span class="sxs-lookup"><span data-stu-id="4a2ba-105">**You can buy the same plan as your trial**</span></span>
   
-1. <span data-ttu-id="dc83e-106">No Centro de administração, vá até a página [Assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054), ou escolha **Cobrança** \> **Assinaturas**.</span><span class="sxs-lookup"><span data-stu-id="dc83e-106">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
-    
-2. <span data-ttu-id="dc83e-107">Escolha **comprar agora** para a assinatura de avaliação que você deseja e siga as etapas para fazer o check-out.</span><span class="sxs-lookup"><span data-stu-id="dc83e-107">Choose **Buy now** for the trial subscription that you want, and follow the steps to check out.</span></span> 
-    
-<span data-ttu-id="dc83e-108">ou **você pode comprar uma assinatura diferente**</span><span class="sxs-lookup"><span data-stu-id="dc83e-108">or **You can buy a different subscription**</span></span>
-  
-1. <span data-ttu-id="dc83e-109">Entre no Office 365 com sua conta corporativa ou de estudante como administrador global. [Saiba como se conectar](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).</span><span class="sxs-lookup"><span data-stu-id="dc83e-109">Sign in to Office 365 with your work or school account as a global admin. [Learn how to sign in](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).</span></span>
-    
-2. <span data-ttu-id="dc83e-110">Escolha **Office 365** na página inicial.</span><span class="sxs-lookup"><span data-stu-id="dc83e-110">Choose **Office 365** on the start page.</span></span> 
-    
-3. <span data-ttu-id="dc83e-111">No canto superior direito da página, na barra de navegação, escolha **comprar**.</span><span class="sxs-lookup"><span data-stu-id="dc83e-111">At the top right-hand corner of the page, under the navigation bar, choose **Purchase**.</span></span>
-    
-4. <span data-ttu-id="dc83e-112">Na página **comprar assinaturas** , o plano que você está tentando tem uma faixa **em avaliação** .</span><span class="sxs-lookup"><span data-stu-id="dc83e-112">On the **Purchase subscriptions** page, the plan you're trying has an **In Trial** banner.</span></span> 
-    
-5. <span data-ttu-id="dc83e-113">Escolha **comprar agora** para a assinatura de avaliação que você deseja e siga as etapas para fazer o check-out.</span><span class="sxs-lookup"><span data-stu-id="dc83e-113">Choose **Buy now** for the trial subscription that you want, and follow the steps to check out.</span></span> 
-    
+1. <span data-ttu-id="4a2ba-106">No Centro de administração, vá até a página [Assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054), ou escolha **Cobrança** \> **Assinaturas**.</span><span class="sxs-lookup"><span data-stu-id="4a2ba-106">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
 
+2. <span data-ttu-id="4a2ba-107">Escolha **comprar agora** para a assinatura de avaliação que você deseja e siga as etapas para fazer o check-out.</span><span class="sxs-lookup"><span data-stu-id="4a2ba-107">Choose **Buy now** for the trial subscription that you want, and follow the steps to check out.</span></span>
+
+<span data-ttu-id="4a2ba-108">ou **você pode comprar uma assinatura diferente**</span><span class="sxs-lookup"><span data-stu-id="4a2ba-108">or **You can buy a different subscription**</span></span>
+  
+1. <span data-ttu-id="4a2ba-109">Entre no Office 365 com sua conta corporativa ou de estudante como administrador global. [Saiba como se conectar](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).</span><span class="sxs-lookup"><span data-stu-id="4a2ba-109">Sign in to Office 365 with your work or school account as a global admin. [Learn how to sign in](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).</span></span>
+
+2. <span data-ttu-id="4a2ba-110">Escolha **Office 365** na página inicial.</span><span class="sxs-lookup"><span data-stu-id="4a2ba-110">Choose **Office 365** on the start page.</span></span>
+
+3. <span data-ttu-id="4a2ba-111">No canto superior direito da página, na barra de navegação, escolha **comprar**.</span><span class="sxs-lookup"><span data-stu-id="4a2ba-111">At the top right-hand corner of the page, under the navigation bar, choose **Purchase**.</span></span>
+
+4. <span data-ttu-id="4a2ba-112">Na página **comprar assinaturas** , o plano que você está tentando tem uma faixa **em avaliação** .</span><span class="sxs-lookup"><span data-stu-id="4a2ba-112">On the **Purchase subscriptions** page, the plan you're trying has an **In Trial** banner.</span></span>
+
+5. <span data-ttu-id="4a2ba-113">Escolha **comprar agora** para a assinatura de avaliação que você deseja e siga as etapas para fazer o check-out.</span><span class="sxs-lookup"><span data-stu-id="4a2ba-113">Choose **Buy now** for the trial subscription that you want, and follow the steps to check out.</span></span>
