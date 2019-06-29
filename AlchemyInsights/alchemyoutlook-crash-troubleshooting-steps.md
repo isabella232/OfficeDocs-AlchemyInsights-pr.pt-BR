@@ -9,15 +9,17 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "377"
+- "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
-ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
+ms.openlocfilehash: 4c93a542fe4bf615bfa7a2cc0a2ce8e443a4dedc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33883115"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357557"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Etapas de solução de problemas de pane do Outlook
 
@@ -25,10 +27,9 @@ Se você estiver tendo problemas de falha na área de trabalho do Outlook, comec
   
 Etapa 1: investigar possíveis problemas com os suplementos.
   
-Etapa 2: reparar o Outlook e executar a [ferramenta de assistente de recuperação e suporte para solucionar erros de inicialização do Outlook](https://aka.ms/SaRA-OutlookWontStart) no computador afetado. 
+Etapa 2: reparar o Outlook e executar a [ferramenta de assistente de recuperação e suporte para solucionar erros de inicialização do Outlook](https://aka.ms/SaRA-OutlookWontStart) no computador afetado.
   
-Etapa 3: criar um novo perfil do Outlook ou você pode executar a [ferramenta de perfil do Outlook](https://aka.ms/SaRA-OutlookSetupProfile) na máquina afetada. 
+Etapa 3: criar um novo perfil do Outlook ou você pode executar a [ferramenta de perfil do Outlook](https://aka.ms/SaRA-OutlookSetupProfile) na máquina afetada.
   
 Se o problema ocorreu após uma atualização e as etapas acima não funcionarem, talvez seja necessário reverter para uma compilação anterior. Veja [como reverter para uma versão anterior do office 2013 ou office 2016 clique para executar](https://support.microsoft.com/help/2770432).
   
-
