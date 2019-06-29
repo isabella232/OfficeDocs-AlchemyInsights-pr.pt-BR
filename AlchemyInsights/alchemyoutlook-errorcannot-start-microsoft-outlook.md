@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "457"
+- "1800017"
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: f35b769d5037b0b8dd4dec7af760124abacfd11a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e2ac82eda2de9e493ba3efb1bd3477d4a9eec10e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397994"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357417"
 ---
-"Não é possível iniciar o Microsoft Outlook"
-
 # <a name="outlook-error-cannot-start-microsoft-outlook"></a>Erro do Outlook: "não é possível iniciar o Microsoft Outlook"
 
 Você está tendo problemas para iniciar o Outlook 2016, o Outlook 2013 ou o Outlook 2010 ou o recebimento de "não é possível iniciar o Microsoft Outlook. Não é possível abrir as mensagens de erro da janela do Outlook?

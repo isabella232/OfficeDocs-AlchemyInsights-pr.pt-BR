@@ -8,19 +8,23 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1386"
+- "2303"
+- "5200004"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: a4c6029c632178136396a91ba9754752dc8f7180
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: cc0218dd34844cc1fdeb55a6f84975311826c372
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407602"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35364541"
 ---
 # <a name="create-a-sharepoint-site"></a>Criar um site do SharePoint
 
-Consulte [gerenciar sites no novo centro de administração do SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation ) para opções de criação de site. Selecione esta ação para criar um [site de equipe](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (que criará um grupo do Office 365) ou um [site de comunicação](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). Para criar um [site clássico](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)ou um novo site de equipe que não inclua um grupo do Office 365, clique em **outras opções**. 
+Consulte [gerenciar sites no novo centro de administração do SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation ) para opções de criação de site. Selecione esta ação para criar um [site de equipe](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (que criará um grupo do Office 365) ou um [site de comunicação](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). Para criar um [site clássico](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)ou um novo site de equipe que não inclua um grupo do Office 365, clique em **outras opções**.
   
 Sobre
 - *Não é possível criar um site com a mesma URL de um site existente. Se você excluiu um site e deseja usar novamente a URL, é possível que o site excluído ainda exista em **sites excluídos**. Para gerenciar sites excluídos, consulte [excluir um site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Para remover completamente um site com PowerShell, consulte o exemplo do cmdlet [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .*
-- *Alguns usuários podem não conseguir criar um site. ConFira [gerenciar a criação de sites no SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).*
+- *Alguns usuários podem não conseguir criar um site. Confira [gerenciar a criação de sites no SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).*
 - *É possível que o site pareça estar preso na **criação** de mais tempo do que o esperado. Se passar mais de 24 horas desde que você viu o problema pela primeira vez, registre um tíquete de suporte. Em muitos casos, já estamos trabalhando em uma solução. Aguarde pelo menos 24 horas para concluir uma solução.*

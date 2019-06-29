@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1860
+ms.custom:
+- "1860"
+- "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770797"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356585"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Cancelar ou substituir uma mensagem de email
 
@@ -25,12 +27,13 @@ ms.locfileid: "34770797"
 - Se você for um administrador, poderá **recuperar mensagens em nome dos usuários usando o PowerShell**. Não é possível recuperar mensagens do centro de administração. Role para baixo até "procurar e excluir mensagens de email em sua organização" para obter mais informações.
 
 ***Cancelar ou substituir uma mensagem de email enviada***
+
 1. No painel de pastas à esquerda da janela do Outlook, escolha a pasta Itens enviados.
 2. Abra a mensagem que você deseja cancelar. Você deve clicar duas vezes para abrir a mensagem. Selecionar a mensagem para que ela apareça no painel de leitura não permite que você relembre a mensagem.
 3. Na guia mensagem, selecione **ações** > **cancelar esta mensagem**.
 4. Escolha **Excluir cópias não lidas desta mensagem** ou **Excluir cópias não lidas e substituir por uma nova mensagem**e, em seguida, selecione **OK**.
 5. Se você estiver enviando uma mensagem de substituição, redija a mensagem e selecione **Enviar**.
-6. O sucesso ou a falha de uma recuperação de mensagem depende das configurações dos destinatários no Outlook. 
+6. O sucesso ou a falha de uma recuperação de mensagem depende das configurações dos destinatários no Outlook.
 
 Para obter mais informações, incluindo como verificar o cancelamento, confira [cancelar ou substituir uma mensagem de email enviada](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 

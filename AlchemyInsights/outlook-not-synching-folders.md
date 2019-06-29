@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1951
+ms.custom:
+- "1951"
+- "9000241"
 ms.assetid: ''
-ms.openlocfilehash: 18a2bbba398ed5e693df080254ec7a0c1b24f941
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 5b256edb711d194584871c8072af9a266479e1bb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096415"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35390033"
 ---
 # <a name="outlook-not-synching-folders"></a>O Outlook não está sincronizando pastas
 
@@ -25,5 +27,5 @@ Se o Outlook não estiver sincronizando pastas conforme o esperado, há algumas 
 1. Reduza o número de pastas na caixa de correio primária ou compartilhada. [Consulte problemas de desempenho do Outlook quando há muitos itens ou pastas em uma pasta de arquivos no modo cache. ost ou. pst](https://support.microsoft.com/help/2768656).
 2. Desabilitar o cache de todas as pastas compartilhadas.
 3. Altere a configuração da caixa de correio secundária do Exchange para uma segunda conta do Exchange em seu perfil.
- 
+
 Para obter mais informações, consulte [problemas de desempenho e sincronização quando você trabalha com pastas em uma caixa de correio secundária no Outlook](https://support.microsoft.com/help/3115602).

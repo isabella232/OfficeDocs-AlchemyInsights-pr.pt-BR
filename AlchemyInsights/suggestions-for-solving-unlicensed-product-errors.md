@@ -9,19 +9,20 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "849"
+- "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 78db89b87f1ad50ca8a32383c4682a3f92701a3c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 8536c4e3cd9bfaa80477397f77e160053e0a364e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420906"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35367673"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Sugestões para a solução de erros de "produto não licenciado"
 
-
-
-Verifique se você tem uma assinatura que permita licenças de cliente, como o Office 365 Business ou Business Premium, e [Verifique se o usuário tem uma licença atribuída](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Desative uma instalação](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) para verificar se você ultrapassou o número de instalações suportadas por sua assinatura. 
+Verifique se você tem uma assinatura que permita licenças de cliente, como o Office 365 Business ou Business Premium, e [Verifique se o usuário tem uma licença atribuída](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Desative uma instalação](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) para verificar se você ultrapassou o número de instalações suportadas por sua assinatura.
   
 Verifique se o usuário está entrando com a mesma conta que tem a licença atribuída.
   
@@ -29,10 +30,9 @@ Execute a [solução de problemas de ativação](https://aka.ms/SARA-OfficeActiv
   
 Verifique se o status da sua assinatura expirou
   
-Verifique a [página integridade do serviço do Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) para ver se há algum problema conhecido com o serviço. 
+Verifique a [página integridade do serviço do Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) para ver se há algum problema conhecido com o serviço.
   
 [Executar um reparo online do Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   
 Para soluções de solução de problemas adicionais, consulte: [erros de ativação e de produto não licenciado no Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
   
-

@@ -9,37 +9,38 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
-ms.openlocfilehash: 0e727bd47a7d549a439e4666fa9dbb8a02e39778
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "787"
+- "6200002"
+ms.openlocfilehash: 9cdfda0d7dd45af260f46738cbc85aac46f53960
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420580"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35367277"
 ---
 # <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Solucionar problemas com a inscrição de dispositivos Android no Microsoft Intune
 
-ConFira os recursos listados abaixo para resolver seu problema agora.
+Confira os recursos listados abaixo para resolver seu problema agora.
   
 Alguns problemas comuns e etapas de resolução:
   
- **Erro de dispositivo não criptografado no portal da empresa:** As versões mais recentes do Android, principalmente a partir do v 7.0, exigem uma senha de inicialização para garantir que o dispositivo seja totalmente criptografado. Soluções comuns são habilitar um PIN de inicialização ou criptografar completamente o dispositivo. Revise [este documento](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) para obter mais informações. 
+ **Erro de dispositivo não criptografado no portal da empresa:** As versões mais recentes do Android, principalmente a partir do v 7.0, exigem uma senha de inicialização para garantir que o dispositivo seja totalmente criptografado. Soluções comuns são habilitar um PIN de inicialização ou criptografar completamente o dispositivo. Revise [este documento](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) para obter mais informações.
   
- **Os dispositivos falham ao fazer check-in com o serviço do Intune ou exibir como "não íntegro" no console de administração do Intune:** Alguns dispositivos Samsung 4,4 e 5,5 podem não verificar no serviço. Há três soluções possíveis para esse problema: 
+ **Os dispositivos falham ao fazer check-in com o serviço do Intune ou exibir como "não íntegro" no console de administração do Intune:** Alguns dispositivos Samsung 4,4 e 5,5 podem não verificar no serviço. Há três soluções possíveis para esse problema:
   
 1. Abra manualmente o aplicativo portal da empresa do Intune, que iniciará automaticamente uma sincronização de dispositivo.
-    
+
 2. Atualize o dispositivo para Android 6,0 ou superior.
-    
-3. Desabilitar o Samsung Smart Manager para gerenciar o portal da empresa do Intune. Revise [este documento](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) para obter mais detalhes sobre esses problemas e resoluções. 
-    
- Erro de **tipo de licença de usuário inválido** ou **nome de usuário não reconhecido:** o usuário precisa receber uma licença do Intune ou EMS. Revise esses documentos para atribuir uma licença por meio de: centro de administração do Office ou portal do Azure. 
+
+3. Desabilitar o Samsung Smart Manager para gerenciar o portal da empresa do Intune. Revise [este documento](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) para obter mais detalhes sobre esses problemas e resoluções.
+
+ Erro de **tipo de licença de usuário inválido** ou **nome de usuário não reconhecido:** o usuário precisa receber uma licença do Intune ou EMS. Revise esses documentos para atribuir uma licença por meio de: centro de administração do Office ou portal do Azure.
   
 Recursos adicionais para ajudar a resolver o problema:
   
-1. Use o [portal de solução de problemas do Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) para diagnosticar e resolver falhas comuns de registro. Revise [este documento](https://docs.microsoft.com/intune/help-desk-operators) para obter mais detalhes. 
-    
-2. Revise [este documento](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) para obter uma lista de erros comuns que impedem o registro e as resoluções de cada um. 
-    
-3. [Saiba como registrar dispositivos Android no Microsoft Intune](https://docs.microsoft.com/intune/android-enroll).
-    
+1. Use o [portal de solução de problemas do Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) para diagnosticar e resolver falhas comuns de registro. Revise [este documento](https://docs.microsoft.com/intune/help-desk-operators) para obter mais detalhes.
 
+2. Revise [este documento](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) para obter uma lista de erros comuns que impedem o registro e as resoluções de cada um.
+
+3. [Saiba como registrar dispositivos Android no Microsoft Intune](https://docs.microsoft.com/intune/android-enroll).

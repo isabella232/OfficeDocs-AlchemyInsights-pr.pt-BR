@@ -9,23 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1221
+ms.custom:
+- "1221"
+- "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 86a42fbb17a116c2983d89aaad0074212380f63d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f950e24039f57d5c1458265fadf0c6c8e943b16e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32413891"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35382797"
 ---
 # <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Importar e exportar itens de email, contatos e calendário do Outlook
 
 1. No Outlook, clique em **arquivo**.
 
-2. Clique em **abrir _AMP_ exportar**e, em seguida, clique em **importar/exportar**. 
+2. Clique em **abrir & exportar**e, em seguida, clique em **importar/exportar**.
 
     Isso inicia o assistente de importação e exportação.
 
-Para obter um conjunto completo de instruções de importação e exportação para o Outlook, consulte [Este artigo](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef). 
+Para obter um conjunto completo de instruções de importação e exportação para o Outlook, consulte [Este artigo](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
 
 Se você é um administrador e deseja importar em massa vários arquivos PST para caixas de correio do Office 365, confira [Este artigo](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
