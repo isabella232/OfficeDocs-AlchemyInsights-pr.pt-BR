@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1821"
 - "9000238"
-ms.openlocfilehash: b964252af07e990bd0802484a3b042448c931b57
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9553fc152c12fd4b1799b781707588f977bcc53d
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377685"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614086"
 ---
 # <a name="add-an-email-alias-in-outlookcom"></a>Adicionar um alias de email no Outlook.com
 
@@ -30,6 +30,6 @@ Para adicionar um endereço de email:
     2. Adicionar um endereço de email existente como um alias.
 3. Selecione **Adicionar alias**.
 
-Leia mais sobre como [Adicionar ou remover um alias de email no Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2).  
+Leia mais sobre como [Adicionar ou remover um alias de email no Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
 
-Leia [como conectar outra conta de email](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba) à sua conta do Outlook.com.
+Leia [como conectar outra conta de email](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) à sua conta do Outlook.com.
