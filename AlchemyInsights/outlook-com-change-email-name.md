@@ -12,12 +12,12 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: af9f343caaeba65c0f86606a048af3b39f3b1e00
-ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
+ms.openlocfilehash: 353703d159072cc8daa7f52d02f7fc1afd72d1df
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35062050"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701419"
 ---
 # <a name="change-your-email-name"></a>Alterar seu nome de email
 
@@ -35,4 +35,4 @@ Se você tiver mais de um alias de email ou endereço conectado à sua conta do 
 1. Selecione **Mostrar de** para ver a linha de.
 1. Acima da linha para, selecione **de** e escolha o endereço de email que você deseja usar.
 
-Para obter mais informações, consulte [Enviar email de um endereço diferente no Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001701&amp;clcid=0x409).
+Para obter mais informações, consulte [Enviar email de um endereço diferente no Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -12,12 +12,12 @@ ms.custom:
 - "9000251"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b385a16e8538f0633d5746f1abc8eb62c9c83df0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1500c2e0bc7ba40b4ee4d149899e5199ae926722
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376749"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697179"
 ---
 # <a name="cant-send-email-in-outlookcom"></a>Não é possível enviar emails no Outlook.com
 
@@ -28,6 +28,6 @@ Se você estiver tendo problemas para enviar mensagens no Outlook.com, tente est
 1. Se a caixa de entrada estiver cheia, não será possível enviar ou receber novas mensagens. Esvazie a [pasta lixo eletrônico](https://outlook.live.com/mail/junkemail) clicando com o botão direito do mouse na pasta lixo eletrônico e selecionando **pasta vazia**.
 1. Verifique se os endereços de email das pessoas que você está tentando enviar estão formatados corretamente.
 1. Se você tiver mais de 20 [contas conectadas](https://outlook.live.com/mail/options/mail/accounts/connected), não será possível enviar ou receber emails.
-1. Sua conta pode estar bloqueada temporariamente porque notamos alguma atividade de entrada incomum. Consulte [desbloquear minha conta do Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4).
+1. Sua conta pode estar bloqueada temporariamente porque notamos alguma atividade de entrada incomum. Consulte [desbloquear minha conta do Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Saiba mais sobre como [corrigir problemas de sincronização de email do Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642).
+Saiba mais sobre como [corrigir problemas de sincronização de email do Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).

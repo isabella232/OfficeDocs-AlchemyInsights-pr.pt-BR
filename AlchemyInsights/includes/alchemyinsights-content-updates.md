@@ -3,259 +3,6 @@
 
 
 
-## <a name="week-of-may-27-2019"></a>Semana de 27 de maio de 2019
-
-
-| Publicado em |Título do tópico | Alteração |
-|------|------------|--------|
-| 5/29/2019 | [Sincronizar contatos no Outlook.com](/AlchemyInsights/outlook-com-sync-contacts) | modificado |
-| 5/29/2019 | [Excluir uma pasta no Outlook.com](/AlchemyInsights/outlook-com-delete-folder) | modificado |
-| 5/30/2019 | [Exportar contatos no Outlook.com](/AlchemyInsights/outlook-com-export-contacts) | modificado |
-| 5/31/2019 | [2006-configurações de descoberta eletrônica](/AlchemyInsights/ediscovery-settings) | modificado |
-| 5/31/2019 | [Acesso negado a um site do Project Web App](/AlchemyInsights/access-denied-to-a-project-online-site) | modificado |
-| 5/31/2019 | 8000062 movendo uma pasta no Outlook.com | removido |
-| 5/31/2019 | [Criar uma pasta no Outlook.com](/AlchemyInsights/outlook-com-create-folder) | modificado |
-| 5/31/2019 | [Excluir uma pasta no Outlook.com](/AlchemyInsights/outlook-com-delete-folder) | modificado |
-| 5/31/2019 | [Testando imagens embutidas Alchemy](/AlchemyInsights/testing-alchemy-inline-images) | modificado |
-| 5/31/2019 | [Pastas ausentes no Outlook.com](/AlchemyInsights/outlook-com-missing-folders) | modificado |
-| 5/31/2019 | 8000031 não é possível excluir fotos de arquivos | removido |
-| 5/31/2019 | 8000036 alterar imagem no Outlook.com | removido |
-| 5/31/2019 | 8000036 alterar seu nome de email no Outlook.com | removido |
-
-
-## <a name="week-of-june-03-2019"></a>Semana de 03 de junho de 2019
-
-
-| Publicado em |Título do tópico | Alteração |
-|------|------------|--------|
-| 6/3/2019 | [Não é possível excluir fotos ou arquivos de arquivos no Outlook.com](/AlchemyInsights/outlook-com-cant-delete-files-filehub) | modificado |
-| 6/3/2019 | [Lidando com phishing no Outlook.com](/AlchemyInsights/outlook-com-phishing) | modificado |
-| 6/3/2019 | [Lidando com spam e lixo eletrônico no Outlook.com](/AlchemyInsights/outlook-com-spam) | modificado |
-| 6/4/2019 | [Alterar a aparência da sua caixa de correio do Outlook.com](/AlchemyInsights/change-the-look-of-your-outlook-com-mailbox) | modificado |
-| 6/4/2019 | [O que é meu endereço de email do Outlook.com?](/AlchemyInsights/outlook-com-what-is-my-email-address) | modificado |
-| 6/4/2019 | 8000046 como imprimir um anexo | removido |
-| 6/4/2019 | 8000046 imprimir emails e calendários no Outlook.com | removido |
-| 6/4/2019 | [Não é possível selecionar contatos ao redigir emails no Outlook.com](/AlchemyInsights/can-t-select-contacts-when-composing-email-in-outlook-com) | modificado |
-| 6/4/2019 | [Os links no Outlook.com não funcionam no Firefox](/AlchemyInsights/links-in-outlook-com-don-t-work-in-firefox) | modificado |
-| 6/4/2019 | [Outlook.com envia email ' em nome ' do meu endereço de email](/AlchemyInsights/outlook-com-sends-email-on-behalf-of-my-email-address) | modificado |
-| 6/4/2019 | [Acesso negado a um site do Project Web App](/AlchemyInsights/access-denied-to-a-project-online-site) | modificado |
-| 6/4/2019 | [Configurações de descoberta eletrônica](/AlchemyInsights/ediscovery-settings) | modificado |
-| 6/4/2019 | [Mapear uma biblioteca do SharePoint para uma unidade de rede](/AlchemyInsights/map-a-sharepoint-library-to-a-network-drive) | modificado |
-| 6/4/2019 | [Site moderno como o site raiz](/AlchemyInsights/modern-site-as-the-root-site) | modificado |
-| 6/4/2019 | Alterar seu nome de email no Outlook.com | removido |
-| 6/4/2019 | Alterar imagem no Outlook.com | removido |
-| 6/4/2019 | [Criar uma pasta no Outlook.com](/AlchemyInsights/outlook-com-create-folder) | modificado |
-| 6/4/2019 | [Excluir uma pasta no Outlook.com](/AlchemyInsights/outlook-com-delete-folder) | modificado |
-| 6/4/2019 | [Exportar contatos no Outlook.com](/AlchemyInsights/outlook-com-export-contacts) | modificado |
-| 6/4/2019 | [8000061 Outlook.com pastas ausentes](/AlchemyInsights/outlook-com-missing-folders) | modificado |
-| 6/4/2019 | Mover uma pasta no Outlook.com | removido |
-| 6/4/2019 | Como clicar com o botão direito do mouse em um Tablet Windows | removido |
-| 6/4/2019 | [Sincronizar contatos no Outlook.com](/AlchemyInsights/outlook-com-sync-contacts) | modificado |
-| 6/4/2019 | [Testando imagens embutidas Alchemy](/AlchemyInsights/testing-alchemy-inline-images) | modificado |
-| 6/5/2019 | [Outlook.com status sempre mostra como disponível](/AlchemyInsights/outlook-com-status-always-shows-as-available) | modificado |
-| 6/5/2019 | [Links seguros no Outlook.com](/AlchemyInsights/outlook-com-safe-links) | modificado |
-| 6/5/2019 | [Restaurar um arquivo ou pasta excluído](/AlchemyInsights/sharepoint-deleted-items-restore) | modificado |
-| 6/5/2019 | [Adicionar contatos ao grupo do O365](/AlchemyInsights/add-contacts-to-o365-group) | modificado |
-| 6/5/2019 | [Alterar o nome e o endereço de email de um usuário](/AlchemyInsights/change-a-user-s-name-and-email-address) | modificado |
-| 6/5/2019 | [Sair do funcionário](/AlchemyInsights/employee-leaving) | modificado |
-| 6/5/2019 | [Enviar email de outro alias](/AlchemyInsights/send-mail-from-another-alias) | modificado |
-| 6/5/2019 | [Outlook.com não pode receber códigos de verificação](/AlchemyInsights/outlook-com-cant-get-verification-codes) | modificado |
-| 6/5/2019 | [Provas do Outlook.com MSA](/AlchemyInsights/outlook-com-msa-proofs) | modificado |
-| 6/6/2019 | [Como acessar o Outlook.com durante viagens](/AlchemyInsights/how-to-access-outlook-com-while-traveling) | modificado |
-| 6/6/2019 | 8000062 movendo uma pasta no Outlook.com | removido |
-| 6/6/2019 | [Outlook.com pastas ausentes](/AlchemyInsights/outlook-com-missing-folders) | modificado |
-| 6/6/2019 | [Desinstalar o Visio](/AlchemyInsights/uninstall-visio) | modificado |
-| 6/6/2019 | [Atualizar para o Visio 2019](/AlchemyInsights/update-visio-2019) | modificado |
-| 6/6/2019 | [Outlook.com lixo eletrônico-espanhol](/AlchemyInsights/outlook-com-junk-spam-spanish) | modificado |
-| 6/6/2019 | [Abrir arquivo somente leitura](/AlchemyInsights/cannot-edit-files) | modificado |
-| 6/6/2019 | [Fazer check-in de vários arquivos ao mesmo tempo](/AlchemyInsights/check-in-multiple-files) | modificado |
-| 6/6/2019 | [Rótulos de classificação no Office 365](/AlchemyInsights/classification-labels-in-office-365) | modificado |
-| 6/6/2019 | [Acesso condicional com o Intune](/AlchemyInsights/conditional-access-azure-active-directory) | modificado |
-| 6/6/2019 | [Criar um site no SharePoint Online](/AlchemyInsights/create-sharepoint-site-using-templates) | modificado |
-| 6/6/2019 | [Excluir um site do SharePoint](/AlchemyInsights/delete-a-sharepoint-site) | modificado |
-| 6/6/2019 | [Restaurar um site excluído](/AlchemyInsights/how-to-recover-deleted-missing-site-collections-in-sharepoint) | modificado |
-| 6/6/2019 | [Limites e restrições do site do Hub](/AlchemyInsights/hub-site-navigation) | modificado |
-| 6/6/2019 | [Problemas de desempenho-SharePoint ou OneDrive](/AlchemyInsights/internal-server-error-navigating-to-onedrive-sharepoint-sites) | modificado |
-| 6/6/2019 | [Mapear uma biblioteca do SharePoint para uma unidade de rede](/AlchemyInsights/map-sharepoint-library-to-network-drive-new) | modificado |
-| 6/6/2019 | [Criar e usar uma caixa de correio compartilhada](/AlchemyInsights/microsoft-account-user-permission-issues) | modificado |
-| 6/6/2019 | [Sincronizar a imagem de perfil de um usuário](/AlchemyInsights/office-profile-picture-sync) | modificado |
-| 6/6/2019 | [Novos rótulos de retenção criados automaticamente](/AlchemyInsights/office-security-compliance-retention-policy) | modificado |
-| 6/6/2019 | [OneDrive: arquivos ou pastas ausentes](/AlchemyInsights/onedrive-missing-files-or-folders) | modificado |
-| 6/6/2019 | [Abrir uma biblioteca do SharePoint no explorador de arquivos](/AlchemyInsights/open-office-files-in-onedrive-sharepoint) | modificado |
-| 6/6/2019 | [Restringir o modo clássico do SharePoint Online](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | modificado |
-| 6/6/2019 | [Limitação do SharePoint Online](/AlchemyInsights/sharepoint-503-server-busy-error-throttling) | modificado |
-| 6/6/2019 | [Solucionar problemas de mensagens de acesso negado](/AlchemyInsights/sharepoint-access-denied) | modificado |
-| 6/6/2019 | [Problemas de desempenho-SharePoint ou OneDrive](/AlchemyInsights/sharepoint-alert-notifications-not-delivered) | modificado |
-| 6/6/2019 | [Níveis de permissão do SharePoint Online](/AlchemyInsights/sharepoint-allow-prevent-custom-script) | modificado |
-| 6/6/2019 | [Restringir o acesso no SharePoint ou no OneDrive](/AlchemyInsights/sharepoint-azure-rights-management) | modificado |
-| 6/6/2019 | [Restaurar um arquivo ou pasta excluído](/AlchemyInsights/sharepoint-deleted-items-restore) | modificado |
-| 6/6/2019 | [Níveis de permissão do SharePoint Online](/AlchemyInsights/sharepoint-designer-connection-issues-sharepoint-site) | modificado |
-| 6/6/2019 | [Aplicativo de área de trabalho para SharePoint](/AlchemyInsights/sharepoint-desktop-app) | modificado |
-| 6/6/2019 | [Habilitar o compartilhamento externo](/AlchemyInsights/sharepoint-enable-external-sharing-to-share-documents) | modificado |
-| 6/6/2019 | [Habilitar o compartilhamento externo](/AlchemyInsights/sharepoint-enable-external-sharing) | modificado |
-| 6/6/2019 | [Habilitar o controle de versão em uma lista ou biblioteca](/AlchemyInsights/sharepoint-enable-versioning-list-library) | modificado |
-| 6/6/2019 | [Habilitar o compartilhamento externo](/AlchemyInsights/sharepoint-external-contact-cannot-accept-invite) | modificado |
-| 6/6/2019 | [Habilitar o compartilhamento externo](/AlchemyInsights/sharepoint-external-sharing-issues) | modificado |
-| 6/6/2019 | [Introdução ao SharePoint Online](/AlchemyInsights/sharepoint-get-started-faq) | modificado |
-| 6/6/2019 | [Conceder aos usuários acesso ao SharePoint e ao OneDrive](/AlchemyInsights/sharepoint-give-user-access-to-site) | modificado |
-| 6/6/2019 | [Visão geral dos sites do hub do SharePoint](/AlchemyInsights/sharepoint-hub-sites-overview) | modificado |
-| 6/6/2019 | [Visão geral dos sites do hub do SharePoint](/AlchemyInsights/sharepoint-hub-sites) | modificado |
-| 6/6/2019 | [Migrar opções para o SharePoint Online](/AlchemyInsights/sharepoint-migration) | modificado |
-| 6/6/2019 | [Site moderno como o site raiz](/AlchemyInsights/sharepoint-modernize-classic-site) | modificado |
-| 6/6/2019 | [Solucionar problemas de mensagens de acesso negado](/AlchemyInsights/sharepoint-onedrive-access-denied-admin) | modificado |
-| 6/6/2019 | [Abrir uma biblioteca do SharePoint no explorador de arquivos](/AlchemyInsights/sharepoint-onedrive-cannot-save-office-documents) | modificado |
-| 6/6/2019 | [SharePoint Online ou OneDrive ' setting up '](/AlchemyInsights/sharepoint-onedrive-change-display-language-settings) | modificado |
-| 6/6/2019 | [Abrir uma biblioteca do SharePoint no explorador de arquivos](/AlchemyInsights/sharepoint-onedrive-credentials-messages) | modificado |
-| 6/6/2019 | [Carregar arquivos no OneDrive ou no SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | modificado |
-| 6/6/2019 | [Ativar ou desativar o compartilhamento externo do SharePoint](/AlchemyInsights/sharepoint-onedrive-external-sharing-settings) | modificado |
-| 6/6/2019 | [Abrir uma biblioteca do SharePoint no explorador de arquivos](/AlchemyInsights/sharepoint-onedrive-files-not-opening-in-local) | modificado |
-| 6/6/2019 | [Carregar uma pasta ou arquivos para uma biblioteca de documentos](/AlchemyInsights/sharepoint-onedrive-issues-saving-files) | modificado |
-| 6/6/2019 | [Restaurar um item excluído](/AlchemyInsights/sharepoint-onedrive-restore-deleted-items-from-recycle-bin) | modificado |
-| 6/6/2019 | [Conceder aos usuários acesso ao SharePoint e ao OneDrive](/AlchemyInsights/sharepoint-onedrive-restore-users-admin%20rights) | modificado |
-| 6/6/2019 | [Restringir o acesso no SharePoint ou no OneDrive](/AlchemyInsights/sharepoint-onedrive-restrict-access) | modificado |
-| 6/6/2019 | [Instalar o OneDrive](/AlchemyInsights/sharepoint-onedrive-sync-files-mac) | modificado |
-| 6/6/2019 | [Problemas de desempenho-SharePoint ou OneDrive](/AlchemyInsights/sharepoint-onedrive-user-access-temporary-service-issue) | modificado |
-| 6/6/2019 | [Adicionar um grupo a um site do SharePoint](/AlchemyInsights/sharepoint-online-group-connected-site) | modificado |
-| 6/6/2019 | [Sites públicos do SharePoint Online estão sendo descontinuados](/AlchemyInsights/sharepoint-online-public-websites-have-been-discontinued) | modificado |
-| 6/6/2019 | [Gerenciar dicionários de pesquisa no SharePoint Online](/AlchemyInsights/sharepoint-online-search-index) | modificado |
-| 6/6/2019 | [Introdução ao SharePoint Online](/AlchemyInsights/sharepoint-page-site-navigation) | modificado |
-| 6/6/2019 | [Sincronização de perfil](/AlchemyInsights/sharepoint-profile-picture-sync) | modificado |
-| 6/6/2019 | [Infraestrutura de publicação com um site de comunicação](/AlchemyInsights/sharepoint-publishing-infrastructure) | modificado |
-| 6/6/2019 | [Restaurar um arquivo ou pasta excluído](/AlchemyInsights/sharepoint-restore-deleted-files) | modificado |
-| 6/6/2019 | [Gerenciar dicionários de pesquisa no SharePoint Online](/AlchemyInsights/sharepoint-search-schema) | modificado |
-| 6/6/2019 | [Limitação do SharePoint Online](/AlchemyInsights/sharepoint-throttling) | modificado |
-| 6/6/2019 | [Permissões do usuário](/AlchemyInsights/sharepoint-user-access-permission-levels) | modificado |
-| 6/6/2019 | [Conceder aos usuários acesso ao SharePoint e ao OneDrive](/AlchemyInsights/sharepoint-user-access-permission-sharing-methods) | modificado |
-| 6/6/2019 | [O Project Web App não está presente no conjunto de sites do SharePoint](/AlchemyInsights/sharepoint-web-part-missing) | modificado |
-| 6/6/2019 | [Introdução ao SharePoint Online](/AlchemyInsights/sharepoint-workflow-get-started) | modificado |
-| 6/6/2019 | [Introdução ao SharePoint Online](/AlchemyInsights/sharepoint-workflow) | modificado |
-| 6/6/2019 | [Sincronizar arquivos do SharePoint com o novo cliente de sincronização do OneDrive](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | modificado |
-| 6/6/2019 | [Limitação durante a migração do SharePoint](/AlchemyInsights/throttling-during-sharepoint-migration) | modificado |
-| 6/6/2019 | [Solucionar erro 404, arquivo não encontrado](/AlchemyInsights/troubleshoot-error-404-file-not-found) | modificado |
-| 6/6/2019 | [Não é possível excluir itens no SharePoint ou no OneDrive](/AlchemyInsights/unable-to-delete-items-in-sharepoint-or-onedrive) | modificado |
-| 6/6/2019 | [Carregar arquivos no OneDrive ou no SharePoint](/AlchemyInsights/upload-files-to-document-library-in-sharepoint-online) | modificado |
-| 6/6/2019 | [Abrir arquivo somente leitura](/AlchemyInsights/why-you-cannot-edit-files) | modificado |
-| 6/6/2019 | [1048 o serviço 5.7.750 não está disponível. Cliente impedido de enviar de domínios não registrados](/AlchemyInsights/5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | modificado |
-| 6/6/2019 | [713 adicionando um endereço de email adicional a uma lista de distribuição](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | modificado |
-| 6/6/2019 | [718 adicionando contatos externos/pessoas fora da organização a uma lista de distribuição](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | modificado |
-| 6/6/2019 | [714 permitindo remetentes externos a listas de distribuição de email](/AlchemyInsights/allowing-external-senders-to-email-distribution-lists) | modificado |
-| 6/6/2019 | [717 permitir que os usuários enviem email como uma lista de distribuição](/AlchemyInsights/allowing-users-to-send-email-as-a-distribution-list) | modificado |
-| 6/6/2019 | [1049 AntiSpam 4.5.3 muitos destinatários (AS780090)](/AlchemyInsights/antispam-4-5-3-too-many-recipients-as780090) | modificado |
-| 6/6/2019 | [1051 antispam 4.7.500 acesso negado, tente novamente mais tarde](/AlchemyInsights/antispam-4-7-500-access-denied-please-try-again-later) | modificado |
-| 6/6/2019 | [1050 o servidor antispam 4.7.500 está ocupado. Tente novamente mais tarde em [XXX.XXX.XXX.XXX]](/AlchemyInsights/antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | modificado |
-| 6/6/2019 | [1047 o serviço AntiSpam 550 5.7.708 não está disponível. Acesso negado, tráfego não aceito deste IP](/AlchemyInsights/antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | modificado |
-| 6/6/2019 | [500 senhas de aplicativo](/AlchemyInsights/app-passwords) | modificado |
-| 6/6/2019 | [726 bloquear o encaminhamento de email](/AlchemyInsights/blocking-email-forwarding) | modificado |
-| 6/6/2019 | [763 bloqueando o acesso do PowerShell do Exchange Online para usuários](/AlchemyInsights/blocking-exchange-online-powershell-access-for-users) | modificado |
-| 6/6/2019 | [608 informações de calendário sobre configurações híbridas](/AlchemyInsights/calendar-information-on-hybrid-setups) | modificado |
-| 6/6/2019 | [613 informações de publicação de calendário](/AlchemyInsights/calendar-publishing-information) | modificado |
-| 6/6/2019 | [calendário 1081-RBA CatchAll](/AlchemyInsights/calendarrba-catchall) | modificado |
-| 6/6/2019 | [Alterando permissões de pasta pública](/AlchemyInsights/changing-public-folder-permissions-0) | modificado |
-| 6/6/2019 | [Relatórios do log de auditoria do SharePoint clássicos](/AlchemyInsights/classic-sharepoint-audit-log-reports) | modificado |
-| 6/6/2019 | [912 configurar a caixa de entrada destaques para todos em sua organização](/AlchemyInsights/configure-focused-inbox-for-everyone-in-your-organization) | modificado |
-| 6/6/2019 | [761 conectando ao PowerShell do Exchange Online quando a MFA está habilitada](/AlchemyInsights/connecting-to-exchange-online-powershell-when-mfa-is-enabled) | modificado |
-| 6/6/2019 | [760 conectando ao PowerShell do Exchange Online](/AlchemyInsights/connecting-to-exchange-online-powershell) | modificado |
-| 6/6/2019 | [712 conversão de uma lista de distribuição em um grupo do Office 365](/AlchemyInsights/converting-a-distribution-list-to-an-office-365-group) | modificado |
-| 6/6/2019 | [Criar uma caixa de correio compartilhada](/AlchemyInsights/create-a-shared-mailbox) | modificado |
-| 6/6/2019 | [Criar e usar uma caixa de correio compartilhada](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | modificado |
-| 6/6/2019 | [711 criando uma lista ou um grupo de distribuição](/AlchemyInsights/creating-a-distribution-list-or-group) | modificado |
-| 6/6/2019 | [Criar pastas públicas](/AlchemyInsights/creating-public-folders-0) | modificado |
-| 6/6/2019 | [744 Criando usuários quando a organização está no modo híbrido](/AlchemyInsights/creating-users-when-organization-is-in-hybrid-mode) | modificado |
-| 6/6/2019 | [743 criar usuários sem uma licença](/AlchemyInsights/creating-users-without-a-license) | modificado |
-| 6/6/2019 | [Migrações de substituição para o Office 365](/AlchemyInsights/cutover-migrations-to-office-365) | modificado |
-| 6/6/2019 | [Permissões de caixa de correio delegadas em um ambiente híbrido](/AlchemyInsights/delegated-mailbox-permissions-in-a-hybrid-environment) | modificado |
-| 6/6/2019 | [1065 substituição do endereço IP de saída EOP rangesMC146155](/AlchemyInsights/deprecation-of-eop-outbound-ip-address-ranges-mc146155) | modificado |
-| 6/6/2019 | [1314 correção de objeto duplicado](/AlchemyInsights/duplicate-object-remediation) | modificado |
-| 6/6/2019 | [934 habilitar contas POP e IMAP](/AlchemyInsights/enable-pop-and-imap-accounts) | modificado |
-| 6/6/2019 | [Corrigir problemas de entrega de emails em pastas públicas habilitadas para email](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | modificado |
-| 6/6/2019 | [Obter uma chave híbrida](/AlchemyInsights/getting-a-hybrid-key) | modificado |
-| 6/6/2019 | [126 não é possível encontrar um erro ao obter uma caixa de correio no OWA?](/AlchemyInsights/getting-a-mailbox-cannot-be-found-error-in-owa) | modificado |
-| 6/6/2019 | [127 obter um erro TenantAccessBlockedException ao acessar email?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | modificado |
-| 6/6/2019 | [646 como configurar o AADConnect](/AlchemyInsights/how-to-configure-aadconnect) | modificado |
-| 6/6/2019 | [955 como configurar a MFA](/AlchemyInsights/how-to-configure-mfa) | modificado |
-| 6/6/2019 | [614 como criar e gerenciar caixas de correio de sala](/AlchemyInsights/how-to-create-and-manage-room-mailboxes) | modificado |
-| 6/6/2019 | [Assistente de Configuração Híbrida](/AlchemyInsights/hybrid-configuration-wizard) | modificado |
-| 6/6/2019 | [Identificar eventos de mensagens de exclusão nos logs de auditoria](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | modificado |
-| 6/6/2019 | [Identificar o encaminhamento de emails externos em caixas de correio em logs de auditoria](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | modificado |
-| 6/6/2019 | [Identificar a atividade da regra de caixa de entrada nos logs de auditoria](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | modificado |
-| 6/6/2019 | [Identificar endereço IP e cliente em logs de auditoria](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | modificado |
-| 6/6/2019 | [Identificando suspensões colocadas em caixas de correio](/AlchemyInsights/identifying-holds-placed-on-mailboxes) | modificado |
-| 6/6/2019 | [929 regras de caixa de entrada para regras do deflectTransport](/AlchemyInsights/inbox-rules-to-deflecttransport-rules) | modificado |
-| 6/6/2019 | [922 regras de caixa de entrada](/AlchemyInsights/inbox-rules) | modificado |
-| 6/6/2019 | [Aumentar os limites de limitação de EWS para a migração de email](/AlchemyInsights/increase-ews-throttling-for-mail-migration) | modificado |
-| 6/6/2019 | [Informações sobre retenção de litígio ou in-loco](/AlchemyInsights/information-on-litigation-hold-or-in-place-hold) | modificado |
-| 6/6/2019 | [1264 IP bloqueado para enviar muito spam (550 5.7.51)](/AlchemyInsights/ip-blocked-for-sending-too-much-spam-550-5-7-51) | modificado |
-| 6/6/2019 | [898 saiba mais sobre as opções de compartilhamento de calendários externos](/AlchemyInsights/learn-about-external-calendar-sharing-options) | modificado |
-| 6/6/2019 | [617 saiba mais sobre opções de compartilhamento externo](/AlchemyInsights/learn-about-external-sharing-options) | modificado |
-| 6/6/2019 | [610 saiba mais sobre os grupos do Office 365](/AlchemyInsights/learn-about-office-365-groups) | modificado |
-| 6/6/2019 | [612 saiba mais sobre calendários e pastas públicas](/AlchemyInsights/learn-how-about-calendars-and-public-folders) | modificado |
-| 6/6/2019 | [603 saiba como ajustar as configurações de agenda](/AlchemyInsights/learn-how-to-adjust-agenda-settings) | modificado |
-| 6/6/2019 | [Atraso de provisionamento de caixa de correio](/AlchemyInsights/mailbox-provisioning-delay) | modificado |
-| 6/6/2019 | [723 tornando um alias de email um email principal para o usuário](/AlchemyInsights/making-an-email-alias-a-primary-email-for-the-user) | modificado |
-| 6/6/2019 | [597 aplicativo Microsoft bookings](/AlchemyInsights/microsoft-bookings-app) | modificado |
-| 6/6/2019 | [Migrar dados de pasta pública para o Office 365](/AlchemyInsights/migrate-public-folder-data-to-office-365-0) | modificado |
-| 6/6/2019 | [StalledDueTo * regra de migração do 973](/AlchemyInsights/migration-stalleddueto-rule) | modificado |
-| 6/6/2019 | [Mover mensagens de email para a caixa de correio de arquivo morto](/AlchemyInsights/move-email-messages-to-the-archive-mailbox) | modificado |
-| 6/6/2019 | [1703 Precisa de Informações sobre o Teams e telefones Polycom](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | modificado |
-| 6/6/2019 | [1581 Abrir e usar uma caixa de correio compartilhada no Outlook na Web](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | modificado |
-| 6/6/2019 | [1332 OWA-regra (s) de caixa de entrada não estão sendo executadas para uma caixa de correio](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | modificado |
-| 6/6/2019 | [182 execute SaRA para diagnosticar &amp; resolver problemas de autenticação do Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | modificado |
-| 6/6/2019 | [Acesso a pastas públicas de dispositivos móveis](/AlchemyInsights/public-folder-access-from-mobile-devices) | modificado |
-| 6/6/2019 | [1336 a pasta RecoverableItems está cheia](/AlchemyInsights/recoverableitems-folder-is-full) | modificado |
-| 6/6/2019 | [Removendo o último servidor Exchange local](/AlchemyInsights/removing-the-last-on-premises-exchange-server) | modificado |
-| 6/6/2019 | [Reparar arquivo. pst antes de importar](/AlchemyInsights/repair-pst-before-importing) | modificado |
-| 6/6/2019 | [1374 resolver duas caixas de correio howto](/AlchemyInsights/resolve-two-mailboxes-howto) | modificado |
-| 6/6/2019 | [Restaurar uma caixa de correio excluída](/AlchemyInsights/restore-a-deleted-mailbox) | modificado |
-| 6/6/2019 | [As políticas de retenção no centro de administração do Exchange não estão funcionando](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | modificado |
-| 6/6/2019 | [924 limites de regra](/AlchemyInsights/rule-limits) | modificado |
-| 6/6/2019 | [Pesquisar emails na caixa de correio de arquivo morto](/AlchemyInsights/search-for-email-in-archive-mailbox) | modificado |
-| 6/6/2019 | [1800014 configurar email no aplicativo móvel do Outlook](/AlchemyInsights/set-up-email-in-the-outlook-mobile-app) | modificado |
-| 6/6/2019 | [Configurando um ambiente híbrido](/AlchemyInsights/setting-up-a-hybrid-environment) | modificado |
-| 6/6/2019 | [Relatórios do log de auditoria do SharePoint clássicos](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | modificado |
-| 6/6/2019 | [902 (sincronizar erros devido a objetos duplicados)](/AlchemyInsights/sync-errors-due-to-duplicate-objects) | modificado |
-| 6/6/2019 | [Mudanças do teams](/AlchemyInsights/teams-shifts) | modificado |
-| 6/6/2019 | [911 desativar a caixa de entrada destaques no cliente](/AlchemyInsights/turning-off-focused-inbox-in-the-client) | modificado |
-| 6/6/2019 | [615 Tipos de Compartilhamento e como configurá-los.](/AlchemyInsights/types-of-sharing-and-how-to-set-them-up) | modificado |
-| 6/6/2019 | [8000031 não é possível excluir fotos de arquivos](/AlchemyInsights/unable-to-delete-photos-from-files) | modificado |
-| 6/6/2019 | [932 atualizando AADConnect](/AlchemyInsights/upgrading-aadconnect) | modificado |
-| 6/6/2019 | [725 usando alias de email no dispositivo móvel](/AlchemyInsights/using-email-alias-on-mobile-device) | modificado |
-| 6/6/2019 | [Usando o mínimo híbrido para mover para o Office 365](/AlchemyInsights/using-minimal-hybrid-to-move-to-office-365) | modificado |
-| 6/6/2019 | [1554 erro do Winsock 10061](/AlchemyInsights/winsock-error-10061) | modificado |
-| 6/7/2019 | [Aposentadoria de serviços do Access](/AlchemyInsights/access-services-retirement) | modificado |
-| 6/7/2019 | [Aplicar automaticamente rótulos de confidencialidade](/AlchemyInsights/auto-apply-sensitivity-labels) | modificado |
-| 6/7/2019 | [Não é possível adicionar o fluxo de trabalho de aprovação padrão 2010](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | modificado |
-| 6/7/2019 | [Visão geral da prevenção de perda de dados (DLP)](/AlchemyInsights/data-loss-prevention-overview) | modificado |
-| 6/7/2019 | [A DLP pode precisar de um tipo personalizado](/AlchemyInsights/dlp-might-need-custom-type) | modificado |
-| 6/7/2019 | [Configurações de descoberta eletrônica](/AlchemyInsights/ediscovery-settings) | modificado |
-| 6/7/2019 | [1800005 correção de problemas de pesquisa recriando seu catálogo de pesquisa instantânea](/AlchemyInsights/fix-search-issues-by-rebuilding-your-instant-search-catalog) | modificado |
-| 6/7/2019 | [Recebeu um erro "não foi possível encontrar o parâmetro"?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | modificado |
-| 6/7/2019 | [instruções de importação-nk2-files](/AlchemyInsights/how-to-import-nk2-files) | modificado |
-| 6/7/2019 | [Regras de caixa de entrada: falha na operação](/AlchemyInsights/inbox-rules-the-operation-failed) | modificado |
-| 6/7/2019 | [Aumentar tamanho da caixa de correio](/AlchemyInsights/increase-mailbox-size) | modificado |
-| 6/7/2019 | [Função de administrador e como atribuir](/AlchemyInsights/microsoft-office-cloud-issues) | modificado |
-| 6/7/2019 | [Microsoft Teams-acesso de convidado](/AlchemyInsights/microsoft-teamsguest-access) | modificado |
-| 6/7/2019 | [Migrar emails do pacote G para o Office 365](/AlchemyInsights/migrate-email-from-g-suite-to-office-365) | modificado |
-| 6/7/2019 | [1703 Precisa de Informações sobre o Teams e telefones Polycom](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | modificado |
-| 6/7/2019 | [Novos rótulos de retenção criados automaticamente](/AlchemyInsights/new-retention-labels-created-automatically) | modificado |
-| 6/7/2019 | [Configurar o OneDrive](/AlchemyInsights/onedrive-site-provision) | modificado |
-| 6/7/2019 | [Erros de compartilhamento OSE no SharePoint e no OneDrive](/AlchemyInsights/ose-sharing-errors-in-sharepoint-and-onedrive) | modificado |
-| 6/7/2019 | [Configurações do Outlook.com](/AlchemyInsights/outlook-com-setting-changes) | modificado |
-| 6/7/2019 | [S/MIME no Outlook na Web](/AlchemyInsights/outlook-encrypt-messages) | modificado |
-| 6/7/2019 | [1800009 suporte ao aplicativo do Outlook para Mac](/AlchemyInsights/outlook-for-mac-in-app-support) | modificado |
-| 6/7/2019 | [Limite de sincronização do Outlook de 3,99 GB](/AlchemyInsights/outlook-sync-limit-of-399gb) | modificado |
-| 6/7/2019 | [Cancelar ou substituir uma mensagem de email](/AlchemyInsights/recall-or-replace-an-email-message) | modificado |
-| 6/7/2019 | [Restaurar caixa de correio excluída](/AlchemyInsights/restore-deleted-mailbox) | modificado |
-| 6/7/2019 | [Salvar site ou lista como modelo](/AlchemyInsights/save-site-or-list-as-a-template) | modificado |
-| 6/7/2019 | [Rótulos de sensibilidade não aparecem](/AlchemyInsights/sensitivity-labels-not-appearing) | modificado |
-| 6/7/2019 | [Restringir o acesso no SharePoint ou no OneDrive](/AlchemyInsights/sharepoint-azure-rights-management) | modificado |
-| 6/7/2019 | [Introdução ao SharePoint Online](/AlchemyInsights/sharepoint-exchange-workflow-suspended-issues) | modificado |
-| 6/7/2019 | [Estrutura de site e conteúdo removida](/AlchemyInsights/site-and-content-structure-removed) | modificado |
-| 6/7/2019 | [Teams freemium](/AlchemyInsights/teams-freemium) | modificado |
-| 6/7/2019 | [Instalação e referência do módulo PS do teams](/AlchemyInsights/teams-ps-module-install-ref) | modificado |
-| 6/7/2019 | [Mudanças do teams](/AlchemyInsights/teams-shifts) | modificado |
-| 6/7/2019 | [Atualizar para a versão completa do Microsoft Teams](/AlchemyInsights/upgrade-to-the-full-version-of-microsoft-teams) | modificado |
-
-
 ## <a name="week-of-june-10-2019"></a>Semana de 10 de junho de 2019
 
 
@@ -1078,3 +825,50 @@
 | 6/28/2019 | [Configurações do Outlook.com](/AlchemyInsights/outlook-com-settings) | modificado |
 | 6/28/2019 | [Sair do Outlook.com](/AlchemyInsights/outlook-com-sign-out) | modificado |
 | 6/28/2019 | [Lidando com spam e lixo eletrônico no Outlook.com](/AlchemyInsights/outlook-com-spam) | modificado |
+
+
+## <a name="week-of-july-01-2019"></a>Semana de 1º de julho de 2019
+
+
+| Publicado em |Título do tópico | Alteração |
+|------|------------|--------|
+| 7/1/2019 | [Relatórios do log de auditoria do SharePoint clássicos](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | modificado |
+| 7/2/2019 | [Mais informações sobre políticas de retenção](/AlchemyInsights/office-security-compliance-retention-policy) | modificado |
+
+
+## <a name="week-of-july-08-2019"></a>Semana de 08 de julho de 2019
+
+
+| Publicado em |Título do tópico | Alteração |
+|------|------------|--------|
+| 7/9/2019 | [8000077 não é possível entrar no hotmail ou no Outlook.com?](/AlchemyInsights/can-t-sign-in-to-hotmail-or-outlook-com) | modificado |
+| 7/9/2019 | [Outlook.com como obter suporte](/AlchemyInsights/outlook-com-how-to-get-support-rule-2) | modificado |
+| 7/9/2019 | [Outlook.com caixa de entrada não está sendo carregada](/AlchemyInsights/outlook-com-inbox-not-loading) | modificado |
+| 7/9/2019 | [Problemas com o lixo eletrônico alegando ser do LinkedIn](/AlchemyInsights/outlook-com-linkedin) | modificado |
+| 7/9/2019 | [Outlook.com sobre cota](/AlchemyInsights/outlook-com-over-quota) | modificado |
+| 7/9/2019 | [O endereço de email personalizado do Outlook.com não está enviando ou recebendo](/AlchemyInsights/outlook-com-personalized-email-not-sending) | modificado |
+| 7/9/2019 | [Outlook.com remover o Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | modificado |
+| 7/9/2019 | [8000093 Outlook.com permissões de conta conectada](/AlchemyInsights/outlook-com-connected-account-permissions) | modificado |
+| 7/9/2019 | [8000086 Outlook.com inserir imagem](/AlchemyInsights/outlook-com-insert-image) | modificado |
+| 7/9/2019 | [8000087 atalhos de teclado do Outlook.com](/AlchemyInsights/outlook-com-keyboard-shortcuts) | modificado |
+| 7/9/2019 | [8000091 Outlook.com reagir pop up](/AlchemyInsights/outlook-com-react-pop-up) | modificado |
+| 7/9/2019 | [8000089 Outlook.com remetentes confiáveis](/AlchemyInsights/outlook-com-safe-senders) | modificado |
+| 7/9/2019 | [8000088 salvar email no Outlook.com](/AlchemyInsights/outlook-com-save-emails) | modificado |
+| 7/9/2019 | [8000085: Outlook.com: não é possível baixar arquivos no Chrome](/AlchemyInsights/outlook-com-unable-to-donwload-using-chrome) | modificado |
+| 7/9/2019 | [Compartilhamento externo no SharePoint Online](/AlchemyInsights/sharepoint-enable-external-sharing-to-share-documents) | modificado |
+| 7/9/2019 | [O contato externo não consegue aceitar um convite de compartilhamento](/AlchemyInsights/sharepoint-external-contact-cannot-accept-invite) | modificado |
+| 7/9/2019 | [Habilitar o compartilhamento externo](/AlchemyInsights/sharepoint-external-sharing-issues) | modificado |
+| 7/9/2019 | [Instalar o OneDrive](/AlchemyInsights/sharepoint-onedrive-sync-files-mac) | modificado |
+| 7/10/2019 | [Calendário de feriados no Outlook.com](/AlchemyInsights/outlook-com-add-holiday-calendar) | modificado |
+| 7/10/2019 | [Catálogo de endereços do 9000232 Outlook.com](/AlchemyInsights/outlook-com-address-book) | modificado |
+| 7/10/2019 | [Calendário de aniversários no Outlook.com](/AlchemyInsights/outlook-com-birthday-calendars) | modificado |
+| 7/10/2019 | [9000203 filtros Outlook.com](/AlchemyInsights/outlook-com-filters) | modificado |
+| 7/10/2019 | [arquivos PST 9000199 no Outlook.com](/AlchemyInsights/outlook-com-read-pst-files) | modificado |
+| 7/10/2019 | [Desfazer mover ou excluir no Outlook.com](/AlchemyInsights/outlook-com-undo-move-delete) | modificado |
+| 7/10/2019 | [9000236 Outlook.com adicionar conta](/AlchemyInsights/outlook-com-add-account) | modificado |
+| 7/10/2019 | [9000238 Outlook.com adicionar alias](/AlchemyInsights/outlook-com-add-alias) | modificado |
+| 7/10/2019 | [Adicionar conta do gmail ao Outlook.com](/AlchemyInsights/outlook-com-add-gmail-account) | modificado |
+| 7/10/2019 | [9000239 Outlook.com encaminhamento](/AlchemyInsights/outlook-com-forwarding) | modificado |
+| 7/10/2019 | [Outlook.com Premium](/AlchemyInsights/outlook-com-premium) | modificado |
+| 7/10/2019 | [9000240 respostas Outlook.com](/AlchemyInsights/outlook-com-replies) | modificado |
+| 7/11/2019 | [Retransmitir emails no Office 365](/AlchemyInsights/relay-email-through-office-365) | modificado |

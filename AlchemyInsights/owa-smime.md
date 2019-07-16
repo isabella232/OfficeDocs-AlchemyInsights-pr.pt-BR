@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 5816d85596560dfa016fc2ed622192f68ec4e818
-ms.sourcegitcommit: 187bd764267e502224fa30ea8b04d071aaae73a4
+ms.openlocfilehash: 4a68140db3117f0ad33bf2ebee94601397376c26
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33546234"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701383"
 ---
 # <a name="encrypt-messages-using-smime"></a>Criptografar mensagens usando S/MIME
 
@@ -28,4 +28,4 @@ Para alterar as configurações de S/MIME no Outlook na Web:
 1. Vá para **configurações** > **Exibir todas as configurações do Outlook**.
 2. Selecione **email** > **S/MIME**.
 
-Leia [criptografar mensagens usando S/MIME no Outlook na Web](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480) para obter mais informações.
+Leia [criptografar mensagens usando S/MIME no Outlook na Web] (https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480 ? WT. MC = Office_Outlook_com_Alchemy) para obter mais informações.
