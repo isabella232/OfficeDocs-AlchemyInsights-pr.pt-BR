@@ -3,7 +3,7 @@ title: Lidando com spam e lixo eletrônico no Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 7/19/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: ac3f7a268d69959ed1d0feb06bc0e9434ef1d2ce
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 7544b0453f05de5f4d3edc2bdbbc139995343047
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697107"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800069"
 ---
-# <a name="mark-email-messages-as-junk"></a>Marcar mensagens de email como lixo eletrônico
+# <a name="spam-and-junk-email-in-outlookcom"></a>Spam e lixo eletrônico no Outlook.com
 
-Para marcar uma mensagem como lixo eletrônico ou spam, selecione a mensagem na lista de mensagens e selecione **lixo** > **** eletrônico.
+Se você estiver recebendo muito lixo eletrônico ou spam, tente estes métodos:
 
-Para bloquear todas as mensagens de um endereço de email específico, selecione a mensagem ou mensagens em sua lista de mensagens e selecione**bloqueio**de **lixo eletrônico** > .
+1. **Marcar um email como lixo eletrônico**
+    1. Selecione a mensagem.
+    1. Selecione **lixo** > **** eletrônico para mover a mensagem para a pasta lixo eletrônico.
+    1. [Saiba mais sobre como ajudar a manter spam e lixo eletrônico fora da sua caixa de entrada.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Se você acidentalmente marcar uma mensagem como lixo eletrônico, selecione a mensagem na [pasta lixo eletrônico](https://outlook.live.com/mail/junkemail) e selecione **não lixo** > **** eletrônico. (*Observação:* os itens em sua pasta lixo eletrônico são excluídos após 30 dias.)
+1. **Bloquear um remetente da caixa de entrada**
+    1. Selecione a mensagem.
+    1. Selecione **** > **** bloco > de lixo**OK**.
+    1. [Saiba mais sobre como bloquear ou desbloquear remetentes.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Para saber mais, leia [Marcar email como lixo eletrônico ou bloquear remetentes no Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+1. **Adicionar um remetente à sua lista de remetentes bloqueados**
+    1. Abra suas [configurações de lixo eletrônico](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).
+    1. Em **remetentes e domínios bloqueados**, selecione **Adicionar**.
+    1. Digite o endereço de email ou domínio que você deseja bloquear e pressione Enter.
+    1. Em **filtros**, escolha se você deseja confiar em emails de endereços em remetentes confiáveis e domínios e listas de emails seguros.
+    1. Selecione **Salvar**.
+
+1. **Criar uma regra de caixa de entrada**
+    1. Clique com o botão direito do mouse em uma mensagem na lista de mensagens e selecione **criar regra**.
+    1. Escolha a pasta onde você deseja que todas as mensagens desse remetente sejam movidas e selecione **OK** > ****.
+    1. [Saiba mais sobre regras de caixa de entrada no Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
