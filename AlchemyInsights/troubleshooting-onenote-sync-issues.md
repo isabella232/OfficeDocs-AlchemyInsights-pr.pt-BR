@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000555"
 - "2405"
-ms.openlocfilehash: 5387aeaff7be7df4dc44723f420ff2c5784cd260
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 3a651c84716d762afc955aaaa464d92da9ff9e43
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800105"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903890"
 ---
 # <a name="troubleshoot-onenote-sync-issues"></a>Solucionar problemas de sincronização do OneNote
 
 * Para resolver os problemas mais comuns relacionados à sincronização do OneNote, use as etapas em [corrigir problemas quando não for possível sincronizar o OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
 
-Se o bloco de anotações que não for sincronizado estiver armazenado no OneDrive ou em versões mais recentes do SharePoint, tente abrir o bloco de anotações no OneNote online (em www.onenote.com). Isso pode ajudar a determinar se o problema é causado pelo servidor ou pelo OneNote.
+Se o bloco de anotações que não for sincronizado estiver armazenado no OneDrive ou em versões mais recentes do SharePoint, tente abrir o bloco de anotações no OneNote para a Web (em www.onenote.com). Isso pode ajudar a determinar se o problema é causado pelo servidor ou pelo OneNote.
 
 1. No OneNote, clique em**informações**do **arquivo** > .
 
@@ -30,8 +30,8 @@ Se o bloco de anotações que não for sincronizado estiver armazenado no OneDri
 
 3. No navegador da Web, clique na caixa endereço e pressione **Ctrl + V** para colar a URL copiada.
 
-4. Pressione **Enter** para carregar o bloco de anotações no OneNote online.
+4. Pressione **Enter** para carregar o bloco de anotações no OneNote para a Web.
 
-Se você não conseguir abrir o bloco de anotações no OneNote online e as alterações forem exibidas, o problema pode ser causado pela versão da área de trabalho do OneNote. Fechar e abrir novamente o bloco de anotações normalmente limpa e redefine com êxito a conexão.
+Se você não conseguir abrir o bloco de anotações no OneNote para a Web e as alterações forem exibidas, o problema pode ser causado pela versão da área de trabalho do OneNote. Fechar e abrir novamente o bloco de anotações normalmente limpa e redefine com êxito a conexão.
 
 * Recomendamos seguir as etapas em [instalar atualizações do Office](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) para instalar as atualizações mais recentes do OneNote no seu computador. Se você estiver em um Mac, siga as etapas em [verificar se há atualizações do Office para Mac automaticamente](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1).
