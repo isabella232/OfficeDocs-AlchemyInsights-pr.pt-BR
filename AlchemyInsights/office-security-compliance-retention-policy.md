@@ -1,25 +1,24 @@
 ---
-title: Novos rótulos de retenção criados automaticamente
-ms.author: kirks
-author: Techwriter40
-manager: pamgreen
+title: Mais informações sobre políticas de retenção
+ms.author: stephow
+author: msft-stephow
+manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0b52b56da0f23ca410f930eb7f719f6933e6135b
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
+ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222980"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35448823"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Novos rótulos de retenção criados automaticamente
+# <a name="more-info-about-retention-policies"></a>Mais informações sobre políticas de retenção
 
 Para a maioria das organizações, o volume e a complexidade de seus dados aumentam diariamente – emails, documentos, mensagens instantâneas e muito mais.
-
-Gerenciar efetivamente ou controlar essas informações é importante, uma política de retenção pode ajudá-lo a alcançar essas metas. Para obter mais informações sobre as políticas de retenção, visite os links abaixo.
+Gerenciar efetivamente ou controlar essas informações é importante, e uma política de retenção pode ajudá-lo a alcançar essas metas. Para obter mais informações sobre as políticas de retenção, visite estes links:
 
 - [Visão geral de políticas de retenção](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
