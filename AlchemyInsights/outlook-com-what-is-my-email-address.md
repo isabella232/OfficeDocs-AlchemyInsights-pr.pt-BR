@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: 4b007c66a20bd923f41f9767aead82f613097358
-ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
+ms.openlocfilehash: 385865b4ff8827a2f26dac5ba61af9a12a555f5c
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35701311"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36166068"
 ---
 # <a name="see-your-own-email-address"></a>Ver seu próprio endereço de email
 
@@ -25,7 +25,8 @@ Para ver o endereço de email padrão que você usa ao enviar emails, vá para a
 
 Se você tiver conectado outra conta de email à sua conta do Outlook.com, poderá optar por enviar emails a partir desse endereço.
 
-1. Selecione os três pontos na parte inferior da janela de redação e selecione **Mostrar de** para ver a linha de.
+1. Selecione os três pontos <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ na parte inferior da janela de redação e selecione **Mostrar de** para ver a linha de.
 2. Acima da linha para, selecione **de** e escolha o endereço de email que você deseja usar.
 
 Saiba mais sobre [o envio de emails de um endereço diferente no Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
