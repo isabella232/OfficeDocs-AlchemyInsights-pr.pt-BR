@@ -1,27 +1,37 @@
 ---
 title: Informações de retenção e exclusão do OneDrive
-ms.author: kirks
-author: Techwriter40
-ms.date: 6/20/2019
+ms.author: efrene
+author: efrene
+ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: ''
-ms.openlocfilehash: a98e7740fb6c921252da6f36bc9e20d7a2be0099
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.custom:
+- "2440"
+- "9000596"
+ms.openlocfilehash: 5e67d280b26512613dbe9ecc0cf8f18134f92686
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119677"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232560"
 ---
 # <a name="onedrive-retention-and-deletion"></a>Retenção e exclusão do OneDrive
 
-[Este artigo](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) descreve o que acontece com o onedrive de um usuário quando você exclui a conta do Office 365 do usuário para sua organização.
+- Você pode [restaurar sozinho um usuário excluído do onedrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) . Eles estão na lixeira por 93 dias. 
 
-Para obter mais informações sobre retenção e exclusão do OneDrive, consulte:
+- Confira [Este artigo](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) para saber:
+    - Como fornecer acesso a outro usuário para o OneDrive de um usuário excluído.
+    - O que acontece com o OneDrive de um usuário quando você exclui a conta do Office 365 do usuário para sua organização.
+    - Como configurar a delegação de acesso automático.
+    - Como funciona o processo de exclusão do OneDrive.
 
-- [Conceder a outro usuário acesso ao OneDrive de um usuário excluído](https://docs.microsoft.com/onedrive/retention-and-deletion#give-another-user-access-to-a-deleted-users-onedrive)
-- [Configurar a delegação de acesso automático](https://docs.microsoft.com/onedrive/retention-and-deletion#configure-automatic-access-delegation)
-- [Uma descrição do processo de exclusão do OneDrive](https://docs.microsoft.com/onedrive/retention-and-deletion#the-onedrive-deletion-process)
-- [Restaurar um OneDrive excluído](https://docs.microsoft.com/onedrive/retention-and-deletion#configure-automatic-access-delegation)
+- Interessado em retenção e retenção do centro de conformidade e segurança?:
+    - [Políticas de retenção para os sites do OneDrive e do SharePoint](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [bloqueio de descoberta eletrônica para sites do OneDrive e do SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+
+
+
