@@ -2,6 +2,7 @@
 title: Controle de versão no SharePoint e no OneDrive
 ms.author: efrene
 author: efrene
+ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +12,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
+ms.openlocfilehash: 97cab1d3d88721b03e703623128229935074ebf1
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36232646"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270408"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Controle de versão no SharePoint e no OneDrive 
 
@@ -37,6 +38,7 @@ Para obter mais informações sobre o controle de versão, visite os artigos aba
 
 - [Limites de controle de versão](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
-**Observação:** Se você for um cliente do Office 365, o controle de versão estará agora ativado por padrão quando você criar novas bibliotecas do OneDrive for Business e salvará automaticamente as últimas versões de 500 de um documento. Isso ajudará a evitar a perda de documentos ou dados importantes. Se você tiver bibliotecas existentes no seu site do OneDrive for Business ou no seu site de equipe que não tenham o controle de versão habilitado, você poderá ativar o controle de versão para eles a qualquer momento.
+>[!Note] 
+>Se você for um cliente do Office 365, o controle de versão estará agora ativado por padrão quando você criar novas bibliotecas do OneDrive for Business e salvará automaticamente as últimas versões de 500 de um documento. Isso ajudará a evitar a perda de documentos ou dados importantes. Se você tiver bibliotecas existentes no seu site do OneDrive for Business ou no seu site de equipe que não tenham o controle de versão habilitado, você poderá ativar o controle de versão para eles a qualquer momento.
 
 
