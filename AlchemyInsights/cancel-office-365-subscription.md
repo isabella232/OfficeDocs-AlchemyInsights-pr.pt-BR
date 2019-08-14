@@ -11,23 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 545d39d9ea83acfc2e5def49ac3877edbc8275de
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 353e0b4bb3ac1e0ecd9b7436dde6860ba8950925
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32395497"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386140"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>Cancelar sua assinatura do Office 365?
 
 Lamentamos ver você, mas aqui estão suas opções para cancelar sua assinatura:
   
 - Se você for um cliente de avaliação, não haverá nada para cancelar. As assinaturas de avaliação expiram automaticamente, a menos que você forneça um método de pagamento.
-    
-- Se você tiver menos de 25 licenças atribuídas, poderá cancelar sua assinatura online. Vá até [](https://admin.microsoft.com/adminportal/home#/subscriptions) \> **assinaturas**de cobrança e, em seguida, escolha **mais ações** \> **cancelar assinatura**.
-    
-- Se você tiver mais de 25 licenças atribuídas, poderá remover os usuários até menos de 25 ou usar a opção "Deixe-nos chamar você" para falar com um engenheiro de suporte.
-    
-- Para saber mais sobre como cancelar uma assinatura ou para obter instruções passo a passo, confira [cancelar o Office 365 for Business](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx).
-    
 
+- Se você tiver menos de 25 licenças atribuídas, poderá cancelar sua assinatura online. Vá até **** \> [assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054)de cobrança e, em seguida, escolha **mais ações** \> **cancelar assinatura**.
+
+- Se você tiver mais de 25 licenças atribuídas, poderá remover os usuários até menos de 25 ou usar a opção "Deixe-nos chamar você" para falar com um engenheiro de suporte.
+
+- Para saber mais sobre como cancelar uma assinatura ou para obter instruções passo a passo, confira [cancelar sua assinatura](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription).

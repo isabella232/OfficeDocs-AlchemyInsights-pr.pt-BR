@@ -13,18 +13,18 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: beed41b96dde1b120a98391187424367e868071e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d11e5e28dbc524e9e894c0d2e504495f3811a763
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366737"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387832"
 ---
 # <a name="trying-to-find-a-trial"></a>Tentando encontrar uma avaliação?
 
-Se quiser experimentar um novo serviço, você pode encontrar uma lista de assinaturas disponíveis para avaliação no centro de administração do Microsoft 365.
+Se quiser experimentar um novo serviço, você pode encontrar uma lista de assinaturas disponíveis para avaliação no centro de administração.
   
-1. Vá para a página [comprar serviços](https://go.microsoft.com/fwlink/p/?linkid=868433) ou escolha **serviços de compra**de **cobrança** \> .
+1. No centro de administração, vá para a página [serviços de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) de **cobrança** \> .
 
 2. Encontre a assinatura que atenda às suas necessidades, passe o mouse sobre ela e escolha **Iniciar avaliação gratuita**.
 
