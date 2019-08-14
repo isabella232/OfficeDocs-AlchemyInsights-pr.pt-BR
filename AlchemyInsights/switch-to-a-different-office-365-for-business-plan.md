@@ -13,18 +13,18 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: cfb1012b644d3fa54d385636642b8f7d02a09c0c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: fd77590c36deff1dd6c82664988a1f459442f393
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367637"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388158"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>Mudar para um plano diferente do Office 365 para empresas
 
 Quando sua empresa mudar ou você precisar de mais recursos do Office 365, você poderá mudar de plano.
   
-1. No Centro de administração, vá até a página [Assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054), ou escolha **Cobrança** \> **Assinaturas**.
+1. No centro de administração, vá para a página [assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) de **cobrança** \> .
 
 2. Escolha **alternar planos** para exibir a lista de novos planos que estão disponíveis.
 
@@ -32,7 +32,6 @@ Quando sua empresa mudar ou você precisar de mais recursos do Office 365, você
 
 O botão mudar de plano não tem suporte em todas as situações. Em alguns casos, você poderá mudar de plano manualmente.
   
-Se o botão **mudar de plano** não estiver disponível, você poderá tentar mudar de [plano manualmente](https://support.office.com/article/eb0d0680-5677-41a0-8c46-4b9d47f1c209) ou usar a opção "Deixe-nos chamar você" para falar com um engenheiro de suporte.
+Se o botão **mudar de plano** não estiver disponível, você poderá tentar mudar de [plano manualmente](https://docs.microsoft.com/en-us/office365/admin/misc/switch-plans-manually) ou usar a opção "Deixe-nos chamar você" para falar com um engenheiro de suporte.
   
-Para todas as variações de planos de mudança, consulte [mudar para um plano diferente do Office 3635 para empresas](https://support.office.com/article/49d77463-d3da-4106-abcf-2d5209106ea2).
-  
+Você está usando o novo centro de administração? Para novas etapas, confira [atualizar para um plano diferente](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  

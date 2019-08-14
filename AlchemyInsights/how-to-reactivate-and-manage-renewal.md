@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 43689cd59be9838c7d4625ed74ef06a4e934517c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c049644fed3deca18968068afeaa0b7a490f9fe
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383517"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389924"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Como reativar e gerenciar a cobrança recorrente
 
 Parece que você tem uma assinatura que expirou. Se você quiser reativá-lo, confira aqui como.
   
-1. No centro de administração, vá para a [página assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) ou vá para **assinaturas**de **cobrança** \> .
+1. No centro de administração, vá para a página [assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) de **cobrança** \> .
 
 2. Escolha a assinatura expirada **** ou **desabilitada**.
 
@@ -36,11 +36,10 @@ Parece que você tem uma assinatura que expirou. Se você quiser reativá-lo, co
 
 Para gerenciar cobranças mensais ou anuais, você pode ativar ou desativar a **cobrança recorrente** .
   
-1. No centro de administração, vá para a [página assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) ou vá para **assinaturas**de **cobrança** \> .
+1. No centro de administração, vá para a página [assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) de **cobrança** \> .
 
 2. Escolha a assinatura para a qual você deseja gerenciar a cobrança recorrente.
 
 3. Alternar entre **Ativar** ou **desativar**a opção de **cobrança recorrente** .
 
-Para obter mais informações, consulte: [gerenciar cobrança recorrente para sua assinatura](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
-  
+Para obter mais informações, consulte [Ativar ou desativar a cobrança recorrente](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
