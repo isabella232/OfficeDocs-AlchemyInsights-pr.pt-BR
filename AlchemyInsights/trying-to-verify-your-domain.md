@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ebf00eb2-1205-4d5d-aae0-4581766234f5
-ms.openlocfilehash: 2f5323e6179bcce3dd25833d263dfe095f6c6d12
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 189eb0365e57bb872e1fb4ea400bff0f786e640b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420112"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533184"
 ---
 # <a name="trying-to-verify-your-domain"></a>Tentando verificar seu domínio?
 
-Você precisa adicionar um registro TXT ao registrador de domínios para verificar que é o proprietário do domínio. Siga o assistente Adicionar Domínio, clicando em **Configurações** \> **Domínio**, e **Adicionar Domínio**. 
+Você precisa adicionar um registro TXT ao registrador de domínios para verificar que é o proprietário do domínio. Siga o assistente de novo domínio no centro de administração do Microsoft 365 em **Configurar** \> **domínios**e, em seguida, **Adicionar domínio**. 
   
 Siga as instruções do artigo abaixo para adicionar um registro TXT e verificar seu domínio. Selecione seu registrador de domínios para obter instruções específicas para o domínio.
   
