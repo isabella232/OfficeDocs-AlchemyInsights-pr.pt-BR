@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 0909edc581c811fdc4683b004e0df0adbac88d1c
-ms.sourcegitcommit: 514ced512d0d7fff485b6fbf236cd27d6b4166e0
+ms.openlocfilehash: 537b27d06acd17cbb3fe99bcb89e153099e92bb4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "35249901"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544851"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a><span data-ttu-id="0cdcf-102">Problema de solução de problemas-usuário não encontrado no diretório</span><span class="sxs-lookup"><span data-stu-id="0cdcf-102">Troubleshoot issue - User not found in directory</span></span>
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a><span data-ttu-id="294c2-102">Problema de solução de problemas-usuário não encontrado no diretório</span><span class="sxs-lookup"><span data-stu-id="294c2-102">Troubleshoot issue - User not found in directory</span></span>
 
-<span data-ttu-id="0cdcf-103">Se os usuários estão recebendo mensagem de erro "o usuário não pode ser encontrado" no diretório.</span><span class="sxs-lookup"><span data-stu-id="0cdcf-103">If users are receiving error message "user can't be found" in the directory.</span></span> <span data-ttu-id="0cdcf-104">Tente novamente onde o tipo de problema não é usuário no diretório.</span><span class="sxs-lookup"><span data-stu-id="0cdcf-104">Please try again where the Issue Type is User not in directory.</span></span>
+<span data-ttu-id="294c2-103">Se os usuários estão recebendo mensagem de erro "o usuário não pode ser encontrado" no diretório.</span><span class="sxs-lookup"><span data-stu-id="294c2-103">If users are receiving error message "user can't be found" in the directory.</span></span> <span data-ttu-id="294c2-104">Tente novamente onde o tipo de problema não é usuário no diretório.</span><span class="sxs-lookup"><span data-stu-id="294c2-104">Please try again where the Issue Type is User not in directory.</span></span>
 
-<span data-ttu-id="0cdcf-105">As etapas a seguir podem ser concluídas para solucionar o problema.</span><span class="sxs-lookup"><span data-stu-id="0cdcf-105">The following steps can be completed to troubleshoot the issue.</span></span>
+<span data-ttu-id="294c2-105">As etapas a seguir podem ser concluídas para solucionar o problema.</span><span class="sxs-lookup"><span data-stu-id="294c2-105">The following steps can be completed to troubleshoot the issue.</span></span>
 
-- <span data-ttu-id="0cdcf-106">Verifique se a conta que aceitou o convite por email é a mesma conta que está sendo usada para entrar mais tarde.</span><span class="sxs-lookup"><span data-stu-id="0cdcf-106">Ensure the account that accepted the email invitation is the same account that is being used to sign in later.</span></span> <span data-ttu-id="0cdcf-107">Certifique-se de que o usuário está usando a mesma conta para aceitar o convite e entrar no site.</span><span class="sxs-lookup"><span data-stu-id="0cdcf-107">Make sure the user is using the same account to accept the invite and sign into the site.</span></span> 
+- <span data-ttu-id="294c2-106">Verifique se a conta que aceitou o convite por email é a mesma conta que está sendo usada para entrar mais tarde.</span><span class="sxs-lookup"><span data-stu-id="294c2-106">Ensure the account that accepted the email invitation is the same account that is being used to sign in later.</span></span> <span data-ttu-id="294c2-107">Certifique-se de que o usuário está usando a mesma conta para aceitar o convite e entrar no site.</span><span class="sxs-lookup"><span data-stu-id="294c2-107">Make sure the user is using the same account to accept the invite and sign into the site.</span></span> 
 
-<span data-ttu-id="0cdcf-108">Para obter mais informações, consulte [como gerenciar aliases para sua conta</a> da Microsoft para gerenciar o logon do Office 365](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases).</span><span class="sxs-lookup"><span data-stu-id="0cdcf-108">For more info, see [How to manage aliases for your Microsoft account</a> to manage the Office 365 login](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases).</span></span> 
+<span data-ttu-id="294c2-108">Para obter mais informações, consulte [como gerenciar aliases para sua conta</a> da Microsoft para gerenciar o logon do Office 365](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases).</span><span class="sxs-lookup"><span data-stu-id="294c2-108">For more info, see [How to manage aliases for your Microsoft account</a> to manage the Office 365 login](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases).</span></span> 
 
-- <span data-ttu-id="0cdcf-109">Navegue até cada (s) site (s) em que o usuário está recebendo o erro.</span><span class="sxs-lookup"><span data-stu-id="0cdcf-109">Browse to each site(s) in which the user is receiving the error.</span></span> 
+- <span data-ttu-id="294c2-109">Navegue até cada (s) site (s) em que o usuário está recebendo o erro.</span><span class="sxs-lookup"><span data-stu-id="294c2-109">Browse to each site(s) in which the user is receiving the error.</span></span> 
 
-<span data-ttu-id="0cdcf-110">Adicione "/_layouts/15/People.aspx/MembershipGroupId = 0" (dentro das aspas duplas) ao final da URL do site.</span><span class="sxs-lookup"><span data-stu-id="0cdcf-110">Add "/_layouts/15/people.aspx/membershipgroupid=0" (within the double-quotes) to the end of the site URL.</span></span> 
+<span data-ttu-id="294c2-110">Adicione "/_layouts/15/People.aspx/MembershipGroupId = 0" (dentro das aspas duplas) ao final da URL do site.</span><span class="sxs-lookup"><span data-stu-id="294c2-110">Add "/_layouts/15/people.aspx/membershipgroupid=0" (within the double-quotes) to the end of the site URL.</span></span> 
 
-<span data-ttu-id="0cdcf-111">Exemplo: https://< "contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.</span><span class="sxs-lookup"><span data-stu-id="0cdcf-111">Example: https://<"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.</span></span>
+<span data-ttu-id="294c2-111">Exemplo: https://< "contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.</span><span class="sxs-lookup"><span data-stu-id="294c2-111">Example: https://<"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.</span></span>
 
-- <span data-ttu-id="0cdcf-112">Selecione o usuário na lista.</span><span class="sxs-lookup"><span data-stu-id="0cdcf-112">Select the user from the list.</span></span>
+- <span data-ttu-id="294c2-112">Selecione o usuário na lista.</span><span class="sxs-lookup"><span data-stu-id="294c2-112">Select the user from the list.</span></span>
 
-- <span data-ttu-id="0cdcf-113">Clique em **remover permissões do usuário** da faixa de opções.</span><span class="sxs-lookup"><span data-stu-id="0cdcf-113">Click **Remove User Permissions** from the Ribbon.</span></span> 
--  <span data-ttu-id="0cdcf-114">Adicione novamente o usuário e reenvie o convite para o usuário.</span><span class="sxs-lookup"><span data-stu-id="0cdcf-114">Add back the User and Resend the invite to the user.</span></span>
+- <span data-ttu-id="294c2-113">Clique em **remover permissões do usuário** da faixa de opções.</span><span class="sxs-lookup"><span data-stu-id="294c2-113">Click **Remove User Permissions** from the Ribbon.</span></span> 
+-  <span data-ttu-id="294c2-114">Adicione novamente o usuário e reenvie o convite para o usuário.</span><span class="sxs-lookup"><span data-stu-id="294c2-114">Add back the User and Resend the invite to the user.</span></span>
 
