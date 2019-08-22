@@ -13,27 +13,23 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 886f6933daed7fc21c858591286b05b7093d627e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390824"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539917"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Como reativar uma assinatura
 
-Quando a assinatura expira, é cancelada ou desabilitada pela Microsoft, é possível reativá-la no Centro de administração do Microsoft 365.
+Quando a sua assinatura expira, é cancelada ou desabilitada pela Microsoft, é possível reativá-la no centro de administração do Microsoft 365.
   
-1. No centro de administração, acesse a página **Cobrança** \> [Assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. No centro de administração, acesse a página **Cobrança** \> [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Escolha a assinatura que você deseja reativar.
+2. Em **Cobrança**, ao lado de**Renovar em**ou **Expirando em**, selecione **Editar**.
 
-3. Escolha o botão **Reativar** à direita.
+3. No painel **Configurações de cobrança recorrente**, selecione a opção desejada.  Se a cobrança recorrente já estiver desabilitada, selecione **Mensalmente** ou**Uma vez** para habilitá-la.
 
-4. Você será solicitado a atualizar os detalhes de pagamento. Verifique se todas as informações estão corretas e escolha **Enviar**.
+4. Selecione **Enviar alteração**.
 
-5. O programa exibirá uma mensagem de confirmação no final da tela. Escolha **Fechar** para voltar à página **Assinaturas**.
-
-6. Se a assinatura não for exibida como Ativa após alguns minutos, atualize a página.
-
-Para mais informações, confira: [Renovar a assinatura do Office 365 para empresas](https://docs.microsoft.com/pt-BR/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Para mais informações, confira: [Renovar a assinatura do Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
