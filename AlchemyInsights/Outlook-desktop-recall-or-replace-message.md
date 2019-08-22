@@ -9,14 +9,14 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: aced684777ef82860b969aea8825699b78b04c5a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389651"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496099"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Cancelar ou substituir uma mensagem de email
+# <a name="recall-or-replace-an-outlook-email-message"></a>Cancelar ou substituir uma mensagem de email do Outlook
 
 - Como administrador, você pode **recuperar mensagens em nome de usuários usando o PowerShell**. Não é possível recuperar mensagens do centro de administração.
 - Você **só pode recuperar mensagens que são enviadas para pessoas em sua organização**. Se a mensagem foi enviada para um endereço do Gmail, por exemplo, não é possível recuperá-la.

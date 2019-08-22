@@ -1,5 +1,5 @@
 ---
-title: Nomes de arquivo inVálidos no OneDrive
+title: Nomes de arquivo inválidos no OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
-ms.openlocfilehash: ab04deaeea52f2105b67d89fdc3f230efe2fdeed
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0cbf05f9c0121867aa3b24a10c7037d3a189ad22
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409966"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498187"
 ---
-# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Nomes de arquivos e pastas inVálidos no OneDrive e no SharePoint
+# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Nomes de arquivos e pastas inválidos no OneDrive e no SharePoint
 
 Estes caracteres não são permitidos em nomes de arquivos e \* pastas \< \> ":? / \ | 
   

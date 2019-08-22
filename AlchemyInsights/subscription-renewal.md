@@ -13,25 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388157"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501353"
 ---
 # <a name="subscription-recurring-billing"></a>Cobrança recorrente de assinatura
 
-Se você quiser saber quando sua assinatura mensal ou anual será cobrada (se a **cobrança recorrente** estiver ativada) ou expirar (se a **cobrança recorrente** estiver desativada):
+Se você quiser saber quando a sua assinatura mensal ou anual do Office 365 será cobrada (se a **cobrança recorrente** estiver ativada) ou expirar (se a **cobrança recorrente** estiver desativada):
   
-1. No centro de administração, vá para a página [assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) de **cobrança** \> .
+1. No centro de administração, vá para a página de serviços de **cobrança** \> de [produtos &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Escolha a assinatura sobre a qual você deseja saber mais.
+2. Para a assinatura que você deseja saber mais, em **cobrança**, confira a **nova notícia** ou a **expiração na** Data.
 
-3. No lado direito do cartão de assinatura estão informações sobre o status da assinatura, a configuração de **cobrança recorrente** e a próxima data de cobrança ou de validade.
+4. Para fazer uma alteração, selecione **Editar** e, em seguida, no painel configurações de **cobrança recorrente** , selecione **desativar** para desativá-la. Se a cobrança recorrente já estiver desativada, **** selecione mensalmente ou **uma vez** para ativá-la.
 
-4. Para continuar usando o serviço após esta data, altere as **configurações de cobrança** recorrentes para **** ativar. O status mostrará a próxima data de cobrança da assinatura.
-
-5. Para interromper o serviço nesta data, alterne a opção de **cobrança recorrente** para **desativá**-la. O status mostrará a data de expiração da assinatura.
-
-Você está usando o novo centro de administração? Para novas etapas, consulte [Ativar ou desativar a cobrança recorrente](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Para obter mais informações, consulte [Ativar ou desativar a cobrança recorrente](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
