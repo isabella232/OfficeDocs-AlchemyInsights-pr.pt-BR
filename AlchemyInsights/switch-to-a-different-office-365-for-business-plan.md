@@ -13,25 +13,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fd77590c36deff1dd6c82664988a1f459442f393
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f87e3e019427a18ea3de7b4a764414877aec7112
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388158"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534155"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>Mudar para um plano diferente do Office 365 para empresas
 
-Quando sua empresa mudar ou você precisar de mais recursos do Office 365, você poderá mudar de plano.
+Quando sua empresa mudar ou você precisar de mais recursos do Office 365, você poderá atualizar para um novo plano.
   
-1. No centro de administração, vá para a página [assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) de **cobrança** \> .
+1. No centro de administração, vá para a página de serviços de **cobrança** \> de [produtos &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Escolha **alternar planos** para exibir a lista de novos planos que estão disponíveis.
+2. Selecione a assinatura que você deseja atualizar.
 
-3. Escolha um plano para ver o novo custo total por mês. Certifique-se de ler as informações da chave e escolha **Avançar** para fazer check-out.
+3. Na página detalhes da assinatura, selecione **atualização**.
 
-O botão mudar de plano não tem suporte em todas as situações. Em alguns casos, você poderá mudar de plano manualmente.
-  
-Se o botão **mudar de plano** não estiver disponível, você poderá tentar mudar de [plano manualmente](https://docs.microsoft.com/en-us/office365/admin/misc/switch-plans-manually) ou usar a opção "Deixe-nos chamar você" para falar com um engenheiro de suporte.
-  
-Você está usando o novo centro de administração? Para novas etapas, confira [atualizar para um plano diferente](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+4. Encontre o plano para o qual você deseja atualizar e, em seguida, selecione o botão **Atualizar** .
+
+5. Insira o número de licenças necessárias, escolha se deseja pagar a cada mês ou pelo ano inteiro e, em seguida, selecione **checkout**.
+   
+Para obter mais informações, consulte [atualizar para um plano diferente](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
