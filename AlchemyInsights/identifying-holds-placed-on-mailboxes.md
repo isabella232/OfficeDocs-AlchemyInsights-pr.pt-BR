@@ -12,14 +12,16 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 90302767ac2cb4e137bc1fd5fa17edea4602b766
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382869"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538742"
 ---
-Você tem conteúdo que está sendo **mantido** por uma **retenção** que você não pode identificar? Precisa **descobrir** onde a retenção está localizada na **caixa de correio** ? As isenções ( *recursos de retenção* ) podem ser aplicadas por um dos seguintes métodos no Office 365:
+# <a name="identify-holds-placed-on-mailboxes"></a>Identificar isenções feitas em caixas de correio
+
+Você tem conteúdo do Office 365 que está sendo **mantido** por uma **retenção** que você não pode identificar? Precisa **descobrir** onde a retenção está localizada na **caixa de correio** ? As isenções (*recursos de retenção*) podem ser aplicadas por um dos seguintes métodos no Office 365:
   
 - Retenção de litígio
 

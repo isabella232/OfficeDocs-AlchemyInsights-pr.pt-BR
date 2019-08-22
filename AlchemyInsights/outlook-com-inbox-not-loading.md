@@ -12,16 +12,16 @@ ms.custom:
 - "1271"
 - "1963"
 - "8000078"
-ms.openlocfilehash: 6b3b8d2136236abe7ca71c613f5c991a67bf4f99
-ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
+ms.openlocfilehash: 0699b73e9df875f4fee2bb169540b43e48a72a95
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36049092"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36536423"
 ---
 # <a name="empty-inbox"></a>Caixa de entrada Empty
 
-**Minha caixa de entrada está vazia**
+**Minha caixa de entrada do Outlook.com está vazia**
 
 - Determinados complementos no navegador Firefox podem impedir o carregamento da caixa de entrada. Visite o suporte Firefox para saber como [desabilitar ou remover](https://support.mozilla.org/kb/disable-or-remove-add-ons)Complementos.
 

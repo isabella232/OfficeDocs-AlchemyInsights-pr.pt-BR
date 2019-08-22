@@ -12,20 +12,20 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a91778c006531371b85116f5c97485d42e6cc5be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382941"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539017"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identificar endereço IP e cliente em logs de auditoria
 
-O endereço IP que corresponde a uma atividade por um usuário ou administrador é mostrado nos logs de auditoria. As informações do cliente também são registradas. Aqui estão as etapas para identificar essas informações
+O endereço IP que corresponde a uma atividade por um usuário ou administrador do Office 365 é mostrado nos logs de auditoria. As informações do cliente também são registradas. Aqui estão as etapas para identificar essas informações
 
-1. Faça logon no [centro de conformidade & segurança do Office 365](https://protection.office.com/)
+1. Faça logon no [centro de conformidade & segurança do Office 365](https://protection.office.com/).
 
-2. Clique em **pesquisa e investigação** e selecione **pesquisa de log de auditoria**.
+2. Vá para a página**pesquisa de log de auditoria** de **pesquisa** > .
 
    Se você estiver interessado em uma atividade específica, selecione-a na lista de **atividades** . Caso contrário, todas as atividades serão retornadas para o usuário selecionado (configuração padrão).
 

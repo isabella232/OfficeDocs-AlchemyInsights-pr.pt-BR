@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: f3b429dc9d5007c139ff292fae6649696fc42b81
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5f337a9c4b40c13dcda79eb567c0e287d300dfb1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389852"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539485"
 ---
 # <a name="how-to-view-and-manage-apps"></a>Como exibir e gerenciar aplicativos
 
-Para exibir seus aplicativos, você deve estar no novo centro de administração.  Você pode alternar isso na home page do centro de administração.  
+Você pode visualizar seus aplicativos no centro de administração do Microsoft 365. 
 
-1. Com o novo centro de administração ativado, vá para a página de serviços de **cobrança** > de[produtos &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. No centro de administração, vá para a página de serviços de **cobrança** > de[produtos &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Na página **produtos & serviços** , selecione a guia **aplicativos** .
