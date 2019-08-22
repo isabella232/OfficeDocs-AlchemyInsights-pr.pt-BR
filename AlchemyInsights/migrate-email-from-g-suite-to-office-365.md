@@ -13,14 +13,14 @@ ms.custom:
 - "682"
 - "3500008"
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: 24d16ae0770ea252bc658197389975be40840719
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 748196bc9244f06c50e3fdd2ecfc23f607422f23
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380061"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544573"
 ---
-# <a name="migrate-email-from-g-suite-to-office-365"></a><span data-ttu-id="a8566-102">Migrar emails do pacote G para o Office 365</span><span class="sxs-lookup"><span data-stu-id="a8566-102">Migrate email from G Suite to Office 365</span></span>
+# <a name="migrate-email-from-g-suite-to-office-365"></a><span data-ttu-id="13885-102">Migrar emails do pacote G para o Office 365</span><span class="sxs-lookup"><span data-stu-id="13885-102">Migrate email from G Suite to Office 365</span></span>
 
-<span data-ttu-id="a8566-103">Para migrar os emails do G Suite para o Office 365, use as ferramentas de migração para migrar email, calendário e contatos: [realizar uma migração G Suite](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span><span class="sxs-lookup"><span data-stu-id="a8566-103">To migrate email from G Suite to Office 365, use our migration tools to migrate email, calendar and contacts: [Perform a G Suite migration](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span></span>
+<span data-ttu-id="13885-103">Para migrar os emails do G Suite para o Office 365, use as ferramentas de migração para migrar email, calendário e contatos: [realizar uma migração G Suite](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span><span class="sxs-lookup"><span data-stu-id="13885-103">To migrate email from G Suite to Office 365, use our migration tools to migrate email, calendar and contacts: [Perform a G Suite migration](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span></span>
   
