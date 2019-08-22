@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: e7b1b58f0b5bf73d50721cf2715b366280867431
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: de0a6940680bc4ec5193c8aa9345b0b214b5fd5b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404037"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527639"
 ---
 # <a name="enable-external-sharing"></a>Habilitar o compartilhamento externo
 
- **Como garantir que o compartilhamento esteja habilitado:**
+ Para garantir que o compartilhamento esteja habilitado para o SharePoint Online:
   
 - **Compartilhamento global**
     
@@ -27,7 +27,7 @@ ms.locfileid: "32404037"
     
 - **Compartilhamento administrativo – centro de administração do SharePoint**
     
-- Compartilhamento externo – Verifique se uma das duas opções está selecionada:
+    Compartilhamento externo – Verifique se uma das duas opções está selecionada:
     
   - "Permitir que usuários externos que aceitem convites de compartilhamento e entrem como usuários autenticados"
     

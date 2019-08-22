@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 6dfccf70f1d200a57b916b8aa7bea1a154a7cfad
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 062a0d9bfbd83ed40457f603cc739e3a916c7045
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35696927"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511907"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Impedir que as mensagens vá para a pasta lixo eletrônico
 
-Se você descobrir que uma mensagem de email na pasta lixo eletrônico não é lixo eletrônico:
+Se você descobrir que uma mensagem de email em sua pasta de lixo eletrônico no Outlook.com não é lixo eletrônico:
 
 1. Abra a [pasta lixo eletrônico](https://outlook.live.com/mail/junkemail).
 1. Selecione a mensagem. (*Observação:* os itens em sua pasta lixo eletrônico são excluídos após 30 dias.)

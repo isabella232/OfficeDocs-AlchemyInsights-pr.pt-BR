@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: fc49978fbd2c07381dae83061b1a1868cd1df0d0
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059240"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507619"
 ---
-# <a name="search-in-sharepoint-online"></a>Pesquisa no SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Rastreamento e indexação de conteúdo no SharePoint Online
 
 O conteúdo deve ser rastreado e adicionado ao índice de pesquisa para que os usuários encontrem o que estão procurando no SharePoint Online. O conteúdo é rastreado automaticamente com base em um cronograma de rastreamento predefinido (o cronograma de rastreamento não pode ser alterado). O rastreador seleciona o conteúdo que foi alterado desde o último rastreamento e atualiza o índice. Para garantir que o conteúdo seja rastreado e o índice seja atualizado, observe o seguinte:
 
@@ -30,7 +30,8 @@ O conteúdo deve ser rastreado e adicionado ao índice de pesquisa para que os u
 
     Se passar mais de 24 horas desde que você iniciou o rastreamento e o REINDEX completo, registre um caso de suporte. Em muitos casos, já estamos trabalhando em uma solução. Aguarde pelo menos 24 horas para concluir uma solução.
 
->[! Importante!]: se um site, documento (biblioteca) ou uma lista tiver sido excluído e ainda for exibido nos resultados da pesquisa, os usuários deverão receber um **erro 404 arquivo não encontrado** ao tentar acessá-lo. Esse problema deve ser registrado como um caso de suporte para uma investigação adicional. 
+> [!IMPORTANT]
+> Se um site, documento (biblioteca) ou uma lista tiver sido excluído e ainda for exibido nos resultados da pesquisa, os usuários deverão receber um **erro 404 arquivo não encontrado** ao tentar acessá-lo. Esse problema deve ser registrado como um caso de suporte para uma investigação adicional. 
 
 
 

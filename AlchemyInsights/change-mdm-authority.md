@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: c869609fa4527f46121eda563e0735378bcb0d3d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32394584"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519287"
 ---
 # <a name="change-intune-mdm-authority"></a>Alterar autoridade MDM do Intune
 
@@ -23,7 +23,7 @@ Você pode alterar sua autoridade MDM sem abrir um caso de suporte. Consulte os 
     
 - [Alterar autoridade MDM do Intune autônomo para o Gerenciador de configurações](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
     
- **CoExistência de autoridade MDM**
+ **Coexistência de autoridade MDM**
   
 - As duas autoridades de MDM podem ser ativas simultaneamente se você já tiver o Office 365 MDM habilitado, mas deseja tentar o Intune MDM.
     

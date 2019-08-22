@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
-ms.openlocfilehash: b2333a51f0cc0061351bc441d47444db52b262aa
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: dfe6c90d0c370037c92df3a8ed01dcbec6ae9d50
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32390559"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36559325"
 ---
 # <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Solucionar problemas com opções de registro do Microsoft Intune
 
-ConFira os recursos listados abaixo para resolver seu problema agora. Se esses recursos não ajudarem, entre em contato com o suporte clicando [aqui](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) e escolhendo "criar uma solicitação de suporte". 
+Confira os recursos listados abaixo para resolver seu problema agora. Se esses recursos não ajudarem, entre em contato com o suporte clicando [aqui](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) e escolhendo "criar uma solicitação de suporte". 
   
 - [Revise o Intune TechNet para encontrar respostas e soluções para problemas comuns](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
     

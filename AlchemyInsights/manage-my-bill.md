@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f844501a-e575-48b8-9c1b-9f800c7b89f8
-ms.openlocfilehash: eff17074de4c198ec475573081a01f4288dd3ecb
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 75a69c248ab6a380eb1ceb1bb0c2c3ae507c8253
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408958"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497107"
 ---
 # <a name="manage-my-bill-and-payments"></a>Gerenciar minhas faturas e pagamentos
 
@@ -28,7 +28,7 @@ Como administrador, você tem acesso a todas as suas opções de cobrança e pag
     
 - Mudar para um outro Office 365.
     
-- ReNovar sua assinatura.
+- Renovar sua assinatura.
     
 - Comprar outra assinatura.
     

@@ -9,15 +9,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 17554fdefd4ac8a9248e3e375301edf25edebf05
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.openlocfilehash: 4106ed60ab79bd393906a08b29bfb7c1f996672a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35115583"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36513671"
 ---
-# <a name="delete-a-sharepoint-site"></a>Excluir um site do SharePoint
-**Excluir sites do novo centro de administração do SharePoint** Usando o novo centro de administração do SharePoint, você pode excluir os sites clássicos e modernos. Selecione **sites ativos**, selecione o site e, em seguida, selecione **excluir**. Para [Exibir e restaurar sites excluídos no novo centro de administração do SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selecione **sites excluídos**. Para obter mais informações, consulte [excluir um site no novo centro de administração do SharePoint](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
+# <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Excluir um site do novo centro de administração do SharePoint
+
+Usando o novo centro de administração do SharePoint, você pode excluir os sites clássicos e modernos. Selecione **sites ativos**, selecione o site e, em seguida, selecione **excluir**. Para [Exibir e restaurar sites excluídos no novo centro de administração do SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selecione **sites excluídos**. Para obter mais informações, consulte [excluir um site no novo centro de administração do SharePoint](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
 
 **Importante:** Se o site fizer parte de uma política de retenção, talvez não seja possível excluí-lo até que o site seja removido da [política &amp; do centro de administração de conformidade de segurança](https://protection.office.com/?rfr=AdminCenter#/homepage). Confira [visão geral das políticas de retenção](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) para obter mais informações. 
 

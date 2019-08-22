@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c040c5d7-ff1c-4a29-91e7-a6ad7c3b410b
-ms.openlocfilehash: 7bdc84bf69eba228aaf536befe4b5ce5d150f3b2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0cf7d60fb0e2d5a64b8df07dbb07060de3e111a9
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398950"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36529475"
 ---
 # <a name="download-and-install-office"></a>Baixar e instalar o Office
 
-Sua assinatura do **Business Essentials** não inclui os aplicativos do Office. Para obter o Office, será necessário atualizar para a assinatura **Business** ou **Business Premium** . ConFira as assinaturas disponíveis no Office aqui: [Business Plans do office 365](https://products.office.com/compare-all-microsoft-office-products?tab=2)
+Sua assinatura do **Business Essentials** não inclui os aplicativos do Office. Para obter o Office, será necessário atualizar para a assinatura **Business** ou **Business Premium** . Confira as assinaturas disponíveis no Office aqui: [Business Plans do office 365](https://products.office.com/compare-all-microsoft-office-products?tab=2)
   
 

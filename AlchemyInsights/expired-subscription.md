@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 5ac8c629c98f6dbd716b0076f2e203a95263fe4f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3b4377cb54cf6892e5e04b61b7cce203ebe89855
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389073"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526667"
 ---
 # <a name="expired-subscription"></a>Assinatura expirada
 
@@ -26,18 +26,16 @@ Parece que você tem uma ou mais assinaturas expiradas. Se quiser continuar o se
   
 **Reativar**
   
-1. No centro de administração, vá para a página [assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) de **cobrança** \> .
+1. No centro de administração, vá para a página de serviços de **cobrança** \> de [produtos &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Escolha a assinatura a ser reativada.
 
-3. No lado direito, escolha **reativar**.
+3. Na seção **cobrança** , selecione **reativar**.
 
-Você está usando o novo centro de administração? Para novas etapas, consulte [reativar sua assinatura](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Para obter mais informações, consulte [reativar sua assinatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Criar uma nova compra**
   
 1. No centro de administração, vá para a página [serviços de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) de **cobrança** \> .
 
-2. Escolha uma assinatura que você deseja comprar.
-
-3. Passe o mouse sobre o bloco e escolha **comprar agora**.
+2. Selecione uma assinatura que você deseja comprar e selecione **comprar**.
