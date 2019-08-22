@@ -12,20 +12,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 43b6a26bc05892e71d41c4b47522785245cb4851
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383085"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539089"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identificar quando o encaminhamento de email externo é configurado em caixas de correio
 
-Quando um usuário configura o encaminhamento de email externo em uma caixa de correio, a atividade é auditada como parte do cmdlet **Set-Mailbox** . Você pode ver a atividade usando a pesquisa de log de auditoria no centro de conformidade de & de segurança.
+Quando um usuário do Office 365 configura o encaminhamento de email externo em uma caixa de correio, a atividade é auditada como parte do cmdlet **Set-Mailbox** . Você pode ver a atividade usando a pesquisa de log de auditoria no centro de conformidade de & de segurança.
 
-1. Faça logon no [centro de conformidade & segurança do Office 365](https://protection.office.com/)
+1. Faça logon no [centro de conformidade & segurança do Office 365](https://protection.office.com/).
 
-2. Clique em **pesquisa e investigação** e selecione **pesquisa de log de auditoria**.
+2. Vá para a página**pesquisa de log de auditoria** de **pesquisa** > .
 
 3. Selecione o intervalo de datas nos campos **data de início** e data de **término** . Não é necessário especificar um nome de usuário. Verifique se o campo **atividades** está definido para **Mostrar os resultados de todas as atividades**.
 

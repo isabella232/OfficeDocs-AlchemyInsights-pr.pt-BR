@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
-ms.openlocfilehash: 69241cad34058df87886ee4db7826ceb2779fbf7
-ms.sourcegitcommit: 7c0575fd30f0f4448e530e1ec40eabb362cb4670
+ms.openlocfilehash: 7363af1d4fc1a0f4131bebc325485dc99a30e2eb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35595079"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545859"
 ---
-# <a name="my-personalized-email-address-isnt-sending-or-receiving"></a>Meu endereço de email personalizado não está enviando ou recebendo
+# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Meu endereço de email personalizado do Outlook.com não está enviando ou recebendo
 
 Selecione o ícone de losango na barra de ferramentas para abrir o painel Premium.
 
