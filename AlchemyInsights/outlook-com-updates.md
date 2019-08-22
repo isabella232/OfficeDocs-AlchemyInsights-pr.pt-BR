@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: fa50002e6ceba625a0db1df407c0e750cd4a69c8
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 7b36780553b14043e2fb2e0ac5e8a9d65b9dc47f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35696944"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511295"
 ---
-# <a name="outlookcom-updates"></a><span data-ttu-id="7c325-102">Atualizações do Outlook.com</span><span class="sxs-lookup"><span data-stu-id="7c325-102">Outlook.com updates</span></span>
+# <a name="outlookcom-updates"></a><span data-ttu-id="bc262-102">Atualizações do Outlook.com</span><span class="sxs-lookup"><span data-stu-id="bc262-102">Outlook.com updates</span></span>
 
-<span data-ttu-id="7c325-103">**Últimas atualizações**</span><span class="sxs-lookup"><span data-stu-id="7c325-103">**Latest updates**</span></span>
+<span data-ttu-id="bc262-103">**Últimas atualizações**</span><span class="sxs-lookup"><span data-stu-id="bc262-103">**Latest updates**</span></span>
 
-- <span data-ttu-id="7c325-104">Obtenha mais de seu email com o novo Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="7c325-104">Get more out of your email with the new Outlook.com.</span></span> <span data-ttu-id="7c325-105">Simplificamos a pesquisa para facilitar ainda mais a localização do que você está procurando.</span><span class="sxs-lookup"><span data-stu-id="7c325-105">We've streamlined search to make it easier than ever to find what you're looking for.</span></span> <span data-ttu-id="7c325-106">Novos recursos, como fotos e visualizações de anexos, permitem que você veja suas imagens e arquivos sem sair da caixa de entrada.</span><span class="sxs-lookup"><span data-stu-id="7c325-106">New features like Photos and attachment previews let you see your pictures and files without leaving your inbox.</span></span> <span data-ttu-id="7c325-107">E agora você pode adicionar emojis e GIFs às suas mensagens.  [Saiba mais sobre o novo Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="7c325-107">And now you can add emojis and GIFs to your messages. [Learn more about the new Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)</span></span>
+- <span data-ttu-id="bc262-104">Obtenha mais de seu email com o novo Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="bc262-104">Get more out of your email with the new Outlook.com.</span></span> <span data-ttu-id="bc262-105">Simplificamos a pesquisa para facilitar ainda mais a localização do que você está procurando.</span><span class="sxs-lookup"><span data-stu-id="bc262-105">We've streamlined search to make it easier than ever to find what you're looking for.</span></span> <span data-ttu-id="bc262-106">Novos recursos, como fotos e visualizações de anexos, permitem que você veja suas imagens e arquivos sem sair da caixa de entrada.</span><span class="sxs-lookup"><span data-stu-id="bc262-106">New features like Photos and attachment previews let you see your pictures and files without leaving your inbox.</span></span> <span data-ttu-id="bc262-107">E agora você pode adicionar emojis e GIFs às suas mensagens.  [Saiba mais sobre o novo Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="bc262-107">And now you can add emojis and GIFs to your messages. [Learn more about the new Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)</span></span>
 
-<span data-ttu-id="7c325-108">**Atualizações de email**</span><span class="sxs-lookup"><span data-stu-id="7c325-108">**Email updates**</span></span>
+<span data-ttu-id="bc262-108">**Atualizações de email**</span><span class="sxs-lookup"><span data-stu-id="bc262-108">**Email updates**</span></span>
 
-- <span data-ttu-id="7c325-109">Se sua caixa de correio do Outlook.com não estiver atualizando, confira [corrigir problemas de sincronização de email do Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="7c325-109">If your Outlook.com mailbox is not updating, see [Fix Outlook.com email sync issues](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+- <span data-ttu-id="bc262-109">Se sua caixa de correio do Outlook.com não estiver atualizando, confira [corrigir problemas de sincronização de email do Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="bc262-109">If your Outlook.com mailbox is not updating, see [Fix Outlook.com email sync issues](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

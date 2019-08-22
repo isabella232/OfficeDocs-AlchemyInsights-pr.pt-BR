@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
-ms.openlocfilehash: 960331625e01a4b6ec71cf09184cfdde8f9e4bde
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6a2559521b4160dc337796ed8d4721ec49acf703
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399058"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36529409"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a><span data-ttu-id="75edf-102">Carregar arquivos no OneDrive ou no SharePoint</span><span class="sxs-lookup"><span data-stu-id="75edf-102">Upload files to OneDrive or SharePoint</span></span>
+# <a name="upload-files-to-onedrive-or-sharepoint"></a><span data-ttu-id="a69ee-102">Carregar arquivos no OneDrive ou no SharePoint</span><span class="sxs-lookup"><span data-stu-id="a69ee-102">Upload files to OneDrive or SharePoint</span></span>
 
-1. <span data-ttu-id="75edf-103">No navegador da Web, vá para o local onde você deseja carregar os arquivos.</span><span class="sxs-lookup"><span data-stu-id="75edf-103">In your web browser, go to the location where you want to upload files.</span></span>
+1. <span data-ttu-id="a69ee-103">No navegador da Web, vá para o local onde você deseja carregar os arquivos.</span><span class="sxs-lookup"><span data-stu-id="a69ee-103">In your web browser, go to the location where you want to upload files.</span></span>
     
-2. <span data-ttu-id="75edf-104">Abra o explorador de arquivos e navegue até os arquivos que você deseja carregar.</span><span class="sxs-lookup"><span data-stu-id="75edf-104">Open File Explorer and browse to the files you want to upload.</span></span>
+2. <span data-ttu-id="a69ee-104">Abra o explorador de arquivos e navegue até os arquivos que você deseja carregar.</span><span class="sxs-lookup"><span data-stu-id="a69ee-104">Open File Explorer and browse to the files you want to upload.</span></span>
     
-3. <span data-ttu-id="75edf-105">Selecione os arquivos e arraste-os para o local no OneDrive ou no SharePoint.</span><span class="sxs-lookup"><span data-stu-id="75edf-105">Select the files and drag them to the location in OneDrive or SharePoint.</span></span> <span data-ttu-id="75edf-106">Observação: se você usa o Microsoft Edge, o Mozilla FireFox ou o Google Chrome, você também pode carregar uma pasta e todos os arquivos nela contidos.</span><span class="sxs-lookup"><span data-stu-id="75edf-106">Note: If you use Microsoft Edge, Mozilla FireFox, or Google Chrome, you can also upload a folder and all the files in it.</span></span>
+3. <span data-ttu-id="a69ee-105">Selecione os arquivos e arraste-os para o local no OneDrive ou no SharePoint.</span><span class="sxs-lookup"><span data-stu-id="a69ee-105">Select the files and drag them to the location in OneDrive or SharePoint.</span></span> <span data-ttu-id="a69ee-106">Observação: se você usa o Microsoft Edge, o Mozilla FireFox ou o Google Chrome, você também pode carregar uma pasta e todos os arquivos nela contidos.</span><span class="sxs-lookup"><span data-stu-id="a69ee-106">Note: If you use Microsoft Edge, Mozilla FireFox, or Google Chrome, you can also upload a folder and all the files in it.</span></span>
     
 > [!NOTE]
->  <span data-ttu-id="75edf-107">Você pode carregar arquivos de até 15 GB de tamanho.</span><span class="sxs-lookup"><span data-stu-id="75edf-107">You can upload files up to 15 GB in size.</span></span> <span data-ttu-id="75edf-108">> o caminho completo de um arquivo (incluindo o nome do arquivo) não pode ter mais de 400 caracteres de comprimento.</span><span class="sxs-lookup"><span data-stu-id="75edf-108">>  The full path for a file (including the file name) can't be more than 400 characters in length.</span></span> <span data-ttu-id="75edf-109">> se você precisar carregar mais de 100 arquivos, [use o cliente de sincronização do onedrive](https://go.microsoft.com/fwlink/?linkid=866427).</span><span class="sxs-lookup"><span data-stu-id="75edf-109">>  If you need to upload more than 100 files, [use the OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866427).</span></span> 
+>  <span data-ttu-id="a69ee-107">Você pode carregar arquivos de até 15 GB de tamanho.</span><span class="sxs-lookup"><span data-stu-id="a69ee-107">You can upload files up to 15 GB in size.</span></span> <span data-ttu-id="a69ee-108">> o caminho completo de um arquivo (incluindo o nome do arquivo) não pode ter mais de 400 caracteres de comprimento.</span><span class="sxs-lookup"><span data-stu-id="a69ee-108">>  The full path for a file (including the file name) can't be more than 400 characters in length.</span></span> <span data-ttu-id="a69ee-109">> se você precisar carregar mais de 100 arquivos, [use o cliente de sincronização do onedrive](https://go.microsoft.com/fwlink/?linkid=866427).</span><span class="sxs-lookup"><span data-stu-id="a69ee-109">>  If you need to upload more than 100 files, [use the OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866427).</span></span> 
   
 

@@ -15,18 +15,18 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 38f75e82fe7174f6ad118e82532589adc00f0b0a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 166c7ab10e51d309b79ae8ef1a58116e90d4380b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369041"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509096"
 ---
-# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="28f01-102">Definir senhas para nunca expirar</span><span class="sxs-lookup"><span data-stu-id="28f01-102">Set passwords to never expire</span></span>
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="a462e-102">Definir senhas para nunca expirar</span><span class="sxs-lookup"><span data-stu-id="a462e-102">Set passwords to never expire</span></span>
 
-<span data-ttu-id="28f01-103">Para definir todas as senhas para nunca expirar, acesse [privacidade de segurança &amp; ](https://portal.office.com/adminportal/home#/settings/security).</span><span class="sxs-lookup"><span data-stu-id="28f01-103">To set ALL passwords to never expire, go to [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security).</span></span> <span data-ttu-id="28f01-104">Clique em **Editar** ao lado de **política de senha**e ative o \*\*\*\* controle deslizante.</span><span class="sxs-lookup"><span data-stu-id="28f01-104">Click **Edit** next to **Password Policy**, and turn the slider to **On**.</span></span>
+<span data-ttu-id="a462e-103">Para definir todas as senhas como nunca expirar, no centro de administração do Microsoft 365, acesse a página **configurações** > de[privacidade de segurança &amp; ](https://portal.office.com/adminportal/home#/settings/security) .</span><span class="sxs-lookup"><span data-stu-id="a462e-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > [Security &amp; privacy](https://portal.office.com/adminportal/home#/settings/security) page.</span></span> <span data-ttu-id="a462e-104">Selecione **Editar** ao lado de **política de senha**e ative o controle \*\*\*\* deslizante.</span><span class="sxs-lookup"><span data-stu-id="a462e-104">Select **Edit** next to **Password policy**, and turn the slider to **On**.</span></span>
   
-<span data-ttu-id="28f01-105">Para obter informações mais detalhadas, consulte: [definir a política de expiração de senha para sua organização.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span><span class="sxs-lookup"><span data-stu-id="28f01-105">For more detailed information see: [Set the password expiration policy for your organization.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span></span>
+<span data-ttu-id="a462e-105">Para obter informações mais detalhadas, consulte: [definir a política de expiração de senha para sua organização.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span><span class="sxs-lookup"><span data-stu-id="a462e-105">For more detailed information see: [Set the password expiration policy for your organization.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span></span>
   
-[<span data-ttu-id="28f01-106">Definir a senha para nunca expirar para usuários específicos</span><span class="sxs-lookup"><span data-stu-id="28f01-106">Set password to never expire for specific users</span></span>](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[<span data-ttu-id="a462e-106">Definir a senha para nunca expirar para usuários específicos</span><span class="sxs-lookup"><span data-stu-id="a462e-106">Set password to never expire for specific users</span></span>](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
   
