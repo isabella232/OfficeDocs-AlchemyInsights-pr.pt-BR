@@ -12,20 +12,20 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 51c25897223371a6dcc94c948955107ce74b0e8e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383013"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539125"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identificar a atividade da regra de caixa de entrada nos logs de auditoria
 
-Você pode usar a pesquisa de log de auditoria no centro de conformidade de & de segurança para exibir eventos de regra de caixa de entrada (criando, modificando e excluindo regras de caixa de entrada).
+Você pode usar a pesquisa de log de auditoria no centro de conformidade & segurança do Office 365 para exibir eventos de regra de caixa de entrada (criando, modificando e excluindo regras de caixa de entrada).
 
-1. Faça logon no [centro de conformidade & segurança do Office 365](https://protection.office.com/)
+1. Faça logon no [centro de conformidade & segurança do Office 365](https://protection.office.com/).
 
-2. Clique em **pesquisa e investigação** e selecione **pesquisa de log de auditoria**.
+2. Vá para a página**pesquisa de log de auditoria** de **pesquisa** > .
 
 3. Selecione o intervalo de datas nos campos **data de início** e data de **término** .
 

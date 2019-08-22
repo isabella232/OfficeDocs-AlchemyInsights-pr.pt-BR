@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: d0d5e949a23e9a8570aa0c157d1577ea16270151
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: c3a2bd02cd610e8fc6e5eb296817eb439a055af5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34717615"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539341"
 ---
-# <a name="hub-site-limits-and-restrictions"></a>Limites e restrições do site do Hub
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a>Limites e restrições do site do Hub do SharePoint
 
 - É recomendável selecionar um site de comunicação ou um site de equipe que use o novo modelo moderno. Se você usar um site de equipe clássico, a navegação de Hub aparecerá somente em páginas modernas, e as configurações do site do hub só aparecerão em páginas modernas.
 
