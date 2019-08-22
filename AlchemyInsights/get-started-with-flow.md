@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46adf2ae-f55c-4ae5-9540-7fcfcb0a3e4f
-ms.openlocfilehash: d02aa48f510183875718183138f65db17570c07c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 008f17cd8e266497ad339e79c2095e06d7184d67
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400921"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36524183"
 ---
-# <a name="get-started-with-microsoft-flow"></a><span data-ttu-id="1caeb-102">Introdução ao Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="1caeb-102">Get started with Microsoft Flow</span></span>
+# <a name="get-started-with-microsoft-flow"></a><span data-ttu-id="4aa6e-102">Introdução ao Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="4aa6e-102">Get started with Microsoft Flow</span></span>
 
-<span data-ttu-id="1caeb-103">Com o Microsoft Flow, você pode:</span><span class="sxs-lookup"><span data-stu-id="1caeb-103">With Microsoft Flow, you can:</span></span>
+<span data-ttu-id="4aa6e-103">Com o Microsoft Flow, você pode:</span><span class="sxs-lookup"><span data-stu-id="4aa6e-103">With Microsoft Flow, you can:</span></span>
   
-- <span data-ttu-id="1caeb-104">Pesquise facilmente modelos e serviços.</span><span class="sxs-lookup"><span data-stu-id="1caeb-104">Easily search for templates and services.</span></span>
+- <span data-ttu-id="4aa6e-104">Pesquise facilmente modelos e serviços.</span><span class="sxs-lookup"><span data-stu-id="4aa6e-104">Easily search for templates and services.</span></span>
     
-- <span data-ttu-id="1caeb-105">Escolha nos serviços mais populares.</span><span class="sxs-lookup"><span data-stu-id="1caeb-105">Choose from the most popular services.</span></span>
+- <span data-ttu-id="4aa6e-105">Escolha nos serviços mais populares.</span><span class="sxs-lookup"><span data-stu-id="4aa6e-105">Choose from the most popular services.</span></span>
     
-- <span data-ttu-id="1caeb-106">ConFira uma visão geral de cada fluxo.</span><span class="sxs-lookup"><span data-stu-id="1caeb-106">See an overview of each flow.</span></span>
+- <span data-ttu-id="4aa6e-106">Confira uma visão geral de cada fluxo.</span><span class="sxs-lookup"><span data-stu-id="4aa6e-106">See an overview of each flow.</span></span>
     
-[<span data-ttu-id="1caeb-107">Saiba mais sobre o Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="1caeb-107">Learn more about Microsoft Flow</span></span>](https://go.microsoft.com/fwlink/?linkid=874446)
+[<span data-ttu-id="4aa6e-107">Saiba mais sobre o Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="4aa6e-107">Learn more about Microsoft Flow</span></span>](https://go.microsoft.com/fwlink/?linkid=874446)
   
 
