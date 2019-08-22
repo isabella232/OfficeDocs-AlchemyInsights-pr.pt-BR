@@ -13,27 +13,30 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385600"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495019"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Adicionar assentos a uma assinatura pré-paga
 
-1. No centro de administração, vá para a página [assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) de **cobrança** \> .
+As licenças pré-paga do Office 365 são emitidas como um código alfanumérico de 25 caracteres. Após adquirir as licenças de que você precisa, você pode adicioná-las à sua assinatura. 
 
-2. Escolha a assinatura pré-paga à qual você gostaria de adicionar usuários.
+1. No centro de administração, vá para a página de serviços de **cobrança** > de[produtos &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-3. No menu **mais ações** , escolha renovar **ou adicionar licença com token**.
+2. Encontre a assinatura à qual você deseja adicionar licenças. Selecione a lista suspensa **mais ações** e, em seguida, escolha **renovar ou adicionar licença com token**.
 
-4. Selecione a opção **chave do produto (Product Key) nova e não usada** . (Se essa assinatura tiver sido criada com uma chave de produto comprada em um local de varejo, você poderá ter a opção de adicionar usuários com outros métodos de pagamento.)
+3. Na página **renovar ou adicionar licenças de usuário** , selecione **usar uma chave de produto nova e não usada**e, em seguida, selecione **Avançar**.
 
-5. Escolha **Avançar**.
+4. Insira a chave do produto e, em seguida, selecione **Avançar**.
 
-6. Insira a chave do produto e, em seguida, escolha **Avançar**.
+    > [!NOTE]
+    > Se você tem mais de uma chave de produto, selecione **Adicionar outra chave de produto** para inseri-las.
 
-7. Escolha a opção para adicionar mais usuários, escolha **Avançar**e, em seguida, escolha **resgatar**.
+5. Escolha Adicionar usuários à assinatura e, em seguida, selecione **Avançar**.
 
-Você está usando o novo centro de administração? Para novas etapas, consulte [adicionar licenças ou estender uma assinatura paga para usar uma chave do produto (Product Key](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key)).
+6. Revise os detalhes do pedido e, em seguida, selecione **resgatar**.
+
+Para obter mais informações, consulte [adicionar licenças ou estender uma assinatura paga para usar uma chave do produto (Product Key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)).

@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 0ce4879857f45378bdb95ccfac17d1ef96e30873
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 568fa4662c7d312583348981f80319aaefcf7290
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752820"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506827"
 ---
 # <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Solucionando problemas de cenários de atualização – erros de bloco
 
-Aguarde cerca de 10-15 minutos para que a atualização se reflita nos blocos do painel. Se ainda não estiver aparecendo, fixe novamente a visualização no painel.
+Se houver erros de atualização de bloco dentro do serviço do Power BI, aguarde cerca de 10-15 minutos para que a atualização seja refletida nos blocos de painel. Se ainda não estiver aparecendo, fixe novamente a visualização no painel.
 
 Para obter mais informações:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
