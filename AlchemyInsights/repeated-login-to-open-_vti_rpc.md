@@ -14,14 +14,14 @@ ms.custom:
 - "280"
 - "2200009"
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: 10cb6d9a791c20a2c87b80cc373b04b0514543e4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ef59ee1085bbd163eaa31845036619322038fa34
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356297"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36552242"
 ---
-# <a name="repeated-login-to-open-vtirpc"></a><span data-ttu-id="5e74f-102">Login repetido para abrir o _vti_rpc</span><span class="sxs-lookup"><span data-stu-id="5e74f-102">Repeated login to open _vti_rpc</span></span>
+# <a name="repeated-login-to-open-_vti_rpc"></a><span data-ttu-id="ef0db-102">Login repetido para abrir o _vti_rpc</span><span class="sxs-lookup"><span data-stu-id="ef0db-102">Repeated login to open _vti_rpc</span></span>
 
-<span data-ttu-id="5e74f-103">Ao trabalhar com arquivos do OneDrive usando o Office 2016, você poderá ver a mensagem: "Diga a conta que você deseja usar para abrir o _vti_rpc".</span><span class="sxs-lookup"><span data-stu-id="5e74f-103">When working on OneDrive files using Office 2016, you may see the message: "Tell us the account you want to use to open _vti_rpc."</span></span> <span data-ttu-id="5e74f-104">Esse problema foi corrigido na versão 1708 (16.0.8431.2094).</span><span class="sxs-lookup"><span data-stu-id="5e74f-104">This problem was fixed in version 1708 (16.0.8431.2094).</span></span> <span data-ttu-id="5e74f-105">Para corrigir isso, atualize para a versão mais recente do Office.</span><span class="sxs-lookup"><span data-stu-id="5e74f-105">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="5e74f-106">Selecione \*\*\*\* \> \*\*\*\* \> atualizar opções \> de **atualização** de conta de arquivo **agora**.</span><span class="sxs-lookup"><span data-stu-id="5e74f-106">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="ef0db-103">Ao trabalhar com arquivos do OneDrive usando o Office 2016, você poderá ver a mensagem: "Diga a conta que você deseja usar para abrir o _vti_rpc".</span><span class="sxs-lookup"><span data-stu-id="ef0db-103">When working on OneDrive files using Office 2016, you may see the message: "Tell us the account you want to use to open _vti_rpc."</span></span> <span data-ttu-id="ef0db-104">Esse problema foi corrigido na versão 1708 (16.0.8431.2094).</span><span class="sxs-lookup"><span data-stu-id="ef0db-104">This problem was fixed in version 1708 (16.0.8431.2094).</span></span> <span data-ttu-id="ef0db-105">Para corrigir isso, atualize para a versão mais recente do Office.</span><span class="sxs-lookup"><span data-stu-id="ef0db-105">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="ef0db-106">Selecione \*\*\*\* \> \*\*\*\* \> atualizar opções \> de **atualização** de conta de arquivo **agora**.</span><span class="sxs-lookup"><span data-stu-id="ef0db-106">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
