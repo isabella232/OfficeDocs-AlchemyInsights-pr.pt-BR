@@ -12,16 +12,16 @@ ms.custom:
 - "1332"
 - "3700002"
 ms.assetid: 383d1c77-5e4b-4a69-92d6-c404d890b6b7
-ms.openlocfilehash: 218a05a8d321b76dd07345ea48d6b3e158cc120e
-ms.sourcegitcommit: 77f704672b7c7de541899e25c022ff10c111e304
+ms.openlocfilehash: 901237d4dc7b99695097142c61a4bfef7c09750d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "36204048"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555761"
 ---
 # <a name="an-inbox-rule-doesnt-work-as-expected"></a>Uma regra de caixa de entrada não funciona como esperado
 
-Verifique as seguintes configurações:
+Verifique as seguintes configurações no Outlook na Web:
 
 - Uma mensagem pode ser redirecionada, encaminhada ou respondida automaticamente com base nas regras de caixa de entrada apenas uma vez. Uma regra de redirecionamento (uma regra de caixa de entrada ou regra de fluxo de emails, também conhecida como regra de transporte) pode adicionar no máximo dez destinatários de encaminhamento a uma mensagem. Para saber mais, confira [limites de regras de diário, transporte e caixa de entrada](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).
 
