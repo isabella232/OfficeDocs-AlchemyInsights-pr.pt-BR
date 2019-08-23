@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: f56ccb4998a90d490acd44e567b0c35f76ec9c2d
-ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
+ms.openlocfilehash: 0f358f34b0b458ddf7c030d521542f1c20ffb806
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "35001108"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556769"
 ---
-# <a name="insert-a-picture-in-an-email-message"></a><span data-ttu-id="8d2e7-102">Inserir uma imagem em uma mensagem de email</span><span class="sxs-lookup"><span data-stu-id="8d2e7-102">Insert a picture in an email message</span></span>
+# <a name="insert-a-picture-in-outlook-on-the-web"></a><span data-ttu-id="f1714-102">Inserir uma imagem no Outlook na Web</span><span class="sxs-lookup"><span data-stu-id="f1714-102">Insert a picture in Outlook on the web</span></span>
 
-<span data-ttu-id="8d2e7-103">Se você deseja adicionar uma imagem que é exibida no corpo do email, você pode adicionar uma imagem embutida.</span><span class="sxs-lookup"><span data-stu-id="8d2e7-103">If you want to add an image that displays in the body of your email, you can add an inline image.</span></span>
+<span data-ttu-id="f1714-103">Se você deseja adicionar uma imagem que é exibida no corpo do email, você pode adicionar uma imagem embutida.</span><span class="sxs-lookup"><span data-stu-id="f1714-103">If you want to add an image that displays in the body of your email, you can add an inline image.</span></span>
 
-1. <span data-ttu-id="8d2e7-104">Selecione o ícone **inserir imagens em linha** na parte inferior do painel redação.</span><span class="sxs-lookup"><span data-stu-id="8d2e7-104">Select the **Insert pictures inline** icon at the bottom of the compose pane.</span></span>
-1. <span data-ttu-id="8d2e7-105">Navegue até o local da imagem no computador, selecione-o e, em seguida, selecione **abrir**.</span><span class="sxs-lookup"><span data-stu-id="8d2e7-105">Browse to the location of the picture on your computer, select it, and then select **Open**.</span></span>
+1. <span data-ttu-id="f1714-104">Selecione o botão</span><span class="sxs-lookup"><span data-stu-id="f1714-104">Select the</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAUCAYAAAB4d5a9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wgCFhkMTGB6NwAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABaElEQVQ4je3VoavCUBTH8e/Gyq37F4RVNYlJ/wGrYcmg5cLAur/ANATFtQuaBJNNq2hWMBgE89pkQRYMe+nJe0+dzofl8X7xcDgf7j3haEmSJLw5+ruBv4UYPwuu6/56aKfTSUfCMERKiRAi8/A4jvF9/6p+hQDk8/nMQFoe7mQ8HrPf71N7ZrPZ64hSisPhgO/7qVAul3sNUUoRBAHNZhMpZSpkWVZ2ZDAYEAQBtm3T7/dZr9d3ocVikQrAncUfj0ds20YpRRRFrFYrNE27QFJKLMvCdV3CMASgUqlkQ1qtFr1ejyiKLrXlcglwgYQQFItFSqUS3W6XJEmoVqs3kZvfdTqdvgFfoc1mg5SSOI4pl8tst1scx2E6nTKfz59H0vIV8jyPQqHAbrfDcZy7yM3vOp/PtNvtVMwwDGq1Gp7n0Wg00HWder3OaDR6jJimyXA4fOZRAAghmEwmfJ4l0zSverT/o5UlH9oIn0RVbZJVAAAAAElFTkSuQmCC' /> <span data-ttu-id="f1714-105">**Inserir imagens embutidas** na parte inferior do painel de composição.</span><span class="sxs-lookup"><span data-stu-id="f1714-105">**Insert pictures inline** at the bottom of the compose pane.</span></span>
+1. <span data-ttu-id="f1714-106">Navegue até o local da imagem no computador, selecione-o e, em seguida, selecione **abrir**.</span><span class="sxs-lookup"><span data-stu-id="f1714-106">Browse to the location of the picture on your computer, select it, and then select **Open**.</span></span>
 
-<span data-ttu-id="8d2e7-106">Para saber mais sobre outras maneiras de personalizar sua mensagem, confira [personalizar sua mensagem de email no Outlook na Web](https://support.office.com/article/079442eb-6b41-4ff5-b6e0-a83d3967ac41).</span><span class="sxs-lookup"><span data-stu-id="8d2e7-106">To learn about other ways to personalize your message, see [Customize your email message in Outlook on the web](https://support.office.com/article/079442eb-6b41-4ff5-b6e0-a83d3967ac41).</span></span>
+<span data-ttu-id="f1714-107">Para saber mais sobre outras maneiras de personalizar sua mensagem, confira [personalizar sua mensagem de email no Outlook na Web](https://support.office.com/article/079442eb-6b41-4ff5-b6e0-a83d3967ac41).</span><span class="sxs-lookup"><span data-stu-id="f1714-107">To learn about other ways to personalize your message, see [Customize your email message in Outlook on the web](https://support.office.com/article/079442eb-6b41-4ff5-b6e0-a83d3967ac41).</span></span>
