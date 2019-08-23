@@ -13,20 +13,20 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 9a88c1e0d66eaff5fe942de55cf2c2c3525b5602
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e654137489609da2273d199b4eedb9227c7db011
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355361"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549927"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Verificar as configurações de encaminhamento de email de uma caixa de correio
 
-É fácil verificar as configurações de encaminhamento de email em uma caixa de correio! Basta seguir estas etapas.
+É fácil verificar as configurações de encaminhamento de email em uma caixa de correio do Office 365! Basta seguir estas etapas.
   
-> Se esta for uma caixa de correio de usuário, vá para usuários **ativos** do **usuários** \> e selecione o usuário que é a caixa de correio que você está encaminhando. Em configurações de email, escolha **Editar** para encaminhamento de email.
+> Se esta for uma caixa de correio de usuário, vá para usuários **ativos** do **usuários** \> e selecione o usuário que é a caixa de correio que você está encaminhando. Na guia **email** , selecione **gerenciar encaminhamento de email**.
     
-> Se esta for uma caixa de correio compartilhada, vá para **grupos** \> de **caixas de correio** compartilhadas e selecione a caixa de correio compartilhada que você está encaminhando. Escolha **Editar** para encaminhamento de email.
+> Se esta for uma caixa de correio compartilhada, vá para **grupos** \> de **caixas de correio** compartilhadas e selecione a caixa de correio compartilhada que você está encaminhando. Editar **edição** para encaminhamento de email.
 
 Para obter mais detalhes, consulte [Configurar o encaminhamento de email no Office 365](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74).
   
