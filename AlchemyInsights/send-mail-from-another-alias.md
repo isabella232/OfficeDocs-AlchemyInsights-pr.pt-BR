@@ -13,12 +13,12 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 97191c9d0f267935485ccbdeaf5243c3b4e12a97
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c84e56a7b8077698f20ca269218f684fba23f191
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388372"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551511"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>Enviar email de um alias ou endereço secundário
 
@@ -26,4 +26,4 @@ No momento, o Office 365 não dá suporte ao envio de email de um alias ou ender
   
 - [Vá aqui para criar uma caixa de correio compartilhada](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-Você também pode ler o artigo [criar uma caixa de correio compartilhada](https://docs.microsoft.com/en-us/office365/admin/email/create-a-shared-mailbox) , que lhe dirá tudo o que você precisa saber sobre caixas de correio compartilhadas, incluindo como usá-las.
+Você também pode ler o artigo [criar uma caixa de correio compartilhada](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) , que lhe dirá tudo o que você precisa saber sobre caixas de correio compartilhadas, incluindo como usá-las.
