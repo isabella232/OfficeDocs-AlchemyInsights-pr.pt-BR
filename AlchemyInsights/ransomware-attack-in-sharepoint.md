@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: 2dc5a497fdb59acb58068e2db3f25293ee63995f
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 3ebb86895c65e1acd91d552ad28b8d5a44ef8335
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36269472"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553384"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ataque de ransomware no SharePoint ou no OneDrive
 
@@ -36,12 +36,12 @@ Para obter mais informações sobre como restaurar, consulte:
 - [Restaurar uma biblioteca de documentos](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&rs=en-US&ad=US)
 
 Para obter mais informações sobre a proteção avançada contra ameaças (ATP), consulte:
-- [ATP para SharePoint, OneDrive e Teams](https://docs.microsoft.com/en-us/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [Modos de exibição do Gerenciador de ameaças](https://docs.microsoft.com/en-us/office365/securitycompliance/threat-explorer-views)
+- [ATP para SharePoint, OneDrive e Teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [Modos de exibição do Gerenciador de ameaças](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
 Informações adicionais:
 
-- [Detecção de vírus no SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/virus-detection-in-spo)</br>
-- [Criptografia de dados no ODB e no SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [Detecção de vírus no SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
+- [Criptografia de dados no ODB e no SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
 - [Detecção de ransomware e recuperação de arquivos](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [Gerenciador de ameaças e detecções em tempo real](https://docs.microsoft.com/en-us/office365/securitycompliance/threat-explorer-views)
+- [Gerenciador de ameaças e detecções em tempo real](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)

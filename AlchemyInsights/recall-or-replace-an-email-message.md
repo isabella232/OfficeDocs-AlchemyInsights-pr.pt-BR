@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356585"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553420"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Cancelar ou substituir uma mensagem de email
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Cancelar ou substituir uma mensagem de email no Office 365
 
 - Você **só pode recuperar mensagens que são enviadas para pessoas em sua organização**. Se a mensagem foi enviada para um endereço do Gmail, por exemplo, não é possível recuperá-la.
 - Você pode **apenas recuperar mensagens enviadas do Outlook 2016 para o PC**. Se um usuário enviar uma mensagem usando o Outlook para Mac ou o Outlook na Web, você não poderá recuperá-la.
 - Se você for um administrador, poderá **recuperar mensagens em nome dos usuários usando o PowerShell**. Não é possível recuperar mensagens do centro de administração. Role para baixo até "procurar e excluir mensagens de email em sua organização" para obter mais informações.
 
-***Cancelar ou substituir uma mensagem de email enviada***
+**Cancelar ou substituir uma mensagem de email enviada**
 
 1. No painel de pastas à esquerda da janela do Outlook, escolha a pasta Itens enviados.
 2. Abra a mensagem que você deseja cancelar. Você deve clicar duas vezes para abrir a mensagem. Selecionar a mensagem para que ela apareça no painel de leitura não permite que você relembre a mensagem.

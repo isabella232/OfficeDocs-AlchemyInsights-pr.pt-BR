@@ -13,25 +13,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: ddc8e78f7f56110b11521f60d9c68e6fae241f5e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388444"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553564"
 ---
-# <a name="question-about-licenses"></a>Pergunta sobre licenças
+# <a name="questions-about-your-office-365-license"></a>Perguntas sobre sua licença do Office 365
 
 Se quiser saber quantas licenças você comprou ou quantas licenças são atribuídas a uma assinatura:
   
-1. No centro de administração, vá para a página [assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) de **cobrança** \> .
+1. No centro de administração, vá para a página de serviços de **cobrança** \> de [produtos &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Escolha a assinatura sobre a qual você deseja saber mais.
+2. Sob o nome da assinatura que você deseja saber mais, é possível ver o número de licenças que você está pagando e quantos estão disponíveis para serem atribuídas.
 
-3. No lado esquerdo do cartão de assinatura estão informações sobre suas licenças:
-
-  - O número **comprado** é o número de licenças que você está pagando.
-
-  - O número **atribuído** é o número de licenças atribuídas a um usuário.
-
-4. Se quiser adicionar mais licenças, ou se houver muitas, escolha **Adicionar/remover licenças** para ajustar o valor comprado.
+Se quiser adicionar mais licenças, ou se houver muitas, escolha **Adicionar/remover licenças** para ajustar o valor comprado.

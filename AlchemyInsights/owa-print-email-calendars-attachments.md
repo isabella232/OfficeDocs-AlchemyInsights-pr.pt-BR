@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 3f5ce5dbd9307aae9fc497f501d1da9194c45ff9
-ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
+ms.openlocfilehash: bf4ae61907e2a179bba39edb4f8eb05608e00907
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36171275"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556697"
 ---
 # <a name="print-email-calendars-and-attachments"></a>Imprimir email, calendários e anexos
 
-Para imprimir uma mensagem de email:
+Para imprimir uma mensagem de email no Outlook na Web:
   
 1. Selecione a mensagem que você deseja imprimir.
 1. No canto superior direito da mensagem, selecione os três pontos e selecione **Imprimir**.
