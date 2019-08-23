@@ -13,14 +13,14 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: fbdbdec10ddc5724122c02ad1350c11aaf63867e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 74cec40931491a9194252dd44894c602b3c849cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388660"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555257"
 ---
-# <a name="payment-options"></a>Opções de pagamento
+# <a name="payment-options-for-office-365-for-business-subscriptions"></a>Opções de pagamento para assinaturas do Office 365 para empresas.
 
 **Opções de pagamento**
   
@@ -30,7 +30,7 @@ Cartão de crédito, conta bancária (débito direto) e fatura (pagamento por ch
   
 Ao pagar com cartão de crédito ou conta bancária, você será cobrado automaticamente pela sua assinatura no dia seguinte à data da fatura, até o final do período da assinatura. Você pode [atualizar suas informações de cartão de crédito ou conta bancária](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) sempre que precisar. Você também pode optar por [Receber uma cópia do seu demonstrativo por email](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
   
-Se seu cartão de crédito tiver sido recusado ou tiver um saldo vencido, você poderá escolher a opção **Pagar agora**, na página **Cobrança** \> [Assinaturas](https://portal.office.com/adminportal/home#/subscriptions).
+Se seu cartão de crédito tiver sido recusado ou tiver um saldo devedor não pago, você poderá escolher a opção **Pagar agora**, na página **Cobrança** \> [Produtos & serviços](https://portal.office.com/adminportal/home#/subscriptions).
   
 **Pagar por fatura (cheque ou transferência eletrônica de fundos)**
   
