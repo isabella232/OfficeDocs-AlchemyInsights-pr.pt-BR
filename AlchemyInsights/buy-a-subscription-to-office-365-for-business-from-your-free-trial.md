@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: e6681268c3932fd96cb05ffd41149c890f37c6c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7d1624fdf71c33f8f04e2dc5e8f02f5ca74881e1
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517991"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575720"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Comprar uma assinatura do Office 365 a partir da sua avaliação gratuita
 
@@ -36,4 +36,4 @@ ou **você pode comprar uma assinatura diferente**
 
 3. Encontre a assinatura que você deseja comprar, selecione **comprar**e siga as etapas para fazer o check-out.
 
-Confira mais informações em [Comprar uma assinatura do Office 365 para empresas por meio da avaliação gratuita](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Você está usando o centro de administração antigo? Para obter as etapas antigas ou saber mais, confira [comprar uma assinatura para o Office 365 for Business em sua avaliação gratuita](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).

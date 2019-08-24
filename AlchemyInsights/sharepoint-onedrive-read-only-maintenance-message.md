@@ -12,18 +12,24 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840503"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620711"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Somente leitura para mensagem de manutenção ao tentar usar o SharePoint ou o OneDrive
 
-Os usuários podem receber uma mensagem **somente leitura para manutenção** ao tentar usar o SharePoint ou o onedrive.  Em caso afirmativo, verifique se há manutenção ativa ocorrendo no locatário, navegando até o [centro de mensagens](https://portal.office.com/adminportal/home#/MessageCenter). Além disso, certifique-se de verificar o painel de [integridade do serviço](https://portal.office.com/adminportal/home#/servicehealth) para verificar se há avisos/incidentes que podem ocorrer.
+Os usuários podem receber uma mensagem **somente leitura para manutenção** ao tentar usar o SharePoint ou o onedrive para um dos cenários a seguir. 
 
-Se o centro de mensagens ou o painel de integridade do serviço tiver observado algo sobre a manutenção atual para o seu locatário, isso pode ser um problema de cache do navegador.
+-   Uma atividade de manutenção planejada ou ativa.  Verifique se eles navegam para o [centro de mensagens](https://portal.office.com/adminportal/home#/messagecenter).
+-   Um incidente de serviço ativo de alta prioridade que pode ocorrer. Verifique se há avisos/incidentes navegando até a [integridade do serviço](https://portal.office.com/adminportal/home#/servicehealth).
+-   Um cenário de recuperação de reparo automático secundário que pode ocorrer devido a qualquer evento inesperado nos servidores que podem durar menos de 30 min. 
+    
+    Não há postagens do centro de mensagens ou da integridade do serviço para essas pequenas recuperações, mas você deve voltar para o normal em breve.
+
+Em muito poucas ocasiões observamos que um dos três cenários listados acima tem sido a causa, e o serviço foi restaurado, mas o cache do navegador do usuário não foi apagado.
 
 Tente limpar o cache do navegador antes de navegar até o site.
 
