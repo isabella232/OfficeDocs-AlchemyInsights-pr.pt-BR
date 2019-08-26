@@ -13,12 +13,12 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539917"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574750"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Como reativar uma assinatura
 
@@ -26,10 +26,10 @@ Quando a sua assinatura expira, é cancelada ou desabilitada pela Microsoft, é 
   
 1. No centro de administração, acesse a página **Cobrança** \> [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Em **Cobrança**, ao lado de**Renovar em**ou **Expirando em**, selecione **Editar**.
+2. Localize a assinatura que você deseja reativar. Na seção **Cobrança**, escolha **Reativar**.
 
-3. No painel **Configurações de cobrança recorrente**, selecione a opção desejada.  Se a cobrança recorrente já estiver desabilitada, selecione **Mensalmente** ou**Uma vez** para habilitá-la.
+    Se não aparecer **Reativar** como uma ação disponível, ligue para o suporte para reativar sua assinatura.
 
-4. Selecione **Enviar alteração**.
+3. Insira seus detalhes de pagamento. Você pode atualizar suas informações de pagamento existentes aqui. Ao terminar de inserir o método de pagamento, escolha **Reativar**.
 
-Para mais informações, confira: [Renovar a assinatura do Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Você está usando o Centro de administração antigo? Para obter as etapas antigas ou para saber mais, consulte [Reativar sua assinatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
