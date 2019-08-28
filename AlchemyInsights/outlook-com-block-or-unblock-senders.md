@@ -15,20 +15,21 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: d4daf97aa7d082906000a48d2fd542a70e8cdc8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
+ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537864"
+ms.lasthandoff: 08/27/2019
+ms.locfileid: "36643682"
 ---
 # <a name="block-or-unblock-senders"></a>Bloquear ou desbloquear remetentes
 
-As mensagens de endereços de email ou domínios nos remetentes bloqueados vão diretamente para a pasta lixo eletrônico. O email é removido automaticamente da pasta lixo eletrônico após 14 dias e não é recuperável.
+As mensagens de endereços de email ou domínios nos remetentes bloqueados vão diretamente para a pasta lixo eletrônico. O email é removido automaticamente da pasta lixo eletrônico após 30 dias e não é recuperável. Se; um item para ver quando ele será removido.
 
 **Na caixa de entrada:**
 
 - Na lista de mensagens, selecione a mensagem e selecione**bloco**de **lixo eletrônico** > .
+- **Observação:** Bloquear um item já em sua pasta lixo eletrônico não o excluirá.
 
 **De configurações:**
 
