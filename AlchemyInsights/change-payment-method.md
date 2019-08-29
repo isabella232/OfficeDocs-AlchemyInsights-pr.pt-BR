@@ -3,7 +3,6 @@ title: Alterar a forma de pagamento
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: d4e4548ab943ffdbe1117f333c64f2c95a5985da
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d89cb375475bfaff1f3a3a34ff7cefb9d9d42d5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519215"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665318"
 ---
 # <a name="change-payment-method"></a>Alterar a forma de pagamento
 
-Você pode verificar a forma de pagamento configurada no centro de administração do Microsoft 365. Escolha a assinatura que você deseja verificar. A forma de pagamento configurada para a assinatura aparece sob **cobrança**. 
+Você pode verificar e alterar a forma de pagamento configurada no centro de administração do Microsoft 365. Escolha a assinatura que você deseja verificar. A forma de pagamento configurada para a assinatura aparece sob **cobrança**. 
   
 1. No centro de administração, vá para a página de serviços de **cobrança** \> de [produtos &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
@@ -30,4 +29,4 @@ Você pode verificar a forma de pagamento configurada no centro de administraç�
 
 3. Siga as etapas na tela para concluir a alteração.
 
-Para obter instruções passo a passo, consulte: [alterar sua forma de pagamento para o Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
+Você está usando o centro de administração antigo? Para obter as etapas antigas ou saber mais, confira [alterar sua forma de pagamento para o Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)

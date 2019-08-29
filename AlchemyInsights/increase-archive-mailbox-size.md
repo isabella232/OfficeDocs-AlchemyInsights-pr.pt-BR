@@ -3,25 +3,24 @@ title: 305 aumentar o tamanho da caixa de correio de arquivo morto
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 28086145d8769bd06ef6352257a820146c5f237d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391105"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661788"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Aumentar o tamanho da caixa de correio de arquivo morto
 
 O Office 365 [limita](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) o tamanho das caixas de correio de arquivo morto com base na licença atribuída à conta de usuário. Quando a caixa de correio de arquivo morto alcança 90% de seu tamanho permitido, o usuário recebe uma notificação por email. Quando uma caixa de correio de arquivo morto atinge seu limite de tamanho, o usuário não pode mover mais itens para a caixa de correio de arquivo morto. O Office 365 não aumentará o tamanho de uma caixa de correio de arquivo morto quando o limite de tamanho for atingido. Em vez disso, os usuários podem executar as seguintes ações para liberar espaço na caixa de correio de arquivo morto:
 
-- Exportar os itens para um arquivo. pst usando o Outlook
+- Exporte os itens para um arquivo. pst usando o Outlook.
 
 - Excluir itens da caixa de correio de arquivo morto.
 

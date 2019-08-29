@@ -3,7 +3,6 @@ title: Como adicionar ou reduzir licenças
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 64a7566ff4e1759e8687179d49bac47f7e28bf6a
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574930"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664272"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Como adicionar ou reduzir licenças
 
-Confira aqui como remover ou comprar mais licenças do Office 365.
+Confira aqui como remover licenças do Office 365 ou adquirir mais licenças.
   
 1. No centro de administração, vá para a página de serviços de **cobrança** \> de [produtos &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
@@ -39,7 +38,7 @@ Confira aqui como remover ou comprar mais licenças do Office 365.
 > [!NOTE]
 > Qualquer nova cobrança (aumento da licença) ou crédito (redução da licença) aparecerá na sua próxima lista.
 
-Você está usando o centro de administração antigo? Para obter as etapas antigas ou obter mais informações, consulte [comprar licenças para sua assinatura do Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Para saber mais, veja [comprar licenças para sua assinatura do Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
  **Recursos adicionais**
   

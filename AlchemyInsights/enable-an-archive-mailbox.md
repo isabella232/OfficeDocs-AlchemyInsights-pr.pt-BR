@@ -2,7 +2,6 @@
 title: Habilitar uma caixa de correio de arquivo morto
 ms.author: markjjo
 author: markjjo
-ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 9007c4ee7484cb6fdf80e76c08720a5723bfa20a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f7b18ebd330c764c73a8f760a0d837686b9c5c72
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527783"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665101"
 ---
 # <a name="enable-an-archive-mailbox"></a>Habilitar uma caixa de correio de arquivo morto
 
-As caixas de correio de arquivo morto no Office 365 (também chamadas de *arquivos online* ) fornecem aos usuários um armazenamento de email adicional. Os usuários podem mover ou copiar itens para a caixa de correio de arquivo morto, e os administradores podem criar uma política de arquivamento que move automaticamente itens para caixas de correio de arquivo morto.
+As caixas de correio de arquivo morto no Office 365 (também chamadas de *arquivos online*) fornecem aos usuários um armazenamento de email adicional. Os usuários podem mover ou copiar itens para a caixa de correio de arquivo morto, e os administradores podem criar uma política de arquivamento que move automaticamente itens para caixas de correio de arquivo morto.
   
 Confira aqui como criar uma caixa de correio de arquivo morto:
   
@@ -28,13 +27,13 @@ Confira aqui como criar uma caixa de correio de arquivo morto:
 
 2. Entre no Office 365 usando sua conta de administrador.
 
-3. No painel esquerdo do centro de conformidade &amp; de segurança, clique em arquivamento de **governança** \> **** de dados.
+3. No painel esquerdo do centro de conformidade &amp; de segurança, selecione **** \> **arquivamento**de governança de dados.
 
 4. Selecione o usuário cuja caixa de correio de arquivo morto você deseja habilitar.
 
-5. No painel de detalhes à direita, clique em **habilitar** e, em seguida, clique em **Sim** na mensagem de aviso para habilitar a caixa de correio de arquivo morto.
+5. No painel de detalhes à direita, selecione **habilitar** e, em seguida, selecione **Sim** na mensagem de aviso para habilitar a caixa de correio de arquivo morto.
 
-Você também pode habilitar as caixas de correio de arquivo morto em massa, selecionando vários usuários (usando as teclas **Shift** ou **Ctrl** ) e clicando em **habilitar** no painel de detalhes.
+Você também pode habilitar as caixas de correio de arquivo morto em massa, selecionando vários usuários (usando as teclas **Shift** ou **Ctrl** ) e, em seguida, selecionando **habilitar** no painel de detalhes.
   
 Para obter mais informações, consulte:
   

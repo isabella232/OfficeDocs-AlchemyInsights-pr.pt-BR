@@ -3,7 +3,6 @@ title: Reativar uma assinatura
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 865241f1595de5ebaa3136cbb8b65c66c5330708
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553348"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666576"
 ---
 # <a name="reactivate-an-office-365-subscription"></a>Reativar uma assinatura do Office 365
 
@@ -32,4 +31,4 @@ Se sua assinatura expirar, tiver sido desabilitada pela Microsoft ou cancelada n
 
 3. Confirme seus detalhes de pagamento. Você pode atualizar suas informações de pagamento existentes aqui. Quando tiver terminado de inserir sua forma de pagamento, **** selecione reativar.
 
-Para obter mais informações, consulte [reativar sua assinatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Para saber mais, confira [reativar sua assinatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

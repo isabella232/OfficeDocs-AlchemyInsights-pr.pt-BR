@@ -3,7 +3,6 @@ title: Como atribuir uma licença a um usuário
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 142a0ada8caa410228562aad4549a5d75b313b7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 418d7f7d0c3ea8a64e9a635872b954f51808b6f5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522455"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664236"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Como atribuir uma licença a um usuário
 
@@ -34,4 +33,4 @@ Um usuário precisa de uma licença do Office 365 para ter acesso aos serviços.
 
 4. Na parte inferior do painel, escolha **salvar alterações**.
 
-Para obter mais informações, consulte [atribuir licenças aos usuários no office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)e [remover licenças de usuários no Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+Para obter mais informações, consulte [assign licenses to Users](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)e [Remove licenses from Users](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).

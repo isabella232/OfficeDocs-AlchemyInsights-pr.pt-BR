@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 4400fa666e0f4485286793a8703f82606702e6cf
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 3aecd74ad35c7c9cfc799cc73434e57065f09fdf
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576044"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665496"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>Cancelar sua assinatura do Office 365?
 
@@ -28,4 +28,4 @@ Lamentamos ver você, mas aqui estão suas opções para cancelar sua assinatura
 
 - Se você tiver mais de 25 licenças atribuídas, poderá remover os usuários até menos de 25 ou usar a opção "Deixe-nos chamar você" para falar com um engenheiro de suporte.
 
-Você está usando o centro de administração antigo? Para obter as etapas antigas ou saber mais, confira [cancelar sua assinatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Para saber mais, confira [cancelar sua assinatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

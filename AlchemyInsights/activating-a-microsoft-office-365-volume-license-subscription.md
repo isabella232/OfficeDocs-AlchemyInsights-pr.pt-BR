@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: bd83dc5bbab9fb39abb751246795cd7d7895ce2b
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574458"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661176"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Ativando uma assinatura de licença de volume do Microsoft Office 365
 
@@ -30,6 +30,6 @@ ms.locfileid: "36574458"
 
 4. O email de ativação oferecerá duas opções: inscrever- **se**ou **entrar**. Se você já criou uma avaliação, escolha **entrar**. Se você ainda não tiver um locatário do Office 365, escolha **inscrever-** se.
 
-5. Entre no Office 365 ([https://portal.office.com](https://portal.office.com)) usando suas credenciais de administrador do Office 365 existentes. Após entrar com êxito, você receberá outro email confirmando sua compra.
+5. Entre no centro de administração do Microsoft 365 ([https://admin.microsoft.com](https://admin.microsoft.com)) usando suas credenciais de administrador do Office 365 existentes. Após entrar com êxito, você receberá outro email confirmando sua compra.
 
 6. Depois de entrar, você pode ir para a página de **** \> [produtos de &](https://go.microsoft.com/fwlink/p/?linkid=842054) de cobrança para verificar se suas assinaturas do Office 365 adquiridas estão ativadas no seu locatário. (Você também pode escolher a guia **assinatura** no VLSC para exibir detalhes, verificando se sua assinatura foi depositada.)

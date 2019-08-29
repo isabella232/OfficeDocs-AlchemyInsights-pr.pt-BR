@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574530"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663948"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Como reativar e gerenciar a cobrança recorrente
 
@@ -32,7 +32,7 @@ Parece que você tem uma assinatura que expirou. Se você quiser reativá-lo, co
 
 3. Confirme seus detalhes de pagamento. Você pode atualizar suas informações de pagamento existentes aqui. Quando tiver terminado de inserir sua forma de pagamento, **** selecione reativar.
 
-Você está usando o centro de administração antigo? Para obter as etapas antigas ou obter mais informações, consulte [reativar sua assinatura](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Para saber mais, confira [reativar sua assinatura](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Para gerenciar cobranças mensais ou anuais, você pode ativar ou desativar a **cobrança recorrente** .
   
@@ -46,4 +46,4 @@ Para gerenciar cobranças mensais ou anuais, você pode ativar ou desativar a **
 
 5. Selecione **Enviar alteração**.
 
-Você está usando o centro de administração antigo? Para obter as etapas antigas ou para saber mais, confira [Ativar ou desativar a cobrança recorrente](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Para saber mais, confira [Ativar ou desativar a cobrança recorrente](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

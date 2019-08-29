@@ -3,7 +3,6 @@ title: 606 informações sobre delegação
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +12,24 @@ ms.custom:
 - "606"
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 7a4d3104072919a604ce828f95d59a7d1412a7b7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a59ea7fd995fa05179f70ae3a82268363145f3af
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499087"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661716"
 ---
 # <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Solucionando problemas de delegação no Outlook e no Outlook na Web
 
 **Solução de problemas com a ferramenta SaRA:**
 
-1. Baixe e instale a ferramenta SaRA aqui
-1. Selecione Outlook e, em seguida, "Estou tendo problemas com meu calendário"
-1. Diga sim para a máquina afetada
-1. Adicionar o endereço de email do usuário afetado
-1. Selecione "Estou tendo problemas com permissões de representante"
+1. Baixe e instale a ferramenta SaRA [aqui](https://aka.ms/SaRA-SkypeForBusinessSignIn).
+1. Selecione **Outlook**e, em seguida, **estou tendo problemas com meu calendário**.
+1. Diga **Sim** para a máquina afetada.
+1. Adicione o endereço de email do usuário afetado.
+1. Selecione **estou tendo problemas com permissões de representante**.
 1. No próximo prompt, se você for a pessoa que está concedendo permissões, insira o endereço de email do seu representante. Se você recebeu permissões e você é o representante, insira o endereço de email da pessoa que deu as permissões.
 1. No menu seguinte, selecione a opção adequada ao seu cenário.
 1. No menu seguinte, selecione o nível de permissão.
 1. Neste estágio, a ferramenta SaRA executará verificações automatizadas e fornecerá a você a possível solução ou, como alternativa, fornecerá um log de diagnóstico que pode ser usado para a solução de problemas.
-1. Você pode encontrar os logs na pasta de resultados de SaRA, localizada em C:\Users\Username\AppData\Local\SaraResults
+1. Você pode encontrar os logs na pasta de resultados de SaRA, localizada em C:\Users\Username\AppData\Local\SaraResults.

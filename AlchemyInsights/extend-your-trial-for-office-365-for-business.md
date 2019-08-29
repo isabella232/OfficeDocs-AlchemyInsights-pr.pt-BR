@@ -3,7 +3,6 @@ title: Estender a avaliação do Office 365 para empresas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 52e65c95ec8ac0176d30ae8a13a62ba843fbcf34
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575612"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664992"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Estender a avaliação do Office 365 para empresas
 
@@ -32,4 +31,4 @@ Se sua assinatura de avaliação estiver dentro de 15 dias após a expiração e
 
 4. Você precisa fornecer informações de cartão de crédito para estender a avaliação. Não cobraremos seu cartão de crédito pela extensão de avaliação.
 
-Você está usando o centro de administração antigo? Para obter as etapas antigas ou saber mais, veja [estender a avaliação do Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Para saber mais, veja [estender a avaliação do Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).

@@ -13,12 +13,12 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 74d558db780958ea5d5fa56382e852b8684e550a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501353"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666000"
 ---
 # <a name="subscription-recurring-billing"></a>Cobrança recorrente de assinatura
 
@@ -30,4 +30,4 @@ Se você quiser saber quando a sua assinatura mensal ou anual do Office 365 ser�
 
 4. Para fazer uma alteração, selecione **Editar** e, em seguida, no painel configurações de **cobrança recorrente** , selecione **desativar** para desativá-la. Se a cobrança recorrente já estiver desativada, **** selecione mensalmente ou **uma vez** para ativá-la.
 
-Para obter mais informações, consulte [Ativar ou desativar a cobrança recorrente](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Para saber mais, confira [Ativar ou desativar a cobrança recorrente](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
