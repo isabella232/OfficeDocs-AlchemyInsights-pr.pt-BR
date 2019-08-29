@@ -2,7 +2,6 @@
 title: Criar e usar uma caixa de correio compartilhada
 ms.author: dianef
 author: dianef77
-ms.date: 4/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +10,18 @@ ms.assetid: ac4188c0-a4f3-4852-9ed4-075ea684423c
 ms.common:
 - "358"
 - "3500003"
-ms.openlocfilehash: a90da38059c9ce37f60b1addb622a1b56116d9c9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c9d6789b3e6ea438656bb10ff81e19ef9e77aa7d
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515615"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665317"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a><span data-ttu-id="effa0-102">Criar e usar uma caixa de correio compartilhada</span><span class="sxs-lookup"><span data-stu-id="effa0-102">Create and use a shared mailbox</span></span>
+# <a name="create-and-use-a-shared-mailbox"></a><span data-ttu-id="c3eb5-102">Criar e usar uma caixa de correio compartilhada</span><span class="sxs-lookup"><span data-stu-id="c3eb5-102">Create and use a shared mailbox</span></span>
 
-<span data-ttu-id="effa0-103">Uma caixa de correio compartilhada permite que mais de uma pessoa envie e receba emails para um alias, como o sales@contoso.com, sem atribuir outra licença.</span><span class="sxs-lookup"><span data-stu-id="effa0-103">A shared mailbox lets more than one person send and receive email for an alias, like sales@contoso.com, without assigning another license.</span></span>
+<span data-ttu-id="c3eb5-103">Uma caixa de correio compartilhada permite que mais de uma pessoa envie e receba emails para um alias, como o sales@contoso.com, sem atribuir outra licença.</span><span class="sxs-lookup"><span data-stu-id="c3eb5-103">A shared mailbox lets more than one person send and receive email for an alias, like sales@contoso.com, without assigning another license.</span></span>
   
-- [<span data-ttu-id="effa0-104">Vá aqui para começar</span><span class="sxs-lookup"><span data-stu-id="effa0-104">Go here to get started</span></span>](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
+- <span data-ttu-id="c3eb5-104">[Siga estas etapas](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) no centro de administração do Microsoft 365 para começar.</span><span class="sxs-lookup"><span data-stu-id="c3eb5-104">[Follow these steps](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) in the Microsoft 365 admin center to get started.</span></span> 
 
-<span data-ttu-id="effa0-105">Você também pode ler o artigo [criar uma caixa de correio compartilhada](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) , que lhe dirá tudo o que você precisa saber sobre caixas de correio compartilhadas, incluindo como usá-las.</span><span class="sxs-lookup"><span data-stu-id="effa0-105">You can also read the [Create a shared mailbox](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) article which will tell you everything you need to know about shared mailboxes, including how to use them.</span></span>
+<span data-ttu-id="c3eb5-105">Você também pode ler o artigo [criar uma caixa de correio compartilhada](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) , que lhe dirá tudo o que você precisa saber sobre caixas de correio compartilhadas, incluindo como usá-las.</span><span class="sxs-lookup"><span data-stu-id="c3eb5-105">You can also read the [Create a shared mailbox](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) article, which will tell you everything you need to know about shared mailboxes, including how to use them.</span></span>
   
