@@ -2,7 +2,6 @@
 title: Etapas recomendadas a serem tomadas se uma conta for comprometida
 ms.author: pebaum
 author: pebaum
-ms.date: 10/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,12 +9,12 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 71ccb6c4bd3c9f3d229a391f820df72e2d01ee37
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 6c18059616c0900f330e0cdb5d1076ff28a5b76c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35904178"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666540"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Etapas recomendadas a serem tomadas se uma conta for comprometida
 
@@ -27,7 +26,7 @@ ms.locfileid: "35904178"
 
 3. Remova todas as [regras de caixa de entrada](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED) suspeitas definidas na caixa de correio.
 
-4. Se o usuário estiver impedido de enviar emails, [acesse Usuários Restritos para desbloquear a conta](https://protection.office.com/?hash=/restrictedusers). Depois de concluído, o usuário poderá retomar o envio de mensagens em até 1 hora.
+4. Se o envio de emails da conta do usuário foi bloqueado, [acesse Usuários Restritos para desbloquear a conta](https://protection.office.com/?hash=/restrictedusers). Depois de concluído, o usuário poderá retomar o envio de mensagens em até 1 hora.
 
 5. Remova a conta de usuário de quaisquer [grupos de funções administrativas](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504) até ter certeza de que a conta não está mais comprometida.
 
