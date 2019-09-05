@@ -11,12 +11,12 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 6c936c18a63f1f1938d8f3fdafbacfc87d804408
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a467cc5deea6ae3a6f12832d238928daf4800039
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541194"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739553"
 ---
 # <a name="how-to-disable-external-groups"></a>Como desabilitar grupos externos
 
@@ -30,5 +30,5 @@ Os usuários externos podem acessar sua rede no Yammer de quatro maneiras.
 
 4. **Redes externas** -esta opção permite que você convide usuários externos para uma rede externa que verificou que os administradores podem criar em sua rede. Essa opção é mais adequada para hospedar comunidades externas.
 
-Para obter mais informações, consulte [Add External Messaging participantes to your Yammer Conversations](https://support.office.com/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US) e [external Messaging FAQ (Yammer)](https://support.office.com/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)
+Para obter mais informações, consulte [Add External Messaging participantes to your Yammer Conversations](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) e [external Messaging FAQ (Yammer)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
   

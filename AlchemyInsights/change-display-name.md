@@ -11,12 +11,12 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519791"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736709"
 ---
 # <a name="change-your-display-name"></a>Alterar seu nome de exibição
   
@@ -27,7 +27,7 @@ Para alterar seu nome de exibição no Outlook, use as etapas a seguir.
 2. Selecione a conta de email e selecione **alterar**.
 
     > [!NOTE]
-    > Se você não vir a opção para alterar seu nome de exibição, provavelmente está usando uma conta de email do Microsoft Exchange. Nesse caso, você precisará entrar em contato com seu administrador para alterar seu nome de exibição. Confira [alterar um nome de usuário e endereço de email no Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).
+    > Se você não vir a opção para alterar seu nome de exibição, provavelmente está usando uma conta de email do Microsoft Exchange. Nesse caso, você precisará entrar em contato com seu administrador para alterar seu nome de exibição. Confira [alterar um nome de usuário e endereço de email no Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
 3. Depois de alterar seu nome de exibição, clique em **OK** para salvar suas alterações. Pode levar algumas horas para que as alterações sejam refletidas em toda a organização.
 

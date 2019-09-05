@@ -12,12 +12,12 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: baefa04a536e71358f1a6cd143c4c727c290e28c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 3a32db7dfda23da343e7475c0ee6497b942a8492
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664632"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737357"
 ---
 # <a name="creating-email-signatures"></a>Criar assinaturas de email
 
@@ -29,7 +29,7 @@ Estes artigos devem ajudá-lo a criar assinaturas de email no Outlook.
 
 - Desejo criar uma assinatura de email usando Outlook.com: [criar e adicionar uma assinatura de email no Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 
-- Desejo criar uma assinatura de email global para todos os emails enviados da minha empresa: [criar assinaturas e avisos para toda a organização no Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)
+- Desejo criar uma assinatura de email global para todos os emails enviados da minha empresa: [criar assinaturas e avisos para toda a organização](https://docs.microsoft.com/office365/admin/setup/create-signatures-and-disclaimers)
 
  **Dica:** As assinaturas de toda a organização são chamadas de "isenções de responsabilidade".
   

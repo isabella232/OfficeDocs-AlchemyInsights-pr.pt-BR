@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: c73358ebfbdede5b4e43ca2c35146f6611958e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c41bfd9d25c8aa946a4ec5156be6d2424f4e2133
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495847"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737465"
 ---
 # <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Corrigir problemas com as bibliotecas do SharePoint mapeadas para unidades de rede
 
@@ -26,7 +26,7 @@ Ao navegar até uma unidade de rede mapeada, você poderá ver uma das seguintes
 
 - **Acesso negado. Antes de abrir arquivos neste local, primeiro você deve adicionar o site à sua lista de sites confiáveis, navegar até o site e selecionar a opção para fazer logon automaticamente.**
 
-[Obter ajuda para solucionar problemas de unidades de rede mapeadas](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
+[Obter ajuda para solucionar problemas de unidades de rede mapeadas](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
   
 O mapeamento de uma biblioteca como uma unidade de rede é temporário e compatível apenas com o Internet Explorer. Em vez disso, [sincronize os arquivos do SharePoint com o novo cliente de sincronização do onedrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , que inclui [arquivos sob demanda](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Acessar todos os seus arquivos no OneDrive sem usar espaço de armazenamento local.
   

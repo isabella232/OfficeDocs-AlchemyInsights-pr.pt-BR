@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 51f0f7331d40ce4c87836725eb41d6d4beb26c27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d7a7cdea8de8f6e12a9c98142c86dc80f7e1b172
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520835"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738581"
 ---
 # <a name="change-a-users-email-address"></a>Alterar o endereço de email de um usuário.
 
@@ -38,6 +38,6 @@ Alterar o endereço de email de alguém é fácil! Basta seguir estas etapas:
     
 6. Escolha **salvar**e **fechar**, e você terminou!
     
-Não era tão fácil assim? Para obter mais detalhes e etapas com capturas de tela, confira este artigo: [alterar um nome de usuário e endereço de email no Office 365](https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
+Não era tão fácil assim? Para obter mais detalhes e etapas com capturas de tela, confira este artigo: [alterar um nome de usuário e endereço de email no Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
 

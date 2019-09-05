@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5b9674920eb28cd48805ecab72cdf6f4149d62e3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36663948"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739301"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Como reativar e gerenciar a cobrança recorrente
 
@@ -30,9 +30,9 @@ Parece que você tem uma assinatura que expirou. Se você quiser reativá-lo, co
 
     Se você não vir **reativar** como opção, use o botão "precisa de ajuda" para conversar com um engenheiro de suporte para reativar sua assinatura.
 
-3. Confirme seus detalhes de pagamento. Você pode atualizar suas informações de pagamento existentes aqui. Quando tiver terminado de inserir sua forma de pagamento, **** selecione reativar.
+3. Confirme seus detalhes de pagamento. Você pode atualizar suas informações de pagamento existentes aqui. Quando tiver terminado de inserir sua forma de pagamento, selecione **reativar**.
 
-Para saber mais, confira [reativar sua assinatura](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Para saber mais, confira [reativar sua assinatura](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Para gerenciar cobranças mensais ou anuais, você pode ativar ou desativar a **cobrança recorrente** .
   
@@ -40,9 +40,9 @@ Para gerenciar cobranças mensais ou anuais, você pode ativar ou desativar a **
 
 2. Escolha a assinatura para a qual você deseja gerenciar a cobrança recorrente.
 
-3. Em **cobrança**, ao lado **** de renovar ou **expirar em**, selecione **Editar**.
+3. Em **cobrança**, ao lado de **renovar** ou **expirar em**, selecione **Editar**.
 
-4. No painel **configurações de cobrança recorrente** , selecione **desativar** para desativá-la. Se a cobrança recorrente já estiver desativada, **** selecione mensalmente ou **uma vez** para ativá-la.
+4. No painel **configurações de cobrança recorrente** , selecione **desativar** para desativá-la. Se a cobrança recorrente já estiver desativada, selecione **mensalmente** ou **uma vez** para ativá-la.
 
 5. Selecione **Enviar alteração**.
 

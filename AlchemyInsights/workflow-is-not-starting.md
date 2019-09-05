@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: d4bfdb44c04eb6838f4a265e55a4873d14c78f6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557957"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738077"
 ---
 # <a name="workflow-is-not-starting"></a>O fluxo de trabalho não está sendo iniciado
 
@@ -33,7 +33,7 @@ ms.locfileid: "36557957"
 
     - Os fluxos de trabalho não são projetados para executar em tempo real, de forma que um atraso é o comportamento de design.
 
-   -  Se o fluxo de trabalho é um XMOL (Extensible Object Markup Language) complexo, a compilação pode ser lenta. Confira [este](https://support.microsoft.com/en-us/kb/3043697) artigo.
+   -  Se o fluxo de trabalho é um XMOL (Extensible Object Markup Language) complexo, a compilação pode ser lenta. Confira [este](https://support.microsoft.com//kb/3043697) artigo.
 
     - Você deve simplificar o fluxo de trabalho ou recriá-lo usando o tipo de plataforma de fluxo de trabalho do Microsoft SharePoint 2013.
 

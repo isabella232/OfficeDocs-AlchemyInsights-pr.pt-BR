@@ -1,18 +1,18 @@
 ---
 title: Limitação do SharePoint Online
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: 6c940f3277e39c955adc24f22d5d9ef1591561ba
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cbe6799e5b7f415e560449485ce09518c6ac2999
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502689"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749932"
 ---
 # <a name="sharepoint-online-throttling"></a>Limitação do SharePoint Online
 
@@ -26,5 +26,5 @@ SharePoint Online usa a limitação para manter o melhor desempenho e confiabili
 
  - [Controlar a limitação do SharePoint Online usando retirada exponencial](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
 
-- [Planejamento de capacidade e teste de carregamento do SharePoint Online](https://support.office.com/article/Capacity-planning-and-load-testing-SharePoint-Online-c932bd9b-fb9a-47ab-a330-6979d03688c0)
+- [Planejamento de capacidade e teste de carregamento do SharePoint Online](https://docs.microsoft.com/office365/enterprise/capacity-planning-and-load-testing-sharepoint-online)
 

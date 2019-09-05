@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: c6c98b6fcfef6ca6f84810eb92ec0d1b90ff3379
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e6b2d98f166e3af5eb9786106e5c117c3ffd109f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508879"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744701"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Configurando sua assinatura do O365 Business Essentials
 
@@ -23,11 +23,11 @@ Criar contas do Office 365 e adicionar seu domínio
     
 - Vá para o [centro de administração do Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- Para iniciar o assistente, escolha **Ir para a configuração**. Saiba mais em [Adicionar usuários e domínios ao Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+- Para iniciar o assistente, escolha **Ir para a configuração**. Para saber mais, confira [Adicionar um domínio ao Office 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
     
 Importar email
   
-- Mova seus contatos e conta de email existentes de outros sistemas de email para sua caixa de correio do Office 365, para que você possa ver tudo em um só lugar. Para obter opções de migração, [migre emails e contatos para o Office 365](https://support.office.com/Article/Migrate-email-and-contacts-to-Office-365-a3e3bddb-582e-4133-8670-e61b9f58627e).
+- Mova seus contatos e conta de email existentes de outros sistemas de email para sua caixa de correio do Office 365, para que você possa ver tudo em um só lugar. Para obter opções de migração, [migre emails e contatos para o Office 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
     
 - Conectar contas de email
     
@@ -41,6 +41,6 @@ Armazenar arquivos online
   
 - Para saber quais locais de armazenamento são ideais para sua empresa, confira [Onde você pode armazenar arquivos no Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Todas as pessoas recebem um local de armazenamento em nuvem do **OneDrive**, quando você cria contas do Office 365 para elas. Com o OneDrive, você pode acessar arquivos em computadores, telefones e tablets. 
     
-As etapas detalhadas da configuração podem ser encontradas neste [artigo](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials).
+As etapas detalhadas da configuração podem ser encontradas neste [artigo](https://docs.microsoft.com/office365/admin/setup/setup).
   
 

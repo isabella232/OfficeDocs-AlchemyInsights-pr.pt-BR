@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 067756fb7a411a2c75de1c61c3b57e78a07046da
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9638ce92fc0cda83999f64da278a827e0ba32584
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526019"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740021"
 ---
 # <a name="external-user-cannot-access-content"></a>O usuário externo não pode acessar o conteúdo
 
@@ -26,7 +26,7 @@ Se um usuário externo tiver sido convidado e não puder acessar o conteúdo, te
 - ["Acesso negado", "você precisa ter permissão para acessar este site", ou "o usuário não foi encontrado no diretório" erros no SharePoint Online e no OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
 - [O erro "as políticas da sua organização não permitem que você compartilhe com estes usuários" ao compartilhar um item ou site no SharePoint Online ou no OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 - [As opções de compartilhamento estão acinzentadas ao compartilhar do SharePoint Online ou do OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Mensagem de erro quando um usuário externo aceita um convite do SharePoint online usando outra conta](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
+- [Mensagem de erro quando um usuário externo aceita um convite do SharePoint online usando outra conta](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 - [Erros de compartilhamento OSE no SharePoint e no OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 

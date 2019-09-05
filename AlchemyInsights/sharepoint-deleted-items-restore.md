@@ -12,18 +12,18 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: 544e65430cce72329933933927883521b2d79e7c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d68581fed677d2578e92b667e1fd29ee27c53336
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666108"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744557"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>Restaurar itens excluídos do SharePoint
 
 Quando você exclui um item ou site do SharePoint, ele não é removido imediatamente. Os itens excluídos vão para a lixeira por um período de tempo. Durante esse tempo, você pode restaurar os itens excluídos para o local original. Para obter mais informações, visite os links abaixo.
 
-- [Restaurar itens na Lixeira de um site do SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Restaurar itens na Lixeira de um site do SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
 - [Restaurar arquivos ou pastas excluídos no OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
@@ -41,4 +41,4 @@ Se vários arquivos do OneDrive ou do SharePoint forem excluídos, substituídos
 
 - [Restaurar uma biblioteca do OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 
-- [Restaurar uma biblioteca de documentos](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Restaurar uma biblioteca de documentos](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)

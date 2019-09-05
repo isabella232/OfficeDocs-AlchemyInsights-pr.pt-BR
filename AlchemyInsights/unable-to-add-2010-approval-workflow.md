@@ -1,6 +1,6 @@
 ---
 title: Não é possível adicionar o fluxo de trabalho de aprovação 2010
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/3/2018
 ms.audience: ITPro
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: 1f564c5d1e689dcf41b22fab5a05ab1b488c2b0b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 13e3ed6db8c31adb1eb5a556c0e5fbc437b3fdb1
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558605"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748672"
 ---
 # <a name="unable-to-add-2010-approval-workflow"></a>Não é possível adicionar o fluxo de trabalho de aprovação 2010
 
@@ -25,9 +25,9 @@ Para resolver esse problema, siga estas etapas:
   
 2. Em **objetos de site**, selecione **fluxos de trabalho**. 
   
-3. Na **nova** seção da faixa de opções **fluxos de trabalho** , selecione fluxo de trabalho reutilizável. **** 
+3. Na **nova** seção da faixa de opções **fluxos de trabalho** , selecione fluxo de **trabalho reutilizável**. 
   
-4. No formulário **criar fluxo de trabalho** reutilizável, insira o nome * * *Repair2010* * *. Para **tipo de plataforma**, clique em **fluxo de trabalho do SharePoint 2010**e, em seguida, clique em **OK**. 
+4. No formulário **criar fluxo de trabalho reutilizável** , insira o nome * * *Repair2010* * *. Para **tipo de plataforma**, clique em **fluxo de trabalho do SharePoint 2010**e, em seguida, clique em **OK**. 
   
 1. Na seção **salvar** da faixa de opções de **fluxo de trabalho** , selecione **publicar**. 
   
