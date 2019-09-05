@@ -12,12 +12,12 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 5a200db8ea5dcfc4a1da0c984f299028ebc3b0f6
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 3a940182e831c03e040e5bb2dd9c73adcfd2c7b0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36663847"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735449"
 ---
 # <a name="how-to-install-office"></a>Como instalar o Office
 
@@ -25,7 +25,7 @@ Para instalar os aplicativos para cliente do Office, verifique se você tem uma 
   
 *OBSERVAÇÃO: [ o Office Home & Business](https://products.office.com/home-and-business) é um produto do[Office para uso doméstico](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) e não faz parte da assinatura para empresas. Para instruções específicas para o Visio ou Project, consulte [Instalar Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) ou [ Instalar Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*
 
-Crie as contas de usuário e adicione seu domínio. Verifique se o usuário tem uma [licença atribuída](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).
+Crie as contas de usuário e adicione seu domínio. Verifique se o usuário tem uma [licença atribuída](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
 
 Cada usuário precisa:
 
