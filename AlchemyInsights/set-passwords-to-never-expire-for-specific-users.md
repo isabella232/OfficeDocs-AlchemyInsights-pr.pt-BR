@@ -15,18 +15,18 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 166c7ab10e51d309b79ae8ef1a58116e90d4380b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d11c1c637761429c684875096397d03ac64a1b6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509096"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744773"
 ---
-# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="a462e-102">Definir senhas para nunca expirar</span><span class="sxs-lookup"><span data-stu-id="a462e-102">Set passwords to never expire</span></span>
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="7607d-102">Definir senhas para nunca expirar</span><span class="sxs-lookup"><span data-stu-id="7607d-102">Set passwords to never expire</span></span>
 
-<span data-ttu-id="a462e-103">Para definir todas as senhas como nunca expirar, no centro de administração do Microsoft 365, acesse a página **configurações** > de[privacidade de segurança &amp; ](https://portal.office.com/adminportal/home#/settings/security) .</span><span class="sxs-lookup"><span data-stu-id="a462e-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > [Security &amp; privacy](https://portal.office.com/adminportal/home#/settings/security) page.</span></span> <span data-ttu-id="a462e-104">Selecione **Editar** ao lado de **política de senha**e ative o controle \*\*\*\* deslizante.</span><span class="sxs-lookup"><span data-stu-id="a462e-104">Select **Edit** next to **Password policy**, and turn the slider to **On**.</span></span>
+<span data-ttu-id="7607d-103">Para definir todas as senhas como nunca expirar, no centro de administração do Microsoft 365, acesse a página **configurações** > de[privacidade de segurança &amp; ](https://portal.office.com/adminportal/home#/settings/security) .</span><span class="sxs-lookup"><span data-stu-id="7607d-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > [Security &amp; privacy](https://portal.office.com/adminportal/home#/settings/security) page.</span></span> <span data-ttu-id="7607d-104">Selecione **Editar** ao lado de **política de senha**e ative o controle deslizante. \*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="7607d-104">Select **Edit** next to **Password policy**, and turn the slider to **On**.</span></span>
   
-<span data-ttu-id="a462e-105">Para obter informações mais detalhadas, consulte: [definir a política de expiração de senha para sua organização.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span><span class="sxs-lookup"><span data-stu-id="a462e-105">For more detailed information see: [Set the password expiration policy for your organization.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span></span>
+<span data-ttu-id="7607d-105">Para obter informações mais detalhadas, consulte: [definir a política de expiração de senha para sua organização.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)</span><span class="sxs-lookup"><span data-stu-id="7607d-105">For more detailed information see: [Set the password expiration policy for your organization.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)</span></span>
   
-[<span data-ttu-id="a462e-106">Definir a senha para nunca expirar para usuários específicos</span><span class="sxs-lookup"><span data-stu-id="a462e-106">Set password to never expire for specific users</span></span>](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[<span data-ttu-id="7607d-106">Definir a senha para nunca expirar para usuários específicos</span><span class="sxs-lookup"><span data-stu-id="7607d-106">Set password to never expire for specific users</span></span>](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
   
