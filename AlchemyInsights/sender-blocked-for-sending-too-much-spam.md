@@ -12,12 +12,12 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 05b961cec364bce694a8f39d9de245062bfdb859
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7e977f1393bb47cd2a4cb27ddef18f48105214a9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666324"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744917"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>Conta bloqueada por envio de spam em excesso
 
@@ -27,5 +27,5 @@ Se uma conta do Office 365 for bloqueada por enviar um número excessivo de spam
 
 2. Vá para Usuários Restritos para ** [desbloquear a conta](https://protection.office.com/?hash=/restrictedusers) ** em Segurança no &amp; Centro de conformidade. Quando terminar, será possível continuar a enviar mensagens *dentro de uma hora*.
 
-3. Para evitar futuros comprometimentos de contas, siga as recomendações em [Práticas recomendadas de segurança para Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).
+3. Para evitar futuros comprometimentos de contas, siga as recomendações em [Roteiro de segurança do Office 365](https://docs.microsoft.com/office365/securitycompliance/security-roadmap).
   
