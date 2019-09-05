@@ -1,6 +1,6 @@
 ---
 title: Os arquivos estão bloqueados para edição
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: ITPro
@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 243179d0501089ee4865aeaf6b340a68f428d6c1
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: 4a1edf25cfcabb0e7f89978812624a86dab7c196
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631615"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754972"
 ---
 # <a name="cant-edit-files"></a>Não é possível editar arquivos? 
 
 Se um documento, planilha ou apresentação estiver bloqueado para edição e não puder ser aberto nos aplicativos da área de trabalho do Windows, talvez o arquivo já esteja sendo editado por outra pessoa ou tenha o arquivo com check-out. Vamos dar uma olhada rápida em alguns dos motivos pelos quais [você não poderá editar o arquivo](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Se você tiver bibliotecas com o **check-out,** colunas obrigatórias ou de **validação** ou metadados, ou quando a **segurança de item de rascunho** estiver definida como **somente usuários que podem editar** ou **apenas usuários que podem aprovar itens** nas configurações de versão do Libra
+Se você tiver bibliotecas com o **check-out, colunas obrigatórias** ou de **validação** ou metadados, ou quando a **segurança de item de rascunho** estiver definida como **somente usuários que podem editar** ou **apenas usuários que podem aprovar itens** nas configurações de versão do Libra
 
 - Para bibliotecas de documentos do SharePoint, esses itens serão sincronizados como somente leitura.
 
