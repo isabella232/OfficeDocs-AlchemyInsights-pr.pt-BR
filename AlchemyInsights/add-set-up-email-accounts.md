@@ -13,16 +13,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: 26e4840f0feb38d8e12c593c00953c376d0817f8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 67420eb543762a42a93c7f727ea5bb5345e00bc8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494947"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737969"
 ---
 # <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>Problemas para configurar uma conta de email do Exchange no Outlook
 
 Se você estiver tendo problemas para configurar uma conta do Exchange no Outlook, poderá executar a [ferramenta configuração de conta do Outlook](https://aka.ms/SaRA-OutlookSetupProfile) na máquina afetada. Ele executará várias verificações e fornecerá soluções possíveis para o problema de configuração da conta.
   
-Se você ainda estiver com problemas, confira [o Outlook não é possível configurar um novo perfil usando a descoberta automática do Exchange para uma caixa de correio do Exchange Online no Office 365](https://support.microsoft.com/help/2404385/outlook-can-t-set-up-a-new-profile-by-using-exchange-autodiscover-for).
+Se você ainda estiver com problemas, confira [o Outlook não é possível configurar um novo perfil usando a descoberta automática do Exchange para uma caixa de correio do Exchange Online no Office 365](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).
   

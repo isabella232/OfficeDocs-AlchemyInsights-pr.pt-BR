@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: be5fac4cf4f1516575b8310347dd1d1948010538
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504523"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744809"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Rótulos de sensibilidade não aparecem
 
@@ -33,4 +33,4 @@ Se você configurou seus rótulos de sensibilidade, mas eles não aparecem nos a
 
 - Suporte para prevenção de perda de dados (DLP): atualmente, somente rótulos de retenção podem ser usados como condição nas políticas de DLP.  O suporte para rótulos de confidencialidade em uma política de DLP ainda não está disponível, mas estamos trabalhando nele.
 
-Para obter mais informações sobre possíveis problemas, consulte [problemas conhecidos com rótulos de confidencialidade](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc?ui=en-US&rs=en-US&ad=US).
+Para obter mais informações sobre possíveis problemas, consulte [problemas conhecidos com rótulos de confidencialidade](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

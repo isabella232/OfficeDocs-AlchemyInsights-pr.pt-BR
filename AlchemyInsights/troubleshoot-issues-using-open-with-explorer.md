@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 6e67c2916e0c5739f6126064d45e175a7fd6f8d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a9ab7dd27e4dc1bd76c93cc81260616063e638ed
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500203"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742721"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>Corrigir problemas com abrir com o Explorer
 
@@ -31,6 +31,6 @@ Correção de problemas comuns com a abertura de uma biblioteca de documentos no
 > [!NOTE]
 > A abertura de uma biblioteca no explorador de arquivos é útil se você precisar copiar ou mover vários arquivos e pastas uma vez, mas se quiser trabalhar regularmente na biblioteca, recomendamos sincronizá-lo. Para solucionar problemas de abertura no explorador de arquivos, confira [abrir no Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Para obter informações sobre como configurar a sincronização, consulte [sincronizar arquivos do SharePoint com o novo cliente de sincronização do onedrive](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Confira o artigo [como usar o comando "abrir com o Explorer" para solucionar problemas no SharePoint Online](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) para obter mais informações. 
+Confira o artigo [como usar o comando "abrir com o Explorer" para solucionar problemas no SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) para obter mais informações. 
   
 

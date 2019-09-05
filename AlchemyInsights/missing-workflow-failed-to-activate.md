@@ -1,6 +1,6 @@
 ---
 title: Falta de fluxo de trabalho ao ativar
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/3/2018
 ms.audience: ITPro
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
-ms.openlocfilehash: 44fd3c2d1e8b278b47c0fde6d48c7cbcbaa5c324
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f03d7e1441465050c4b0608f4100f217b183d2e2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543913"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753784"
 ---
 # <a name="missing-workflow-failed-to-activate"></a>Falta de fluxo de trabalho ao ativar
 
@@ -25,9 +25,9 @@ Para resolver esse problema, siga estas etapas:
   
 2. Em **objetos de site**, selecione **fluxos de trabalho**. 
   
-3. Na **nova** seção da faixa de opções **fluxos de trabalho** , selecione fluxo de trabalho reutilizável. **** 
+3. Na **nova** seção da faixa de opções **fluxos de trabalho** , selecione fluxo de **trabalho reutilizável**. 
   
-4. No formulário **criar fluxo de trabalho** reutilizável, insira o nome * * *Repair2010* * *. Para **tipo de plataforma**, clique em **fluxo de trabalho do SharePoint 2010**e, em seguida, clique em **OK**. 
+4. No formulário **criar fluxo de trabalho reutilizável** , insira o nome * * *Repair2010* * *. Para **tipo de plataforma**, clique em **fluxo de trabalho do SharePoint 2010**e, em seguida, clique em **OK**. 
   
 1. Na seção **salvar** da faixa de opções de **fluxo de trabalho** , selecione **publicar**. 
   

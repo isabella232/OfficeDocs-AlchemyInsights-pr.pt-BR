@@ -1,6 +1,6 @@
 ---
 title: 1491-pesquisa-não-retorno-esperado-resultados
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: ce55961326ca15fbe15386455be94f800b5861bf
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 9432ba267e423ea5bbcfbc40f4ea914901207140
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132676"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753824"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Ferramenta de pesquisa de conteúdo para encontrar informações relevantes
 

@@ -13,16 +13,16 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501031"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743261"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Sugestões para a solução de erros de "produto não licenciado"
 
-Verifique se você tem uma assinatura que permita licenças de cliente, como o Office 365 Business ou Business Premium, e [Verifique se o usuário tem uma licença atribuída](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Desative uma instalação](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) para verificar se você ultrapassou o número de instalações suportadas por sua assinatura.
+Verifique se você tem uma assinatura que permita licenças de cliente, como o Office 365 Business ou Business Premium, e [Verifique se o usuário tem uma licença atribuída](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). [Desative uma instalação](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) para verificar se você ultrapassou o número de instalações suportadas por sua assinatura.
   
 Verifique se o usuário está entrando com a mesma conta que tem a licença atribuída.
   

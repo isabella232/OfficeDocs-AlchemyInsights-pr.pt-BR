@@ -13,12 +13,12 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 0edb3f738f55406ba97872311f1bde907e0ed6c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 98f83d7351bd6dd608c8dc8565c8050cc29dfcbc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501679"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743333"
 ---
 # <a name="solutions-for-error-30068-39"></a>Soluções para o erro 30068-39
 
@@ -26,7 +26,7 @@ Tente estas soluções para corrigir o erro [30068-39](https://support.office.co
   
 - Reinicie o computador e tente [instalar o Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Verifique se o serviço **clique para executar da Microsoft**[está desabilitado](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) e se está desabilitado, altere o status para **manual** ou **automático**.
+- Verifique se o serviço **clique para executar da Microsoft** [está desabilitado](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) e se está desabilitado, altere o status para **manual** ou **automático**.
 
 - Baixe e instale o [Assistente de recuperação e suporte](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
@@ -36,4 +36,4 @@ Tente estas soluções para corrigir o erro [30068-39](https://support.office.co
 
     Após a reinicialização, o assistente de recuperação e suporte será reaberto automaticamente para concluir o processo de desinstalação.
 
-3. Siga as solicitações restantes e reinstale o [Office](https://portal.office.com/OLS/MySoftware.aspx) ou feche o assistente.
+3. Siga as solicitações restantes e [reinstale o Office](https://portal.office.com/OLS/MySoftware.aspx) ou feche o assistente.
