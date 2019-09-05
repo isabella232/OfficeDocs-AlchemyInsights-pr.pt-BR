@@ -1,6 +1,6 @@
 ---
 title: Não é possível excluir itens no SharePoint ou no OneDrive
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -11,26 +11,26 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: b25e6d144dcefcfed4258e78ad5cfd4089ba7d1e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3cc168846999c6880b95edfaedb2df8cf6e843a6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558641"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748516"
 ---
-# <a name="unable-to-delete-items"></a><span data-ttu-id="0f94d-102">Não é possível excluir itens</span><span class="sxs-lookup"><span data-stu-id="0f94d-102">Unable to delete items</span></span>
+# <a name="unable-to-delete-items"></a><span data-ttu-id="5f41a-102">Não é possível excluir itens</span><span class="sxs-lookup"><span data-stu-id="5f41a-102">Unable to delete items</span></span>
 
-<span data-ttu-id="0f94d-103">Você está tendo problemas para excluir itens do SharePoint?</span><span class="sxs-lookup"><span data-stu-id="0f94d-103">Having issues deleting SharePoint items?</span></span>
+<span data-ttu-id="5f41a-103">Você está tendo problemas para excluir itens do SharePoint?</span><span class="sxs-lookup"><span data-stu-id="5f41a-103">Having issues deleting SharePoint items?</span></span>
 
-- <span data-ttu-id="0f94d-104">Verifique sempre se você tem as [permissões apropriadas](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) para excluir o item ou se um [administrador de conjunto de sites](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator) tentou remover o item.</span><span class="sxs-lookup"><span data-stu-id="0f94d-104">Always make sure you have the [appropriate permissions](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) to delete the item or have a [site collection administrator](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator) attempt remove the item.</span></span>
+- <span data-ttu-id="5f41a-104">Verifique sempre se você tem as [permissões apropriadas](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) para excluir o item ou se um [administrador de conjunto de sites](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator) tentou remover o item.</span><span class="sxs-lookup"><span data-stu-id="5f41a-104">Always make sure you have the [appropriate permissions](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) to delete the item or have a [site collection administrator](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator) attempt remove the item.</span></span>
 
-- <span data-ttu-id="0f94d-105">Certifique-se de que não haja uma configuração de [política de retenção](https://docs.microsoft.com/office365/securitycompliance/retention-policies) no item.</span><span class="sxs-lookup"><span data-stu-id="0f94d-105">Ensure that there is not a [retention policy](https://docs.microsoft.com/office365/securitycompliance/retention-policies) setup on the item.</span></span>
+- <span data-ttu-id="5f41a-105">Certifique-se de que não haja uma configuração de [política de retenção](https://docs.microsoft.com/office365/securitycompliance/retention-policies) no item.</span><span class="sxs-lookup"><span data-stu-id="5f41a-105">Ensure that there is not a [retention policy](https://docs.microsoft.com/office365/securitycompliance/retention-policies) setup on the item.</span></span>
 
-- <span data-ttu-id="0f94d-106">Verifique se o item não está [com check-out](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) para outro usuário.</span><span class="sxs-lookup"><span data-stu-id="0f94d-106">Ensure the item is not [checked out](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) to another user.</span></span>
+- <span data-ttu-id="5f41a-106">Verifique se o item não está [com check-out](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) para outro usuário.</span><span class="sxs-lookup"><span data-stu-id="5f41a-106">Ensure the item is not [checked out](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) to another user.</span></span>
 
-- <span data-ttu-id="0f94d-107">Por fim, os administradores podem usar o PnP ( [padrões e práticas do SharePoint](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) ) que contém uma biblioteca de comandos do PowerShell que permitem executar ações complexas de gerenciamento, como forçar exclusão de itens do Stubborn.</span><span class="sxs-lookup"><span data-stu-id="0f94d-107">Finally, administrators can use [SharePoint Patterns and Practices](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP) which contains a library of PowerShell commands that allow you to perform complex management actions such as force deleting stubborn items.</span></span>
-- [<span data-ttu-id="0f94d-108">Remover arquivo PNP</span><span class="sxs-lookup"><span data-stu-id="0f94d-108">Remove PNP File</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
-- [<span data-ttu-id="0f94d-109">Remover pasta PNP</span><span class="sxs-lookup"><span data-stu-id="0f94d-109">Remove PNP Folder</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
-- [<span data-ttu-id="0f94d-110">Remover item de lista PNP</span><span class="sxs-lookup"><span data-stu-id="0f94d-110">Remove PNP List Item</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
-- [<span data-ttu-id="0f94d-111">Remover lista PNP</span><span class="sxs-lookup"><span data-stu-id="0f94d-111">Remove PNP List</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
-- [<span data-ttu-id="0f94d-112">Remover campo PNP (coluna)</span><span class="sxs-lookup"><span data-stu-id="0f94d-112">Remove PNP Field (Column)</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)
+- <span data-ttu-id="5f41a-107">Por fim, os administradores podem usar o PnP ( [padrões e práticas do SharePoint](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) ) que contém uma biblioteca de comandos do PowerShell que permitem executar ações complexas de gerenciamento, como forçar exclusão de itens do Stubborn.</span><span class="sxs-lookup"><span data-stu-id="5f41a-107">Finally, administrators can use [SharePoint Patterns and Practices](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP) which contains a library of PowerShell commands that allow you to perform complex management actions such as force deleting stubborn items.</span></span>
+- [<span data-ttu-id="5f41a-108">Remover arquivo PNP</span><span class="sxs-lookup"><span data-stu-id="5f41a-108">Remove PNP File</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
+- [<span data-ttu-id="5f41a-109">Remover pasta PNP</span><span class="sxs-lookup"><span data-stu-id="5f41a-109">Remove PNP Folder</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
+- [<span data-ttu-id="5f41a-110">Remover item de lista PNP</span><span class="sxs-lookup"><span data-stu-id="5f41a-110">Remove PNP List Item</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
+- [<span data-ttu-id="5f41a-111">Remover lista PNP</span><span class="sxs-lookup"><span data-stu-id="5f41a-111">Remove PNP List</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
+- [<span data-ttu-id="5f41a-112">Remover campo PNP (coluna)</span><span class="sxs-lookup"><span data-stu-id="5f41a-112">Remove PNP Field (Column)</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)
