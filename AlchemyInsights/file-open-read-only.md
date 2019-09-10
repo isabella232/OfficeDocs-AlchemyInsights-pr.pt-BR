@@ -9,12 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 5c28d5f1c6951971aab329060e24b8458e848dd7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.custom:
+- "765"
+- "2200014"
+ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525659"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822222"
 ---
 # <a name="file-open-read-only"></a>Abrir arquivo somente leitura
 
@@ -22,7 +25,7 @@ Você pode achar que ao abrir arquivos, eles são abertos como somente leitura. 
   
  **Meu antivírus está fazendo com que eles abram somente leitura**
   
-Alguns programas antivírus podem protegê-lo contra arquivos potencialmente não seguros abrindo-os como somente leitura. Talvez seja necessário verificar com seu provedor de antivírus para saber como ajustar essas configurações. BitDefender, por exemplo, tem conteúdo sobre a adição de exclusões de aplicativo aqui: [como adicionar exclusões de aplicativos ou processos no centro de controle do BitDefender](https://www.bitdefender.com/support/how-to-add-application-or-process-exclusions-in-bitdefender-control-center-1119.mdl).
+Alguns programas antivírus podem protegê-lo contra arquivos potencialmente não seguros abrindo-os como somente leitura. Talvez seja necessário verificar com seu provedor de antivírus para saber como ajustar essas configurações. BitDefender, por exemplo, tem conteúdo sobre a adição de exclusões de aplicativo aqui: [como adicionar exclusões de aplicativos ou processos no centro de controle do BitDefender](https://aka.ms/AA6098i).
   
  **As propriedades de arquivo estão definidas como somente leitura?**
   

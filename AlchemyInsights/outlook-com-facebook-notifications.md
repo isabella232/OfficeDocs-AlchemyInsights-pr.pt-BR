@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: 80ddadfedb5a8a0dff2a7b9cf371e03fae58bdff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9e389deb7347e13c0e4ba658da4d355ffe11049c
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536963"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822055"
 ---
 # <a name="facebook-notifications-using-outlookcom"></a>Notificações do Facebook usando Outlook.com
 
-Se não quiser receber notificações do Facebook, você pode alterar [as configurações do Facebook](https://www.facebook.com/settings?tab=notifications) ou configurar uma regra de caixa de entrada.
+Se não quiser receber notificações do Facebook, você pode alterar [as configurações do Facebook](https://aka.ms/facebook-notifications-settings) ou configurar uma regra de caixa de entrada.
 
 1. Vá até [configurações de regras](https://outlook.live.com/mail/options/mail/rules/inboxRules).
 1. Selecione **Adicionar nova regra**.
