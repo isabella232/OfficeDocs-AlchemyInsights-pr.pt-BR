@@ -12,12 +12,12 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: dea8f2ab0f99e493d68aa074532f26f7ed8026aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
+ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504379"
+ms.lasthandoff: 09/20/2019
+ms.locfileid: "37068011"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>Logs de auditoria do SharePoint e do OneDrive
 
@@ -38,9 +38,12 @@ Nenhuma configuração adicional é necessária no SharePoint ou no OneDrive.
 
 **Logs de auditoria clássicos do SharePoint**
 
-- [Exibir e habilitar logs de auditoria do SharePoint clássicos](https://support.office.com/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+Migramos a auditoria herdada do SPO para o log de auditoria unificada (UAL). Essencialmente, isso significa que todos os relatórios de auditoria herdados do SPO serão agora ligados ao UAL, e os sinais de auditoria herdados foram migrados para o UAL.
 
-A auditoria precisa ser habilitada por cada conjunto de sites. 
+Principais alterações:
 
-**Observação**: Recomendamos o uso de logs de auditoria unificados modernos para obter melhores opções de auditoria avançadas do que esses logs de auditoria clássicos.
+- A remoção de um recurso não está disponível.
+- A seção onde você escolhe eventos específicos para auditoria não está disponível. Consulte [este documento](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) para obter uma lista completa de eventos auditados disponíveis por padrão.
+- A opção "local" em **relatórios personalizados** não está disponível. 
+- Eventos de abertura ou download de documentos não estão disponíveis. 
 
