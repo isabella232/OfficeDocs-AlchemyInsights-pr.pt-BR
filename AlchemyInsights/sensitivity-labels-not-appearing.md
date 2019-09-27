@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 4bf8e02246c966f22648467386a7862f0521fecf
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36744809"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207213"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Rótulos de sensibilidade não aparecem
 
-Os rótulos de confidencialidade permitem classificar e ajudar a proteger o conteúdo confidencial. Para saber mais sobre esse recurso, confira [visão geral de rótulos de confidencialidade](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Os rótulos de confidencialidade permitem classificar e ajudar a proteger o conteúdo confidencial. Eles podem ser criados no centro de conformidade da Microsoft 365, no centro de segurança da Microsoft 365 ou no centro de conformidade & segurança do Office 365 em classificação > rótulos de confidencialidade. Para saber mais sobre esse recurso, confira [visão geral de rótulos de confidencialidade](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
 Se você configurou seus rótulos de sensibilidade, mas eles não aparecem nos aplicativos do Office, verifique o seguinte:
 
@@ -32,5 +32,10 @@ Se você configurou seus rótulos de sensibilidade, mas eles não aparecem nos a
 - Se você estiver [migrando os rótulos de proteção de informações do Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), esteja ciente das considerações listadas [aqui](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
 - Suporte para prevenção de perda de dados (DLP): atualmente, somente rótulos de retenção podem ser usados como condição nas políticas de DLP.  O suporte para rótulos de confidencialidade em uma política de DLP ainda não está disponível, mas estamos trabalhando nele.
+
+- Quando a criptografia estiver habilitada em um rótulo de confidencialidade, você poderá optar por:
+    - Atribuir permissões agora
+    - Permitir que os usuários atribuam permissões
+
 
 Para obter mais informações sobre possíveis problemas, consulte [problemas conhecidos com rótulos de confidencialidade](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

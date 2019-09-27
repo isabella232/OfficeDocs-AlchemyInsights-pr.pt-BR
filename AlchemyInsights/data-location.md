@@ -2,7 +2,6 @@
 title: Local dos dados
 ms.author: pebaum
 author: pebaum
-ms.date: 6/20/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,27 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b895dabc8d3513a2035b698fefb04a540810cfa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0e683c8266d425be95e87c590d4cb5d56108721a
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514104"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207249"
 ---
 # <a name="data-location"></a>Local dos dados
 
-Mantemos várias cópias de seus dados entre data centers para redundância. [Veja onde seus dados estão localizados](https://office.com/datamaps). Se expandirmos o local dos seus dados em um novo país ou região, daremos um aviso de adiantamento de um mês.
-  
-Para obter mais informações sobre segurança, privacidade e conformidade do Office 365, consulte a [central de confiabilidade do office 365](https://products.office.com/business/office-365-trust-center-welcome).
-  
+Você pode exibir o local do seu locatário do Office 365 no centro de administração ou conectando-se ao Exchange Online por meio do PowerShell.
+
+
+**Centro de administração:**
+1. Faça logon no [centro de administração](https://admin.microsoft.com/Adminportal/Home).
+2. Selecione **configurações** > **perfil da organização**.
+3. Em **local dos dados**, selecione **Exibir detalhes**.
+
+
+**™**
+1. Conecte-se ao Exchange Online usando o Windows PowerShell.
+2. Execute o cmdlet [Get-OrganizationalUnit](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit) para exibir uma lista das propriedades do locatário. 
+3. Observe a propriedade OrganizationId.
+
+Quando você tem o local de dados do EXO e do SPO, é possível determinar o local dos dados de outros serviços que você pode usar de [onde seus dados estão localizados](https://products.office.com/where-is-your-data-located).
