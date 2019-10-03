@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 5fa39c87550e6bacf60299c6420f5318ed99a73b
-ms.sourcegitcommit: 89b8d982f83ff8d269624e5745d3a186f1e3e6c1
+ms.openlocfilehash: 09cbbc28e3ad826dc3ed69a89e5ab3983c1aea24
+ms.sourcegitcommit: 3a7c40c232294878ac0c91302e86599ec6f5209e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350829"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37373099"
 ---
-#   <a name="teams-common-issues-and-resolutions"></a>Problemas comuns e soluções do Microsoft Teams
+# <a name="teams-common-issues-and-resolutions"></a>Problemas comuns e soluções do Microsoft Teams
 
 Para obter uma resposta mais específica sobre um problema do Microsoft Teams, reformule rapidamente sua pergunta e inclua quaisquer erros que você esteja vendo ou recursos que estiver usando.
 
@@ -32,7 +32,7 @@ Estes são alguns recursos adicionais:
     - Para recuperar um canal excluído, confira [arquivar ou restaurar uma equipe](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7).
 - **Restaurar arquivos excluídos:** Confira [recuperar arquivos excluídos no Teams](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e).
 - **Solucionar problemas de um teclado de discagem ausente:**  
-    1. Certifique-se de que o usuário tenha sido atribuído a uma licença do Microsoft [Teams](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
-    2. Certifique-se de que o usuário tem um [plano de chamadas](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) atribuído.
-    3. Habilite os usuários do [Enterprise Voice](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
+    - Certifique-se de que o usuário tenha sido atribuído a uma licença do Microsoft [Teams](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
+    - Certifique-se de que o usuário tem um [plano de chamadas](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) atribuído.
+    - Habilite os usuários do [Enterprise Voice](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
 - **Problemas conhecidos do teams:** Leia [problemas conhecidos do Microsoft Teams](https://docs.microsoft.com/microsoftteams/known-issues).
