@@ -20,14 +20,14 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 08/29/2019
 ms.locfileid: "36664452"
 ---
-# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="0d15c-102">Como adicionar um cartão de crédito?</span><span class="sxs-lookup"><span data-stu-id="0d15c-102">How do I add a credit card?</span></span>
+# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="b193d-102">Como adicionar um cartão de crédito?</span><span class="sxs-lookup"><span data-stu-id="b193d-102">How do I add a credit card?</span></span>
 
-1. <span data-ttu-id="0d15c-103">No centro de administração do Microsoft 365, acesse a página **Cobrança** \> [Métodos de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="0d15c-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
+1. <span data-ttu-id="b193d-103">No centro de administração do Microsoft 365, acesse a página **Cobrança** \> [Métodos de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="b193d-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
 
-2. <span data-ttu-id="0d15c-104">Selecione **Adicionar um método de pagamento**.</span><span class="sxs-lookup"><span data-stu-id="0d15c-104">Select **Add a payment method**.</span></span>
+2. <span data-ttu-id="b193d-104">Selecione **Adicionar um método de pagamento**.</span><span class="sxs-lookup"><span data-stu-id="b193d-104">Select **Add a payment method**.</span></span>
 
-3. <span data-ttu-id="0d15c-105">Na página **Método de pagamento**, escolha um método de pagamento do menu suspenso.</span><span class="sxs-lookup"><span data-stu-id="0d15c-105">On the **Payment methods** page, pick a payment method from the drop-down menu.</span></span>
+3. <span data-ttu-id="b193d-105">Na página **Método de pagamento**, escolha um método de pagamento do menu suspenso.</span><span class="sxs-lookup"><span data-stu-id="b193d-105">On the **Payment methods** page, pick a payment method from the drop-down menu.</span></span>
 
-4. <span data-ttu-id="0d15c-106">Insira as informações do novo cartão de crédito ou da nova conta e selecione **Salvar**.</span><span class="sxs-lookup"><span data-stu-id="0d15c-106">Enter the information for the new credit card or bank account, then choose Submit.</span></span>
+4. <span data-ttu-id="b193d-106">Insira as informações do novo cartão de crédito ou da nova conta e selecione **Salvar**.</span><span class="sxs-lookup"><span data-stu-id="b193d-106">Enter the information for the new credit card or bank account, then choose Submit.</span></span>
 
-<span data-ttu-id="0d15c-107">Para saber mais, confira [Adicionar, atualizar ou remover um cartão de crédito ou uma conta bancária no Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="0d15c-107">[Add, update, or remove a credit card or bank account in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)</span></span>
+<span data-ttu-id="b193d-107">Para saber mais, confira [Adicionar, atualizar ou remover um cartão de crédito ou uma conta bancária no Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="b193d-107">[Add, update, or remove a credit card or bank account in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)</span></span>
