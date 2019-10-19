@@ -12,10 +12,10 @@ ms.custom:
 - "1819"
 - "9000236"
 ms.openlocfilehash: a7eed96ea74b037adaa39bbe2d91936d65fe54c3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538188"
 ---
 # <a name="add-your-other-email-accounts-to-outlookcom"></a>Adicionar suas outras contas de email ao Outlook.com
@@ -30,7 +30,7 @@ Para adicionar uma conta conectada:
 2. Em **contas conectadas**, selecione **gmail** ou **outras contas de email**.
 3. Na página conectar sua conta, digite um nome para exibição (os destinatários do nome verão quando receberem uma mensagem de email) e o endereço de email completo e a senha da conta de email que você deseja conectar à sua conta do Outlook.com.
 
-Você pode enviar emails de qualquer conta que você tenha conectado à sua conta do Outlook.com. Ao redigir um email, selecione **** e escolha o endereço de email que você deseja usar ou [atualize seu endereço de padrão](https://go.microsoft.com/fwlink/?linkid=875264).
+Você pode enviar emails de qualquer conta que você tenha conectado à sua conta do Outlook.com. Ao redigir um email **, selecione e** escolha o endereço de email que você deseja usar ou [atualize seu endereço de padrão](https://go.microsoft.com/fwlink/?linkid=875264).
 
 Para obter mais informações, leia [adicionar suas outras contas de email ao Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 

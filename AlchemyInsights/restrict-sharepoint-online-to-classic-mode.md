@@ -13,10 +13,10 @@ ms.custom:
 - "1889"
 - "9000225"
 ms.openlocfilehash: 18d263593d99f24c3020336ae601df14dbbf5411
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36752056"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>Restringir o modo clássico do SharePoint Online
@@ -26,7 +26,7 @@ Algumas organizações ainda exigem a experiência de modo clássico. Embora nã
 O administrador terá as seguintes opções para gerenciar listas e bibliotecas individuais no modo clássico usando opções de recusa granular que fornecemos nos seguintes níveis:
 
 - conjunto de sites
-- no
+- site
 - list
 - Libra
 

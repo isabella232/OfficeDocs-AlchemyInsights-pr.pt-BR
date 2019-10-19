@@ -12,10 +12,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
 ms.openlocfilehash: da2e654a40cfb3a802a77526706b5093e2a6ac2d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549207"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Compartilhar arquivos no OneDrive com pessoas de fora da sua organização
@@ -26,7 +26,7 @@ ms.locfileid: "36549207"
     
 3. Se o tipo de link estiver definido como "pessoas \<da sua\>organização", clique na seta para baixo e selecione uma destas opções: 
     
-  - **Qualquer pessoa** dá acesso a qualquer pessoa que receber esse link, se ele o receberá diretamente de você ou encaminhada de outra pessoa. Isso pode incluir pessoas de fora da sua organização. 
+  - **Qualquer pessoa** dá acesso a qualquer pessoa que receber esse link, se ele o receberá diretamente de você ou encaminhada de outra pessoa. Isso pode incluir pessoas de fora da organização. 
     
   - **Pessoas específicas** só dão acesso às pessoas que você especificar, embora outras pessoas já possam ter acesso. Se as pessoas encaminharem o convite de compartilhamento, somente as pessoas que já têm acesso ao item poderão usar o link. 
     
