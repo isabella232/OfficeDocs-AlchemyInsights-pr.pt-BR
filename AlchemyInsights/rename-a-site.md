@@ -2,7 +2,6 @@
 title: Renomear um site
 ms.author: pebaum
 author: Techwriter40
-ms.date: 9/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,16 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: ee92e2687da9e72d8551e74a0d179bf2c50f2adb
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 453b19d9a35e074a9b0e8aaae5a4256110d4a1f9
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36752164"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658353"
 ---
-# <a name="rename-a-sharepoint-site"></a><span data-ttu-id="e9590-102">Renomear um site do SharePoint</span><span class="sxs-lookup"><span data-stu-id="e9590-102">Rename a SharePoint site</span></span>
+# <a name="rename-a-sharepoint-site"></a><span data-ttu-id="b5cd9-102">Renomear um site do SharePoint</span><span class="sxs-lookup"><span data-stu-id="b5cd9-102">Rename a SharePoint site</span></span>
 
-<span data-ttu-id="e9590-103">Para alterar o nome de um site, por exemplo, de https://contoso.sharepoint.com/sites/sample1 para https://contoso.sharepoint.com/sites/sample2, você precisa criar um novo site e, em seguida, mover todo o conteúdo do site antigo para o novo.</span><span class="sxs-lookup"><span data-stu-id="e9590-103">To change the name of a site, for example, from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2, you need to create a new site and then move all the content from the old site to the new one.</span></span> <span data-ttu-id="e9590-104">Para obter informações sobre como mover itens em bibliotecas de documentos, consulte [mover ou copiar itens de uma biblioteca de documentos do SharePoint](https://go.microsoft.com/fwlink/?Linkid=2018691).</span><span class="sxs-lookup"><span data-stu-id="e9590-104">For info about moving items in document libraries, see [Move or copy items from a SharePoint document library](https://go.microsoft.com/fwlink/?Linkid=2018691).</span></span>
-  
-<span data-ttu-id="e9590-105">Observação: se você estiver tentando alterar o nome de domínio (ou seja, a parte contoso da URL acima) em uma URL do SharePoint Online, isso não é possível.</span><span class="sxs-lookup"><span data-stu-id="e9590-105">Note: If you are trying to change the domain name (that is, the contoso part of the URL above) in a SharePoint Online URL, that is not possible.</span></span> <span data-ttu-id="e9590-106">Confira [alterar seus domínios](https://go.microsoft.com/fwlink/?Linkid=2018696).</span><span class="sxs-lookup"><span data-stu-id="e9590-106">See [Change your domains](https://go.microsoft.com/fwlink/?Linkid=2018696).</span></span>
+<span data-ttu-id="b5cd9-103">Siga as etapas [deste artigo](https://docs.microsoft.com/sharepoint/change-site-address) para alterar o nome de um site, por exemplo, de https://contoso.sharepoint.com/sites/sample1 para. https://contoso.sharepoint.com/sites/sample2</span><span class="sxs-lookup"><span data-stu-id="b5cd9-103">Follow steps in [this article](https://docs.microsoft.com/sharepoint/change-site-address) to change the name of a site--for example, from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2.</span></span>
+
+<span data-ttu-id="b5cd9-104">**Observação:** Não é possível alterar o nome de domínio (no exemplo acima, a parte contoso da URL) em uma URL do SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="b5cd9-104">**Note:** You cannot change the domain name (in the example above, the contoso part of the URL) in a SharePoint Online URL.</span></span> <span data-ttu-id="b5cd9-105">Confira [alterar seus domínios](https://go.microsoft.com/fwlink/?Linkid=2018696) para obter mais informações.</span><span class="sxs-lookup"><span data-stu-id="b5cd9-105">See [Change your domains](https://go.microsoft.com/fwlink/?Linkid=2018696) for more information.</span></span>
   
