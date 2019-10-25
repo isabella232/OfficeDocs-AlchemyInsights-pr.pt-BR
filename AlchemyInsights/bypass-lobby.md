@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
+ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637765"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37654244"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Controlar configurações de lobby e nível de participação
 
@@ -24,7 +24,7 @@ Se quiser permitir que todos, incluindo usuários de discagem, externos e anôni
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Atualmente, este cmdlet requer o uso do módulo PowerShell do Skype for Business. Para fazer com que a instalação Use este cmdlet, confira gerenciamento de políticas por meio do PowerShell.
+Atualmente, este cmdlet requer o uso do módulo PowerShell do Skype for Business. Para fazer com que a instalação Use este cmdlet, confira [Gerenciamento de políticas por meio do PowerShell](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
 Você pode configurar uma nova política, que deverá ser aplicada aos usuários. Se você modificar a política global, ela será automaticamente aplicada aos usuários. Para qualquer alteração de política, você precisa aguardar pelo menos 4 horas e até 24 horas para que as políticas entrem em vigor.
 
