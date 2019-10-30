@@ -8,14 +8,14 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: c11d226c3c7105cea3abcc180a00262bb6e4244f
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 1bcaa2d45179e38a47569fba172300a259c5b661
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36754792"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769507"
 ---
-# <a name="create-and-edit-modern-pages-on-sharepoint-site"></a>Criar e editar páginas modernas no site do SharePoint
+# <a name="create-and-edit-modern-pages-on-a-sharepoint-site"></a>Criar e editar páginas modernas em um site do SharePoint
 
 Você pode editar arquivos e páginas de forma rápida e fácil, e eles ficam ótimos em qualquer dispositivo. Para obter mais informações, visite os links abaixo.
 

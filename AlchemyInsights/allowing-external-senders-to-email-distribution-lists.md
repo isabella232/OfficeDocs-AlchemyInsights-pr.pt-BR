@@ -3,7 +3,6 @@ title: 714 permitindo remetentes externos a listas de distribuição de email
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 1978e27e605c124299e5737315e7e2926e7238c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506539"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768212"
 ---
 # <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Permitir que remetentes externos enviem mensagens para grupos de distribuição
 
 Se os usuários de fora da sua organização receberem erros ao enviarem mensagens para seus grupos de distribuição ou se quiser verificar se os grupos de distribuição estão configurados para receber emails de remetentes externos, siga estas etapas:
 
-1. Vá para o nó **grupos** no [portal de administração do Office 365](https://portal.office.com/adminportal/home#/groups).
+1. No centro de administração do Office 365, vá para **** > [a página grupos](https://portal.office.com/adminportal/home#/groups) de grupos.  
 
-2. Selecione o grupo de distribuição e, em seguida, nas propriedades de grupo que aparecem, clique em **Editar** na seção que contém **permitir remetentes externos**.
+2. Selecione o grupo de distribuição e, no painel Propriedades do grupo, selecione a guia **configurações** .
 
-3. No menu **Editar detalhes** , verifique se a opção permitir que **pessoas fora da minha organização enviem email para este grupo de distribuição.** está **ativado**e clique em **salvar**.
+3. Selecione **permitir que remetentes externos enviem esse grupo por email**e selecione **salvar**.

@@ -2,7 +2,6 @@
 title: Criar um site do SharePoint
 ms.author: efrene
 author: efrene
-ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
 ms.collection: Adm_O365
@@ -14,12 +13,12 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 30c51d84005534cc1de9e8b8136da1a07be57b73
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ac894195d847dfc009bc0b57647e1a474361f1c1
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36738185"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769579"
 ---
 # <a name="create-a-sharepoint-site"></a>Criar um site do SharePoint
 
@@ -31,10 +30,10 @@ Você pode ver o seguinte para obter informações sobre a criação de sites do
 
 
   
-> [! Sobre
-> - Não é possível criar um site com a mesma URL de um site existente. Se você excluiu um site e deseja usar novamente a URL, é possível que o site excluído ainda exista em **sites excluídos**. Para gerenciar sites excluídos, consulte [excluir um site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Para remover completamente um site com PowerShell, consulte o exemplo do cmdlet [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
-> - Alguns usuários podem não conseguir criar um site. Confira [gerenciar a criação de sites no SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-> - É possível que o site pareça estar preso na **criação** de mais tempo do que o esperado. Se passar mais de 24 horas desde que você viu o problema pela primeira vez, registre um tíquete de suporte. Em muitos casos, já estamos trabalhando em uma solução. Aguarde pelo menos 24 horas para concluir uma solução.
-> - Se você precisar criar um novo site de equipe que não inclua um grupo do Office 365, 
+**Sobre**
+- Não é possível criar um site com a mesma URL de um site existente. Se você excluiu um site e deseja usar novamente a URL, é possível que o site excluído ainda exista em **sites excluídos**. Para gerenciar sites excluídos, consulte [excluir um site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Para remover completamente um site com PowerShell, consulte o exemplo do cmdlet [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
+- Alguns usuários podem não conseguir criar um site. Confira [gerenciar a criação de sites no SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- É possível que o site pareça estar preso na **criação** de mais tempo do que o esperado. Se passar mais de 24 horas desde que você viu o problema pela primeira vez, registre um tíquete de suporte. Em muitos casos, já estamos trabalhando em uma solução. Aguarde pelo menos 24 horas para concluir uma solução.
+- Se você precisar criar um novo site de equipe que não inclua um grupo do Office 365, 
 
 

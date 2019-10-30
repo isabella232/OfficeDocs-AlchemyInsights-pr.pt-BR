@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: fb29d30eb676de8d367002010d3eabebd73bc54b
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: c452169a260dd8b6f2aea32729c4228e54c18e77
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36756124"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769003"
 ---
 # <a name="recover-missing-or-deleted-site-collections"></a>Recuperar conjuntos de sites ausentes ou excluídos
 
-Como recuperar conjuntos de sites ausentes ou excluídos.
+Consulte os artigos a seguir para obter informações sobre como recuperar conjuntos de sites ausentes ou excluídos no SharePoint.
 
 [Restaurar sites excluídos](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
@@ -27,6 +27,6 @@ Como recuperar conjuntos de sites ausentes ou excluídos.
 
 Se não for possível localizar o site, talvez você queira [Pesquisar o log de auditoria no centro de &amp; conformidade de segurança do Office 365](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
 
-**Observação**: os sites de equipe "modernos" não são visíveis na IU de administração **clássica** do SharePoint. Você pode acessar a lista de sites "modernos" do [novo centro de administração do SharePoint](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
+**Observação:** Os sites de equipe "modernos" não são visíveis na IU de administração **clássica** do SharePoint. Você pode acessar a lista de sites "modernos" do [novo centro de administração do SharePoint](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
 
 

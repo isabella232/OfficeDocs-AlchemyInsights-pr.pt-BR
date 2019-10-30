@@ -15,16 +15,16 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643682"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768716"
 ---
 # <a name="block-or-unblock-senders"></a>Bloquear ou desbloquear remetentes
 
-As mensagens de endereços de email ou domínios nos remetentes bloqueados vão diretamente para a pasta lixo eletrônico. O email é removido automaticamente da pasta lixo eletrônico após 30 dias e não é recuperável. Se; um item para ver quando ele será removido.
+As mensagens de endereços de email ou domínios nos remetentes bloqueados vão diretamente para a pasta lixo eletrônico do Outlook. O email é removido automaticamente da pasta lixo eletrônico após 30 dias e não é recuperável. Selecione um item para ver quando ele será removido.
 
 **Na caixa de entrada:**
 
