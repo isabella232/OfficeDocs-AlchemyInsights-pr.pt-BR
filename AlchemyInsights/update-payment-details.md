@@ -11,29 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 768b2bcdc6b34b4448b7985863b77d525ee849fb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660924"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921802"
 ---
-# <a name="update-payment-details"></a><span data-ttu-id="c03c2-102">Atualizar detalhes de pagamento</span><span class="sxs-lookup"><span data-stu-id="c03c2-102">Update payment details</span></span>
+# <a name="update-payment-details"></a><span data-ttu-id="034ee-102">Atualizar detalhes de pagamento</span><span class="sxs-lookup"><span data-stu-id="034ee-102">Update payment details</span></span>
 
-1. <span data-ttu-id="c03c2-103">No centro de administração do Microsoft 365, acesse a página **Cobrança** \> [Métodos de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="c03c2-103">In the Admin center, go to the **Payment methods** page, or choose \> [](https://go.microsoft.com/fwlink/p/?linkid=2018806) Payment methods.</span></span>
-
-    > [!NOTE]
-    > <span data-ttu-id="c03c2-104">Se houver um loop que o envia de volta para a home page do administrador antes da conclusão das atualizações, experimente o modo InPrivate ou Anônimo.</span><span class="sxs-lookup"><span data-stu-id="c03c2-104">If you experience a loop that sends you back to the Admin home page before your updates are complete, try Inprivate or Incognito mode.</span></span>
-  
-2. <span data-ttu-id="c03c2-105">Escolha o cartão de crédito que você deseja atualizar.</span><span class="sxs-lookup"><span data-stu-id="c03c2-105">Choose the credit card you would like to update.</span></span>
+1. <span data-ttu-id="034ee-103">No centro de administração do Microsoft 365, acesse a página **Cobrança** \> [Métodos de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="034ee-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="c03c2-106">Se outro administrador adicionou a forma de pagamento, você não poderá atualizar as informações de cartão de crédito ou conta bancária.</span><span class="sxs-lookup"><span data-stu-id="c03c2-106">If another admin added the payment method, you won't be able to update the credit card or bank account information for it.</span></span> <span data-ttu-id="c03c2-107">Caso o cartão de crédito esteja prestes a expirar e o outro administrador não possa atualizar as informações, você poderá adicionar outro cartão de crédito ou uma nova conta bancária à assinatura para evitar a interrupção do serviço, escolhendo **Adicionar forma de pagamento**.</span><span class="sxs-lookup"><span data-stu-id="c03c2-107">If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription by choosing **Add payment method**.</span></span>
+    > <span data-ttu-id="034ee-104">Se houver um loop que o envia de volta para a home page do administrador antes da conclusão das atualizações, experimente o modo InPrivate ou Anônimo.</span><span class="sxs-lookup"><span data-stu-id="034ee-104">If you experience a loop that sends you back to the Admin home page before your updates are complete, try Inprivate or Incognito mode.</span></span>
   
-3. <span data-ttu-id="c03c2-108">No painel **Detalhes da forma de pagamento**, selecione**Editar**.</span><span class="sxs-lookup"><span data-stu-id="c03c2-108">In the **Payment method details** pane, select **Edit**.</span></span>
+2. <span data-ttu-id="034ee-105">Escolha o cartão de crédito que você deseja atualizar.</span><span class="sxs-lookup"><span data-stu-id="034ee-105">Choose the credit card you would like to update.</span></span>
 
-4. <span data-ttu-id="c03c2-109">Faça as atualizações e, em seguida, escolha **Salvar**.</span><span class="sxs-lookup"><span data-stu-id="c03c2-109">Make the updates, and then choose **Save**.</span></span>
+    > [!NOTE]
+    > <span data-ttu-id="034ee-106">Se outro administrador adicionou a forma de pagamento, você não poderá atualizar as informações de cartão de crédito ou conta bancária.</span><span class="sxs-lookup"><span data-stu-id="034ee-106">If another admin added the payment method, you won't be able to update the credit card or bank account information for it.</span></span> <span data-ttu-id="034ee-107">Caso o cartão de crédito esteja prestes a expirar e o outro administrador não possa atualizar as informações, você poderá adicionar outro cartão de crédito ou uma nova conta bancária à assinatura para evitar a interrupção do serviço, escolhendo **Adicionar forma de pagamento**.</span><span class="sxs-lookup"><span data-stu-id="034ee-107">If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription by choosing **Add payment method**.</span></span>
+  
+3. <span data-ttu-id="034ee-108">No painel **Detalhes da forma de pagamento**, selecione**Editar**.</span><span class="sxs-lookup"><span data-stu-id="034ee-108">In the **Payment method details** pane, select **Edit**.</span></span>
 
-5. <span data-ttu-id="c03c2-110">Para remover essa forma de pagamento, escolha **Excluir**.</span><span class="sxs-lookup"><span data-stu-id="c03c2-110">To remove this payment method, choose **Delete**.</span></span>
+4. <span data-ttu-id="034ee-109">Faça as atualizações e, em seguida, escolha **Salvar**.</span><span class="sxs-lookup"><span data-stu-id="034ee-109">Make the updates, and then choose **Save**.</span></span>
 
-<span data-ttu-id="c03c2-111">Para obter mais informações, confira [Adicionar, atualizar ou remover cartão de crédito ou conta bancária no Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) e [Como solucionar problemas com cartões de crédito e contas bancárias](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).</span><span class="sxs-lookup"><span data-stu-id="c03c2-111">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) and [Troubleshooting credit cards and bank accounts](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).</span></span>
+5. <span data-ttu-id="034ee-110">Para remover essa forma de pagamento, escolha **Excluir**.</span><span class="sxs-lookup"><span data-stu-id="034ee-110">To remove this payment method, choose **Delete**.</span></span>
+
+<span data-ttu-id="034ee-111">**Solução de Problemas**</span><span class="sxs-lookup"><span data-stu-id="034ee-111">**Troubleshooting**</span></span>
+
+<span data-ttu-id="034ee-112">Se você tiver problemas com o carregamento da página, tente abrir a página da Web em um navegador diferente ou tente abrir a página em uma janela privada do navegador, como uma janela InPrivate no Microsoft Edge ou uma janela anônima no Google Chrome.</span><span class="sxs-lookup"><span data-stu-id="034ee-112">If you experience problems with the page loading, try opening the web page in a different browser, or try opening the page a private browser window, such as an InPrivate window in Microsoft Edge or an incognito window in Google Chrome.</span></span> 
+
+<span data-ttu-id="034ee-113">Para obter mais informações, confira [Adicionar, atualizar ou remover cartão de crédito ou conta bancária no Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) e [Como solucionar problemas com cartões de crédito e contas bancárias](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).</span><span class="sxs-lookup"><span data-stu-id="034ee-113">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) and [Troubleshooting credit cards and bank accounts](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).</span></span>
