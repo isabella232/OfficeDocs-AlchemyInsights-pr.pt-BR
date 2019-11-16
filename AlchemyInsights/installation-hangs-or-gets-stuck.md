@@ -13,27 +13,27 @@ ms.custom:
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
 ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36735413"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a><span data-ttu-id="7792f-102">A instalação do Office paralisa ou fica presa</span><span class="sxs-lookup"><span data-stu-id="7792f-102">Office installation hangs or gets stuck</span></span>
+# <a name="office-installation-hangs-or-gets-stuck"></a><span data-ttu-id="b892b-102">A instalação do Office paralisa ou fica presa</span><span class="sxs-lookup"><span data-stu-id="b892b-102">Office installation hangs or gets stuck</span></span>
 
-<span data-ttu-id="7792f-103">Você pode ver esse comportamento devido à conectividade de rede, software antivírus ou configurações do Windows Update no computador.</span><span class="sxs-lookup"><span data-stu-id="7792f-103">You might see this behavior due to network connectivity, antivirus software, or Windows Update settings on your computer.</span></span> <span data-ttu-id="7792f-104">Here are some things you can try to fix the problem.</span><span class="sxs-lookup"><span data-stu-id="7792f-104">Here are some things you can try to fix the problem.</span></span>
+<span data-ttu-id="b892b-103">Você pode ver esse comportamento devido à conectividade de rede, software antivírus ou configurações do Windows Update no computador.</span><span class="sxs-lookup"><span data-stu-id="b892b-103">You might see this behavior due to network connectivity, antivirus software, or Windows Update settings on your computer.</span></span> <span data-ttu-id="b892b-104">Here are some things you can try to fix the problem.</span><span class="sxs-lookup"><span data-stu-id="b892b-104">Here are some things you can try to fix the problem.</span></span>
   
-- <span data-ttu-id="7792f-105">Reiniciar o computador e verificar se o Office está instalado</span><span class="sxs-lookup"><span data-stu-id="7792f-105">Restart your computer and check if Office Installed</span></span>
+- <span data-ttu-id="b892b-105">Reiniciar o computador e verificar se o Office está instalado</span><span class="sxs-lookup"><span data-stu-id="b892b-105">Restart your computer and check if Office Installed</span></span>
 
-- <span data-ttu-id="7792f-106">Usar uma conexão com fio</span><span class="sxs-lookup"><span data-stu-id="7792f-106">Use a wired connection</span></span>
+- <span data-ttu-id="b892b-106">Usar uma conexão com fio</span><span class="sxs-lookup"><span data-stu-id="b892b-106">Use a wired connection</span></span>
 
-- <span data-ttu-id="7792f-107">Se você estiver em uma conexão com a Internet lenta, instale [o Office usando o instalador offline do Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="7792f-107">If you're on a slow internet connection, install Office [using the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span></span>
+- <span data-ttu-id="b892b-107">Se você estiver em uma conexão com a Internet lenta, instale [o Office usando o instalador offline do Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="b892b-107">If you're on a slow internet connection, install Office [using the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span></span>
 
-- <span data-ttu-id="7792f-108">Desativar temporariamente o software antivírus</span><span class="sxs-lookup"><span data-stu-id="7792f-108">Temporarily turn off antivirus software</span></span>
+- <span data-ttu-id="b892b-108">Desativar temporariamente o software antivírus</span><span class="sxs-lookup"><span data-stu-id="b892b-108">Temporarily turn off antivirus software</span></span>
 
-- <span data-ttu-id="7792f-109">Executar reparo online no painel de controle</span><span class="sxs-lookup"><span data-stu-id="7792f-109">Run online repair from Control Panel</span></span>
+- <span data-ttu-id="b892b-109">Executar reparo online no painel de controle</span><span class="sxs-lookup"><span data-stu-id="b892b-109">Run online repair from Control Panel</span></span>
 
-- <span data-ttu-id="7792f-110">Remover e reinstalar o Office</span><span class="sxs-lookup"><span data-stu-id="7792f-110">Remove and reinstall Office</span></span>
+- <span data-ttu-id="b892b-110">Remover e reinstalar o Office</span><span class="sxs-lookup"><span data-stu-id="b892b-110">Remove and reinstall Office</span></span>
 
-[<span data-ttu-id="7792f-111">O Office está demorando para instalar</span><span class="sxs-lookup"><span data-stu-id="7792f-111">Office is taking long to install</span></span>](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[<span data-ttu-id="b892b-111">O Office está demorando para instalar</span><span class="sxs-lookup"><span data-stu-id="b892b-111">Office is taking long to install</span></span>](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   

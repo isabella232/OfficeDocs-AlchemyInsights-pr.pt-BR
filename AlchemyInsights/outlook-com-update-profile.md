@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
 ms.openlocfilehash: e18742425546d9d455d56fdf400338a45361633b
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36511331"
 ---
-# <a name="change-my-profile-picture-or-name-in-outlookcom"></a><span data-ttu-id="e4240-102">Alterar o nome ou imagem de meu perfil no Outlook.com</span><span class="sxs-lookup"><span data-stu-id="e4240-102">Change my profile picture or name in Outlook.com</span></span>
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a><span data-ttu-id="246a5-102">Alterar o nome ou imagem de meu perfil no Outlook.com</span><span class="sxs-lookup"><span data-stu-id="246a5-102">Change my profile picture or name in Outlook.com</span></span>
 
-1. <span data-ttu-id="e4240-103">Vá para [as informações da sua conta da Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="e4240-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
-1. <span data-ttu-id="e4240-104">Selecione **Editar nome** ou **alterar imagem**.</span><span class="sxs-lookup"><span data-stu-id="e4240-104">Select **Edit name** or **Change picture**.</span></span>
+1. <span data-ttu-id="246a5-103">Vá para [as informações da sua conta da Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="246a5-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
+1. <span data-ttu-id="246a5-104">Selecione **Editar nome** ou **alterar imagem**.</span><span class="sxs-lookup"><span data-stu-id="246a5-104">Select **Edit name** or **Change picture**.</span></span>
 
-<span data-ttu-id="e4240-105">Aguarde até 24 horas para que as alterações na foto ou nome do seu perfil entrem em vigor.</span><span class="sxs-lookup"><span data-stu-id="e4240-105">Please allow up to 24 hours for changes to your profile photo or name to go into effect.</span></span>
+<span data-ttu-id="246a5-105">Aguarde até 24 horas para que as alterações na foto ou nome do seu perfil entrem em vigor.</span><span class="sxs-lookup"><span data-stu-id="246a5-105">Please allow up to 24 hours for changes to your profile photo or name to go into effect.</span></span>
