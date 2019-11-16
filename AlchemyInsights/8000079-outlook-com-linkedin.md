@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000079
 ms.openlocfilehash: 136b349c374518e2b130184f2dc64d1bf9a7f7b0
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36494335"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a><span data-ttu-id="f5861-102">Problemas com o lixo eletrônico alegando ser do LinkedIn</span><span class="sxs-lookup"><span data-stu-id="f5861-102">Issues with Junk email claiming to be from LinkedIn</span></span>
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a><span data-ttu-id="eb086-102">Problemas com o lixo eletrônico alegando ser do LinkedIn</span><span class="sxs-lookup"><span data-stu-id="eb086-102">Issues with Junk email claiming to be from LinkedIn</span></span>
 
-<span data-ttu-id="f5861-103">Se você estiver recebendo lixo eletrônico que alega ser do LinkedIn, você pode criar uma regra para filtrar esses emails.</span><span class="sxs-lookup"><span data-stu-id="f5861-103">If you're receiving junk email which claims to be from LinkedIn, you can create a rule to filter those emails.</span></span>
-<span data-ttu-id="f5861-104">Consulte [usar regras de caixa de entrada no Outlook.com](https://aka.ms/OutlookComInboxRules) para obter mais informações.</span><span class="sxs-lookup"><span data-stu-id="f5861-104">See [Use inbox rules in Outlook.com](https://aka.ms/OutlookComInboxRules) for more information.</span></span>
+<span data-ttu-id="eb086-103">Se você estiver recebendo lixo eletrônico que alega ser do LinkedIn, você pode criar uma regra para filtrar esses emails.</span><span class="sxs-lookup"><span data-stu-id="eb086-103">If you're receiving junk email which claims to be from LinkedIn, you can create a rule to filter those emails.</span></span>
+<span data-ttu-id="eb086-104">Consulte [usar regras de caixa de entrada no Outlook.com](https://aka.ms/OutlookComInboxRules) para obter mais informações.</span><span class="sxs-lookup"><span data-stu-id="eb086-104">See [Use inbox rules in Outlook.com](https://aka.ms/OutlookComInboxRules) for more information.</span></span>
 
 

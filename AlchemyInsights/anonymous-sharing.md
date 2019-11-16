@@ -9,28 +9,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
 ms.openlocfilehash: c2b06cc64d071a80fa6cafe0f066a3885e388d6b
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768284"
 ---
-# <a name="anonymous-sharing"></a><span data-ttu-id="10026-102">Compartilhamento anônimo</span><span class="sxs-lookup"><span data-stu-id="10026-102">Anonymous sharing</span></span>
+# <a name="anonymous-sharing"></a><span data-ttu-id="35781-102">Compartilhamento anônimo</span><span class="sxs-lookup"><span data-stu-id="35781-102">Anonymous sharing</span></span>
 
- <span data-ttu-id="10026-103">**Habilitar acesso anônimo**</span><span class="sxs-lookup"><span data-stu-id="10026-103">**Enable anonymous access**</span></span>
+ <span data-ttu-id="35781-103">**Habilitar acesso anônimo**</span><span class="sxs-lookup"><span data-stu-id="35781-103">**Enable anonymous access**</span></span>
   
-<span data-ttu-id="10026-104">No novo centro de administração do SharePoint, clique em **compartilhamento** no painel esquerdo.</span><span class="sxs-lookup"><span data-stu-id="10026-104">In the new SharePoint admin center, click **sharing** in the left pane.</span></span> 
+<span data-ttu-id="35781-104">No novo centro de administração do SharePoint, clique em **compartilhamento** no painel esquerdo.</span><span class="sxs-lookup"><span data-stu-id="35781-104">In the new SharePoint admin center, click **sharing** in the left pane.</span></span> 
   
-- <span data-ttu-id="10026-105">Selecione o seguinte: **permitir o compartilhamento para usuários externos autenticados e usar o acesso anônimo.**</span><span class="sxs-lookup"><span data-stu-id="10026-105">Select the following: **Allow sharing to authenticated external users and using anonymous access.**</span></span>
+- <span data-ttu-id="35781-105">Selecione o seguinte: **permitir o compartilhamento para usuários externos autenticados e usar o acesso anônimo.**</span><span class="sxs-lookup"><span data-stu-id="35781-105">Select the following: **Allow sharing to authenticated external users and using anonymous access.**</span></span>
   
-<span data-ttu-id="10026-106">(Opcionalmente, você pode definir links para expirar em um número específico de dias e selecionar como os destinatários podem usar os links.)</span><span class="sxs-lookup"><span data-stu-id="10026-106">(Optionally, you can set links to expire in a specific number of days, and select how recipients can use the links.)</span></span>
+<span data-ttu-id="35781-106">(Opcionalmente, você pode definir links para expirar em um número específico de dias e selecionar como os destinatários podem usar os links.)</span><span class="sxs-lookup"><span data-stu-id="35781-106">(Optionally, you can set links to expire in a specific number of days, and select how recipients can use the links.)</span></span>
     
- <span data-ttu-id="10026-107">**Compartilhar um arquivo ou uma pasta anonimamente**</span><span class="sxs-lookup"><span data-stu-id="10026-107">**Share a file or folder anonymously**</span></span>
+ <span data-ttu-id="35781-107">**Compartilhar um arquivo ou uma pasta anonimamente**</span><span class="sxs-lookup"><span data-stu-id="35781-107">**Share a file or folder anonymously**</span></span>
   
-- <span data-ttu-id="10026-108">Selecione o arquivo ou pasta que você deseja compartilhar e clique em **compartilhar**.</span><span class="sxs-lookup"><span data-stu-id="10026-108">Select the file or folder you want to share, and then click **Share**.</span></span> 
+- <span data-ttu-id="35781-108">Selecione o arquivo ou pasta que você deseja compartilhar e clique em **compartilhar**.</span><span class="sxs-lookup"><span data-stu-id="35781-108">Select the file or folder you want to share, and then click **Share**.</span></span> 
     
-- <span data-ttu-id="10026-109">Para quem você deseja que este link funcione? clique em **qualquer pessoa.**</span><span class="sxs-lookup"><span data-stu-id="10026-109">Who would you like this link to work for? click **Anyone.**</span></span>
+- <span data-ttu-id="35781-109">Para quem você deseja que este link funcione? clique em **qualquer pessoa.**</span><span class="sxs-lookup"><span data-stu-id="35781-109">Who would you like this link to work for? click **Anyone.**</span></span>
   
- <span data-ttu-id="10026-110">**Observação**: **qualquer pessoa** cria um link que pode ser usado por qualquer pessoa para acessar o documento ou a pasta, mesmo que eles não estejam conectados ao Office 365 ou onedrive.</span><span class="sxs-lookup"><span data-stu-id="10026-110">**Note**: **Anyone** creates a link that anyone can use to access the document or folder, even if they're not logged in to Office 365 or OneDrive.</span></span> <span data-ttu-id="10026-111">Use isso para compartilhar com qualquer pessoa, dentro ou fora da sua empresa.</span><span class="sxs-lookup"><span data-stu-id="10026-111">Use this to share with anyone, inside or outside your company.</span></span> <span data-ttu-id="10026-112">Este link também pode ser encaminhado para qualquer pessoa.</span><span class="sxs-lookup"><span data-stu-id="10026-112">This link can also be forwarded around to anyone.</span></span> 
+ <span data-ttu-id="35781-110">**Observação**: **qualquer pessoa** cria um link que pode ser usado por qualquer pessoa para acessar o documento ou a pasta, mesmo que eles não estejam conectados ao Office 365 ou onedrive.</span><span class="sxs-lookup"><span data-stu-id="35781-110">**Note**: **Anyone** creates a link that anyone can use to access the document or folder, even if they're not logged in to Office 365 or OneDrive.</span></span> <span data-ttu-id="35781-111">Use isso para compartilhar com qualquer pessoa, dentro ou fora da sua empresa.</span><span class="sxs-lookup"><span data-stu-id="35781-111">Use this to share with anyone, inside or outside your company.</span></span> <span data-ttu-id="35781-112">Este link também pode ser encaminhado para qualquer pessoa.</span><span class="sxs-lookup"><span data-stu-id="35781-112">This link can also be forwarded around to anyone.</span></span> 
     
 
