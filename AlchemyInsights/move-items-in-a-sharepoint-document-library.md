@@ -13,16 +13,16 @@ ms.custom:
 - "453"
 - "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: 6e68e021525b9bff1c9666d0db5b44ea5d72c753
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63d2115c6c167ade1d39f8cdeca08de1a2e12d17
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549024"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711708"
 ---
 # <a name="move-items-in-a-sharepoint-document-library"></a>Mover itens em uma biblioteca de documentos do SharePoint
 
-Você pode mover itens para diferentes locais dentro de uma biblioteca de documentos. Se você tiver [configurado a opção de lançamento direcionado](https://go.microsoft.com/fwlink/?linkid=622980), também poderá mover itens entre sites. Quando você move documentos, seus históricos também são movidos.
+Você pode mover itens para diferentes locais dentro de uma biblioteca de documentos.
   
 1. Em um navegador da Web, navegue até os arquivos, pastas ou links que você deseja mover e, em seguida, clique em **mover para**.
 
@@ -34,3 +34,10 @@ Você pode mover itens para diferentes locais dentro de uma biblioteca de docume
     Para criar uma nova pasta para a qual mover os arquivos, selecione um local na hierarquia de pastas, clique em **nova pasta**, insira um nome para a pasta e clique na marca de seleção para salvar o nome.
 
 3. Clique em **mover aqui**.
+
+ Quando um arquivo está sendo movido, ele ainda aparecerá no diretório de origem até que seja totalmente movido para o destino e, em seguida, será excluído. O arquivo permanecerá na lixeira de sites de origem após a conclusão da movimentação e estará sujeito à agenda de reciclagem normal, a menos que um usuário a recupere da lixeira.
+
+Para saber mais, confira:
+
+ - [Mover ou copiar arquivos no SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (artigo de suporte do Office)
+ - [Mover arquivos de qualquer pasta no Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (artigo do blog da Comunidade Tech da Microsoft) 
