@@ -10,12 +10,12 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: 0e683c8266d425be95e87c590d4cb5d56108721a
-ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
+ms.openlocfilehash: ec8fb91dfe77cb251579ce23eb0579b114b101d9
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37207249"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627834"
 ---
 # <a name="data-location"></a>Local dos dados
 
@@ -30,7 +30,7 @@ Você pode exibir o local do seu locatário do Office 365 no centro de administr
 
 **™**
 1. Conecte-se ao Exchange Online usando o Windows PowerShell.
-2. Execute o cmdlet [Get-OrganizationalUnit](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit) para exibir uma lista das propriedades do locatário. 
+2. Execute o cmdlet [Get-OrganizationalUnit](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) para exibir uma lista das propriedades do locatário. 
 3. Observe a propriedade OrganizationId.
 
 Quando você tem o local de dados do EXO e do SPO, é possível determinar o local dos dados de outros serviços que você pode usar de [onde seus dados estão localizados](https://products.office.com/where-is-your-data-located).

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 94fd306d7eb0de5f7a9eb90b92ae49bd80c50d38
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: 6c807dc8b05788baa71b302275523b64a311157a
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37026835"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39628158"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>O Word falha ou não responde
 
@@ -31,7 +31,7 @@ Se o Word não iniciar, tente o seguinte:
 1.   Em uma área de trabalho do Windows, feche o Outlook e pressione CTRL + ALT + DEL para abrir o Gerenciador de tarefas. 
 2. Na guia **processos** , se os processos do Word estiverem em execução, selecione-os e escolha **Finalizar tarefa**. Também é recomendável reinicializar para limpar tudo da memória.
 
-    Se o Word continuar a falhar ou travar durante o lançamento, confira [abrir aplicativos do Office no modo de segurança em um computador Windows](https://support.office.com/en-us/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) para iniciá-lo no modo de segurança.
+    Se o Word continuar a falhar ou travar durante o lançamento, confira [abrir aplicativos do Office no modo de segurança em um computador Windows](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) para iniciá-lo no modo de segurança.
 
 Se você ainda tiver problemas, consulte os seguintes artigos: 
 - [Recebo um erro de "trabalho interrompido" Quando inicio aplicativos do Office no meu computador](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)

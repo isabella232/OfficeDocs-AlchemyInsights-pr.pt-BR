@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: bf8be9ffe2bfa45ed2cf149c1c4fa118b40e816d
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768428"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39626336"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Controlar configurações de lobby e nível de participação
 
@@ -24,7 +24,7 @@ Se quiser permitir que todos, incluindo usuários de discagem, externos e anôni
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Atualmente, este cmdlet requer o uso do módulo PowerShell do Skype for Business. Para fazer com que a instalação Use este cmdlet, confira [Gerenciamento de políticas por meio do PowerShell](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Atualmente, este cmdlet requer o uso do módulo PowerShell do Skype for Business. Para fazer com que a instalação Use este cmdlet, confira [Gerenciamento de políticas por meio do PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
 Você pode configurar uma nova política, que deverá ser aplicada aos usuários. Se você modificar a política global, ela será automaticamente aplicada aos usuários. Para qualquer alteração de política, você precisa aguardar pelo menos 4 horas e até 24 horas para que as políticas entrem em vigor.
 
@@ -36,8 +36,8 @@ Leia a documentação abaixo antes de fazer essas alterações para entender exa
 
 - [Permitir que pessoas anônimas iniciem uma reunião](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) é uma política por organizador que controla se pessoas anônimas, incluindo usuários B2B e federados, podem participar da reunião do usuário sem um usuário autenticado da organização em atendimento.
 
-- [Permitir que os usuários discados ignorem o lobby (em](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) **breve**) é uma política por organizador que controla se as pessoas que discam por telefone ingressam na reunião diretamente ou esperam no lobby independentemente da configuração **admitir pessoas automaticamente** .
+- [Permitir que os usuários discados ignorem o lobby (em](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) **breve**) é uma política por organizador que controla se as pessoas que discam por telefone ingressam na reunião diretamente ou esperam no lobby independentemente da configuração **admitir pessoas automaticamente** .
 
 - [Permitir que os organizadores substituam as configurações de lobby](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (em**breve**) é uma política por organizador que controla se o organizador da reunião pode substituir as configurações de lobby de que um administrador definido **automaticamente admite pessoas** e **permitir que os usuários de discagem ignorem o lobby** quando agendarem uma nova reunião.
 
-**Observação:** Leia [gerenciar políticas de reunião no Teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) para obter uma visão geral completa das políticas de reunião do Microsoft Teams.
+**Observação:** Leia [gerenciar políticas de reunião no Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) para obter uma visão geral completa das políticas de reunião do Microsoft Teams.
