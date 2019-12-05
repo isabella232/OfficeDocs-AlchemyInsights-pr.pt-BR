@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000702"
 - "2601"
-ms.openlocfilehash: 893a37e16d9582e1dade8b5cd708dd37cb7b1036
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
-ms.translationtype: HT
+ms.openlocfilehash: 2cc76aee6e904c055fdf2a18a61a9263ecd0ddc0
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37316636"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627310"
 ---
 # <a name="skype-for-business-common-issues-and-resolutions"></a>Problemas e resoluções comuns do Skype for Business 
 
@@ -34,4 +34,4 @@ Aqui estão alguns tópicos solicitados com frequência:
 
 **Comunique-se com os contatos do Skype:** [Permita que os usuários do Skype for Business adicionem contatos do Skype](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts).
 
-**Atualize o Skype for Business para o Microsoft Teams:** Confira [Introdução à atualização para o Microsoft Teams](https://docs.microsoft.com/pt-BR/microsoftteams/upgrade-start-here) e saiba mais sobre a [coexistência](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) com o Microsoft Teams ao adotar o Teams em sua organização. 
+**Atualize o Skype for Business para o Microsoft Teams:** Confira [Introdução à atualização para o Microsoft Teams](https://docs.microsoft.com/microsoftteams/upgrade-start-here) e saiba mais sobre a [coexistência](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) com o Microsoft Teams ao adotar o Teams em sua organização. 
