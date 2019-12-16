@@ -1,7 +1,7 @@
 ---
 title: Introdução ao SharePoint Online
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 74ac6eb23552ccd70de3efabeb2eed7caf249dba
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 6ecd33e81f9918c5b4baac8da264ad79773a20f9
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36750112"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044191"
 ---
 # <a name="site-and-page-navigation-in-sharepoint-sites"></a>Navegação de site e página em sites do SharePoint
 
-Os princípios fundamentais e as boas práticas de navegação em sites e páginas são igualmente aplicáveis às arquiteturas clássicas e modernas do SharePoint. No entanto, suas opções de implementação de navegação diferem com base na estrutura de seus sites e intranet. Por exemplo, as experiências de navegação herdadas disponíveis em hierarquias de site clássicas do SharePoint (sites com subsites) não estão disponíveis na experiência moderna, mas os [sites de Hub](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) oferecem uma ótima maneira de obter os recursos de navegação entre sites anteriormente disponível na navegação gerenciada e hierarquias de site no SharePoint clássico.
+Os princípios fundamentais e as boas práticas de navegação em sites e páginas são igualmente aplicáveis às arquiteturas clássicas e modernas do SharePoint. No entanto, suas opções de implementação de navegação diferem com base na estrutura de seus sites e intranet. Por exemplo, as experiências de navegação herdadas disponíveis em hierarquias de site clássicas do SharePoint (sites com subsites) não estão disponíveis na experiência moderna, mas os [sites de Hub](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) oferecem uma ótima maneira de obter os recursos de navegação entre sites anteriormente disponíveis em hierarquias de navegação e de site no SharePoint clássico.
 
  Para obter mais informações sobre as opções de navegação, visite os links abaixo.
 
