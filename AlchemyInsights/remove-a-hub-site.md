@@ -1,7 +1,7 @@
 ---
 title: Remover um site de Hub
-ms.author: kaarins
-author: kaarins
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,22 +10,22 @@ ms.custom:
 - "866"
 - "5300012"
 ms.assetid: cebdac7f-fa90-4431-9a71-feb4104e479a
-ms.openlocfilehash: b35977262d94cdd9980bb0fb64b478a64acb1a5f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: ff0b3b73960a5884539b7ad2d3923925b12b2aca
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768572"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048892"
 ---
-# <a name="remove-a-hub-site"></a><span data-ttu-id="d1c5c-102">Remover um site de Hub</span><span class="sxs-lookup"><span data-stu-id="d1c5c-102">Remove a hub site</span></span>
+# <a name="remove-a-hub-site"></a><span data-ttu-id="1d068-102">Remover um site de Hub</span><span class="sxs-lookup"><span data-stu-id="1d068-102">Remove a hub site</span></span>
 
-<span data-ttu-id="d1c5c-103">Para cancelar o registro de um site do Hub no novo centro de administração do SharePoint:</span><span class="sxs-lookup"><span data-stu-id="d1c5c-103">To unregister a hub site in the new SharePoint admin center:</span></span>
+<span data-ttu-id="1d068-103">Para cancelar o registro de um site do Hub no novo centro de administração do SharePoint:</span><span class="sxs-lookup"><span data-stu-id="1d068-103">To unregister a hub site in the new SharePoint admin center:</span></span>
   
-1. <span data-ttu-id="d1c5c-104">No novo centro de administração do SharePoint, em **sites**, clique em **sites ativos**.</span><span class="sxs-lookup"><span data-stu-id="d1c5c-104">In the new SharePoint admin center, under **Sites**, click **Active sites**.</span></span>
+1. <span data-ttu-id="1d068-104">No novo centro de administração do SharePoint, em **sites**, clique em **sites ativos**.</span><span class="sxs-lookup"><span data-stu-id="1d068-104">In the new SharePoint admin center, under **Sites**, click **Active sites**.</span></span>
 
-2. <span data-ttu-id="d1c5c-105">Selecione o site, clique em **site do Hub**e, em seguida, clique em **cancelar o registro como site do Hub**.</span><span class="sxs-lookup"><span data-stu-id="d1c5c-105">Select the site, click **Hub site**, and then click **Unregister as hub site**.</span></span>
+2. <span data-ttu-id="1d068-105">Selecione o site, clique em **site do Hub**e, em seguida, clique em **cancelar o registro como site do Hub**.</span><span class="sxs-lookup"><span data-stu-id="1d068-105">Select the site, click **Hub site**, and then click **Unregister as hub site**.</span></span>
 
-3. <span data-ttu-id="d1c5c-106">Clique em **OK**.</span><span class="sxs-lookup"><span data-stu-id="d1c5c-106">Click **OK**.</span></span>
+3. <span data-ttu-id="1d068-106">Clique em **OK**.</span><span class="sxs-lookup"><span data-stu-id="1d068-106">Click **OK**.</span></span>
 
-[<span data-ttu-id="d1c5c-107">Saiba mais sobre sites de hub</span><span class="sxs-lookup"><span data-stu-id="d1c5c-107">Learn more about hub sites</span></span>](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f)
+[<span data-ttu-id="1d068-107">Saiba mais sobre sites de hub</span><span class="sxs-lookup"><span data-stu-id="1d068-107">Learn more about hub sites</span></span>](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f)
   
