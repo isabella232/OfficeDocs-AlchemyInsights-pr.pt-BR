@@ -1,7 +1,7 @@
 ---
 title: Compartilhamento externo no SharePoint Online
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: d4342c203dd60bea0a26ef9f5f281a62a0abf20e
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+- "2389"
+ms.openlocfilehash: 867727395a5e0653a12cb0ea091bf841c6f4f84f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735953"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049757"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>Compartilhamento externo no SharePoint Online
 
-Se sua organização realizar trabalho que envolve o compartilhamento de documentos ou colaboração direta com fornecedores, clientes ou clientes, você poderá usar os [recursos de compartilhamento externo do SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) para compartilhar conteúdo com pessoas de fora do seu departamento.
+Se sua organização realizar trabalho que envolve o compartilhamento de documentos ou colaboração direta com fornecedores, clientes ou clientes, você poderá usar os [recursos de compartilhamento externo do SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) para compartilhar conteúdo com pessoas de fora da sua organização.
 
 Para obter mais informações sobre o compartilhamento externo, visite os links abaixo:
 
@@ -30,7 +31,7 @@ Para obter mais informações sobre o compartilhamento externo, visite os links 
 - [Usar o SharePoint Online como uma solução de extranet B2B (entre empresas)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 - [Compartilhar arquivos ou pastas do SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 - [Parar de compartilhar arquivos ou pastas do OneDrive ou do SharePoint ou alterar permissões](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
-- [Acesso de convidado no Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/guest-access)
+- [Acesso para convidado no Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/guest-access)
 - [Referência de configurações de compartilhamento de convidados da Microsoft (Azure Active Directory, Microsoft 365 e SharePoint Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
 
 Recebendo um erro com um usuário externo?Confira os links abaixo:

@@ -1,7 +1,7 @@
 ---
 title: Introdução ao SharePoint Online
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0b589888bed37a3733b6bf2148070b46ff874ddc
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: e5024c28da89cb7e615f57924e52c1433166b82f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36749572"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053609"
 ---
 # <a name="workflows-in-sharepoint"></a>Workflows in SharePoint
 
