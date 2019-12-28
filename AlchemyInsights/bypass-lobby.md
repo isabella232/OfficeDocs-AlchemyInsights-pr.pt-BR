@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
+ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626336"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889070"
 ---
-# <a name="control-lobby-settings-and-level-of-participation"></a>Controlar configurações de lobby e nível de participação
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Controlar as configurações de lobby e o nível de participação no Microsoft Teams
 
-Se quiser permitir que todos, incluindo usuários de discagem, externos e anônimos consigam o lobby no Microsoft Teams, você pode usar o PowerShell para fazer isso. Veja um exemplo de como modificar a política de reunião global para sua organização:
+Se quiser permitir que todos, incluindo usuários de discagem, externos e anônimos, **ignore o lobby**, use o PowerShell para realizar essa tarefa. Veja um exemplo de modificação da política de reunião global para sua organização.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Atualmente, este cmdlet requer o uso do módulo PowerShell do Skype for Business. Para fazer com que a instalação Use este cmdlet, confira [Gerenciamento de políticas por meio do PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Atualmente, este cmdlet requer o uso do módulo PowerShell do Skype for Business. Para ser configurado para usar este cmdlet, confira o [Gerenciamento de políticas por meio do PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-Você pode configurar uma nova política, que deverá ser aplicada aos usuários. Se você modificar a política global, ela será automaticamente aplicada aos usuários. Para qualquer alteração de política, você precisa aguardar pelo menos 4 horas e até 24 horas para que as políticas entrem em vigor.
+Depois de configurar uma política, você precisa aplicá-la aos usuários; ou, se você modificou a política global, ela será automaticamente aplicada aos usuários. Para qualquer alteração de política, você precisa aguardar pelo menos **4 horas até 24 horas** para que as políticas entrem em vigor. 
 
 Leia a documentação abaixo antes de fazer essas alterações para entender exatamente o que isso permite.
 
+
 ## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Noções básicas sobre controles de política de lobby de reunião de equipe
+
+Essas configurações controlam quais participantes da reunião esperam no lobby antes de serem admitidos na reunião e o nível de participação que eles são permitidos em uma reunião. Você pode usar o PowerShell para atualizar as configurações de política de reunião que ainda não foram implementadas (rotuladas "em breve") no centro de administração do teams. Veja a seguir um exemplo de cmdlet do PowerShell que permite que todos os usuários ignorem o lobby.
 
 - [Admitir pessoas](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) é uma política por organizador que controla se as pessoas ingressam em uma reunião diretamente ou esperam no lobby até que sejam admitidas por um usuário autenticado.
 
