@@ -11,14 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 8ba296c6986c767939ef51076551f95719d11aa2
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 74151ed149c57ceebc841902796189f6638795a9
+ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752236"
+ms.lasthandoff: 01/28/2020
+ms.locfileid: "41571187"
 ---
 # <a name="redirected-to-delve-after-you-click-onedrive"></a>Redirecionado para o Delve depois de clicar em OneDrive
+
+Consulte nosso guia detalhado de [solução de problemas](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning).
 
 Para resolver esse problema, o administrador do Office 365 deve conceder aos usuários o direito de criar seu site de meus sites. Isso ocorre porque a página do OneDrive for Business é criada em meus sites.
 
