@@ -13,16 +13,16 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049397"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771131"
 ---
 # <a name="why-cant-i-edit-files"></a>Por que não consigo editar arquivos?
 
-Se um documento, planilha ou apresentação estiver bloqueado para edição e não puder ser aberto nos aplicativos da área de trabalho do Windows, talvez o arquivo já esteja sendo editado por outra pessoa ou tenha o arquivo com check-out. Vamos dar uma olhada rápida em alguns dos motivos pelos quais [você não poderá editar o arquivo](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Dê uma olhada rápida em alguns dos motivos pelos quais [você não pode editar o arquivo](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
 Se você tiver bibliotecas com as colunas de **check-out, obrigatórias** ou de **validação** ou metadados, ou quando a **segurança de item de rascunho** estiver definida como **somente usuários que podem editar** ou **apenas usuários que podem aprovar itens** nas configurações de versão da biblioteca:
 

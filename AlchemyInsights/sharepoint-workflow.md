@@ -14,22 +14,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0f3389fad573908fa80bd0c861b656f268446e61
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050909"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770447"
 ---
 # <a name="workflows-in-sharepoint"></a>Workflows in SharePoint
 
-Os fluxos de trabalho do SharePoint são mini aplicativos pré-projetados que simplificam e automatizam uma ampla variedade de processos de negócios. Os fluxos de trabalho podem variar de coletar assinaturas, comentários ou aprovações para um plano ou documento, para controlar o status atual de um procedimento de rotina.
+Os fluxos de trabalho do SharePoint são aplicativos pré-projetados que simplificam uma ampla variedade de processos de negócios. Confira os links abaixo para obter mais informações.
 
-**Introdução:** Se você estiver apenas começando a usar fluxos de trabalho do SharePoint, confira [introdução aos fluxos de trabalho do SharePoint para obter mais informações](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+## <a name="getting-started"></a>Introdução
 
-**Microsoft Flow**: considere usar o Microsoft Flow em vez das soluções de fluxo de trabalho do SharePoint clássico. Para obter mais informações, consulte [criar um fluxo para uma lista ou biblioteca no SharePoint Online ou no onedrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+Se você estiver apenas começando a usar fluxos de trabalho do SharePoint, confira [introdução aos fluxos de trabalho do SharePoint](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
 
-**Solução de problemas e depuração do fluxo de trabalho**:
+## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>Solução de problemas e depuração de um fluxo de trabalho do SharePoint
 
-Os fluxos de trabalho de depuração são parecidos com as versões anteriores. Para obter mais informações, consulte [Debugging SharePoint workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows). Para obter mais informações sobre solução de problemas, consulte [Troubleshoot SharePoint Server Workflow Validation Errors](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Consulte [solução de problemas de validação de fluxo de trabalho do SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) e [depuração de fluxos de trabalho do SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
 
+## <a name="power-automate"></a>Automatização de energia
+
+Considere usar a [automatização de energia](https://docs.microsoft.com/power-automate/modern-approvals) em vez das soluções de fluxo de trabalho do SharePoint clássico.

@@ -10,16 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051521"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771167"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>Problemas e resoluções comuns do SharePoint Online
 
 Aqui estão alguns tópicos solicitados com frequência sobre problemas do SharePoint Online:
+
+- **Introdução**: Use o [livro de aparência do SharePoint](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) para criar uma ótima e avançada intranet que conecta o local de trabalho. Confira [exemplos](https://lookbook.microsoft.com/) e obtenha [orientações de design](https://spdesign.azurewebsites.net/). Confira [introdução ao SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) para obter uma introdução geral ao SharePoint Online.
 
 - **Permissões**: [Crie uma estratégia de Permissões](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) e [Entenda os Níveis de Permissões](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
@@ -33,4 +35,4 @@ Aqui estão alguns tópicos solicitados com frequência sobre problemas do Share
 
 - **Modernize o SharePoint**: Confira o [Guia da experiência Moderna no SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) e [Modernize seus sites clássicos do SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) para iniciar a mudança.
 
-- **Introdução**: Aprenda como [começar a usar o SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) com estratégias de gerenciamento de sites.
+**Observação:** Para obter uma resposta mais específica sobre um problema do SharePoint, reformule rapidamente sua pergunta e inclua os erros que você está vendo ou recursos que você está usando.
