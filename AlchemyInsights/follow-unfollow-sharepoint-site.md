@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611685"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855539"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Siga ou dessiga um site do SharePoint
 
-Há várias maneiras de encontrar e acompanhar sites, notícias e conteúdos que lhe interessam no SharePoint. Isso permitirá que você encontre as informações facilmente na sua lista e permita que você veja a atividade do SharePoint.
+Se os usuários estiverem enfrentando problemas ou não seguindo os recursos do SharePoint, conclua estas etapas:
 
-Assista ao vídeo para [encontrar e acompanhar sites e notícias](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).
-
-Se você não conseguir seguir ou cancelar o acompanhamento de um site, notícias ou conteúdo e achar que os resultados não são o esperado, confira se o problema está relacionado a um único usuário ou a todos os usuários dentro da sua organização. Se o problema for encontrado por todos os usuários, pode haver um problema de serviço temporário.
-
-Verifique o [painel de integridade do serviço](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) para ver se sua organização é afetada.
+* Peça que o usuário saia e entre novamente no SharePoint e tente as mesmas etapas para seguir/não seguir o recurso do SharePoint.
+* Determine se o problema é com um site específico ou todos os sites. Se o problema ocorrer com sites específicos, verifique se o recurso "conteúdo seguinte" está ativo para o site em **configurações do site > gerenciar recursos do site > seguinte conteúdo**. Se o recurso estiver definido como ativo, tente desativar e ativar o recurso novamente para o site.
+* Peça ao usuário para experimentar um navegador da Internet diferente para ver se o problema é específico para o navegador do usuário.
+* Se todos os usuários e todos os sites estiverem enfrentando o mesmo problema, verifique o [painel de integridade do serviço](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) para ver se sua organização é afetada.
