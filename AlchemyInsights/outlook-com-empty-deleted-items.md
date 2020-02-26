@@ -3,6 +3,7 @@ title: Esvaziar a pasta itens excluídos no Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768680"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277919"
 ---
-# <a name="empty-the-deleted-items-folder"></a><span data-ttu-id="eb47e-102">Esvaziar a pasta itens excluídos</span><span class="sxs-lookup"><span data-stu-id="eb47e-102">Empty the Deleted Items folder</span></span>
+# <a name="empty-the-deleted-items-folder"></a><span data-ttu-id="9bded-102">Esvaziar a pasta itens excluídos</span><span class="sxs-lookup"><span data-stu-id="9bded-102">Empty the Deleted Items folder</span></span>
 
-<span data-ttu-id="eb47e-103">Para limpar todas as mensagens excluídas do Outlook, vá para a [pasta itens excluídos](https://outlook.live.com/mail/deleteditems)e selecione **pasta vazia**e, em seguida, selecione **recuperar itens excluídos desta pasta** acima da lista de mensagens e selecione **pasta** vazia novamente.</span><span class="sxs-lookup"><span data-stu-id="eb47e-103">To purge all your deleted Outlook messages, go to your [Deleted Items folder](https://outlook.live.com/mail/deleteditems) and select **Empty folder**, then select **Recover items deleted from this folder** above the message list and select **Empty folder** again.</span></span>
+1. <span data-ttu-id="9bded-103">Abra a pasta itens excluídos e selecione **pasta vazia**.</span><span class="sxs-lookup"><span data-stu-id="9bded-103">Open your Deleted Items folder and select **Empty folder**.</span></span>
+2. <span data-ttu-id="9bded-104">Selecione **itens recuperáveis** na parte superior da página e selecione **pasta vazia** novamente.</span><span class="sxs-lookup"><span data-stu-id="9bded-104">Select **Recoverable items** at the top of the page and select **Empty folder** again.</span></span>
 
-<span data-ttu-id="eb47e-104">Se você tiver excluído muitas mensagens, pode levar algum tempo para que os itens sejam movidos ou sejam removidos da pasta itens excluídos.</span><span class="sxs-lookup"><span data-stu-id="eb47e-104">If you've deleted a lot of messages, it may take some time for those items to move to or be purged from the Deleted Items folder.</span></span> <span data-ttu-id="eb47e-105">Deixe a janela do navegador aberta até que os itens sejam excluídos.</span><span class="sxs-lookup"><span data-stu-id="eb47e-105">Please leave the browser window open until the items are deleted.</span></span>
+<span data-ttu-id="9bded-105">**Não é possível esvaziar a pasta itens excluídos**</span><span class="sxs-lookup"><span data-stu-id="9bded-105">**Unable to empty the Deleted Items folder**</span></span>
 
-<span data-ttu-id="eb47e-106">Se as mensagens não forem excluídas corretamente, tente excluir um número menor de mensagens.</span><span class="sxs-lookup"><span data-stu-id="eb47e-106">If messages fail to delete properly, try deleting a smaller number of messages.</span></span>
+- <span data-ttu-id="9bded-106">Se você tiver excluído muitos emails, pode levar algum tempo para que esses itens sejam movidos ou excluídos da pasta itens excluídos.</span><span class="sxs-lookup"><span data-stu-id="9bded-106">If you've deleted a lot of email, it may take some time for those items to move to or be deleted from the Deleted Items folder.</span></span> <span data-ttu-id="9bded-107">Deixe a janela do navegador aberta enquanto a exclusão ocorre.</span><span class="sxs-lookup"><span data-stu-id="9bded-107">Leave the browser window open while the deleting takes place.</span></span>
+- <span data-ttu-id="9bded-108">Se o email ainda não for excluído corretamente, selecione um lote menor para excluir.</span><span class="sxs-lookup"><span data-stu-id="9bded-108">If the email still fails to delete properly, select a smaller batch to delete.</span></span>
+- <span data-ttu-id="9bded-109">Se o email excluído retornar, talvez você tenha excluído muito email recentemente.</span><span class="sxs-lookup"><span data-stu-id="9bded-109">If deleted email comes back, it could be because you've deleted a lot of email recently.</span></span> <span data-ttu-id="9bded-110">Tente novamente mais tarde.</span><span class="sxs-lookup"><span data-stu-id="9bded-110">Please try again later.</span></span>
