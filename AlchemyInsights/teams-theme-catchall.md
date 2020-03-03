@@ -11,16 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 88e139e9d1179dd1afb14686a4c4e3ee5e211ebc
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: b5394249037e1ccfffa42206940369040eec273a
+ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626372"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42371510"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Problemas e resoluções comuns do Teams
 
 Para obter uma resposta mais específica sobre um problema do Microsoft Teams, reformule sua pergunta brevemente e inclua os erros que você está vendo ou os recursos que está usando.
+
+Se você precisar de ajuda para suportar funcionários remotos (WFH) com o Microsoft Teams, revise [o suporte a funcionários remotos usando o Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
 
 Estes são alguns recursos adicionais:
 
