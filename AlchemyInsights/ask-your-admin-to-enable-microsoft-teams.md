@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962285"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573120"
 ---
 # <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Você está ausente! Peça ao administrador para habilitar o Microsoft Teams
 
-Os professores e a equipe podem acessar o Microsoft Teams, mas os alunos não podem ou não conseguem acessar o Microsoft Teams?
+Se você tiver um locatário EDU, precisará habilitar o Microsoft Teams manualmente. Para fazer isso, vá para o centro de administração do 365 > **serviços e suplementos do > Microsoft Teams**. Se você estiver usando o novo centro de administração do Microsoft Teams, será necessário desativar **o novo centro** de administração para localizar **serviços e suplementos**. 
 
-O Microsoft Teams deve ser explicitamente habilitado para licenças para estudantes e F1. Você pode encontrar instruções mais detalhadas sobre como habilitar o Microsoft Teams para sua escola no [Configure Teams for Education](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
+**Importante**: Talvez seja necessário aguardar até 24 horas para que as alterações entrem em vigor.

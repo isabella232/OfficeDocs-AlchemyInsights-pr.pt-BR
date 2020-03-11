@@ -3,7 +3,7 @@ title: Outlook.com pastas ausentes
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/6/2019
+ms.date: 3/9/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
-ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
+ms.openlocfilehash: e6a5170655d98eaa914f686753e0aea3873fc058
+ms.sourcegitcommit: e1307138631f9a5489f5309dfc5dd1bc6be3dc96
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/24/2020
-ms.locfileid: "42260230"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42572563"
 ---
 # <a name="find-missing-folders"></a>Localizar pastas ausentes
 
 Alguns usuários podem não conseguir ver o painel de pastas à esquerda ao exibir em uma tela pequena.
 
+- Se você não conseguir ver o painel de pastas, maximize a janela do navegador ou role para a esquerda para exibir a lista de pastas.
 - Expanda o painel de pastas somente quando necessário. Selecione o ícone de três linhas na barra lateral esquerda para mostrar ou Ocultar pastas.
 - Abra [as configurações de layout](https://outlook.live.com/mail/options/mail/layout) e selecione **Ocultar Painel de leitura** e **salvar**. Isso dará à tela mais espaço para mostrar pastas.
 
