@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: c4632b52dde579b7d5b2e6e15f1583300a0bd136
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157500"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600344"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Aposentadoria de ferramentas de descoberta eletrônica herdadas
 
@@ -37,7 +37,7 @@ Como resultado da nova e aprimorada funcionalidade de descoberta eletrônica no 
     - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Office 365 Advanced eDiscovery v 1.0](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Office 365 Advanced eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Linha do tempo para aposentadoria**:
 - 1 de abril de 2020: você não poderá criar novas pesquisas e isenções, mas ainda poderá executar, editar e excluir pesquisas existentes de sua responsabilidade. O suporte da Microsoft não oferecerá mais suporte a descoberta eletrônica in-loco & segura no Eat.
@@ -46,9 +46,9 @@ Como resultado da nova e aprimorada funcionalidade de descoberta eletrônica no 
 
 **Para obter mais informações, consulte**:
 
- - [Migrar pesquisas de descoberta eletrônica herdadas e isenções para o centro de conformidade da Microsoft 365](https://docs.microsoft.com/en-us/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Aposentadoria de ferramentas de descoberta eletrônica herdadas](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Perguntas frequentes sobre a descoberta eletrônica in-loco e bloqueios in-loco](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Migrar pesquisas de descoberta eletrônica herdadas e isenções para o centro de conformidade da Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Aposentadoria de ferramentas de descoberta eletrônica herdadas](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [Perguntas frequentes sobre a descoberta eletrônica in-loco e bloqueios in-loco](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
