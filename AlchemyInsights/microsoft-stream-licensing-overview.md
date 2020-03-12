@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: eddc08f81f2b3d477b52441515c797087647393d
-ms.sourcegitcommit: 35b6db0a7160fa03a5ea54ad7f16cd84ca3186df
+ms.openlocfilehash: 6877c073ed366ba0d464a076c6aec5acb3477d22
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403436"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600084"
 ---
-# <a name="microsoft-stream-licensing-overview"></a><span data-ttu-id="ffa4c-102">Visão geral do licenciamento do Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="ffa4c-102">Microsoft Stream Licensing overview</span></span>
+# <a name="microsoft-stream-licensing-overview"></a><span data-ttu-id="41e18-102">Visão geral do licenciamento do Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="41e18-102">Microsoft Stream Licensing overview</span></span>
 
-<span data-ttu-id="ffa4c-103">O Microsoft Stream é um serviço de nuvem licenciado por assinatura por usuário.</span><span class="sxs-lookup"><span data-stu-id="ffa4c-103">Microsoft Stream is a cloud service licensed on a per user subscription basis.</span></span> <span data-ttu-id="ffa4c-104">Ele está disponível como parte das assinaturas qualificadas do Office 365.</span><span class="sxs-lookup"><span data-stu-id="ffa4c-104">It is available as part of eligible Office 365 subscriptions.</span></span> <span data-ttu-id="ffa4c-105">Veja preços do Office 365 para obter informações sobre cada tipo de assinatura.</span><span class="sxs-lookup"><span data-stu-id="ffa4c-105">See Office 365 pricing for information on each subscription type.</span></span>
+<span data-ttu-id="41e18-103">O Microsoft Stream é um serviço de nuvem licenciado por assinatura por usuário.</span><span class="sxs-lookup"><span data-stu-id="41e18-103">Microsoft Stream is a cloud service licensed on a per user subscription basis.</span></span> <span data-ttu-id="41e18-104">Ele está disponível como parte das assinaturas qualificadas do Office 365.</span><span class="sxs-lookup"><span data-stu-id="41e18-104">It is available as part of eligible Office 365 subscriptions.</span></span> <span data-ttu-id="41e18-105">Veja preços do Office 365 para obter informações sobre cada tipo de assinatura.</span><span class="sxs-lookup"><span data-stu-id="41e18-105">See Office 365 pricing for information on each subscription type.</span></span>
 
-- [<span data-ttu-id="ffa4c-106">Visão geral do licenciamento do Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="ffa4c-106">Microsoft Stream Licensing overview</span></span>](https://docs.microsoft.com/en-us/stream/license-overview)
+- [<span data-ttu-id="41e18-106">Visão geral do licenciamento do Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="41e18-106">Microsoft Stream Licensing overview</span></span>](https://docs.microsoft.com/stream/license-overview)
