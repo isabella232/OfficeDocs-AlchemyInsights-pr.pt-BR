@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a9305b175e1ca0b992c014a73705447d67e037bc
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
+ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959483"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42891737"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>O Outlook não consegue se conectar a pastas públicas
 
 Se o acesso à pasta pública não estiver funcionando para alguns usuários, tente o seguinte:
 
-Conecte-se ao EXO PowerShell e configure o DefaultPublicFolderMailbox na conta de usuário com problema para corresponder a um em uma conta de usuário em funcionamento.
+Conecte-se ao EXO PowerShell e configure o parâmetro DefaultPublicFolderMailbox na conta de usuário com problema para corresponder ao parâmetro em uma conta de usuário em funcionamento.
 
 Exemplo:
 
@@ -31,3 +31,5 @@ Get-Mailbox WorkingUser | FT DefaultPublicFolderMailbox, EffectivePublicFolderMa
 Set-Mailbox ProblemUser-DefaultPublicFolderMailbox \<valor de comando anterior>
 
 Aguarde pelo menos uma hora para que a alteração entre em vigor.
+
+Se o problema permanecer, siga [este procedimento](https://aka.ms/pfcte) para solucionar problemas de acesso à pasta pública usando o Outlook.
