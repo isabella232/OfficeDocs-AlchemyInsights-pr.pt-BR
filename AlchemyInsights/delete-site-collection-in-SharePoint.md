@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 8915d97852c5aa3be55a55ea008040e136e6016e
-ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
+ms.openlocfilehash: 01290defa0c12ba92707bf7368b371c14f2eae56
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42042868"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931286"
 ---
 # <a name="delete-a-site"></a>Excluir um site
 
-Quando você exclui um site, ele é movido para os [sites excluídos](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) e mantido por 93 dias. Para excluir um site, vá para [sites ativos](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
+Quando você exclui um site, ele é movido para os sites excluídos e é mantido por 93 dias. Para excluir um site, vá para [sites ativos](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
 Quando você exclui um site, tudo o que está dentro dele é excluído, incluindo:
 
