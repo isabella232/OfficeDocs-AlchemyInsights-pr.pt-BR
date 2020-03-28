@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856455"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030388"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Problemas e resoluções comuns do Teams
+
+**Importante**: Devido a um aumento recente no uso do Teams, quando você atribui uma licença do Teams a um usuário, pode levar 24 horas para que ela seja totalmente configurada. Até lá, você não poderá atribuir políticas do Teams a eles, e eles podem não ter acesso a alguns recursos do Teams, como chamadas e conferências de áudio.
+
+**Problemas e resoluções comuns**
 
 Para uma resposta mais específica, tente reformular a sua pergunta para incluir os erros que você está encontrando ou os recurso do Teams que você está usando.
 
