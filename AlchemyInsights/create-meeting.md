@@ -11,14 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 0775f12d3778f1f6f7a53ec47ddb8f0cd71dc1af
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 6936138804ad8f09caccce7c3673475851f765ae
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376511"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105335"
 ---
 # <a name="schedule-a-meeting-in-teams"></a>Agendar uma reunião no Teams
+
+**Importante**: se você tiver problemas para criar uma reunião ou não conseguir encontrar a opção de reunião no Teams, certifique-se de que os usuários afetados [estão licenciados para uma caixa de correio do Exchange Online e a caixa de correio esteja habilitada](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes).
 
 Você pode agendar uma reunião de duas maneiras: 
 
@@ -29,4 +31,6 @@ Semelhante ao agendamento de uma reunião no Outlook, você dará à sua reuniã
 
 No lado direito do formulário de agendamento, você pode adicionar um canal ou pessoas individuais ou deixar em branco para agendar um compromisso privado.
 
-Para obter mais informações sobre como criar e agendar reuniões no Microsoft Teams, consulte [agendar uma reunião no Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+- Para obter mais informações sobre como criar e agendar reuniões no Microsoft Teams, consulte [agendar uma reunião no Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+
+- Para obter limites e especificações de reuniões, consulte [Limits and Specifications for Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
