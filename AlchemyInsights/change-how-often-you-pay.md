@@ -9,17 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
 - "1500025"
-ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: 28fbd9a375057e2daa15f9bf629e8b1ab2013c4e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: ed85b1053635a565ac2a00b1758c0df6ce5d7e63
+ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386889"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43195006"
 ---
 # <a name="change-how-often-you-pay"></a>Alterar a frequência de pagamento
 
- **Deseja alterar a frequência de pagamento?** Se você quiser alterar a frequência com que paga para a assinatura do Office 365 for Business, de anual para mensal ou mensal, podemos ajudá-lo com isso. Você precisará comprar a mesma assinatura com a Nova frequência de pagamento e cancelar a assinatura antiga. Use a opção "Deixe-nos ligar para você" para falar com um engenheiro de suporte.
+Ao comprar uma assinatura, você escolhe a cobrança mensal ou anual. Para alterar a frequência de cobrança de uma assinatura, use as etapas a seguir.
+
+1. No centro de administração, vá para a página de **serviços de> de facturação de [produtos &](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
+
+2. Encontre a assinatura que você deseja alterar. Na seção **cobrança** , ao lado de **cobrado mensalmente** ou **cobrado por ano**, clique em **Editar**.
+
+3. Escolha a opção para saber com que frequência você deseja ser cobrado e, em seguida, selecione **alterar**.
