@@ -1,0 +1,46 @@
+---
+title: Não há opção para instalar o Office, Visio ou Project
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9002414"
+- "4799"
+ms.openlocfilehash: fa35e26afe716167237f12ec8cabaab7ff7b4609
+ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.translationtype: HT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "43218064"
+---
+# <a name="no-option-to-install-office-visio-or-project"></a><span data-ttu-id="f7f68-102">Não há opção para instalar o Office, Visio ou Project</span><span class="sxs-lookup"><span data-stu-id="f7f68-102">No option to install Office, Visio, or Project</span></span>
+
+<span data-ttu-id="f7f68-103">Para instalar os aplicativos de cliente do Office, certifique-se de ter uma assinatura do Office 365 ou do Microsoft 365 que [inclua aplicativos de cliente do Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), como o Office 365 Business Premium, o Office 365 Business ou o Office 365 ProPlus.</span><span class="sxs-lookup"><span data-stu-id="f7f68-103">To install Office client apps, ensure you have an Office 365 or Microsoft 365 subscription that [includes Office client apps](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), e.g., Office 365 Business Premium, Office 365 Business, or Office 365 ProPlus.</span></span>
+
+<span data-ttu-id="f7f68-104">**Observação**: [o Office Home and Business](https://products.office.com/home-and-business) é um produto do [Office para uso doméstico](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) e não faz parte de uma assinatura para empresas.</span><span class="sxs-lookup"><span data-stu-id="f7f68-104">**Note**: [Office Home and business](https://products.office.com/home-and-business) is an [Office for home](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) product and not part of a business subscription.</span></span> <span data-ttu-id="f7f68-105">O Project Online Essentials não inclui uma versão para área de trabalho do Project, portanto, nenhuma instalação é necessária.</span><span class="sxs-lookup"><span data-stu-id="f7f68-105">Project Online Essentials doesn't include a desktop version of Project so no installation is required.</span></span> <span data-ttu-id="f7f68-106">Os usuários do Plano 1 do Visio podem acessar o Visio na Web, pois o plano do não inclui o aplicativo para área de trabalho do Visio.</span><span class="sxs-lookup"><span data-stu-id="f7f68-106">Visio Plan 1 users can access Visio on the web, as the plan doesn't include the Visio desktop app.</span></span> <span data-ttu-id="f7f68-107">Os aplicativos para área de trabalho do Project e do Visio não estão disponíveis no Mac</span><span class="sxs-lookup"><span data-stu-id="f7f68-107">Project and Visio desktop apps are not available on Mac</span></span>
+
+<span data-ttu-id="f7f68-108">Se você tiver uma assinatura que inclua aplicativos do Office, você não verá uma opção para instalá-lo, a menos que tenha uma [licença atribuída](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home).</span><span class="sxs-lookup"><span data-stu-id="f7f68-108">If you have a subscription that includes Office apps, you won't see an option to install it unless you have an [assigned license](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home).</span></span> <span data-ttu-id="f7f68-109">Se você for o administrador do Office 365 responsável por atribuir licenças, confira [Atribuir licenças a usuários](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).</span><span class="sxs-lookup"><span data-stu-id="f7f68-109">If you're the Office 365 admin responsible for assigning licenses, see [Assign licenses to users](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).</span></span>
+
+
+<span data-ttu-id="f7f68-110">Cada usuário precisa:</span><span class="sxs-lookup"><span data-stu-id="f7f68-110">Have each user:</span></span>
+
+1. <span data-ttu-id="f7f68-111">Vá para a [página do portal](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="f7f68-111">Go to the [portal page](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+
+2. <span data-ttu-id="f7f68-112">Entre com a conta corporativa ou de estudante que tem uma licença do Office atribuída.</span><span class="sxs-lookup"><span data-stu-id="f7f68-112">Sign in with their work or school account which has an Office license assigned.</span></span>
+
+3. <span data-ttu-id="f7f68-113">Na seção Office, selecione o idioma.</span><span class="sxs-lookup"><span data-stu-id="f7f68-113">Under the Office section, select the language.</span></span> <span data-ttu-id="f7f68-114">Escolha a versão de 32 bits ou a versão de 64 bits.</span><span class="sxs-lookup"><span data-stu-id="f7f68-114">Choose the 32-bit version or 64-bit version.</span></span>
+
+4. <span data-ttu-id="f7f68-115">Clique em **Instalar**.</span><span class="sxs-lookup"><span data-stu-id="f7f68-115">Click **Install**.</span></span>
+
+<span data-ttu-id="f7f68-116">Para etapas detalhadas e soluções de problemas ao instalar o Office, confira: [Baixar e instalar ou reinstalar o Office em um PC ou Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="f7f68-116">For detailed steps and troubleshooting solutions when installing Office, see [Download and install or reinstall Office on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).</span></span> <span data-ttu-id="f7f68-117">Para obter instruções específicas sobre como instalar o Visio ou o Project, confira [instalar o Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) ou [instalar o Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).</span><span class="sxs-lookup"><span data-stu-id="f7f68-117">For specific instructions on installing Visio or Project, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) or [Install Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).</span></span>
+
+<span data-ttu-id="f7f68-118">Para obter soluções para problemas de instalação específicos do Office, confira:</span><span class="sxs-lookup"><span data-stu-id="f7f68-118">For solutions to specific Office installation issues, see:</span></span>
+
+[<span data-ttu-id="f7f68-119">Solucionar problemas de instalação do Office</span><span class="sxs-lookup"><span data-stu-id="f7f68-119">Troubleshoot installing Office</span></span>](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages)
+
+[<span data-ttu-id="f7f68-120">Não consegue encontrar aplicativos do Office no Windows 10, no Windows 8 ou no Windows 7</span><span class="sxs-lookup"><span data-stu-id="f7f68-120">Can't find Office applications in Windows 10, Windows 8, or Windows 7</span></span>](https://support.office.com/article/can-t-find-office-applications-in-windows-10-windows-8-or-windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6)
