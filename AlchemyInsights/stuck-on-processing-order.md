@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002358"
 - "4584"
-ms.openlocfilehash: 676deacd28a1c544e605120a5dccd331531c5684
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
+ms.openlocfilehash: 60abad9281ab440cd19b7cd7c9caa51151170bfa
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158485"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286338"
 ---
 # <a name="stuck-on-processing-order"></a>Encalhado na ordem de processamento
 
-Caso tenha optado por atualizar sua assinatura do Microsoft 365, mas o pedido está encalhado em "Processando seu pedido", consulte a postagem [Painel de integridade do serviço](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/servicehealth) **SP207374**. O processo de atualização do seu locatário exigirá aprovisionamento, o que pode ser adiado. Esperamos que o processo seja concluído dentro de 24 horas; no entanto, vimos casos raros em que essas solicitações levam até 48 horas. Abra uma solicitação de serviço se o processamento do pedido demorar mais de 48 horas.
+Caso tenha optado por atualizar sua assinatura do Microsoft 365, e o pedido estiver travado em "Processando seu pedido" por algum tempo, seja paciente. O processo de atualização do seu locatário exigirá aprovisionamento, o que pode ser adiado. Durante esse período, você não conseguirá acessar o Centro de Administração, mas todas as outras áreas do Microsoft 365 estarão acessíveis. Esperamos que o processo esteja **completo dentro de 24 horas**; no entanto, vimos algumas situações raras onde essas solicitações estão **demorando até 48 horas**. Favor criar uma solicitação de serviço se o processamento de pedidos demorar **mais de 48 horas**.
