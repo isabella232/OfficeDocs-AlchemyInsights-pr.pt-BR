@@ -1,0 +1,44 @@
+---
+title: 'Outlook na Web: Enviar respostas de ausência temporária'
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9000761"
+- "3514"
+ms.openlocfilehash: bc848b88cb92dc8d747f5f2dce2cee69e04a23e7
+ms.sourcegitcommit: 23e5b94f1758bfe202008384e300b81816975375
+ms.translationtype: HT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43506411"
+---
+# <a name="outlook-on-the-web-send-out-of-office-replies"></a>Outlook na Web: Enviar respostas de ausência temporária
+
+**Configurar respostas automáticas no Outlook na Web**.
+
+1. [Entrar no Outlook na Web](https://support.office.com/pt-BR/article/how-to-sign-in-to-outlook-on-the-web-763fab4d-0138-4814-b450-37fc286bcb79).
+
+2. Na parte superior da página, clique em **Configurações > Ver todas as configurações do Outlook > Email > Respostas automáticas**.
+
+3. Selecione o botão de alternância **Ativar respostas automáticas**.
+
+4. Marque a caixa de seleção **Enviar respostas apenas durante um período de tempo** e, em seguida, insira uma hora de início e de término. Caso não defina um período, as respostas automáticas serão mantidas até você desativá-las clicando no botão de alternância **Respostas automáticas ativadas**.
+
+5. Marque a caixa de seleção de qualquer uma das seguintes opções em que tiver interesse:
+    - **Bloquear meu calendário para este intervalo de tempo**
+    - **Recusar automaticamente novos convites para eventos que ocorrem durante este intervalo de tempo**
+    - **Recusar e cancelar minhas reuniões durante este intervalo de tempo**
+
+6. Na caixa na parte inferior da janela, digite uma mensagem para enviar às pessoas durante o tempo em que estiver ausente. Se preferir, você pode usar as opções de formatação na parte superior da caixa para alterar a fonte e a cor do texto, ou personalizar a mensagem de outras maneiras.
+
+7. Se quiser que os remetentes de fora da organização recebam respostas automáticas, marque a caixa de seleção **Enviar respostas para fora da sua organização**.
+
+8. Quando terminar, clique em **Salvar** na parte superior da janela.
+
+Se não definiu um período para respostas automáticas (etapa 4), você deve desativá-las manualmente. Para desativar as respostas automáticas, entre no Outlook na Web, clique em **Configurações > Exibir configurações completas > Email > Respostas automáticas** e clique no botão de alternância **Respostas automáticas ativadas**.
