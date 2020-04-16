@@ -1,5 +1,5 @@
 ---
-title: As opções de compartilhamento estão acinzentadas
+title: Links de compartilhamento estão esmaecidos
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: df9158f314ca32bdd5ade827caaa43e619f1e550
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: d0b080e853c59802da20982db948bb825f240239
+ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182286"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43529664"
 ---
-# <a name="sharing-options-are-grayed-out"></a>As opções de compartilhamento estão acinzentadas
+# <a name="sharing-links-are-grayed-out"></a>Links de compartilhamento estão esmaecidos
 
 Se determinadas opções de compartilhamento estiverem acinzentadas ao tentar compartilhar no SharePoint Online ou no OneDrive, verifique se as [Opções de compartilhamento estão acinzentadas ao compartilhar do SharePoint Online ou do OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).
