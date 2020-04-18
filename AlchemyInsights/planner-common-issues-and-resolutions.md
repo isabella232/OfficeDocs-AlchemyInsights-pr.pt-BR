@@ -11,20 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "3193"
-ms.openlocfilehash: da8e935abf42375b695cf162da30c0c82dfdf959
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: 5d0c8fd5d6bb5c9fe0c70f46bc05aec95ef1fdef
+ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959763"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43556933"
 ---
 # <a name="planner-common-issues-and-resolutions"></a>Problemas comuns e resoluções do Planner
 
 Aqui estão alguns tópicos solicitados com frequência com o Microsoft Planner.
  
-- **Introdução:** [comece a usar o Planner](https://support.office.com/article/microsoft-planner-help-4a9a13c6-3adf-4a60-a6fc-15c0b15e16fc?ui=en-US&rs=en-US&ad=US)e saiba como [ativar o Planner para sua organização, adicionar usuários convidados e gerenciar o acesso em seu ambiente](https://docs.microsoft.com/office365/planner/planner-for-admins).
+- **Introdução:** [comece a usar o Planner](https://support.office.com/article/microsoft-planner-help-4a9a13c6-3adf-4a60-a6fc-15c0b15e16fc)e saiba como [ativar o Planner para sua organização, adicionar usuários convidados e gerenciar o acesso em seu ambiente](https://docs.microsoft.com/office365/planner/planner-for-admins).
+
+- **Usando o Planner no Teams**: para obter uma visão geral da integração do Planner com o Microsoft Teams, consulte [usar o Planner no Microsoft Teams](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0).
+
+     - [Adicione uma guia do Planner a um canal de equipe](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel). O usuário que adiciona a guia deve ser um membro da equipe, e não apenas um proprietário. Você pode adicionar o usuário como membro por meio da interface do teams. Você também pode [Adicionar um plano existente ao Microsoft Teams](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463).
+
+    - [Remover uma guia do Planner ou excluir um plano](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan). Os planos excluídos não podem ser recuperados no Microsoft Teams. Se um grupo já tiver sido excluído, você poderá [recuperar planos e grupos excluídos](https://techcommunity.microsoft.com/t5/planner-blog/microsoft-planner-now-you-can-recover-deleted-plans-and-groups/ba-p/362242
+).
  
-- **Usuários convidados:** Gerenciar o [acesso de usuários convidados](https://support.office.com/article/guest-access-in-microsoft-planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6?ui=en-US&rs=en-US&ad=US) ao Planner.
+- **Usuários convidados:** Gerenciar o [acesso de usuários convidados](https://support.office.com/article/guest-access-in-microsoft-planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6) ao Planner.
  
 - **Notificações:** Revise os [tipos de notificações que você receberá](https://support.office.com/article/stay-on-top-of-tasks-and-plans-with-email-and-notifications-cce223d6-b0ae-43cf-a080-266e2414a859), as atividades que as acionam e onde você pode alterar as configurações de notificação.
  
@@ -32,4 +39,4 @@ Aqui estão alguns tópicos solicitados com frequência com o Microsoft Planner.
    - Saiba mais sobre os [problemas com a exibição ou a adição de comentários](https://docs.microsoft.com/office365/planner/planner-for-admins#can-people-in-my-organization-use-planner-if-they-dont-have-an-exchange-online-mailbox) a uma tarefa sem uma caixa de correio do Exchange Online.
    - Saiba como garantir que [todos os usuários possam obter emails para o Planner](https://docs.microsoft.com/office365/planner/planner-for-admins#how-do-i-make-sure-all-my-users-can-get-emails-forplanner).
 
-- **Gerenciar tarefas:** Analise as informações sobre como [comentar sobre tarefas](https://support.office.com/article/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1?ui=en-US&rs=en-US&ad=US) e [excluir tarefas ou planos](https://support.office.com/article/delete-a-task-or-plan-39e10e78-13f0-446d-94cd-9e562648497a).
+- **Gerenciar tarefas:** Analise as informações sobre como [comentar sobre tarefas](https://support.office.com/article/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1) e [excluir tarefas ou planos](https://support.office.com/article/delete-a-task-or-plan-39e10e78-13f0-446d-94cd-9e562648497a).
