@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958526"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537729"
 ---
-# <a name="general-migration-performance-guidance"></a><span data-ttu-id="d4564-102">Diretrizes de desempenho de migração geral</span><span class="sxs-lookup"><span data-stu-id="d4564-102">General migration performance guidance</span></span>
+# <a name="general-migration-performance-guidance"></a><span data-ttu-id="3fc4e-102">Diretrizes de desempenho de migração geral</span><span class="sxs-lookup"><span data-stu-id="3fc4e-102">General migration performance guidance</span></span>
 
-<span data-ttu-id="d4564-103">**Importante**: Durante essas horas sem precedentes, realizamos etapas para garantir que os serviços do SharePoint Online e do OneDrive estejam altamente disponíveis - Visite [Ajustes de Recursos Temporários do SharePoint Online](https://aka.ms/ODSPAdjustments) para saber mais.</span><span class="sxs-lookup"><span data-stu-id="d4564-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
 
-<span data-ttu-id="d4564-104">**Diretrizes de desempenho da migração**</span><span class="sxs-lookup"><span data-stu-id="d4564-104">**Migration performance guidance**</span></span>
+<span data-ttu-id="3fc4e-103">**Importante**: Durante esses tempos sem precedentes, estamos tomando medidas para garantir que os serviços do SharePoint Online e OneDrive permaneçam altamente disponíveis - Visite [Ajustes de recursos temporários do SharePoint Online](https://aka.ms/ODSPAdjustments) para obter mais informações.</span><span class="sxs-lookup"><span data-stu-id="3fc4e-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
 
-<span data-ttu-id="d4564-p101">O desempenho da migração pode será afetado pela infraestrutura de rede, tamanho do arquivo, período de migração e limitação. Noções básicas sobre esses ajudará a planejar e maximizar a eficácia da sua migração.</span><span class="sxs-lookup"><span data-stu-id="d4564-p101">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling. Understanding these will help you plan and maximize the efficiency of your migration.</span></span>
+<span data-ttu-id="3fc4e-104">**Opções de migração**</span><span class="sxs-lookup"><span data-stu-id="3fc4e-104">**Migration options**</span></span>
 
-- [<span data-ttu-id="d4564-107">Diretrizes de desempenho de migração geral</span><span class="sxs-lookup"><span data-stu-id="d4564-107">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+<span data-ttu-id="3fc4e-105">Há diferentes opções disponíveis para migrar o conteúdo para o SharePoint Online, dependendo do tamanho e da quantidade de arquivos que você precisa mover, confira uma lista de opções [localizada aqui](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span><span class="sxs-lookup"><span data-stu-id="3fc4e-105">There are different options available to migrate content to SharePoint Online, depending on the size and quantity of files you need to move, please see a list of options [located here](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span></span>
+
+<span data-ttu-id="3fc4e-106">Para obter mais informações sobre migração de conteúdo, visite os links abaixo.</span><span class="sxs-lookup"><span data-stu-id="3fc4e-106">For more information on content migration, please visit the links below.</span></span>
+
+- [<span data-ttu-id="3fc4e-107">Ferramenta de Migração do SharePoint</span><span class="sxs-lookup"><span data-stu-id="3fc4e-107">Sharepoint Migration Tool</span></span>](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [<span data-ttu-id="3fc4e-108">Introdução ao Gerenciador de Migração</span><span class="sxs-lookup"><span data-stu-id="3fc4e-108">Get started with the Migration Manager</span></span>](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [<span data-ttu-id="3fc4e-109">Mover</span><span class="sxs-lookup"><span data-stu-id="3fc4e-109">Mover</span></span>](https://mover.io/)
