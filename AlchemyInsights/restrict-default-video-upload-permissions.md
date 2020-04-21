@@ -17,7 +17,7 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591467"
+ms.locfileid: "43599377"
 ---
 # <a name="restrict-default-video-upload-permissions"></a><span data-ttu-id="a3e05-102">Restringir as permissões de carregamento de vídeo padrão</span><span class="sxs-lookup"><span data-stu-id="a3e05-102">Restrict default video upload permissions</span></span>
 
