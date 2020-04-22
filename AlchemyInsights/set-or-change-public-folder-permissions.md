@@ -3,7 +3,7 @@ title: Definir ou alterar permissões de pasta pública
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 8/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: 1015c2203406e15d6b418c387b6632a182d6d2ff
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: cf891a4db05b8a2bdb223cc86693f5072faca494
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36734657"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43681092"
 ---
-# <a name="permissions-and-public-folders"></a><span data-ttu-id="4f86b-102">Permissões e pastas públicas</span><span class="sxs-lookup"><span data-stu-id="4f86b-102">Permissions and Public Folders</span></span>
+# <a name="permissions-and-public-folders"></a><span data-ttu-id="4e367-102">Permissões e pastas públicas</span><span class="sxs-lookup"><span data-stu-id="4e367-102">Permissions and Public Folders</span></span>
 
-<span data-ttu-id="4f86b-103">Você pode alterar as permissões em suas pastas públicas usando o Outlook, o centro de administração do Exchange (Eat) ou o PowerShell:</span><span class="sxs-lookup"><span data-stu-id="4f86b-103">You can change the permissions on your Public Folders using Outlook, the Exchange admin center (EAC), or PowerShell:</span></span>
+<span data-ttu-id="4e367-103">Você pode alterar as permissões em suas pastas públicas usando o Outlook, o centro de administração do Exchange (Eat) ou o PowerShell:</span><span class="sxs-lookup"><span data-stu-id="4e367-103">You can change the permissions on your Public Folders using Outlook, the Exchange admin center (EAC), or PowerShell:</span></span>
   
-- <span data-ttu-id="4f86b-104">Para obter instruções sobre o Outlook, [clique aqui](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).</span><span class="sxs-lookup"><span data-stu-id="4f86b-104">For Outlook instructions, [click here](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).</span></span>
+- <span data-ttu-id="4e367-104">Para obter instruções sobre o Outlook, [clique aqui](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).</span><span class="sxs-lookup"><span data-stu-id="4e367-104">For Outlook instructions, [click here](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).</span></span>
     
-- <span data-ttu-id="4f86b-105">Para o Eat, consulte [Este artigo](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) para obter instruções.</span><span class="sxs-lookup"><span data-stu-id="4f86b-105">For EAC, refer to [this article](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) for instructions.</span></span> 
+- <span data-ttu-id="4e367-105">Para o Eat, consulte [Este artigo](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) para obter instruções.</span><span class="sxs-lookup"><span data-stu-id="4e367-105">For EAC, refer to [this article](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) for instructions.</span></span> 
     
-- <span data-ttu-id="4f86b-106">Para o PowerShell, consulte [Este artigo](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) para obter instruções sobre como usar o cmdlet Add-PublicFolderClientPermission.</span><span class="sxs-lookup"><span data-stu-id="4f86b-106">For Powershell, refer to [this article](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) for instructions on using the Add-PublicFolderClientPermission commandlet.</span></span> <span data-ttu-id="4f86b-107">Se você precisar de instruções para se conectar ao Exchange PowerShell, clique [aqui](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).</span><span class="sxs-lookup"><span data-stu-id="4f86b-107">If you need instructions to connect to Exchange Powershell, click [here](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).</span></span>
+- <span data-ttu-id="4e367-106">Para o PowerShell, consulte [Este artigo](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) para obter instruções sobre como usar o cmdlet Add-PublicFolderClientPermission.</span><span class="sxs-lookup"><span data-stu-id="4e367-106">For Powershell, refer to [this article](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) for instructions on using the Add-PublicFolderClientPermission commandlet.</span></span> <span data-ttu-id="4e367-107">Se você precisar de instruções para se conectar ao Exchange PowerShell, clique [aqui](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).</span><span class="sxs-lookup"><span data-stu-id="4e367-107">If you need instructions to connect to Exchange Powershell, click [here](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).</span></span>
     
-<span data-ttu-id="4f86b-108">Se **usuários externos não podem enviar emails para uma pasta pública habilitada para email**, o motivo pode ser que a pasta pública não tenha permissões necessárias para a entrega de emails externos.</span><span class="sxs-lookup"><span data-stu-id="4f86b-108">If **external users can't send emails to a mail-enabled Public Folder**, the reason might be that the public folder is missing permissions required for external email delivery.</span></span> <span data-ttu-id="4f86b-109">Você pode corrigir isso usando as instruções do Outlook [aqui](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1)ou as instruções do PowerShell [aqui](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).</span><span class="sxs-lookup"><span data-stu-id="4f86b-109">You can fix this using the Outlook instructions [here](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1), or the PowerShell instructions [here](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).</span></span>
+<span data-ttu-id="4e367-108">Se **usuários externos não podem enviar emails para uma pasta pública habilitada para email**, o motivo pode ser que a pasta pública não tenha permissões necessárias para a entrega de emails externos.</span><span class="sxs-lookup"><span data-stu-id="4e367-108">If **external users can't send emails to a mail-enabled Public Folder**, the reason might be that the public folder is missing permissions required for external email delivery.</span></span> <span data-ttu-id="4e367-109">Você pode corrigir isso usando as instruções do Outlook [aqui](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1)ou as instruções do PowerShell [aqui](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).</span><span class="sxs-lookup"><span data-stu-id="4e367-109">You can fix this using the Outlook instructions [here](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1), or the PowerShell instructions [here](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).</span></span>
   
 
