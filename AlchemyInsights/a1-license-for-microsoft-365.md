@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: 2d8f0be45b21db7295099b376959bfcafcd6ba38
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 88394297d391b7c8ec949cf2d82727f9def819c0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529938"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687390"
 ---
 # <a name="a1-license-for-microsoft-365"></a>Licença A1 para o Microsoft 365
 
@@ -25,9 +25,9 @@ ms.locfileid: "43529938"
 
 - Se o seu Instituto ainda não configurou o Microsoft 365 Education, mas você está tentando adicionar o Office 365 gratuitamente, [comece a usar ](https://www.microsoft.com/education/products/office) fornecendo o seu e-mail. 
 
-- Caso pretenda **mudar** de um plano acadêmico para o plano A1, confira [Mudar para outro plano](https://docs.microsoft.com/pt-BR/microsoft-365/commerce/subscriptions/switch-plans-manually). 
+- Caso pretenda **mudar** de um plano acadêmico para o plano A1, confira [Mudar para outro plano](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually). 
 
-- Para atribuir usuários ao plano A1, confira [atribuir licenças a usuários](https://docs.microsoft.com/pt-BR/microsoft-365/admin/manage/assign-licenses-to-users). 
+- Para atribuir usuários ao plano A1, confira [atribuir licenças a usuários](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users). 
 
 **Importante**: talvez seja necessário aguardar até 24 horas para que as alterações entrem em vigor. 
 

@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: e652fc1ae0a7212f4c7f092fc3b184ef1bc13d0d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e39b8525fbcd43ee3778e5f3df9d3576fbd8924f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053897"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692861"
 ---
 # <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Mensagem de aviso: as políticas da sua organização não permitem que você compartilhe com esses usuários
 
-Os usuários podem ter uma mensagem de aviso ao tentar compartilhar com usuários externos da sua organização. A mensagem é as **políticas de sua organização que não permitem que você compartilhe com esses usuários. Vá para compartilhamento externo no centro de administração do Office 365 para habilitá-lo**. Isso geralmente ocorre na primeira vez que você tenta compartilhar com usuários externos ou ao compartilhar com novos usuários externos.
+Os usuários podem ter uma mensagem de aviso ao tentar compartilhar com usuários externos da sua organização. A mensagem é as **políticas de sua organização que não permitem que você compartilhe com esses usuários. Vá para compartilhamento externo no centro de administração do Microsoft 365 para habilitá-lo**. Isso geralmente ocorre na primeira vez que você tenta compartilhar com usuários externos ou ao compartilhar com novos usuários externos.
 
 Verifique as **configurações de compartilhamento externo do SharePoint e do onedrive** para sua organização.
 

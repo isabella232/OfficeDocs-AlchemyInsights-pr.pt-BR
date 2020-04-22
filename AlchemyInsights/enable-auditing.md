@@ -12,24 +12,24 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665064"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703631"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Habilitar e pesquisar o log de auditoria
 
-**Office 365**
+**Microsoft 365**
 
-Para pesquisar o log de auditoria do Office 365, siga [estas etapas](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Para pesquisar o log de auditoria do Microsoft 365, siga [estas etapas](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
 **Exchange**
 
 - As atividades de administração do Exchange são auditadas por padrão.
 
-- A auditoria de caixa de correio é habilitada por padrão no Office 365. Para obter mais informações, consulte [Este artigo](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- A auditoria de caixa de correio é habilitada por padrão no Microsoft 365. Para obter mais informações, consulte [Este artigo](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
 - Caixas de correio de grupo do Office 365 e caixas de correio de pasta pública no Exchange Online não dão suporte a logs de auditoria.
 
@@ -40,10 +40,10 @@ Para pesquisar o log de auditoria do Office 365, siga [estas etapas](https://doc
 - O SharePoint e o OneDrive dão suporte à auditoria dos seguintes tipos de atividades:
 
     - Atividades de arquivo, pasta e página
-    - Compartilhamento e acesso às atividades de solicitação
+    - Atividades de compartilhamento e solicitação de acesso
     - Atividades de administração do site
     - Atividades de sincronização de arquivo
 
-- Para obter informações sobre as atividades auditadas em outros serviços do Office 365, consulte [a tabela neste artigo](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Para obter informações sobre as atividades auditadas em outros serviços, consulte [a tabela neste artigo](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
 
-- Aqui uma lista de perguntas frequentes [](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) perguntas frequentes sobre como pesquisar o log de auditoria.
+- Aqui uma lista de perguntas frequentes [perguntas frequentes sobre como](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) Pesquisar o log de auditoria.

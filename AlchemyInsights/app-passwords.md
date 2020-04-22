@@ -3,7 +3,7 @@ title: 500 senhas de aplicativo
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,20 +14,20 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 735e8f1db5107b502c5624689cb38abfbec04502
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6f924f15a29864543c221265e734a5eec7aa2ba2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517775"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707827"
 ---
 # <a name="app-passwords"></a>Senhas de aplicativo
 
-Uma senha de aplicativo é um código que oferece permissão a um aplicativo ou dispositivo para acessar sua conta corporativa ou de estudante do Office 365. Se sua conta requer autenticação multifator (MFA) e o aplicativo se conecta à sua conta, você precisa gerar uma senha de aplicativo para que o aplicativo possa se conectar ao Office 365. Por exemplo, o Outlook 2016 e versões anteriores do Outlook precisam de uma senha de aplicativo.
+Uma senha de aplicativo é um código que oferece permissão a um aplicativo ou dispositivo para acessar sua conta corporativa ou de estudante da Microsoft. Se sua conta requer autenticação multifator (MFA) e o aplicativo se conecta à sua conta, você precisa gerar uma senha de aplicativo para que o aplicativo possa se conectar à Microsoft. Por exemplo, o Outlook 2016 e versões anteriores do Outlook precisam de uma senha de aplicativo.
 
- **Observação**: antes de tentar as etapas a seguir, verifique com seu administrador do Office 365 se a MFA é necessária para a sua conta. Se não for, as opções descritas nas etapas não estarão disponíveis para você.
+ **Observação**: antes de tentar as etapas a seguir, verifique com seu administrador do Microsoft 365 se a MFA é necessária para a sua conta. Se não for, as opções descritas nas etapas não estarão disponíveis para você.
 
-1. Entre no Office 365 com sua conta corporativa ou de estudante e sua senha.
+1. Entre com sua conta corporativa ou de estudante e sua senha.
 
 2. Escolha **Configurar agora**.
 

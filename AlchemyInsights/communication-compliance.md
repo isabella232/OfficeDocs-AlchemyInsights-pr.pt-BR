@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: e612c1fb9c0a1b1f6e9a53a2b9eefeed0583dc9e
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: a10d6ce44ab205087669b3f2152351a949030b02
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274818"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706153"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Conformidade com comunicações no Microsoft 365
 
-Conformidade de comunicação é uma nova solução de conformidade da Microsoft 365 que ajuda as organizações a atender aos requisitos de conformidade de supervisão e minimizar os riscos de comunicação. Ele se baseia no recurso de supervisão no Office 365 e contém novos aprimoramentos, incluindo:
+Conformidade de comunicação é uma nova solução de conformidade da Microsoft 365 que ajuda as organizações a atender aos requisitos de conformidade de supervisão e minimizar os riscos de comunicação. Ele se baseia no recurso de supervisão e contém novos aprimoramentos, incluindo:
 
 - Modelos inteligentes personalizáveis
 - Fluxos de trabalho de correção flexíveis
 - Informações acionáveis
 
-Se você atualmente usa [políticas de supervisão no Office 365](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), recomendamos que você agora use a nova conformidade de comunicação para atender às necessidades de regulamentação.
+Se você usa [políticas de supervisão](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)atualmente, recomendamos que você use a nova conformidade de comunicação para atender às necessidades normativas.
 
 Para configurar a conformidade de comunicação, consulte [Configurar conformidade de comunicação](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 

@@ -10,16 +10,16 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: bbb8741fcb394d0951a1fb40400a7534737d3a7a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 18d136f1fdd67b4af89b0f81da19e052f5ea3ff8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769651"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706334"
 ---
 # <a name="changing-message-or-attachment-size"></a>Alterar o tamanho da mensagem ou do anexo
 
-Como um administrador do Office 365, você pode alterar o tamanho máximo/mínimo de mensagens (que inclui anexos) que seus usuários enviam. Você pode fazer isso para usuários individuais ou todos os usuários (padrão da organização). Após alterar essa configuração, leva cerca de 30 minutos para entrar em vigor.
+Como um administrador do Microsoft 365, você pode alterar o tamanho máximo/mínimo de mensagens (que inclui anexos) que seus usuários enviam. Você pode fazer isso para usuários individuais ou todos os usuários (padrão da organização). Após alterar essa configuração, leva cerca de 30 minutos para entrar em vigor.
   
 - Para alterar o tamanho da mensagem de um usuário específico, vá para **central** \> de administração do **Exchange** \> **Recipients** \> **.** Selecione a caixa de correio de um usuário. Selecione o ícone Editar, selecione **recursos de caixa de correio**e, em **restrições de tamanho da mensagem**, escolha **Exibir detalhes** e especificar novo tamanho máximo de mensagem.
 

@@ -3,7 +3,7 @@ title: Verificar o status de sincronização de identidade do AAD
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 182ca2525f428bf3b11513410b3f82ca64f230a6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36738509"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706297"
 ---
 # <a name="check-aad-identity-sync-status"></a>Verificar o status de sincronização de identidade do AAD
 
@@ -30,5 +30,5 @@ A verificação do status da sincronização é fácil:
 
 - No painel de sincronização de diretórios, escolha ir para gerenciamento DirSync.
 
-Se houver um problema com a sincronização de diretório, os erros serão listados nesta página. Para obter mais informações sobre diferentes erros que você pode encontrar, consulte [View Directory Synchronization Errors in Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
+Se houver um problema com a sincronização de diretório, os erros serão listados nesta página. Para obter mais informações sobre diferentes erros que você pode encontrar, consulte [exibir erros de sincronização de diretório](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   

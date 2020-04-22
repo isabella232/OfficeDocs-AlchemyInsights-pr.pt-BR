@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43132599"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703667"
 ---
 # <a name="enable-an-archive-mailbox"></a>Habilitar uma caixa de correio de arquivo morto
 
@@ -25,7 +25,7 @@ Confira aqui como criar uma caixa de correio de arquivo morto:
   
 1. Acesse [https://protection.office.com](https://protection.office.com).
 
-2. Entre no Office 365 usando sua conta de administrador.
+2. Entre no Microsoft 365 usando sua conta de administrador.
 
 3. No painel esquerdo do centro de conformidade &amp; de segurança, selecione **Information governance** \> **arquivamento**de governança de informações.
 
@@ -51,6 +51,6 @@ Para habilitar o arquivo morto para uma caixa de correio compartilhada:
 
 Para saber mais, confira:
   
-- [Habilitar caixas de correio de arquivo morto no Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Habilitar caixas de correio de arquivo morto](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Configurar uma política de arquivo morto e exclusão no Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Configurar uma política de arquivo morto e exclusão](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
