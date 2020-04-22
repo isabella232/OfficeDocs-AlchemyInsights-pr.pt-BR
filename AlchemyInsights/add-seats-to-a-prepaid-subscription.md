@@ -3,7 +3,7 @@ title: Adicionar assentos a uma assinatura pré-paga
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e2d9c25b12a11e933cf0ff40436c717172621af7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36660960"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671445"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Adicionar assentos a uma assinatura pré-paga
 
-As licenças pré-paga do Office 365 são emitidas como um código alfanumérico de 25 caracteres. Após adquirir as licenças de que você precisa, você pode adicioná-las à sua assinatura. 
+As licenças pré-paga são emitidas como um código alfanumérico de 25 caracteres. Após adquirir as licenças de que você precisa, você pode adicioná-las à sua assinatura. 
 
 1. No centro de administração, vá para a página de serviços de **cobrança** > de[produtos &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 

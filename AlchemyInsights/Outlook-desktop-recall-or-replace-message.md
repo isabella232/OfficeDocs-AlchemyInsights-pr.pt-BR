@@ -3,18 +3,18 @@ title: Cancelar a área de trabalho do Outlook ou substituir uma mensagem de ema
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d64332778f9132aff6a9660bb0d522f4e16b753c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36496099"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687498"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Cancelar ou substituir uma mensagem de email do Outlook
 
@@ -37,4 +37,4 @@ Procurar e excluir mensagens de email em sua organização
 - [Criar uma pesquisa de conteúdo](https://docs.microsoft.com/office365/securitycompliance/content-search) para localizar a mensagem a ser excluída.
 - [Conecte-se ao PowerShell do centro de conformidade e segurança](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
-Se você estiver usando a autenticação multifator, confira [conectar-se ao PowerShell do centro de segurança e conformidade do Office 365 usando a autenticação multifator](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
+Se você estiver usando a autenticação multifator, confira [conectar-se ao PowerShell do centro de conformidade e segurança do Microsoft 365 usando a autenticação multifator](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).

@@ -3,7 +3,7 @@ title: Renovação pré-paga
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: ccfc1b392f789e42c2bfbd545f8a7abdeb5ef022
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: bc477ddfc30c987ba25627b7b095c6d8592b8808
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666684"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666765"
 ---
-# <a name="prepaid-office-365-renewal"></a>Renovação pré-paga do Office 365
+# <a name="prepaid-microsoft-365-renewal"></a>Renovação pré-paga da Microsoft 365
 
-1. No centro de administração, vá para a página de serviços de **cobrança** \> de [produtos &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. No centro de administração, vá para a página **Cobrança** \> [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
 2. Encontre a assinatura que você deseja estender. Na seção **cobrança** , selecione **estender data de término**.
 

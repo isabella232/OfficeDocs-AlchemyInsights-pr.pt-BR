@@ -12,16 +12,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1209e59668bbe69fe88408933ae11b357b8d4f1a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661284"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687606"
 ---
-# <a name="office-365-alert-policies"></a>Políticas de alerta do Office 365
+# <a name="alert-policies"></a>Políticas de alerta
 
-O centro de conformidade de & de segurança do Office 365 oferece [políticas de alerta padrão](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) que disparam alertas para organizações com um Office 365 Enterprise ou o Office 365 governo norte-americano E1/G1, E3/G3 ou E5/G5 assinatura. Portanto, os administradores podem receber uma notificação de email de alerta enviada por Office365Alerts@microsoft.com com uma linha de assunto, como um alerta de baixa gravidade: *nome da política de alerta*. As notificações de alerta são enviadas quando os alertas são disparados para atividades comuns, como quando os usuários:
+O centro de conformidade de & de segurança do Microsoft 365 oferece [políticas de alerta padrão](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) que disparam alertas para organizações com um Office 365 Enterprise ou o Office 365 Brasil E1/G1, E3/G3 ou a assinatura E5/G5. Portanto, os administradores podem receber uma notificação de email de alerta enviada por Office365Alerts@microsoft.com com uma linha de assunto, como um alerta de baixa gravidade: *nome da política de alerta*. As notificações de alerta são enviadas quando os alertas são disparados para atividades comuns, como quando os usuários:
 
 - Criar regras de caixa de entrada que encaminham emails.
 - Atribuir permissões à caixa de correio.
