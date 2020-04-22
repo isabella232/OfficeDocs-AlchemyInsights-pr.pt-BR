@@ -1,9 +1,9 @@
 ---
-title: O que acontece com meus dados e acesso quando minha assinatura do Office 365 for Business termina?
+title: O que acontece com meus dados e acesso quando minha assinatura do Microsoft 365 for Business termina?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 162b6b1d84b41a62b56a800a1b41fc47b305097a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 746f9b1553336e66f0c2bcb9e59b75e49b41d3b0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531239"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766193"
 ---
-# <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>O que acontece com meus dados e acesso quando minha assinatura do Office 365 for Business termina?
+# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>O que acontece com meus dados e acesso quando minha assinatura do Microsoft 365 for Business termina?
 
-Se a sua assinatura do Office 365 terminar, porque ela expira ou porque você decide cancelar — seu acesso aos serviços do Office 365, aplicativos e dados do cliente passam por vários Estados antes que a assinatura seja totalmente desativada ou ** desprovisionada  . Se você estiver ciente desse progresso, você ficará mais preparado para retornar sua assinatura para um estado ativo antes que seja muito tarde ou, se você estiver saindo do Office 365, faça backup dos seus dados antes que ele seja excluído.
+Se sua assinatura terminar, pois ela expira ou porque você decide cancelar — seu acesso a serviços, aplicativos e dados do cliente passam por vários Estados antes que a assinatura seja totalmente desativada ou *desprovisionada* . Se você estiver ciente desse progresso, você ficará mais equipado para retornar sua assinatura para um estado ativo antes que seja muito tarde, ou, se você sair da Microsoft, faça backup dos seus dados antes que ele seja excluído.
   
 Antes que a assinatura realmente alcance sua data de expiração, você tem algumas opções para **gerenciar a cobrança recorrente da assinatura**.
   
 - Se a **cobrança recorrente** já estiver ativada, não será necessário realizar qualquer ação. Sua assinatura será cobrada em sua data de **cobrança recorrente** , e você será cobrado por um ano ou mês adicional, dependendo da sua frequência de pagamento atual. Se, por qualquer motivo, você tiver desativado a **cobrança recorrente** , sempre será possível [ativar novamente a cobrança recorrente](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-- Se você for um cliente de licenciamento de volume aberto com uma assinatura pré-paga de um ano, entre em contato com seu parceiro para adquirir uma nova chave de produto. Você receberá instruções por email para ativar sua chave no [centro de serviços](https://go.microsoft.com/fwlink/p/?LinkID=282016)de licenciamento por volume. Para saber como encontrar um novo parceiro ou o parceiro com o qual você trabalhou no passado, confira [localizar seu revendedor ou parceiro do Office 365](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).
+- Se você for um cliente de licenciamento de volume aberto com uma assinatura pré-paga de um ano, entre em contato com seu parceiro para adquirir uma nova chave de produto. Você receberá instruções por email para ativar sua chave no [centro de serviços de licenciamento por volume](https://go.microsoft.com/fwlink/p/?LinkID=282016). Para saber como encontrar um novo parceiro ou o parceiro com o qual você trabalhou no passado, confira [Find Your Microsoft 365 Partner ou Reseller](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).

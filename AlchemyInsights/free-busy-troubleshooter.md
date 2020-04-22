@@ -12,14 +12,14 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 707ead2a324374b6496c995855fd7d2400afaa17
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664848"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765040"
 ---
 # <a name="issues-seeing-calendar-freebusy-information"></a>Problemas para ver informações de disponibilidade do calendário
 
-Se você não conseguir ver as informações de disponibilidade em outros calendários, ou se outras pessoas não conseguirem ver as informações de disponibilidade no seu calendário, use o [Assistente de Recuperação e Suporte da Microsoft para o Office 365](https://diagnostics.office.com/). 
+Se você não conseguir ver as informações de disponibilidade do calendário em outros calendários ou se outras pessoas não conseguirem ver informações de disponibilidade no calendário, use o [Assistente de recuperação e suporte da Microsoft](https://diagnostics.office.com/).
   

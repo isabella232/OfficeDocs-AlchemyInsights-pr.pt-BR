@@ -1,9 +1,9 @@
 ---
-title: URLs e endereços IP do Office 365
+title: URLs e endereços IP do Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,16 +14,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: 31d32b007e478afe74554f96529248ccb709f570
-ms.sourcegitcommit: 0fb0a4c9ac5aa2b9d0d9dcce2dba2d2f343b5847
+ms.openlocfilehash: 4a8de785b02e60f035d6a6f24e726f58fb15929c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37775303"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761571"
 ---
-# <a name="office-365-urls-and-ip-address-ranges"></a>URLs e intervalos de endereço IP do Office 365 
+# <a name="microsoft-365-urls-and-ip-address-ranges"></a>URLs e intervalos de endereços IP do Microsoft 365
 
-O Office 365 requer conectividade com a Internet através de endereços IP específicos chamados de *pontos de extremidade*.
-Para obter uma lista de pontos de extremidade que precisam ser acessíveis, confira [URLs e intervalos de endereços IP do Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
+A Microsoft 365 requer conectividade com a Internet através de endereços IP específicos chamados de *pontos de extremidade*.
+Para obter uma lista de pontos de extremidade que precisam ser acessíveis, confira [URLs e intervalos de endereços IP do Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
 
-A URL do serviço Web e endereço IP do Office 365 ajudam a identificar e diferenciar melhor o tráfego de rede do Office 365, tornando mais fácil para você avaliar, configurar e manter-se atualizado com as alterações. Consulte [endereço IP do Office 365 e serviço Web de URL](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).
+O endereço IP do Microsoft 365 e o serviço Web de URL o ajuda a identificar e diferenciar melhor o tráfego de rede do Microsoft 365, facilitando a avaliação, configuração e manter-se atualizado com as alterações. Consulte [endereço IP do Office 365 e serviço Web de URL](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).

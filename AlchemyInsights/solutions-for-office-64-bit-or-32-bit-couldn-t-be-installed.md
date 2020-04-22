@@ -3,7 +3,7 @@ title: As soluções para o ' Office (64 bits ou 32 bits) não puderam ser insta
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,12 +14,12 @@ ms.custom:
 - "905"
 - "2000023"
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: e32916d40a2cfebf71440573e5d35439ded26b5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cff7315b2a8967d99941c56ce0c62d025172895a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501176"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764177"
 ---
 # <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Não foi possível instalar soluções para o "Office (64 bits ou 32 bits)
 
@@ -27,11 +27,11 @@ O erro "Office (64 bits ou 32 bits) não pôde ser instalado" ocorre porque não
   
 Para corrigir esse erro e alternar de 32 bits para 64 bits, você deve fazer o seguinte nesta ordem.
   
-1. Baixe e instale o [Assistente de recuperação e suporte](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+1. Baixe e instale o [Assistente de Recuperação e Suporte da Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
 1. Ao abrir, de **desinstalar produtos do Office** , selecione a versão que você deseja desinstalar e selecione **Avançar**.
 
-2. Continue passando por telas e reinicie o computador quando solicitado.
+2. Continue passando pelas telas e reinicie o computador quando solicitado.
 
     Após a reinicialização, o assistente de recuperação e suporte será reaberto automaticamente para concluir o processo de desinstalação.
 
