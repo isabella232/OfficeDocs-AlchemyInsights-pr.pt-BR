@@ -3,7 +3,7 @@ title: Corrigir problemas de entrega de emails em pastas públicas habilitadas p
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "1956"
 - "3500007"
 ms.assetid: ''
-ms.openlocfilehash: f7b5e5a230d26870d5e95e8762b5874f73723c6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e261fe60843555fa45927b0a6b36e1ccf79fb028
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525084"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716340"
 ---
 # <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Corrigir problemas de entrega de emails em pastas públicas habilitadas para email
 
@@ -25,7 +25,7 @@ Se os remetentes externos não podem enviar mensagens para suas pastas públicas
 
 1. Abra o [centro de administração do Exchange (Eat)](https://docs.microsoft.com/Exchange/exchange-admin-center).
 
-2. Vá para **** \> **domínios aceitos**do fluxo de emails, selecione o domínio aceito e clique em **Editar**.
+2. Vá para \> **domínios aceitos**do **fluxo de emails** , selecione o domínio aceito e clique em **Editar**.
 
 3. Na página de propriedades que será aberta, se o tipo de domínio estiver definido como **autoritativo**, altere o valor para **retransmissão interna** e clique em **salvar**.
 

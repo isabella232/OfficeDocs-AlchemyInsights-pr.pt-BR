@@ -3,7 +3,7 @@ title: Assinatura expirada
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665028"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714138"
 ---
 # <a name="expired-subscription"></a>Assinatura expirada
 
@@ -26,15 +26,15 @@ Parece que você tem uma ou mais assinaturas expiradas. Se quiser continuar o se
   
 **Reativar**
   
-1. No centro de administração, vá para a página de serviços de **cobrança** \> de [produtos &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. No centro de administração, acesse a página **Cobrança** \> [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Encontre a assinatura que você deseja reativar. Na seção **cobrança** , escolha **reativar**.
+2. Localize a assinatura que você deseja reativar. Na seção **Cobrança**, escolha **Reativar**.
 
-Se você não vir **reativar** como uma ação disponível, ligue para o suporte para reativar sua assinatura.
+Se não aparecer **Reativar** como uma ação disponível, ligue para o suporte para reativar sua assinatura.
 
-3. Confirme seus detalhes de pagamento. Você pode atualizar suas informações de pagamento existentes aqui. Quando tiver terminado de inserir sua forma de pagamento, **** escolha reativar.
+3. Insira seus detalhes de pagamento. Você pode atualizar suas informações de pagamento existentes aqui. Ao terminar de inserir o método de pagamento, escolha **Reativar**.
 
-Para saber mais, confira [reativar sua assinatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Para saber mais, consulte [Reativar sua assinatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Criar uma nova compra**
   

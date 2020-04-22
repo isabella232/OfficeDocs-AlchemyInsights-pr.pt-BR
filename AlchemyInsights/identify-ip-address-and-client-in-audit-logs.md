@@ -3,7 +3,7 @@ title: Identificar endereço IP e cliente em logs de auditoria
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539017"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716376"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identificar endereço IP e cliente em logs de auditoria
 
-O endereço IP que corresponde a uma atividade por um usuário ou administrador do Office 365 é mostrado nos logs de auditoria. As informações do cliente também são registradas. Aqui estão as etapas para identificar essas informações
+O endereço IP que corresponde a uma atividade por um usuário ou administrador do Microsoft 365 é mostrado nos logs de auditoria. As informações do cliente também são registradas. Aqui estão as etapas para identificar essas informações
 
-1. Faça logon no [centro de conformidade & segurança do Office 365](https://protection.office.com/).
+1. Faça logon no [centro de conformidade & segurança da Microsoft 365](https://protection.office.com/).
 
 2. Vá para a página**pesquisa de log de auditoria** de **pesquisa** > .
 

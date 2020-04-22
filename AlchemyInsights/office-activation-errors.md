@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: acd99c8f4ed9ea25bd5e15b161e8c3fae083112b
-ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
+ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43118401"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713310"
 ---
 # <a name="office-activation-errors"></a>Erros de ativação do Office
 
@@ -26,6 +26,6 @@ ms.locfileid: "43118401"
 
 3. Se o Office ainda não tiver licença, baixe e execute a [Solução de problemas de ativação](https://aka.ms/SARA-OfficeActivation-Alchemy) no computador afetado para corrigir os problemas de ativação. 
 
-4. Se o Office ainda não tiver licença, [redefina o estado de ativação do Office](https://docs.microsoft.com/pt-BR/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). Em seguida, reinicie o Office e entre usando sua conta corporativa ou de estudante, se solicitado.  
+4. Se o Office ainda não tiver licença, [redefina o estado de ativação do Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). Em seguida, reinicie o Office e entre usando sua conta corporativa ou de estudante, se solicitado.  
 
 5. Para obter mais ações de solução de problemas, confira [Produto não licenciado e erros de ativação no Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).

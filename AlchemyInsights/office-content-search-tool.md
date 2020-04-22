@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 7bbc6a5819b7d7bb879dd730637b90bbe458724d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 24bd59fde3373382edfd1a79066368e064d0bfc5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053465"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713274"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Ferramenta de pesquisa de conteúdo para encontrar informações relevantes
 
@@ -26,6 +26,6 @@ Antes de usar a [pesquisa de conteúdo](https://sip.protection.office.com/conten
 
 Saiba mais sobre a pesquisa de conteúdo examinando os [requisitos e limites](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [investigando itens parcialmente indexados](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) e outros resultados a serem cientes.
 
-Após examinar as definições de configuração e as restrições de pesquisa de conteúdo, consulte [usando</a> a pesquisa de conteúdo para pesquisar itens no local, como email, documentos e conversas de mensagens instantâneas em sua organização do Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Após examinar as definições de configuração e as restrições de pesquisa de conteúdo, consulte [usando</a> a pesquisa de conteúdo para pesquisar itens no local, como email, documentos e conversas de mensagens instantâneas em sua organização](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 Para obter um passo a passo completo de pesquisa de conteúdo, consulte [Search for Content in Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) para obter mais informações.

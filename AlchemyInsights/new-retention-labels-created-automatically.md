@@ -3,7 +3,7 @@ title: Novos rótulos de retenção criados automaticamente
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 6e43edeedf443d8866817f604f6b41708e7284e6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b0c88acfdc6f3eb94d4eb7e1eb30a4b4b5f5e83b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054654"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713490"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Novos rótulos de retenção criados automaticamente
 
-Você pode ver [três novos rótulos de retenção do Office 365](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) criados automaticamente em sua organização em **Rótulos de retenção** no centro de administração de segurança ou conformidade. Os nomes dos rótulos são:
+Você pode ver [três novos rótulos de retenção](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) criados automaticamente em sua organização em **Rótulos de retenção** no centro de administração de segurança ou conformidade. Os nomes dos rótulos são:
 
 - Procedimento operacional
 - Geral de negócios

@@ -12,16 +12,16 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: f41cfd77ce1173e6786f25316f04e84bfa35af07
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 4940746e178ad4f01de0ae237b7bb49bbd045135
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664704"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712159"
 ---
-# <a name="buy-additional-office-365-licenses"></a>Comprar licenças adicionais do Office 365
+# <a name="buy-additional-licenses"></a>Comprar licenças adicionais
 
-1. No centro de administração, vá para a página de serviços de **cobrança** \> de [produtos &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. No centro de administração, vá para a página **Cobrança** \> [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
 2. Localize a assinatura à qual você deseja adicionar licenças e, em seguida, selecione **Adicionar/remover licenças**.
 
@@ -32,8 +32,8 @@ ms.locfileid: "36664704"
     > [!NOTE]
     > Se pagar a assinatura com cartão de crédito ou débito, as novas licenças compradas ficarão disponíveis logo que você receber uma confirmação do pedido. Se pagar por meio de fatura, talvez seja necessário aguardar a verificação de crédito para que as novas licenças fiquem disponíveis para uso.
 
-Para saber mais, veja [comprar licenças para sua assinatura do Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+Para saber mais, veja [comprar licenças para sua assinatura do Microsoft 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
 
 **Recursos adicionais**
 
-- [Atribuir licenças aos usuários no Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Atribuir licenças aos usuários no Microsoft 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)

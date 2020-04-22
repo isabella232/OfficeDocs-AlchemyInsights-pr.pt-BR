@@ -3,7 +3,7 @@ title: Alteração de conteúdo de bloqueio SMIME
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/29/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1275"
 - "1800028"
-ms.openlocfilehash: 512778405b284432ccc7c6effae6065dbcc844d0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8060dcb58cfb11592a0e367fcb71a23861fbc2a7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502075"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712734"
 ---
 # <a name="outlook-will-now-default-block-external-content-in-smime"></a>Agora, o Outlook bloqueará o conteúdo externo em S/MIME
 

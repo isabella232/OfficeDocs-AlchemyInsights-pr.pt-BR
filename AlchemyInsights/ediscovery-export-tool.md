@@ -14,16 +14,16 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 7e2964ef0a44ddf421e4aae007acbdbda196e20f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769291"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714758"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Não é possível instalar ou executar a ferramenta de exportação de descoberta eletrônica?
 
-Se você não conseguir instalar ou executar a ferramenta de exportação de descoberta eletrônica do Office 365 para baixar os resultados da pesquisa, verifique as seguintes coisas:
+Se você não conseguir instalar ou executar a ferramenta de exportação de descoberta eletrônica para baixar os resultados da pesquisa, verifique as seguintes coisas:
   
 - O computador que você está usando atende a esses pré-requisitos:
 
@@ -43,7 +43,7 @@ Se você não conseguir instalar ou executar a ferramenta de exportação de des
 
 - Sua organização pode se conectar ao ponto de extremidade no Azure, que é ** \*. blob.Core.Windows.net** (o caractere curinga representa um identificador exclusivo para seu trabalho de exportação).
 
-- Você é atribuído à função exportar no centro de conformidade de &amp; segurança do Office 365. Por padrão, essa função só é atribuída ao grupo de função Gerenciador de descoberta eletrônica. Consulte [atribuir permissões de descoberta eletrônica](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+- Você é atribuído à função exportar no centro de conformidade de &amp; segurança do Microsoft 365. Por padrão, essa função só é atribuída ao grupo de função Gerenciador de descoberta eletrônica. Consulte [atribuir permissões de descoberta eletrônica](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
 Para obter mais informações, consulte [Exportar resultados de pesquisa de conteúdo](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

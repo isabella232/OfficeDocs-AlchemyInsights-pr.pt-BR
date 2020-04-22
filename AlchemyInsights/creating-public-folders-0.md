@@ -3,7 +3,6 @@ title: Criar pastas públicas
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +11,16 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: c1bd1733530cec42a3403a330fe4688cd8b9c6ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631762"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715348"
 ---
 # <a name="creating-public-folders"></a>Criar pastas públicas
 
-Para que os usuários possam usar pastas públicas no Office 365, será necessário criar pelo menos uma caixa de correio de pasta pública. Para criar:
+Para que os usuários possam usar pastas públicas, você precisará criar pelo menos uma caixa de correio de pasta pública. Para criar:
   
 1. No centro de administração do Microsoft 365, vá para central de **Administração** \> do **Exchange**.
 
