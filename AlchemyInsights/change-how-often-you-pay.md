@@ -3,7 +3,7 @@ title: Alterar a frequência de pagamento
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,13 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: ce85f413bab2725d82f7597ec46c5796374bc5d1
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43217852"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706815"
 ---
-# <a name="change-how-often-you-pay"></a><span data-ttu-id="e7bcf-102">Alterar a frequência de pagamento</span><span class="sxs-lookup"><span data-stu-id="e7bcf-102">Change how often you pay</span></span>
+# <a name="change-how-often-you-pay"></a><span data-ttu-id="975ec-102">Alterar a frequência de pagamento</span><span class="sxs-lookup"><span data-stu-id="975ec-102">Change how often you pay</span></span>
 
-<span data-ttu-id="e7bcf-103">Ao comprar uma assinatura, você escolhe a cobrança mensal ou anual.</span><span class="sxs-lookup"><span data-stu-id="e7bcf-103">When you buy a subscription, you choose monthly or annual billing.</span></span> <span data-ttu-id="e7bcf-104">Para alterar a frequência de cobrança de uma assinatura, use as etapas a seguir.</span><span class="sxs-lookup"><span data-stu-id="e7bcf-104">To change how often you are billed for a subscription, use the following steps.</span></span>
-
-1. <span data-ttu-id="e7bcf-105">No centro de administração, vá para a página de \*\*serviços de> de facturação de [produtos &](https://go.microsoft.com/fwlink/p/?linkid=842054) \*\* .</span><span class="sxs-lookup"><span data-stu-id="e7bcf-105">In the admin center, go to the **Billing> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
-
-2. <span data-ttu-id="e7bcf-106">Encontre a assinatura que você deseja alterar.</span><span class="sxs-lookup"><span data-stu-id="e7bcf-106">Find the subscription you want to change.</span></span> <span data-ttu-id="e7bcf-107">Na seção **cobrança** , ao lado de **cobrado mensalmente** ou **cobrado por ano**, clique em **Editar**.</span><span class="sxs-lookup"><span data-stu-id="e7bcf-107">In the **Billing** section, next to either **Billed monthly** or **Billed annually**, click **Edit**.</span></span>
-
-3. <span data-ttu-id="e7bcf-108">Escolha a opção para saber com que frequência você deseja ser cobrado e clique em **alterar**.</span><span class="sxs-lookup"><span data-stu-id="e7bcf-108">Choose the option for how often you want to be billed, then click **Change**.</span></span>
+ <span data-ttu-id="975ec-103">**Deseja alterar a frequência de pagamento?**</span><span class="sxs-lookup"><span data-stu-id="975ec-103">**Want to change your payment frequency?**</span></span> <span data-ttu-id="975ec-104">Se você quiser alterar a frequência com que paga para sua assinatura do Microsoft 365 for Business, de anual para mensal ou mensal, podemos ajudá-lo com isso.</span><span class="sxs-lookup"><span data-stu-id="975ec-104">If you want to change how frequently you pay for your Microsoft 365 for business subscription, either from annual to monthly or monthly to annual, we can help you with that.</span></span> <span data-ttu-id="975ec-105">Você precisará comprar a mesma assinatura com a Nova frequência de pagamento e cancelar a assinatura antiga.</span><span class="sxs-lookup"><span data-stu-id="975ec-105">You'll need to purchase the same subscription with the new payment frequency and cancel the old subscription.</span></span> <span data-ttu-id="975ec-106">Use a opção "Deixe-nos ligar para você" para falar com um engenheiro de suporte.</span><span class="sxs-lookup"><span data-stu-id="975ec-106">Please use the "Let us call you" option to talk to a support engineer.</span></span>
