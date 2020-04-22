@@ -2,7 +2,7 @@
 title: 399 calendário-representante
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 399
 ms.assetid: 4b6e1dfd-dcdf-4f7c-8249-be2bd2e1f936
-ms.openlocfilehash: b74188d74a6184ecd35b7a83e4b27ee6d38eb07f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 6592a2d433def9513f5dba4d4b87cfd71fb78354
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768500"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711871"
 ---
-# <a name="configure-mail-and-calendar-delegates"></a><span data-ttu-id="1a2c1-102">Configurar representantes de email e de calendário</span><span class="sxs-lookup"><span data-stu-id="1a2c1-102">Configure mail and calendar delegates</span></span>
+# <a name="configure-mail-and-calendar-delegates"></a><span data-ttu-id="d966c-102">Configurar representantes de email e de calendário</span><span class="sxs-lookup"><span data-stu-id="d966c-102">Configure mail and calendar delegates</span></span>
 
-<span data-ttu-id="1a2c1-103">Para conceder a outros usuários acesso à sua caixa de correio do Outlook, confira [permitir que outra pessoa Gerencie seu email e seu calendário](https://support.office.com/article/9684b670-7588-4eea-8717-9e5799047540.aspx).</span><span class="sxs-lookup"><span data-stu-id="1a2c1-103">To give other users access to your Outlook mailbox, see [Allow someone else to manage your mail and calendar](https://support.office.com/article/9684b670-7588-4eea-8717-9e5799047540.aspx).</span></span>
+<span data-ttu-id="d966c-103">Para conceder a outros usuários acesso à sua caixa de correio do Outlook, confira [permitir que outra pessoa Gerencie seu email e seu calendário](https://support.office.com/article/9684b670-7588-4eea-8717-9e5799047540.aspx).</span><span class="sxs-lookup"><span data-stu-id="d966c-103">To give other users access to your Outlook mailbox, see [Allow someone else to manage your mail and calendar](https://support.office.com/article/9684b670-7588-4eea-8717-9e5799047540.aspx).</span></span>

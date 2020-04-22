@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3046"
 - "9001088"
-ms.openlocfilehash: 2017b2d50b7170a6435ad8119b2a72f6066f89fa
-ms.sourcegitcommit: 8e1fa99a781674a79ae5d0385a48be2e209a2386
+ms.openlocfilehash: cb9fef505e35e9d5888ab995d5cd3a43392b682f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37554387"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713526"
 ---
-# <a name="office-365-multi-geo"></a><span data-ttu-id="6c589-102">Office 365 multigeográfico</span><span class="sxs-lookup"><span data-stu-id="6c589-102">Office 365 Multi-Geo</span></span>
+# <a name="microsoft-365-multi-geo"></a><span data-ttu-id="8e5d4-102">Microsoft 365 multigeográfico</span><span class="sxs-lookup"><span data-stu-id="8e5d4-102">Microsoft 365 Multi-Geo</span></span>
 
-<span data-ttu-id="6c589-103">Com o Office 365 multigeográfico, sua organização poderá expandir sua presença do Office 365 para várias regiões geográficas e/ou os países em seu locatário existente.</span><span class="sxs-lookup"><span data-stu-id="6c589-103">With Office 365 Multi-Geo, your organization can expand its Office 365 presence to multiple geographic regions and/or countries within your existing tenant.</span></span> <span data-ttu-id="6c589-104">Confira os links abaixo para obter mais informações.</span><span class="sxs-lookup"><span data-stu-id="6c589-104">See the links below for more information.</span></span>
+<span data-ttu-id="8e5d4-103">Com o Microsoft 365 multigeográfico, sua organização pode expandir sua presença da Microsoft 365 para várias regiões geográficas e/ou países dentro de seu locatário existente.</span><span class="sxs-lookup"><span data-stu-id="8e5d4-103">With Microsoft 365 Multi-Geo, your organization can expand its Microsoft 365 presence to multiple geographic regions and/or countries within your existing tenant.</span></span> <span data-ttu-id="8e5d4-104">Confira os links abaixo para obter mais informações.</span><span class="sxs-lookup"><span data-stu-id="8e5d4-104">See the links below for more information.</span></span>
 
-- [<span data-ttu-id="6c589-105">Office 365 multigeográfico</span><span class="sxs-lookup"><span data-stu-id="6c589-105">Office 365 Multi-Geo</span></span>](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
-- [<span data-ttu-id="6c589-106">Recursos multigeográficos no OneDrive e SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="6c589-106">Multi-Geo Capabilities in OneDrive and SharePoint Online</span></span>](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
-- [<span data-ttu-id="6c589-107">Recursos multigeográficos no Exchange Online</span><span class="sxs-lookup"><span data-stu-id="6c589-107">Multi-Geo Capabilities in Exchange Online</span></span>](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)
-- [<span data-ttu-id="6c589-108">Plano para o Office 365 multigeográfico</span><span class="sxs-lookup"><span data-stu-id="6c589-108">Plan for Office 365 Multi-Geo</span></span>](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
-- [<span data-ttu-id="6c589-109">Configurar várias GEOS</span><span class="sxs-lookup"><span data-stu-id="6c589-109">Configure Multi-Geo</span></span>](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)
+- [<span data-ttu-id="8e5d4-105">Microsoft 365 multigeográfico</span><span class="sxs-lookup"><span data-stu-id="8e5d4-105">Microsoft 365 Multi-Geo</span></span>](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
+- [<span data-ttu-id="8e5d4-106">Recursos multigeográficos no OneDrive e SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="8e5d4-106">Multi-Geo Capabilities in OneDrive and SharePoint Online</span></span>](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
+- [<span data-ttu-id="8e5d4-107">Recursos multigeográficos no Exchange Online</span><span class="sxs-lookup"><span data-stu-id="8e5d4-107">Multi-Geo Capabilities in Exchange Online</span></span>](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)
+- [<span data-ttu-id="8e5d4-108">Plano para o Microsoft 365 multigeo</span><span class="sxs-lookup"><span data-stu-id="8e5d4-108">Plan for Microsoft 365 Multi-Geo</span></span>](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
+- [<span data-ttu-id="8e5d4-109">Configurar várias GEOS</span><span class="sxs-lookup"><span data-stu-id="8e5d4-109">Configure Multi-Geo</span></span>](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)
