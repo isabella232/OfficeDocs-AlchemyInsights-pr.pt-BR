@@ -3,7 +3,7 @@ title: 1800019 a caixa de entrada destaques no Outlook
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/11/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.custom:
 - "908"
 - "1800019"
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
-ms.openlocfilehash: 9f647338efd63d78bafca3424fcf735cf4c4dbd1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8eb4f8c9eca75b68fdc5c32235f31b5c2c8bf2ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524543"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719909"
 ---
-# <a name="focused-inbox-in-outlook"></a><span data-ttu-id="60c92-102">Caixa de entrada destaques no Outlook</span><span class="sxs-lookup"><span data-stu-id="60c92-102">Focused Inbox in Outlook</span></span>
+# <a name="focused-inbox-in-outlook"></a><span data-ttu-id="f9430-102">Caixa de entrada destaques no Outlook</span><span class="sxs-lookup"><span data-stu-id="f9430-102">Focused Inbox in Outlook</span></span>
 
-<span data-ttu-id="60c92-103">A caixa de entrada destaques separa a caixa de entrada em duas guias — focadas e outras.</span><span class="sxs-lookup"><span data-stu-id="60c92-103">Focused Inbox separates your inbox into two tabs—Focused and Other.</span></span> <span data-ttu-id="60c92-104">Suas mensagens mais importantes estão na guia destaques enquanto o restante permanece acessível facilmente, mas não é possível, na guia outros.</span><span class="sxs-lookup"><span data-stu-id="60c92-104">Your most important messages are on the Focused tab while the rest remain easily accessible—but out of the way—on the Other tab.</span></span>
+<span data-ttu-id="f9430-103">A caixa de entrada destaques separa a caixa de entrada em duas guias — focadas e outras.</span><span class="sxs-lookup"><span data-stu-id="f9430-103">Focused Inbox separates your inbox into two tabs—Focused and Other.</span></span> <span data-ttu-id="f9430-104">Suas mensagens mais importantes estão na guia destaques enquanto o restante permanece acessível facilmente, mas não é possível, na guia outros.</span><span class="sxs-lookup"><span data-stu-id="f9430-104">Your most important messages are on the Focused tab while the rest remain easily accessible—but out of the way—on the Other tab.</span></span>
   
-<span data-ttu-id="60c92-105">[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409) | [Outlook na Web](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409) | [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409) | [Outlook 2016 para Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409) | [mail para Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="60c92-105">[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409) | [Outlook on the web](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409) | [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409) | [Outlook 2016 for Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409) | [Mail for Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)</span></span>
+<span data-ttu-id="f9430-105">[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409) | [Outlook na Web](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409) | [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409) | [Outlook 2016 para Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409) | [mail para Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="f9430-105">[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409) | [Outlook on the web](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409) | [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409) | [Outlook 2016 for Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409) | [Mail for Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)</span></span>
   
-<span data-ttu-id="60c92-106">Saiba mais:</span><span class="sxs-lookup"><span data-stu-id="60c92-106">Learn more:</span></span>
+<span data-ttu-id="f9430-106">Saiba mais:</span><span class="sxs-lookup"><span data-stu-id="f9430-106">Learn more:</span></span>
   
-- [<span data-ttu-id="60c92-107">Veja a caixa de entrada destaques em ação</span><span class="sxs-lookup"><span data-stu-id="60c92-107">See Focused Inbox in action</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
+- [<span data-ttu-id="f9430-107">Veja a caixa de entrada destaques em ação</span><span class="sxs-lookup"><span data-stu-id="f9430-107">See Focused Inbox in action</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
 
-- [<span data-ttu-id="60c92-108">Configurar a caixa de entrada destaques para todos em sua organização com o PowerShell</span><span class="sxs-lookup"><span data-stu-id="60c92-108">Configure Focused Inbox for everyone in your organization with PowerShell</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)
+- [<span data-ttu-id="f9430-108">Configurar a caixa de entrada destaques para todos em sua organização com o PowerShell</span><span class="sxs-lookup"><span data-stu-id="f9430-108">Configure Focused Inbox for everyone in your organization with PowerShell</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)
