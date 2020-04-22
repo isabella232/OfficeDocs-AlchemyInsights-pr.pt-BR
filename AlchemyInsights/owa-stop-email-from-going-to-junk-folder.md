@@ -3,26 +3,26 @@ title: Impedir que as mensagens vá para a pasta lixo eletrônico no Outlook na 
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 19873107de9450cd276253194c08cd0a84cd4a82
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c3dca146d1159ebee71c6806427700a4e8a69e15
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555725"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721867"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder-in-outlook-on-the-web"></a>Impedir que as mensagens vá para a pasta lixo eletrônico no Outlook na Web
 
 Se você descobrir que uma mensagem de email na pasta lixo eletrônico não é lixo eletrônico:
 
 1. Abra a pasta lixo eletrônico e selecione a mensagem. (*Observação:* os itens em sua pasta lixo eletrônico são excluídos após 30 dias.)
-1. Acima da lista de mensagens, selecione **não lixo eletrônico** > ****.
+1. Acima da lista de mensagens, selecione **não lixo eletrônico** > **.**
 
 Se quiser impedir que qualquer mensagem de um remetente vá para a pasta lixo eletrônico, adicione o remetente à sua lista de remetentes confiáveis:
 

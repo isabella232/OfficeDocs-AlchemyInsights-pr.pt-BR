@@ -3,7 +3,7 @@ title: Atualizar para o Visio 2019
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1798"
 - "9000201"
-ms.openlocfilehash: 7870b63660a1f08b844c48d5f20ff96a336e63de
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 8baf4d27ed1c6c7f6b15c1221ddb9dbb8aea9c3b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903674"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720017"
 ---
 # <a name="upgrade-to-visio-2019"></a>Atualizar para o Visio 2019
 
@@ -29,8 +29,8 @@ Se você já comprou uma versão mais recente e está pronto para instalá-la, c
 
 Para instalar o Visio lado a lado com o Office, confira [cenários com suporte para a instalação de diferentes versões do Office, do Project e do Visio no mesmo computador](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
 
-Para obter mais informações, consulte:<br>
+Para saber mais, confira:<br>
 [Guia de implantação do Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[O número de versão principal do Visio 2019 permanece em 16,0](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
-[Designação de ano no Office 2016 e os aplicativos cliente do Office 365 serão removidos das entradas do menu iniciar](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
+[O número de versão principal do Visio 2019 permanece em 16,0](https://docs.microsoft.com/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
+[Designação de ano no Office 2016 e os aplicativos cliente serão removidos das entradas do menu iniciar](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
 [Office 2019 comercial para Windows e perguntas frequentes sobre o Mac](https://support.microsoft.com/help/4133312) 

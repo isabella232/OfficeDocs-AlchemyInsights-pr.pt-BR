@@ -3,7 +3,7 @@ title: Rótulos de sensibilidade não aparecem
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 67719380aea0481f96c03fa591542e8e5a6e6993
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048640"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758361"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Rótulos de sensibilidade não aparecem
 
-Os rótulos de confidencialidade permitem classificar e ajudar a proteger o conteúdo confidencial. Eles podem ser criados no centro de conformidade da Microsoft 365, no centro de segurança da Microsoft 365 ou no centro de conformidade & segurança do Office 365 em classificação > rótulos de confidencialidade. Para saber mais sobre esse recurso, confira [visão geral de rótulos de confidencialidade](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Os rótulos de confidencialidade permitem classificar e ajudar a proteger o conteúdo confidencial. Eles podem ser criados no centro de conformidade da Microsoft 365, no centro de segurança da Microsoft 365 ou no centro de conformidade & segurança da Microsoft 365 em classificação > rótulos de confidencialidade. Para saber mais sobre esse recurso, confira [visão geral de rótulos de confidencialidade](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
 Se você configurou seus rótulos de sensibilidade, mas eles não aparecem nos aplicativos do Office, verifique o seguinte:
 
 - Confirme se o rótulo de confidencialidade foi [publicado](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) nos usuários e grupos desejados.
 
-- Confirme se o usuário está usando um aplicativo que oferece suporte a rótulos de confidencialidade-consulte [Rótulos de sensibilidade em seu documento](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
+- Confirme se o usuário está usando um aplicativo que oferece suporte a rótulos de confidencialidade-consulte [Rótulos de sensibilidade em seu documento](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 
 - Se você estiver [migrando os rótulos de proteção de informações do Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), esteja ciente das considerações listadas [aqui](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "4764"
-ms.openlocfilehash: 2b82d6f19ff479ba4a3b1eb0cac168f38d2b2cd8
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 18361bf7f06775dfd481b1246707bacf25b48dea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529944"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719873"
 ---
 # <a name="license-not-working"></a>A licença não está funcionando
 
@@ -26,7 +26,7 @@ A seguir estão algumas validações que você pode experimentar:
 
 - Experimente desligar e ligar a licença do produto e veja se isso corrige o problema. 
 
-- Caso não veja uma licença atribuída, certifique-se de que as licenças estão atribuídas aos usuários. Confira [Atribuir licenças a usuários](https://docs.microsoft.com/en-us/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
+- Caso não veja uma licença atribuída, certifique-se de que as licenças estão atribuídas aos usuários. Confira [Atribuir licenças a usuários](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 
 - Verifique se sua assinatura expirou e precisa ser renovada. Confira [Reativar sua assinatura](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription). 
 

@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: 5416da63851de8b0b45e1d5c0cef24b03db40e6e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 197a84c5f69f9e58460925049345263743fe78ee
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054942"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43733186"
 ---
 # <a name="troubleshoot-onedrive-performance"></a>Solucionar problemas de desempenho do OneDrive
 
@@ -22,7 +22,7 @@ Se você estiver experimentando uma sincronização mais lenta do que o esperado
 
 - Confirme se não há problemas conhecidos usando o [painel de integridade do serviço](https://portal.office.com/adminportal/home?ref=/servicehealth).
 
-- [Habilitar arquivos por demanda](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-US&rs=en-US&ad=US) para que você possa acessar todos os seus arquivos no onedrive sem precisar baixar todos eles e usar o espaço de armazenamento em seu dispositivo.
+- [Habilitar arquivos por demanda](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) para que você possa acessar todos os seus arquivos no onedrive sem precisar baixar todos eles e usar o espaço de armazenamento em seu dispositivo.
 
 - [Revise as práticas recomendadas](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) para o planejamento e desempenho da rede.
 
