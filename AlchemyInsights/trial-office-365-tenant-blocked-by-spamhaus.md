@@ -1,8 +1,8 @@
 ---
-title: Locatário do Office 365 de avaliação bloqueado pelo Spamhaus
+title: Avaliação do Microsoft 365 locatário bloqueado pelo Spamhaus
 ms.author: chrisda
 author: chrisda
-ms.date: 11/4/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 6bf10d68da8ba582ff0288b1f824ffc2505d4365
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ca948d0f1d5ded8969198ccddc67d743f77a1734
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500388"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759860"
 ---
-# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Erro quando um usuário de avaliação do Office 365 envia email: host de cliente bloqueado usando Spamhaus
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Erro quando um usuário de avaliação da Microsoft 365 envia email: host de cliente bloqueado usando Spamhaus
 
-Parece que você está enviando emails de uma nova organização de avaliação do Office 365. Para ajudar a evitar abusos, bloqueiamos endereços IP conhecidos que foram comprometidos anteriormente. Essa verificação específica não é mais imposta após você começar a usar licenças pagas. Você pode obter um alívio temporário solicitando um novo endereço IP do seu provedor de serviços de Internet (ISP) ou removendo o bloco do site do [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .
+Parece que você está enviando emails de uma nova organização de avaliação do Microsoft 365. Para ajudar a evitar abusos, bloqueiamos endereços IP conhecidos que foram comprometidos anteriormente. Essa verificação específica não é mais imposta após você começar a usar licenças pagas. Você pode obter um alívio temporário solicitando um novo endereço IP do seu provedor de serviços de Internet (ISP) ou removendo o bloco do site do [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .
