@@ -12,17 +12,19 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: 83ac66ddd2f5dac25aaa0b2ac3fe855c2e29f988
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
+ms.openlocfilehash: e1dd2bd37be42de74701b11864841e876cf5a2a6
+ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154157"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43556934"
 ---
 # <a name="pstn-calling-plans"></a>Planos de chamada PSTN
 
-As chamadas para outros usuários do Skype for Business e Microsoft Teams são gratuitas, mas se você quer que seus usuários liguem para telefones comuns e ainda não possui um provedor de serviços para fazer chamadas de voz, é necessário comprar um Plano de chamadas. 
+Se você quer que seus usuários possam ligar para telefones convencionais e ainda não tem um provedor de serviços para fazer chamadas de voz, você precisa comprar um Plano de chamadas.
 
-- Para iniciar o processo de compra, consulte [Como comprar um plano de chamadas](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365). 
+- Consulte [Como comprar um plano de chamadas](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) ara iniciar o processo de compra.
 
-- Para mais informações, consulte [Sistema telefônico e planos de chamada](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page). 
+- Configure [Créditos de comunicação](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) para impedir que os usuários **fiquem sem minutos**. Consulte as taxas [aqui](https://products.office.com/microsoft-teams/voice-calling). 
+
+- Para obter mais informações, consulte [Sistema telefônico e Planos de chamadas](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) ou [O que são créditos de comunicação?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
