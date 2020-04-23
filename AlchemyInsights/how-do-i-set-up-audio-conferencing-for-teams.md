@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692383"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709927"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Audioconferência
 
-Precisa de ajuda para ativar ou configurar audioconferências no Microsoft Teams? Esse usuário foi criado recentemente?  Em caso afirmativo, você precisará esperar de 2 a 24 horas para que as configurações sejam efetivadas.    
+Precisa de ajuda para ativar ou configurar audioconferências no Microsoft Teams? Esse usuário foi criado recentemente?  Em caso afirmativo, você precisará esperar de 2 a 24 horas para que as configurações sejam efetivadas.
 
 Para verificar se o usuário está licenciado para conferências de áudio e tem um número de chamada padrão:
 
@@ -39,4 +39,4 @@ Para verificar se o usuário está licenciado para conferências de áudio e tem
 
 7. Selecione o usuário em questão e verifique se o usuário tem um **Número de Chamada Telefônica Padrão**.
 
-Para saber mais, confira [Planos de chamadas do Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ou ligue para a equipe de cobrança do Microsoft Commerce para obter ajuda com perguntas relacionadas a licenciamento.
+Para saber mais, confira [Planos de chamadas](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ou ligue para a equipe de cobrança do Microsoft Commerce para obter ajuda com perguntas relacionadas a licenciamento.
