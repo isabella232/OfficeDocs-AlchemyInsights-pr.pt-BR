@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 80fe96b72c9e7fdb610bf4618535bbecb9465c9d
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 497463fc70a09490bc74c40405325433b4ce0e90
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286021"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767057"
 ---
 # <a name="sync-my-outlook-contacts-to-my-address-book"></a>Sincronizar meus contatos do Outlook com meu catálogo de endereços
 
@@ -30,7 +30,7 @@ O Outlook permite exportar seus contatos para o aplicativo de contatos padrão n
 
 3. Alterne o controle deslizante de **contatos de sincronização** .
  
-A exportação de contato bidirecional é suportada para a autenticação moderna do Office 365, Outlook.com e híbrida para caixas de correio locais. O suporte de duas vias garante que todos os novos contatos que você adicionar, ou contatos existentes editado, serão sincronizados entre o dispositivo e as contas do Outlook.
+A exportação de contato bidirecional é compatível com o Microsoft 365, Outlook.com e a autenticação moderna híbrida para caixas de correio locais. O suporte de duas vias garante que todos os novos contatos que você adicionar, ou contatos existentes editado, serão sincronizados entre o dispositivo e as contas do Outlook.
  
 Para contas herdadas do Exchange, você pode exportar seus contatos para serem salvos no dispositivo. Quando a **sincronização de contatos** estiver habilitada, os contatos adicionados recentemente e as edições feitas nos seus contatos no Outlook serão salvos no aplicativo contatos do dispositivo. No entanto, as edições feitas diretamente no aplicativo contatos do dispositivo não serão salvas no Outlook. Observe que não há suporte para adicionar/editar contatos do Outlook para Android para contas do Exchange local, portanto, você precisará gerenciar seus contatos de outro cliente do Outlook.
  

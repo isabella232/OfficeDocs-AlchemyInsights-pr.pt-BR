@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 73fc8b71cf06be1a4ea91e164c2c47fd19971056
-ms.sourcegitcommit: f6b4bcb6b9dcb3dd17595d503d78b6ee36881a33
+ms.openlocfilehash: 7ffbd796979d8e63682bcc9f5ec5e21e16f777b7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43053878"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765792"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Soluções para problemas durante a instalação do Office
 
@@ -29,7 +29,7 @@ Tente uma destas soluções para corrigir o erro do Office:
 - Limpe todos os rastreamentos anteriores do Office e reinstale usando o Assistente de Recuperação e Suporte (SaRA). 
 
     - Baixe e instale o [Assistente de Recuperação e Suporte da Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy). Quando aberto, em **Desinstalar produtos do Office**, selecione a versão que você deseja desinstalar (se houver) e clique em **Avançar**. Continue passando pelas telas e reinicie o computador quando solicitado. Após reiniciar, o SaRA é reaberto automaticamente para concluir o processo de desinstalação.
-    - Use o SaRA para [reinstalar o Office](http://aka.ms/sara-officeinstall). **Observação**: Para configurar o Visio ou o Project usando o SaRA, use [Instalar o Visio](https://aka.ms/SaRA-VisioSetupScenario) ou [Instalar o Project](https://aka.ms/SaRA-ProjectSetupScenario).  
+    - Use o SaRA para [reinstalar o Office](https://aka.ms/sara-officeinstall). **Observação**: Para configurar o Visio ou o Project usando o SaRA, use [Instalar o Visio](https://aka.ms/SaRA-VisioSetupScenario) ou [Instalar o Project](https://aka.ms/SaRA-ProjectSetupScenario).  
 
 - [Use o instalador offline do Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) para instalar o Office.
 

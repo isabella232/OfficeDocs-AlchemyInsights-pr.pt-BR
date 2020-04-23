@@ -3,7 +3,7 @@ title: Corrigir problemas de sincronização no Outlook na Web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "9000641"
 - "2478"
-ms.openlocfilehash: c3e5a2c8a4f01df1553dfc1b20a064353165ad65
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 480984de4ddc7a888de3ea5cfdf5395fb51cb0cd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556841"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768425"
 ---
 # <a name="fix-outlook-on-the-web-sync-issues"></a>Corrigir problemas de sincronização do Outlook na Web
 
