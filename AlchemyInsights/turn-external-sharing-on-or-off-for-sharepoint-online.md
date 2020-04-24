@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "3168"
-ms.openlocfilehash: 86e4888634a7282c7d123a5510e34bdfe0911342
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: b977d0dfc700c558f4a740b6b3426e3b8537d280
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182261"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789470"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint-online"></a>Ativar ou desativar o compartilhamento externo no SharePoint Online
 
-Para saber como os administradores globais e do SharePoint no Office 365 podem alterar suas configurações de compartilhamento no nível da organização para SharePoint e OneDrive, consulte [Ativar ou desativar o compartilhamento externo.](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off).
+Para saber como os administradores globais e do SharePoint podem alterar suas configurações de compartilhamento no nível da organização para o SharePoint e o OneDrive, confira [Ativar ou desativar o compartilhamento externo.](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off).

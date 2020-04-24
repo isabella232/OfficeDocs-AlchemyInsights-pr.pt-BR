@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 2a45873c328a6df47d2c18aaf107a05dec453bef
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 95045bbcc096323fff551acbb2c25868b420467f
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182274"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788762"
 ---
 # <a name="couldnt-verify-subscription-notice-in-office-apps"></a>“Não foi possível verificar o aviso de inscrição” nos aplicativos do Office
 
 - Verifique se o [status da assinatura](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) é válido e se o usuário afetado possui [licença válida atribuída](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) e está conectado à Internet.
 
-- Verifique a [página Integridade do serviço do Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) para consultar se há algum problema conhecido com o serviço.
+- Verifique a [Página Integridade do Serviço do Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health) para ver se há algum problema conhecido com o serviço.
 
 - [Verifique seu firewall](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkfirewall), [Verifique seu software antivírus](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkav), [Verifique suas configurações de proxy](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkproxy) na máquina afetada.
 
