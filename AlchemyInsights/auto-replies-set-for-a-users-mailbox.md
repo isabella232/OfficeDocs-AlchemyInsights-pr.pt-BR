@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: aeeb2e1e76fe602d2767b422797452fd1155fdd5
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 4ffe8d77dad7db5fd5806fe879cf4934e5ca7c4a
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509476"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788870"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>Configurar respostas automáticas para uma caixa de correio de um usuário
 
 **Método 1**
 
-1. Entre no portal do Office 365.
+1. Entre no portal do Microsoft 365.
 
 2. Vá para **Usuários > Usuários ativos** (ou **Grupos > Caixas de correio compartilhadas** se você definir essa opção em uma caixa de correio compartilhada).
 
@@ -32,7 +32,7 @@ ms.locfileid: "43509476"
 
 **Método 2**
 
-1. Entre no portal de administração do Office 365 usando as credenciais de administrador.
+1. Entre no portal de administração do Microsoft 365 usando as credenciais de administrador.
 
 2. Escolha **Centros de Administração** e depois clique em **Exchange**. 
 
