@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856772"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739424"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Problemas comuns do Teams para clientes da área educacional
 
@@ -45,12 +45,12 @@ se você precisar de ajudar para implantar o Teams para dar suporte ao aprendiza
     6. No centro de administração do Skype for Business, clique em **audioconferência** e, em seguida, em **usuários**.
     7. Selecione o usuário em questão e verifique se o usuário tem um Número de Chamada Padrão Tarifada.
 
-    Para saber mais, confira [Planos de chamadas do Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ou ligue para a equipe de cobrança do Microsoft Commerce para obter ajuda com perguntas relacionadas a licenciamento.
+    Para saber mais, confira [Planos de chamadas](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ou ligue para a equipe de cobrança do Microsoft Commerce para obter ajuda com perguntas relacionadas a licenciamento.
 
     Recursos adicionais
 
     - [Conferências e reuniões no Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Audioconferência no Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [Audioconferência](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **Políticas de Reuniões**: são usadas para controlar os recursos disponibilizados para os participantes de reunião programada pelos usuários de sua organização. Depois de criar uma política e fazer suas alterações, você pode atribuir usuários à política.
 

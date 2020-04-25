@@ -10,12 +10,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: fab71b234088b54a684f43dca5533dd0332da48d
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 9f72e8d263c0cef611e2fe19964141d68633e8a3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739049"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765833"
 ---
 # <a name="issue-with-skype-for-business"></a>Problema com o Skype for Business?
 
@@ -23,7 +23,7 @@ Detectamos que o(s) seguinte(s) domínio(s) tem(êm) problemas que podem impedir
   
 {HealthCheckString}
   
-Os registros NS, CNAME ou SRV das configurações de domínio (DNS) não estão configurados corretamente para o Skype for Business. Para obter instruções detalhadas, confira [Criar registros DNS em qualquer provedor de hospedagem de DNS para o Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Os registros NS, CNAME ou SRV das configurações de domínio (DNS) não estão configurados corretamente para o Skype for Business. Para obter instruções detalhadas, confira [Criar registros DNS em qualquer provedor de hospedagem de DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
   
 Para corrigir isso, acesse a página [Domínios](https://admin.microsoft.com/adminportal/home#/Domains) no Centro de Administração do Microsoft 365, e ajudaremos você.
   

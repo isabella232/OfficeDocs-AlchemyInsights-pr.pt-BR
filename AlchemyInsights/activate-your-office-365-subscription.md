@@ -1,5 +1,5 @@
 ---
-title: Ativar a assinatura do Office 365
+title: Ativar a assinatura do Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: a2ecbb8c3f0acd59156695e36ee62b2416111ba4
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191054"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43783995"
 ---
-# <a name="activate-your-office-365-subscription"></a>Ativar a assinatura do Office 365
+# <a name="activate-your-subscription"></a>Ativar a assinatura
 
 **Ativar uma assinatura**
 
@@ -30,9 +30,9 @@ ms.locfileid: "43191054"
 
 **Reativar uma assinatura**
 
-Se sua assinatura expirou ou foi desabilitada pela Microsoft, ou se você a cancelou durante o período da assinatura, é possível reativá-la no centro de administração do Office 365.
+Se sua assinatura expirou ou foi desabilitada pela Microsoft, ou se você a cancelou durante o período da assinatura, é possível reativá-la no centro de administração do Microsoft 365.
 
-- No centro de administração do Office 365, vá para a página [Assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) (ou clique em **Cobrança > Assinaturas**).
+- No centro de administração do Microsoft 365, vá para a página [Assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) (ou clique em **Cobrança > Assinaturas**).
 
 - Escolha a assinatura que deseja reativar, em seguida clique em **Reativar**. Se você não vir **Reativar** como uma ação disponível, [ligue para o Suporte](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b) para reativar sua assinatura.
 
@@ -42,6 +42,6 @@ Para obter mais informações, confira [Reativar sua assinatura](https://docs.mi
 
 **Ativar uma nova assinatura com uma chave do produto**
 
-- Para ativar uma nova assinatura do Office 365 com a chave do produto, comece [aqui](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Para ativar uma nova assinatura do Microsoft 365 com a chave do produto, comece [aqui](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 
-- Insira a chave do produto do Office 365 e siga as instruções para ativar a assinatura. Se você tiver problemas com a ativação, confira esta lista de [erros e soluções comuns da chave do produto](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
+- Insira a chave do produto do Microsoft 365 e siga as instruções para ativar a assinatura. Se você tiver problemas com a ativação, confira esta lista de [erros e soluções comuns da chave do produto](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: 4508c70331f8d83f9f3569c64d49e963af801eb9
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: e78b560329254f7035869c076db5ff31427dc7ae
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529967"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43783959"
 ---
 # <a name="domain-transfers"></a>Transferências de domínio
 
@@ -24,9 +24,9 @@ ms.locfileid: "43529967"
 
     - Embora os domínios adquiridos pela Microsoft não sejam compatíveis com a alteração de registros NS, considere [a atualização de registros DNS do seu site](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide), em vez de transferir seu registro de domínio para o host da Web.
 
-- Não é possível transferir um domínio adquirido da Microsoft entre os locatários do Office 365. 
+- Não é possível transferir um domínio adquirido da Microsoft entre os locatários do Microsoft 365. 
 
-    - No entanto, você pode transferir um domínio de terceiros entre os locatários do Office 365 [removendo o domínio de um locatário](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) e, em seguida, verificar o domínio em outro locatário.
+    - No entanto, você pode transferir um domínio de terceiros entre os locatários do Microsoft 365 [removendo o domínio de um locatário](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) e, em seguida, verificar o domínio em outro locatário.
 
 - Não é possível transferir um registro ou cobrança de domínios de terceiros para a Microsoft.
 

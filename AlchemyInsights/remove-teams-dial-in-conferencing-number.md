@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: cfc87c49ccb1198341f0e49f409db454a5837ba9
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43027870"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784787"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>Remover o número de conferência discada do Teams
 
@@ -24,7 +24,7 @@ Precisa de ajuda para remover um número de conferência discada da sua ponte de
 
 O número de telefone padrão da ponte de conferência define a ID do chamador que será usada quando uma chamada de saída for realizada por um participante ou organizador dentro de uma reunião.
 
-1. Entre no Office 365 com sua conta corporativa.
+1. Entre com sua conta corporativa.
 
 2. Vá para o **centro de administração do Microsoft 365**.
 

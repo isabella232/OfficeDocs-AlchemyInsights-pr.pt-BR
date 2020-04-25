@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: 88394297d391b7c8ec949cf2d82727f9def819c0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cd9fe64e1f9ab564c74975da21c993d535937401
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687390"
+ms.locfileid: "43784103"
 ---
 # <a name="a1-license-for-microsoft-365"></a>Licença A1 para o Microsoft 365
 
 
 - Se o seu Instituto já estiver qualificado para o Microsoft 365 Education, você pode adicionar o **plano A1** à sua conta a partir dos [Serviços de Compra](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide#buy-another-subscription). 
 
-- Se o seu Instituto ainda não configurou o Microsoft 365 Education, mas você está tentando adicionar o Office 365 gratuitamente, [comece a usar ](https://www.microsoft.com/education/products/office) fornecendo o seu e-mail. 
+- Se o seu instituto ainda não configurou o Microsoft 365 Education, mas você está tentando adicionar o Microsoft 365 gratuitamente, [comece a usar ](https://www.microsoft.com/education/products/office) fornecendo o seu email. 
 
 - Caso pretenda **mudar** de um plano acadêmico para o plano A1, confira [Mudar para outro plano](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually). 
 
@@ -31,4 +31,4 @@ ms.locfileid: "43687390"
 
 **Importante**: talvez seja necessário aguardar até 24 horas para que as alterações entrem em vigor. 
 
-Para saber mais, confira [Microsoft 365 Education, ensino remoto e aprendizagem no Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) e [Fazendo a transição para o aprendizado remoto](https://www.microsoft.com/education/remote-learning). 
+Para saber mais, confira [Microsoft 365 Education, ensino remoto e aprendizagem](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) e [Fazendo a transição para o aprendizado remoto](https://www.microsoft.com/education/remote-learning). 
