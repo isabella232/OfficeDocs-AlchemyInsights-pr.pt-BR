@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714390"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911136"
 ---
 # <a name="ediscovery-settings"></a>Configurações de descoberta eletrônica
 
-as pesquisas de descoberta eletrônica/conteúdo permitem pesquisar, reter e exportar conteúdo de caixas de correio do Exchange Online, do SharePoint Online e do OneDrive for Business, conversas do Skype for Business, Microsoft Teams e grupos do Office 365.
+as pesquisas de descoberta eletrônica/conteúdo permitem pesquisar, reter e exportar conteúdo de caixas de correio do Exchange Online, do SharePoint Online e do OneDrive for Business, conversas do Skype for Business, Microsoft Teams e Microsoft 365 groups.
 
 - Se você estiver procurando as opções de menu de descoberta eletrônica ou de pesquisa de conteúdo, consulte [problemas de descoberta eletrônica](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
 - Saiba mais sobre as permissões necessárias para executar pesquisas de descoberta eletrônica a partir de [permissões necessárias para pesquisas de descoberta eletrônica](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).

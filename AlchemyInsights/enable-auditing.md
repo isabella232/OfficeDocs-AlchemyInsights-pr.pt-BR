@@ -12,12 +12,12 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 858228acdd884257fc68ceb99799a08e9cc0a0f8
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703631"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908404"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Habilitar e pesquisar o log de auditoria
 
@@ -31,7 +31,7 @@ Para pesquisar o log de auditoria do Microsoft 365, siga [estas etapas](https://
 
 - A auditoria de caixa de correio é habilitada por padrão no Microsoft 365. Para obter mais informações, consulte [Este artigo](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
-- Caixas de correio de grupo do Office 365 e caixas de correio de pasta pública no Exchange Online não dão suporte a logs de auditoria.
+- Caixas de correio de grupo do Microsoft 365 e caixas de correio de pasta pública no Exchange Online não dão suporte a logs de auditoria.
 
 **SharePoint e OneDrive**
 

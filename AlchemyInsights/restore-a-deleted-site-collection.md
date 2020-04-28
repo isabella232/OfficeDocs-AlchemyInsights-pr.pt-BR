@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: edf851da951e163f30660d524049abe0798a8314
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d37fd903c91c8cd6ac6137e815cb253f7edb4494
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048784"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912663"
 ---
 # <a name="restore-a-deleted-site"></a>Restaure um site excluído
 
@@ -27,6 +27,6 @@ Quando um administrador exclui um site do SharePoint, ele é colocado na lixeira
     
 3. Clique em **restaurar itens excluídos**.
     
-Para restaurar um site de comunicação excluído, você pode usar o novo centro de administração do SharePoint. Caso contrário, você precisará usar o Microsoft PowerShell. Para restaurar um site que pertença a um grupo do Office 365, você precisa restaurar o grupo no centro de administração do Exchange. Os grupos podem ser restaurados por 30 dias após serem excluídos.
+Para restaurar um site de comunicação excluído, você pode usar o novo centro de administração do SharePoint. Caso contrário, você precisará usar o Microsoft PowerShell. Para restaurar um site que pertença a um grupo do Microsoft 365, você precisa restaurar o grupo no centro de administração do Exchange. Os grupos podem ser restaurados por 30 dias após serem excluídos.
   
 

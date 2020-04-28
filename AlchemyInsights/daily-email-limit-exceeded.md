@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5a510f1137c7c49cd1de3d3fd2a470759e37ba1e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053105"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908692"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Limite de emails diários excedido. O fluxo de trabalho foi suspenso.
 
@@ -27,7 +27,7 @@ Esse erro pode ser recebido nos seguintes cenários:
 - Quando você executa o fluxo de trabalho, a mensagem de email não é enviada e você observa o seguinte comportamento:
     - Para um fluxo de trabalho usando o tipo de plataforma do SharePoint 2013, navegue até a página **status do fluxo de trabalho** . Na página status do fluxo de trabalho, o **status interno** é definido como **iniciado**e o balão de informações exibe **não é possível enviar a um destinatário**.
 
-Para contornar esse problema, configure seu fluxo de trabalho para enviar mensagens de email sem exceder os [limites de remetentes do Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Por exemplo, use uma pausa no fluxo de trabalho, envie o email para um grupo do Office 365, um grupo de distribuição ou um grupo de segurança habilitado para email ou envie a mensagem para menos de 200 destinatários por vez.
+Para contornar esse problema, configure seu fluxo de trabalho para enviar mensagens de email sem exceder os [limites de remetentes do Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Por exemplo, use uma pausa no fluxo de trabalho, envie o email para um grupo do Microsoft 365, um grupo de distribuição ou um grupo de segurança habilitado para email ou envie a mensagem para menos de 200 destinatários por vez.
 
 
 Para obter mais informações, consulte o [artigo](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)a seguir.

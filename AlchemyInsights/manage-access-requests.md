@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721691"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912391"
 ---
 # <a name="manage-access-requests"></a>Gerenciar solicitações de acesso
 
@@ -26,7 +26,7 @@ Quando um usuário tenta acessar um item no SharePoint e ele não tem permissão
     
 2. Em **Usuários e Permissões**, clique em **Acessar solicitações e convites**. (Se isso não aparecer, não foram feitas solicitações de acesso.)
     
-3. Para conceder a permissão de usuário individualmente, clique em **aprovar** ou **recusar**. Para selecionar um nível de permissão específico, clique primeiro nas reticências (...) ao lado do nome da pessoa. Como alternativa, adicione o usuário a um grupo que tenha permissão para o site. Para sites de comunicação e sites de equipe clássicos, você pode fazer isso na página Configurações de site. Para sites que pertencem a um grupo do Office 365, você pode adicionar o usuário ao grupo.
+3. Para conceder a permissão de usuário individualmente, clique em **aprovar** ou **recusar**. Para selecionar um nível de permissão específico, clique primeiro nas reticências (...) ao lado do nome da pessoa. Como alternativa, adicione o usuário a um grupo que tenha permissão para o site. Para sites de comunicação e sites de equipe clássicos, você pode fazer isso na página Configurações de site. Para sites que pertencem a um grupo do Microsoft 365, você pode adicionar o usuário ao grupo.
     
     [Gerenciar solicitações de acesso](https://go.microsoft.com/fwlink/?linkid=2008747)
     

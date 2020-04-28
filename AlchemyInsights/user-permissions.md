@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710503"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912882"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Permissões de usuário no SharePoint e no OneDrive
 
@@ -27,7 +27,7 @@ Se um usuário em sua organização não puder acessar o SharePoint ou o OneDriv
   
 1. Abra o site em um navegador da Web.
     
-2. Se o site pertencer a um grupo do Office 365, clique no ícone de configurações no canto superior direito e, em seguida, clique em **permissões do site**. Clique em **convidar pessoas**e, em seguida, escolha Adicionar Membros ao grupo do Office 365 ou compartilhar apenas o site. 
+2. Se o site pertencer a um grupo do Microsoft 365, clique no ícone de configurações no canto superior direito e, em seguida, clique em **permissões do site**. Clique em **convidar pessoas**e, em seguida, escolha Adicionar Membros ao grupo Microsoft 365 ou compartilhar apenas o site. 
     
     Para um site de comunicação, clique em **compartilhar site** no canto superior direito, digite o nome da pessoa e, em seguida, selecione o nível de permissão (ler, editar ou controle total). 
     
