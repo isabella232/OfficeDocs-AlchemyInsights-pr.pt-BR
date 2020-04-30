@@ -14,13 +14,20 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
+ms.sourcegitcommit: 7755f288fcc718571367cf1960962b19a82bac4f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706815"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43939643"
 ---
 # <a name="change-how-often-you-pay"></a>Alterar a frequência de pagamento
 
- **Deseja alterar a frequência de pagamento?** Se você quiser alterar a frequência com que paga para sua assinatura do Microsoft 365 for Business, de anual para mensal ou mensal, podemos ajudá-lo com isso. Você precisará comprar a mesma assinatura com a Nova frequência de pagamento e cancelar a assinatura antiga. Use a opção "Deixe-nos ligar para você" para falar com um engenheiro de suporte.
+Para alterar a frequência de cobrança e pagamento de uma assinatura, conclua as seguintes etapas no centro de administração do Microsoft 365. 
+1. Vá para **Faturamento > [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+2. Encontre a assinatura que você deseja alterar. Na seção **cobrança** , ao lado de **faturar mensal** ou **faturada anualmente**, clique em **Editar**. 
+3. Escolha a opção para saber com que frequência você deseja ser cobrado e clique em **alterar**.
+
+**Observação**: a cobrança mensal ou anual são as únicas opções.
+
+Para obter mais informações, consulte [alterar sua frequência de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).

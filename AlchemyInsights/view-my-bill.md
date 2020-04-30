@@ -12,12 +12,12 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 10a38a78db566642e723c9068631df4dafd06cc1
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ecd676c586d177146f8a833146c384fcf549eb38
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665676"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947730"
 ---
 # <a name="view-my-bill"></a>Exibir minha cobrança
 
@@ -25,4 +25,6 @@ ms.locfileid: "36665676"
 
 2. Selecione um intervalo de datas na lista suspensa e escolha o pedido que você deseja exibir.
 
-Confira mais informações em [exibir sua fatura ou fatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+3. Para imprimir a fatura, baixe o arquivo de cobrança como um PDF e clique em **Imprimir**.
+
+Para mais informações, consulte [Exibir sua cobrança ou fatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
