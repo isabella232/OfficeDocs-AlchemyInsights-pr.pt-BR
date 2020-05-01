@@ -11,15 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000736"
 - "3536"
-ms.openlocfilehash: d13012e5a92dd1258f6e9cfacad55fba57dc3b4b
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+- "9002573"
+- "4990"
+ms.openlocfilehash: dcfab01d7614f353bf76446c1e5c1a83e670f8d5
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158661"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957930"
 ---
 # <a name="teams-outlook-add-in"></a>Suplemento do Microsoft Teams
 
-Se os seus usuários não conseguirem o suplemento do teams Outlook após mudar para um modo de atualização de equipes com suporte (TeamsOnly, SfBWithTeamsCollabAndMeetings ou ilhas), o suplemento poderá ter falhado ao ser carregado corretamente.  Confira o artigo a seguir para solucionar o problema: 
+Há vários fatores que podem fazer com que o suplemento do Teams não apareça e todos estão listados [aqui](https://nam06.safelinks.protection.outlook.com/?url=https://docs.microsoft.com/en-us/microsoftteams/teams-add-in-for-outlook%23teams-meeting-add-in-in-outlook-for-windows-does-not-show&data=02%7c01%7cgquintin%40microsoft.com%7cb86acfeb2d2d43efd51508d7e6194708%7c72f988bf86f141af91ab2d7cd011db47%7c1%7c0%7c637230868545082999&sdata=fShwB/PN/SC7oWo0orl4tpu/iYxKCENPYQc7SJIuemo%3D&reserved=0).
 
-- [Por que não consigo ver o suplemento de reunião do Microsoft Teams para Outlook?](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/why-can-t-i-see-the-microsoft-teams-meeting-add-in-for-outlook/ba-p/174630) 
+**É recomendável verificar se o suplemento não está desabilitado:**
+
+- No Outlook, clique em **arquivo** e em **Opções**.
+- Selecione a guia **suplementos** da caixa de diálogo **Opções do Outlook** .
+- Confirme se o **suplemento de reunião do Microsoft Teams para o Microsoft Office** está listado na lista suplementos de **aplicativo ativos** .
+- Se o suplemento de reunião do teams estiver listado na lista suplementos de **aplicativo desabilitados** , selecione suplementos de **com** em **gerenciar** e clique em **ir...**
+- Defina a caixa de seleção ao lado de **suplemento de reunião do Microsoft Teams para o Microsoft Office**.
+- Clique em **OK** em todas as caixas de diálogo e reinicie o Outlook.
