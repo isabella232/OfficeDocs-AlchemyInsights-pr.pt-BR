@@ -1,5 +1,5 @@
 ---
-title: Exibir minha cobrança
+title: Exibir minha cobrança ou fatura
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,19 +12,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: ecd676c586d177146f8a833146c384fcf549eb38
-ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
+ms.openlocfilehash: 3c74953118f248c79186e54bd6728e2c6e083226
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43947730"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005462"
 ---
-# <a name="view-my-bill"></a><span data-ttu-id="3eeb8-102">Exibir minha cobrança</span><span class="sxs-lookup"><span data-stu-id="3eeb8-102">View my bill</span></span>
+# <a name="view-my-bill-or-invoice"></a><span data-ttu-id="b8738-102">Exibir minha cobrança ou fatura</span><span class="sxs-lookup"><span data-stu-id="b8738-102">View my bill or invoice</span></span>
 
-1. <span data-ttu-id="3eeb8-103">No centro de administração do Microsoft 365, vá para a página **cobrança** \> de [contas & pagamentos](https://go.microsoft.com/fwlink/p/?linkid=848039) .</span><span class="sxs-lookup"><span data-stu-id="3eeb8-103">In the Microsoft 365 admin center, go to the **Billing** \> [Bills & payments](https://go.microsoft.com/fwlink/p/?linkid=848039) page.</span></span>
+1. <span data-ttu-id="b8738-103">No centro de administração do Microsoft 365, vá para a página **cobrança** \> de [contas & pagamentos](https://go.microsoft.com/fwlink/p/?linkid=848039) .</span><span class="sxs-lookup"><span data-stu-id="b8738-103">In the Microsoft 365 admin center, go to the **Billing** \> [Bills & payments](https://go.microsoft.com/fwlink/p/?linkid=848039) page.</span></span>
 
-2. <span data-ttu-id="3eeb8-104">Selecione um intervalo de datas na lista suspensa e escolha o pedido que você deseja exibir.</span><span class="sxs-lookup"><span data-stu-id="3eeb8-104">Select a date range from the drop-down list, and then choose the order you want to view.</span></span>
+2. <span data-ttu-id="b8738-104">Selecione um intervalo de datas na lista suspensa e escolha o pedido que você deseja exibir.</span><span class="sxs-lookup"><span data-stu-id="b8738-104">Select a date range from the drop-down list, and then choose the order you want to view.</span></span>
 
-3. <span data-ttu-id="3eeb8-105">Para imprimir a fatura, baixe o arquivo de cobrança como um PDF e clique em **Imprimir**.</span><span class="sxs-lookup"><span data-stu-id="3eeb8-105">To print the bill, download the bill as a PDF file and click **Print**.</span></span>
+3. <span data-ttu-id="b8738-105">Para imprimir a fatura, baixe o arquivo de cobrança como um PDF e clique em **Imprimir**.</span><span class="sxs-lookup"><span data-stu-id="b8738-105">To print the bill, download the bill as a PDF file and click **Print**.</span></span>
 
-<span data-ttu-id="3eeb8-106">Para mais informações, consulte [Exibir sua cobrança ou fatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span><span class="sxs-lookup"><span data-stu-id="3eeb8-106">For more information see [View your bill or invoice](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span></span>
+<span data-ttu-id="b8738-106">Para mais informações, consulte [Exibir sua cobrança ou fatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span><span class="sxs-lookup"><span data-stu-id="b8738-106">For more information see [View your bill or invoice](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span></span>
