@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e69a9e32a713b859f8110ec66d4b3b53be1bb450
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713310"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010782"
 ---
 # <a name="office-activation-errors"></a>Erros de ativação do Office
 
-1. Em **Painel de controle > Programas e recursos**, pesquise por **Office**. Você deverá ver o **Microsoft Office 365 ProPlus** ou o **Microsoft Office 365 Business**. Se você vir mais de uma versão do Office listada, desinstale a versão que não está sendo usada. Se você não conseguir desinstalar com êxito usando o Painel de Controle, use o Assistente de Recuperação e Suporte (SaRA) para [desinstalar](https://aka.ms/SARA-OfficeUninstall-Alchemy) a versão que você não está usando. Em seguida, reinicie o Office e entre usando sua conta corporativa ou de estudante, se solicitado. 
+1. Em **Painel de controle > Programas e recursos**, pesquise por **Office**. Você deverá ver **Microsoft 365 para Grandes Empresas** ou **Microsoft 365 para Pequenos e Médios negócios**. Se você vir mais de uma versão do Office listada, desinstale a versão que não está sendo usada. Se você não conseguir desinstalar com êxito usando o Painel de Controle, use o Assistente de Recuperação e Suporte (SaRA) para [desinstalar](https://aka.ms/SARA-OfficeUninstall-Alchemy) a versão que você não está usando. Em seguida, reinicie o Office e entre usando sua conta corporativa ou de estudante, se solicitado. 
 
 2. Se o Office ainda não tiver sido licenciado, volte para o **Painel de controle > Programas e recursos**, clique com o botão direito do mouse na instalação restante do Office, clique em **Modificar** (ou **Alterar**) e, em seguida, clique em **Reparo online**. O reparo online pode demorar um pouco. Em seguida, reinicie o Office e entre usando sua conta corporativa ou de estudante, se solicitado. 
 
