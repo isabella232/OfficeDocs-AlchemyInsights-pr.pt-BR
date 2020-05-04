@@ -11,12 +11,12 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d941bce524dc797d5dcbb7213bded6919fd01b7d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726236"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010838"
 ---
 # <a name="using-the-office-deployment-tool-odt"></a>Usando a ferramenta de implantação do Office (ODT)
 
@@ -42,4 +42,4 @@ Use a ferramenta de implantação do Office (ODT) para implantar versões do Off
 
     **Observação:** Você deve executar esta etapa no computador cliente no qual você deseja instalar o Office e deve ter permissões de administrador local nesse computador.
 
-Para saber mais sobre como usar a ferramenta de implantação do Office para seus aplicativos do Microsoft 365 para cenários de implantação corporativa, confira [visão geral da ferramenta de implantação do Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool). Para obter mais detalhes sobre como usar a ferramenta de personalização do Office, consulte [visão geral da ferramenta de personalização do Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Para saber mais sobre como usar a ferramenta de implantação do Office para seus aplicativos do Microsoft 365 para cenários de implantação corporativa, confira [visão geral da ferramenta de implantação do Office](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). Para obter mais detalhes sobre como usar a ferramenta de personalização do Office, consulte [visão geral da ferramenta de personalização do Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).

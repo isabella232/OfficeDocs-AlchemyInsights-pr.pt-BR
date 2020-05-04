@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: 4b843407f05db207f3b676c03c7088d3d0ba062e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ffa91eaf333792af149feda25f9a377ed591b597
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704621"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010206"
 ---
 # <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Implantando o Microsoft Teams como autônomo ou com instalações do Office novas ou existentes
 
-O Microsoft Teams agora está incluído como parte de ***novas instalações*** do Microsoft 365 aplicativos para empresas, aplicativos do Microsoft 365 para empresas e Office para Mac. Para obter mais informações, confira [quando o Microsoft Teams começará a ser incluído em novas instalações do Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+O Microsoft Teams agora está incluído como parte de ***novas instalações*** do Microsoft 365 aplicativos para empresas, aplicativos do Microsoft 365 para empresas e Office para Mac. Para obter mais informações, confira [quando o Microsoft Teams começará a ser incluído em novas instalações do Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Além disso, a partir da versão 1906 no canal mensal, as equipes serão ***adicionadas às instalações existentes*** dos aplicativos da Microsoft 365 para empresas (e aplicativos do Microsoft 365 para empresas) em dispositivos que executam o Windows quando você atualiza sua instalação existente para a versão mais recente. Para saber mais, confira [o que são as instalações existentes do Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Além disso, a partir da versão 1906 no canal mensal, as equipes serão ***adicionadas às instalações existentes*** dos aplicativos da Microsoft 365 para empresas (e aplicativos do Microsoft 365 para empresas) em dispositivos que executam o Windows quando você atualiza sua instalação existente para a versão mais recente. Para saber mais, confira [o que são as instalações existentes do Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
 > [!NOTE]
 > Se não quiser aguardar esse cronograma de distribuição, você pode implantar o Microsoft Teams como autônomo para seus usuários [seguindo estas instruções](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) ou pode fazer com que seus usuários instalem o [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads)Teams por conta própria.
 
-Se sua organização não estiver pronta para implantar o Teams, temos as etapas que você pode executar para ***excluir equipes*** de instalações [novas](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) ou [existentes](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) do Office. Se você quiser que o Microsoft Teams seja instalado, mas não deseja que o Microsoft Teams seja iniciado automaticamente para o usuário depois que ele for instalado, confira [impedir que o Microsoft Teams inicie automaticamente após a instalação](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
+Se sua organização não estiver pronta para implantar o Teams, temos as etapas que você pode executar para ***excluir equipes*** de instalações [novas](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) ou [existentes](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) do Office. Se você quiser que o Microsoft Teams seja instalado, mas não deseja que o Microsoft Teams seja iniciado automaticamente para o usuário depois que ele for instalado, confira [impedir que o Microsoft Teams inicie automaticamente após a instalação](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
 
 Para ***desinstalar o Microsoft Teams*** de um dispositivo executando o Windows, confira [desinstalar o Microsoft Teams](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). Para limpar o Microsoft Teams de várias máquinas de destino ou usuários, confira [implantação do Microsoft Teams Clean up](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
 
