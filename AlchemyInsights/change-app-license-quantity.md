@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000568"
 - "2425"
-ms.openlocfilehash: 9914a95ddbebf376e740b2d7b3d88ae58aed4a45
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 39512e97c9fba1e15a2c88ce7bc1de8a15c65cc0
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707031"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44058740"
 ---
 # <a name="change-app-license-quantity"></a>Alterar a quantidade de licenças do aplicativo
 
@@ -25,7 +25,7 @@ Você pode visualizar ou alterar o número de licenças que possui e atribuí-la
 
 ## <a name="to-change-license-quantity"></a>Para alterar a quantidade de licenças
 
-1. Vá para a página de serviços de **cobrança** > de[produtos &](https://go.microsoft.com/fwlink/p/?linkid=842054) e, em seguida, escolha a guia **aplicativos** .
+1. Vá para a página **cobrança** > **[de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** e, em seguida, escolha a guia **aplicativos** .
 
 2. Localize e selecione o aplicativo que você deseja gerenciar.  
 
@@ -35,7 +35,7 @@ Você pode visualizar ou alterar o número de licenças que possui e atribuí-la
 
 ## <a name="to-assign-app-licenses"></a>Para atribuir licenças de aplicativo
 
-1. Vá para a página de serviços de **cobrança** > de[produtos &](https://go.microsoft.com/fwlink/p/?linkid=842054) e, em seguida, escolha a guia **aplicativos** .
+1. Vá para a página **cobrança** > **[de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** e, em seguida, escolha a guia **aplicativos** .
 
 2. Localize e selecione o aplicativo que você deseja gerenciar.  
 

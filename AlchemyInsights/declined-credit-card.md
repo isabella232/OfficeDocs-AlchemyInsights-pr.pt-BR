@@ -13,16 +13,16 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705073"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062272"
 ---
 # <a name="declined-credit-card"></a>Cartão de crédito recusado
 
-Se você pagar com cartão de crédito e ele for recusado, você receberá um email informando que não foi possível processar o pagamento. Verifique se o número do cartão de [crédito](https://go.microsoft.com/fwlink/p/?linkid=842054) , a data de validade, o nome no cartão de crédito e o endereço, incluindo cidade, estado e CEP, são exibidos exatamente como no cartão de crédito e no seu extrato de cartão de crédito. Você pode atualizar suas informações de cartão de crédito e enviar o pagamento imediatamente usando a opção **liquidar saldo** na página [produtos & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) . 
+Se você pagar com cartão de crédito e ele for recusado, você receberá um email informando que não foi possível processar o pagamento. Verifique se o número do cartão de [crédito](https://go.microsoft.com/fwlink/p/?linkid=842054) , a data de validade, o nome no cartão de crédito e o endereço, incluindo cidade, estado e CEP, são exibidos exatamente como no cartão de crédito e no seu extrato de cartão de crédito. Você pode atualizar suas informações de cartão de crédito e enviar o pagamento imediatamente usando a opção **liquidar saldo** na página **[seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** . 
 
 Para saber mais, veja "e se meu cartão de crédito tiver expirado e se o meu pagamento estiver vencido?" em [pagamento para sua assinatura do Microsoft 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   

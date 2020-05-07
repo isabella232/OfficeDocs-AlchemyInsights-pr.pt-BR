@@ -12,12 +12,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 07505ce77b392f5b22ae2a2cf0519d4eadda9d02
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712195"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061731"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Comprar uma assinatura para a Microsoft 365 em sua avaliação gratuita
 
@@ -25,7 +25,7 @@ Você já experimentou o Microsoft 365 e agora está pronto para comprar. Você 
   
  **Comprar o mesmo plano da avaliação**
   
-1. No centro de administração, vá para a página **Cobrança** \> [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. No centro de administração, vá para a página **cobrança** \> **[de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Encontre a assinatura que você deseja comprar. Na seção **licenças** , selecione **comprar assinatura**e siga as etapas para fazer o check-out.
 

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 98b8092e6c22039703dfbeafb9a8194b688d0afe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703883"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062524"
 ---
 # <a name="edit-billing-profile-for-apps"></a>Editar perfil de cobrança para aplicativos
 
 ## <a name="to-change-the-billing-profile-on-apps"></a>Para alterar o perfil de cobrança nos aplicativos
 
-1. Vá para a página de serviços de **cobrança** > de[produtos &](https://go.microsoft.com/fwlink/p/?linkid=842054) e, em seguida, escolha a guia **aplicativos** .
+1. Vá para a página **cobrança** > **[de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** e, em seguida, escolha a guia **aplicativos** .
 
 2. Localize e selecione o aplicativo que você deseja gerenciar.  
 
@@ -31,6 +31,6 @@ ms.locfileid: "43703883"
 
 ## <a name="edit-billing-profiles"></a>Editar perfis de cobrança
 
-1. Vá para a página **faturas** > [& pagamentos](https://go.microsoft.com/fwlink/p/?linkid=848039) e, em seguida, escolha **perfis de cobrança**.
+1. Vá para a página **faturas** > **[& pagamentos](https://go.microsoft.com/fwlink/p/?linkid=848039)** e, em seguida, escolha **perfis de cobrança**.
 
 2. Escolha o perfil de cobrança na lista a ser editada.

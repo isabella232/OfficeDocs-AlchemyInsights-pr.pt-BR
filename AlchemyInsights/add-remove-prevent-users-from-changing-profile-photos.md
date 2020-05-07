@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 2b709313a1b88e2c3e0f99ad9f445910f0ca0fa5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3165cd1180cf1c1716692d270e27b1ba9e675c8f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671481"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061984"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Adicionar, remover ou impedir que os usuários alterem fotos de perfil
 
@@ -24,6 +24,6 @@ ms.locfileid: "43671481"
 
 - **Removendo fotos de perfil:** As fotos de perfil podem ser removidas por um administrador no [Gerenciamento de usuários do Active Directory do Azure](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) ou por um usuário em seu perfil de usuário do Microsoft Teams.
 
-- **Bloqueando alterações de foto de perfil:** As alterações de foto podem ser bloqueadas para todos os Microsoft 365 * adicionando uma política do Outlook Web App, [bloqueando fotos ou restringindo permissões para alterar a foto de perfil do Microsoft 365](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- **Bloqueando alterações de foto de perfil:** As alterações de foto podem ser bloqueadas para todos os Microsoft 365 * adicionando uma política do Outlook Web App, [bloqueando fotos ou restringindo permissões para alterar a foto de perfil do Microsoft 365](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
 
 * Observe que o Microsoft Teams não é compatível atualmente com a política do Outlook Web App para bloquear alterações de foto, mas está planejando adicionar suporte para esse recurso no início de 2020.

@@ -6,19 +6,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 33cd96e37701339047d5e3bb1e49f60d37facc53
+ms.sourcegitcommit: ba88139a3d02e45d54a232fa24b706e3cc1c6f81
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762305"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44043025"
 ---
 # <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Pesquisa da Microsoft no Bing e no Microsoft 365 Apps para Grandes Empresas
 
-A partir da Versão 2002 do Microsoft 365 Apps para Grandes Empresas, uma extensão da Pesquisa da Microsoft será instalada no Bing, o que o torna o mecanismo de pesquisa padrão para o navegador da Web, Google Chrome, apenas em dispositivos em determinados locais.
+***Opcional***, a extensão da Pesquisa da Microsoft no Bing para Google Chrome está disponível no Microsoft 365 Apps para Grandes Empresas (anteriormente denominado Office 365 ProPlus), a partir da versão 2005. Esta extensão está disponível em determinados locais para dispositivos ingressados no domínio que executam o Windows. Se você decidir implantar esta extensão, ela definirá o Bing como o mecanismo de pesquisa padrão.
 
-**Caso não queira que a extensão seja instalada, [siga estas etapas](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed).**
+Para instalar a extensão, você deve ***optar*** por definir uma configuração na seção da extensão da Pesquisa da Microsoft do Centro de administração do Microsoft 365.
 
-Mesmo após a instalação da extensão, os usuários podem facilmente parar de usar o Bing como o mecanismo de pesquisa padrão, usando uma alternância [Ativado/Desativado](https://docs.microsoft.com/deployoffice/microsoft-search-bing#change-whether-bing-is-the-default-search-engine-for-google-chrome) ou você pode [remover a extensão](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-remove-the-extension-after-its-been-installed) de vários dispositivos em sua organização.
+A implantação dessa extensão ***opcional*** também depende de um serviço em segundo plano, incluído no Microsoft 365 Apps para Grandes Empresas, a partir da Versão 2005. Se o serviço em segundo plano não estiver instalado, a extensão não será instalada.
 
-Temos um artigo de ajuda detalhado disponível para ajudá-lo a saber mais sobre essa alteração [aqui](https://docs.microsoft.com/deployoffice/microsoft-search-bing).
+Mesmo depois que a extensão for instalada, seus usuários poderão facilmente parar de usar o Bing como o mecanismo de pesquisa padrão usando um simples botão de alternância Ativar/Desativar.
+
+Para obter mais informações sobre como implantar esta extensão ***opcional***, confira [Pesquisa da Microsoft no Bing e Microsoft 365 Apps para Grandes Empresas](https://docs.microsoft.com/deployoffice/microsoft-search-bing).
