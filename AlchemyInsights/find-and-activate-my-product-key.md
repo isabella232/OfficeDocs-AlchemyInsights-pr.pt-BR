@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716124"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062452"
 ---
 # <a name="find-and-activate-my-product-key"></a>Localizar e ativar minha chave de produto
 
@@ -32,7 +32,7 @@ Se você comprou o Microsoft 365 Business Premium Standard de uma loja de varejo
 
 **Observação**: para usar uma chave de produto para estender a data de expiração ou adicionar uma licença à sua assinatura padrão existente do Microsoft 365 Business Premium, você precisa de uma chave nova e não usada para a mesma assinatura do Microsoft 365.  Inserir sua chave de produto do Microsoft 365 original não funcionará porque uma chave que já foi resgatada não pode ser usada novamente.
 
-1. No centro de administração, vá para a página de serviços de **cobrança** > de[produtos &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. No centro de administração, vá para a página **cobrança** > **[de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Encontre a assinatura para a qual você deseja estender a data de expiração ou adicionar licenças.  Clique em [estender data de término](https://go.microsoft.com/fwlink/p/?linkid=842054) ou [adicionar mais licenças](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
