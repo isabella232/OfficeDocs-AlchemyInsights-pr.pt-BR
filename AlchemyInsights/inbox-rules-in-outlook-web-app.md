@@ -21,7 +21,7 @@ ms.locfileid: "44005507"
 # <a name="inbox-rules-in-outlook-web-app"></a>Regras de caixa de entrada no Outlook Web App
 
 1. Em um navegador da Web, entre no Outlook Web App usando a URL fornecida pela pessoa que gerencia o email da sua organização. Insira seu nome de usuário e senha, em seguida, clique em **Entrar**.
-2. Na parte superior da página, clique em **Configurações > Configurações**.
+2. Na parte superior da página, clique em **Configurações > Opções**.
 3. Em **Opções**, clique em **Organizar email > Regras da caixa de entrada**.
 
 Para obter mais informações sobre como trabalhar com regras da caixa de entrada, confira [regras da caixa de entrada no Outlook Web App](https://support.office.com/article/inbox-rules-in-outlook-web-app-edea3d17-00c9-434b-b9b7-26ee8d9f5622).

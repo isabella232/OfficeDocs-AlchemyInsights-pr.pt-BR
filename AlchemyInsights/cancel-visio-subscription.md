@@ -12,27 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: 0e38edf7f3e10486b0ce3313dfcb004d848ed1bf
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: bad7c8b3503800101d758fbcdd0429fc097bd2a0
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552711"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061586"
 ---
 # <a name="cancel-visio-subscription"></a>Cancelar a assinatura do Visio
 
-Os administradores podem cancelar a assinatura do Visio para sua organização a partir do **centro de administração do Microsoft 365**. 
+Os administradores podem cancelar a assinatura do Visio para sua organização a partir do **centro de administração do Microsoft 365**.
 
-1. Selecione a opção de **cobrança** .
+1. Vá para a página de **cobrança > [seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
 
-2. Clique em [produtos & serviços](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/subscriptions) para exibir todas as assinaturas da sua organização.
+2. Localize o plano do Visio a ser cancelado.
 
-3. Localize o plano do Visio a ser cancelado.
+3. Clique em **cancelar assinatura**.
 
-4. Clique em **cancelar assinatura**.
+**Reembolso: qualquer crédito rateado será retornado para você no próximo ciclo de cobrança.**
 
-**Reembolso: qualquer crédito rateado será retornado para você no próximo ciclo de cobrança.** 
+**Observação**: se você não vir a opção para cancelar, clique na assinatura para exibir os detalhes e você deverá ver a opção **Cancelar inscrição** em **configurações & ações**.
 
-**Observação**: se você não vir a opção para cancelar, clique na assinatura para exibir os detalhes e você deverá ver a opção **Cancelar inscrição** em **configurações & ações**. 
-
-Para saber mais, confira [cancelar sua assinatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
+Para saber mais, confira [cancelar sua assinatura](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

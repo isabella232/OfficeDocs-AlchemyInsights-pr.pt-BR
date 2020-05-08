@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714138"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063461"
 ---
 # <a name="expired-subscription"></a>Assinatura expirada
 
@@ -26,7 +26,7 @@ Parece que você tem uma ou mais assinaturas expiradas. Se quiser continuar o se
   
 **Reativar**
   
-1. No centro de administração, acesse a página **Cobrança** \> [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. No centro de administração, vá para a página **cobrança** \> **[de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Localize a assinatura que você deseja reativar. Na seção **Cobrança**, escolha **Reativar**.
 
@@ -38,7 +38,7 @@ Para saber mais, consulte [Reativar sua assinatura](https://docs.microsoft.com/o
 
 **Criar uma nova compra**
   
-1. No centro de administração, vá para a página [serviços de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) de **cobrança** \> .
+1. No centro de administração, vá para a página **[serviços de compra](https://go.microsoft.com/fwlink/p/?linkid=868433)** de **cobrança** \> .
 
 2. Escolha a assinatura que você deseja comprar e escolha **comprar**.
 

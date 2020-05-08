@@ -12,18 +12,18 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: e97658ab8fff504c8adccfa7e68cce0b613aee53
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: e02e5e835446626152c8dd98207898de52ae6933
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957822"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063785"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Adicionar ou remover licenças da sua assinatura
 
 Confira aqui como adicionar/remover licenças.
   
-1. Navegue até **cobrança > [assinaturas](https://portal.office.com/adminportal/home#/subscriptions)**.
+1. No centro de administração, vá para a página **cobrança** \> **[de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Escolha a assinatura para a qual você deseja adicionar/remover licenças.
 
@@ -37,7 +37,7 @@ Confira aqui como adicionar/remover licenças.
 
 Para obter informações sobre como atribuir licenças, consulte [assign licenses to Users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
- **Recursos**
+**Recursos**
   
 - [Gerenciar licenças de assinatura-comprar ou remover](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 78f6dc6b2cc6e8d3db6a53f38bea9483ef817c2c
-ms.sourcegitcommit: 38c993eaa89c33cae59de19a381f7d4aafaef19b
+ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37549628"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062236"
 ---
 # <a name="renewing-your-subscription"></a>Renovar sua assinatura
 
@@ -26,6 +26,6 @@ Se você pagou sua assinatura com uma chave do produto, sua assinatura expirará
 
 Para ativar a cobrança recorrente: 
 
-1. Vá até produtos de **cobrança** > **& serviços**.
+1. Vá para **cobrança** > **[de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 2. Escolha a assinatura para a qual você deseja gerenciar a cobrança recorrente.
 3. Em **cobrança**, selecione **Editar** e faça as alterações na janela **configurações de cobrança recorrentes** . 
