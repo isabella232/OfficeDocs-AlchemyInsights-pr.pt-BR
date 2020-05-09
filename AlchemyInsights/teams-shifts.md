@@ -1,5 +1,5 @@
 ---
-title: Mudanças do teams
+title: Turnos do Teams
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -14,14 +14,14 @@ ms.custom:
 - "9000161"
 ms.openlocfilehash: cbd5363ba153299e0af2133858a49544a6c6c75c
 ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43737440"
 ---
-# <a name="using-teams-shifts"></a><span data-ttu-id="6d407-102">Usando as mudanças do Team</span><span class="sxs-lookup"><span data-stu-id="6d407-102">Using Teams Shifts</span></span>
+# <a name="using-teams-shifts"></a><span data-ttu-id="d2750-102">Utilizando os turnos do Teams</span><span class="sxs-lookup"><span data-stu-id="d2750-102">Using Teams Shifts</span></span>
 
-<span data-ttu-id="6d407-103">Para saber mais sobre os turnos do Teams, incluindo como migrar do Microsoft Staffhub, consulte [Shifts for Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).</span><span class="sxs-lookup"><span data-stu-id="6d407-103">To learn more about Shifts for Teams, including how to migrate from Microsoft Staffhub, see [Shifts for Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).</span></span> 
+<span data-ttu-id="d2750-103">Para saber mais sobre os turnos do Teams, inclusive como migrar do Microsoft Staffhub, confira [Turnos do Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).</span><span class="sxs-lookup"><span data-stu-id="d2750-103">To learn more about Shifts for Teams, including how to migrate from Microsoft Staffhub, see [Shifts for Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).</span></span> 
 
-<span data-ttu-id="6d407-104">O Microsoft Staffhub será [desativado](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) em 31 de dezembro de 2019.</span><span class="sxs-lookup"><span data-stu-id="6d407-104">Microsoft Staffhub will be [retired](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) on December 31, 2019.</span></span> 
+<span data-ttu-id="d2750-104">O Microsoft Staffhub será [desativado](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) em 31 de dezembro de 2019.</span><span class="sxs-lookup"><span data-stu-id="d2750-104">Microsoft Staffhub will be [retired](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) on December 31, 2019.</span></span> 
 
