@@ -1,5 +1,5 @@
 ---
-title: Pad de discagem de voz do teams ausente
+title: Teclado de discagem de voz do Teams ausente
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,7 +13,7 @@ ms.custom:
 - "9000719"
 ms.openlocfilehash: 8abbacf3c7807001ff1b63bd70a5a385d1d3a188
 ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 11/27/2019
 ms.locfileid: "39628266"

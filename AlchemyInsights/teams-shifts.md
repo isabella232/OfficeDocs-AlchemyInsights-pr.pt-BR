@@ -1,5 +1,5 @@
 ---
-title: Mudanças do teams
+title: Turnos do Teams
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -14,14 +14,14 @@ ms.custom:
 - "9000161"
 ms.openlocfilehash: cbd5363ba153299e0af2133858a49544a6c6c75c
 ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43737440"
 ---
-# <a name="using-teams-shifts"></a>Usando as mudanças do Team
+# <a name="using-teams-shifts"></a>Utilizando os turnos do Teams
 
-Para saber mais sobre os turnos do Teams, incluindo como migrar do Microsoft Staffhub, consulte [Shifts for Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page). 
+Para saber mais sobre os turnos do Teams, inclusive como migrar do Microsoft Staffhub, confira [Turnos do Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page). 
 
 O Microsoft Staffhub será [desativado](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) em 31 de dezembro de 2019. 
 

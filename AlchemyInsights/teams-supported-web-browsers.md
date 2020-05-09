@@ -1,5 +1,5 @@
 ---
-title: Navegadores da Web com suporte para Teams
+title: Navegadores da web compatíveis com o Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,11 +13,11 @@ ms.custom:
 - "3540"
 ms.openlocfilehash: 273edf85c9beec35d3b9cace03b809dde0db01c3
 ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 03/11/2020
 ms.locfileid: "42599364"
 ---
-# <a name="teams-supported-web-browsers"></a>Navegadores da Web com suporte para Teams
+# <a name="teams-supported-web-browsers"></a>Navegadores da web compatíveis com o Teams
 
-O Microsoft Teams dá suporte completo aos navegadores da Internet listados no artigo, [limites e especificações do Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers), com exceções citadas para chamadas e reuniões.
+O Teams oferece suporte total aos navegadores de internet listados no artigo, [Limites e especificações para o Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers), com exceções mencionadas para chamadas e reuniões.
