@@ -14,10 +14,10 @@ ms.custom:
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
 ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064073"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Como reativar e gerenciar a cobrança recorrente
@@ -40,9 +40,9 @@ Para gerenciar cobranças mensais ou anuais, você pode ativar ou desativar a **
 
 2. Escolha a assinatura da qual você quer gerenciar o faturamento recorrente.
 
-3. Em **cobrança**, ao lado de **renovar** ou **expirar em**, selecione **Editar**.
+3. Em **Cobrança**, ao lado de**Renovar em**ou **Expirando em**, selecione **editar**.
 
-4. No painel **configurações de cobrança recorrente** , selecione **desativar** para desativá-la. Se a cobrança recorrente já estiver desativada, selecione **mensalmente** ou **uma vez** para ativá-la.
+4. No painel **Configurações de cobrança recorrente**, clique em **Desativar** para desativá-la. Se a cobrança recorrente já estiver desabilitada, selecione **Mensalmente** ou**Uma vez** para habilitá-la.
 
 5. Selecione **Enviar alteração**.
 

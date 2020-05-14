@@ -12,15 +12,15 @@ ms.custom:
 - "9001669"
 - "3736"
 ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062849"
 ---
 # <a name="your-products"></a>Seus produtos
 
-Você pode encontrar as assinaturas pertencentes à sua organização na página **cobrança** > **[de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Aqui estão alguns dos destaques desta página, juntamente com links para obter mais informações sobre cada recurso:
+Você pode encontrar as assinaturas pertencentes à sua organização na página **cobrança**  >  **[de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Aqui estão alguns dos destaques desta página, juntamente com links para obter mais informações sobre cada recurso:
 
 1. Gerencie o número de licenças que foram adquiridas para cada assinatura, juntamente com quantos estão em uso.  **Observação**: as licenças que não estão em uso (não atribuídas a um usuário) ainda são cobradas.  Para não ser cobrado por licenças não usadas, reduza o número de licenças adquiridas. Para obter informações sobre como adicionar ou remover licenças de uma assinatura, consulte [como adicionar ou reduzir licenças](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
@@ -34,4 +34,4 @@ Você pode encontrar as assinaturas pertencentes à sua organização na página
 
 6. [Cancele a assinatura](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Você pode adquirir assinaturas adicionais da página serviços de **Billing** > [**compra**](https://go.microsoft.com/fwlink/p/?linkid=868433) de cobrança.
+Você pode adquirir assinaturas adicionais da página serviços de **Billing**  >  [**compra**](https://go.microsoft.com/fwlink/p/?linkid=868433) de cobrança.
