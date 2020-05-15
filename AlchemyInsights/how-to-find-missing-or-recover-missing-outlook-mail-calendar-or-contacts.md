@@ -12,19 +12,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: a5e7e1ee245331acbd6e67d7112736e261ccca1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 75f7a7e842d8fafdd4cad3d48289d3cc609caec6
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720684"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235285"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Como localizar e recuperar mensagens, contatos ou itens de calendário ausentes no Outlook
 
-- Você pode usar a [ferramenta estou tendo problemas para enviar, receber ou localizar mensagens de email](https://aka.ms/SaRA-OutlookSendReceive) na máquina afetada. Essa ferramenta verificará a quantidade de problemas e irá sugerir possíveis soluções.
+1. No Outlook, vá para sua lista de pastas de email e, em seguida, selecione **itens excluídos**. **Importante**: se você não vir a pasta **itens excluídos** , mas, em vez disso, ver a pasta **Lixeira** , sua conta não será compatível com a recuperação de um item que não está mais na pasta **itens excluídos** .
 
-- [Verificar se a conta está comprometida](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Se estiver comprometido, siga as etapas em [respondendo a uma conta de email comprometida.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
+2. No menu **página inicial** , clique em **recuperar itens excluídos do servidor**. **Importante**: se não houver o comando **recuperar itens excluídos do servidor** no menu, sua conta não oferecerá suporte à recuperação de um item que não está mais na pasta **itens excluídos** .
 
-- [Localizar a mensagem ou o item usando a pesquisa instantânea](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+3. Selecione os itens que você deseja recuperar, clique em **restaurar itens selecionados**e, em seguida, clique em **OK**.
 
-- [Recuperar itens excluídos no Outlook para Windows](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+**Onde os itens recuperados vão?** Quando você recupera itens da pasta itens recuperáveis, eles são movidos para a pasta **itens excluídos** . Após recuperar um item, você pode encontrá-lo na sua pasta **itens excluídos** e, em seguida, pode movê-lo para outra pasta.
+
+Você também pode usar a [ferramenta estou tendo problemas para enviar, receber ou localizar mensagens](https://aka.ms/SaRA-OutlookSendReceive) **de email na máquina afetada**. Essa ferramenta verificará a quantidade de problemas e irá sugerir possíveis soluções.

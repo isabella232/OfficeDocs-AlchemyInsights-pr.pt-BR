@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001432"
 - "3413"
-ms.openlocfilehash: aac083e400990d4f237d821cba5f9096300119db
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 68e9774e188df3da83848e03de93f98d6a9df851
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705397"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235249"
 ---
 # <a name="how-to-create-a-file-request"></a>Como criar uma solicitação de arquivo
 
 O recurso de solicitação de arquivo no OneDrive permite que você escolha uma pasta onde outras pessoas possam carregar arquivos usando um link que você os envie. Os usuários dos quais você solicita arquivos não podem ver o que está na pasta--eles podem apenas carregar arquivos nele.
 
-[Criar uma solicitação de arquivo](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af)
+**Observação**: um administrador deve habilitar [links de qualquer pessoa](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) no onedrive para que as solicitações de arquivo funcionem.
+
+- Para obter mais informações, consulte [criar uma solicitação de arquivo](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).
