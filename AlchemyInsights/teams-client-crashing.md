@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ce37b260d126f876d2b6177515bd8a7c3874ef2c
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
+ms.openlocfilehash: c49dfbf422b312f4744711d5f12b0eb83b6ebf2e
+ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030504"
+ms.lasthandoff: 05/16/2020
+ms.locfileid: "44268760"
 ---
 # <a name="teams-client-crashing"></a>Falha nos clientes do Teams?
 
@@ -24,9 +24,9 @@ Se o cliente de Teams estiver falhando, experimente o seguinte:
 
 - Se você estiver usando o aplicativo de área de trabalho das Teams, [certifique-se de que o aplicativo esteja totalmente atualizado](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Verifique se todas as [URLs e intervalos de endereços do Office 365](https://docs.microsoft.com/microsoftteams/connectivity-issues) estão acessíveis.
+- Certifique-se de que todas as [URLs e intervalos de endereços do Office 365](https://docs.microsoft.com/microsoftteams/connectivity-issues) estejam acessíveis.
 
-- Entre com sua conta de administrador e confira o [Painel de Integridade do Serviço](https://docs.microsoft.com/office365/enterprise/view-service-health) para verificar se existe falha ou degradação do serviço.
+- Entre com sua conta de administrador de locatário e consulte [Painel de integridade do serviço](https://docs.microsoft.com/office365/enterprise/view-service-health) para verificar se existe erro ou degradação do serviço.
 
  - Como uma última etapa, você pode tentar limpar o cache de cliente do Teams:
 
@@ -53,3 +53,11 @@ Se o cliente de Teams estiver falhando, experimente o seguinte:
         - Por fim, no **tmp**, exclua qualquer arquivos: %appdata%\Microsoft\teams\tmp.
 
     4. Reinicie o cliente do Teams.
+
+Se o seu cliente do Teams ainda estiver travando, você pode reproduzir o problema? Se sim: 
+
+1. Use o gravador de etapas para capturar suas etapas.
+    - Feche TODOS os aplicativos desnecessários ou confidenciais.
+    - Inicie o Gravador de etapas e reproduza o problema enquanto estiver conectado à conta de usuário afetada.
+    
+2. Anexe o arquivo ao seu caso de suporte.

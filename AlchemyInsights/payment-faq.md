@@ -11,21 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "5128"
-ms.openlocfilehash: 08125121083a3ddc7b84ea27a6262247c7ef3e0f
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
+ms.openlocfilehash: 59698324fc21dcf49b96363d61145e17364f9e01
+ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991085"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44263936"
 ---
 # <a name="payment-faq"></a>Perguntas frequentes sobre pagamento
 
 Gerencie pagamentos no **Centro de administração do Microsoft 365**. 
 
-1. Acesse **Faturamento > [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)** para atribuir ou alterar métodos de pagamento de assinatura.
-2. Acesse **Faturamento > [Métodos de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806)** para adicionar/atualizar/remover métodos de pagamento.
-
-**Problemas comuns e resoluções**
+- Acesse **Cobrança > [Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** para atribuir ou alterar os métodos de pagamento da assinatura.
+- Acesse **Faturamento > [Métodos de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806)** para adicionar/atualizar/remover métodos de pagamento.
 
 - **Métodos de pagamento**: se estiver pagando com cartão de crédito ou conta bancária, o método de pagamento associado a suas assinaturas será cobrado dentro de alguns dias após a criação da fatura. Se o pagamento falhar, atualize o método de pagamento. Para saber mais, confira [Adicionar, atualizar ou remover métodos de pagamento](https://go.microsoft.com/fwlink/?linkid=2118133).
 
