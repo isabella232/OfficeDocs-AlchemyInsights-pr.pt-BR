@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 88b754a45fe80804bfd4784bc0552499fb0371e7
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
+ms.openlocfilehash: 986e625e4b7ec5615d2b19927749e5efc627f691
+ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43160950"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44225114"
 ---
 # <a name="your-payment-was-declined"></a>Seu pagamento foi recusado
 
@@ -24,20 +24,31 @@ A Microsoft tentará cobrar o cartão várias vezes nas 3 - 4 semanas após a da
 
 **Importante**: se você tiver adicionado um novo cartão e ainda estiver recebendo um aviso de recusa no cartão de crédito antigo, talvez seja necessário associar esse novo cartão à assinatura.
 
-1. Vá para **Faturamento > [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+**Substituir o método de pagamento para todos os itens**
 
-2. Selecione a assinatura que você quer pagar com o novo cartão ou conta bancária. Na seção **Cobrança**, ao lado do método de pagamento, clique em **Editar**.
+1. No centro de administração, acesse a página **Cobrança** > **Cobranças e pagamentos** > [Formas de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-3. Clique em **Alterar** ao lado do método de pagamento atual.
+2. Selecione a linha do método de pagamento a ser substituído. O painel direito lista todos os perfis de cobrança e assinaturas individuais que usam o método de pagamento selecionado.
 
-4. No menu suspenso, selecione uma forma de pagamento alternativa ou adicione uma nova forma de pagamento.
+3. No painel direito, marque **Substituir o método de pagamento para todos os itens**.
 
-**Adicione uma nova forma de pagamento**:
+4. Para usar um método de pagamento existente, escolha um na lista suspensa e selecione **Substituir**.
 
-1. Vá para a página **Faturamento > Cobranças e pagamentos > [Formas de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+    > [!NOTE]
+    > Se você tiver assinaturas associadas a um perfil de cobrança, só poderá usar um cartão de crédito ou débito para pagar por eles. Se você tiver contas bancárias listadas na página **Métodos de pagamento**, elas não estarão disponíveis para seleção na lista suspensa.
 
-2. Clique em **Adicionar um método de pagamento**, escolha o cartão ou a conta bancária que quer atualizar e clique em **Editar**.
+5. Para adicionar um novo método de pagamento, marque**Adicionar método de pagamento**.
 
-3. Atualize as informações da sua forma de pagamento (nome no cartão ou na conta bancária, endereço de cobrança, número de telefone ou data de validade) e clique em **Salvar**.
+6. No painel **Adicionar um método de pagamento**, insira as informações da conta e, em seguida, selecione **Salvar**. Você deve usar um método de pagamento do mesmo país do seu locatário.
 
-4. Lembre-se de alterar o modo como você está pagando pela(s) assinatura(s) nesse novo método de pagamento. Para obter mais informações, consulte [Adicionar, atualizar ou remover seus métodos de pagamento](https://go.microsoft.com/fwlink/?linkid=2118133). 
+7. O novo método de pagamento já está selecionado na lista suspensa. Selecione **Substituir**.
+
+**Atualizar detalhes de método de pagamento**
+
+1. No centro de administração, acesse a página **Cobrança** > **Cobranças e pagamentos** > [Formas de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).
+
+2. Selecione a linha do método de pagamento a ser atualizado. No painel direito, selecione **Editar**.
+
+3. Atualize suas informações de método de pagamento, inclusive o nome no cartão de crédito ou de débito, no endereço de cobrança ou na data de vencimento e selecione **Salvar**.
+
+Para saber mais, consulte [Gerenciar métodos de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
