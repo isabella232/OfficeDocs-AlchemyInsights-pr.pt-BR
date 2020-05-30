@@ -13,12 +13,12 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c3968ef0ac4926fae3e8a0f988c464471f740a94
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062272"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417592"
 ---
 # <a name="declined-credit-card"></a>Cartão de crédito recusado
 
@@ -28,4 +28,4 @@ Para saber mais, veja "e se meu cartão de crédito tiver expirado e se o meu pa
   
 Se a mensagem "recusado" continuar sendo exibida, contate seu banco. É possível que o cartão de crédito não esteja ativo. Por exemplo, se você recebeu recentemente o cartão pelo correio com uma data de validade atualizada, pode ser necessário ativá-lo. O banco também pode informar se o cartão está aprovado para transações online, internacionais ou recorrentes.  
   
-Para obter informações adicionais [, consulte Solucionando problemas de cartões de crédito e contas bancárias](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Para obter informações adicionais, consulte [Manage Payment Methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
