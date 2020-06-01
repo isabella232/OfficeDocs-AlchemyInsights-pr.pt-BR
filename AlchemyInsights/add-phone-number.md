@@ -11,13 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4363"
-ms.openlocfilehash: c2b9f9668e5dc8b85d3448a2207d090afa374708
-ms.sourcegitcommit: 1739ead7594cbdaf256cb9f7a31da8f521a33725
+ms.openlocfilehash: 6626a811f0ff216f0f719a6988c2c5760f3e7803
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42937933"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417952"
 ---
-# <a name="add-phone-number"></a><span data-ttu-id="85dac-102">Adicionar número de telefone</span><span class="sxs-lookup"><span data-stu-id="85dac-102">Add phone number</span></span>
+# <a name="add-phone-number"></a><span data-ttu-id="dfa7a-102">Adicionar número de telefone</span><span class="sxs-lookup"><span data-stu-id="dfa7a-102">Add phone number</span></span>
 
-<span data-ttu-id="85dac-103">Antes de poder configurar os usuários em sua organização para fazer e receber chamadas telefônicas, você deve [obter números de telefone](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview) para eles.</span><span class="sxs-lookup"><span data-stu-id="85dac-103">Before you can set up users in your organization to make and receive phone calls, you must [get phone numbers](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview) for them.</span></span> <span data-ttu-id="85dac-104">Fornecemos um processo passo a passo para concluir a configuração do sistema de telefonia.</span><span class="sxs-lookup"><span data-stu-id="85dac-104">We've provided a step-by-step process to complete the phone system setup.</span></span> <span data-ttu-id="85dac-105">Confira [Configurando o sistema de telefonia na sua organização](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).</span><span class="sxs-lookup"><span data-stu-id="85dac-105">Please review [Setting up Phone System in your organization](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).</span></span> 
+- <span data-ttu-id="dfa7a-103">Antes de poder configurar os usuários em sua organização para fazer e receber chamadas telefônicas, você deve [obter números de telefone](https://docs.microsoft.com/MicrosoftTeams/manage-phone-numbers-for-your-organization/) para eles.</span><span class="sxs-lookup"><span data-stu-id="dfa7a-103">Before you can set up users in your organization to make and receive phone calls, you must [get phone numbers](https://docs.microsoft.com/MicrosoftTeams/manage-phone-numbers-for-your-organization/) for them.</span></span>
+
+- <span data-ttu-id="dfa7a-104">Sem saber ao certo quais são os serviços de voz que a Microsoft oferece e quais os recursos que você pode precisar?</span><span class="sxs-lookup"><span data-stu-id="dfa7a-104">Unsure about what Voice services Microsoft offers, and what features you may need?</span></span> <span data-ttu-id="dfa7a-105">Confira[Voz na nuvem no Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/cloud-voice-landing-page).</span><span class="sxs-lookup"><span data-stu-id="dfa7a-105">See [Cloud voice in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/cloud-voice-landing-page).</span></span>
+
+- <span data-ttu-id="dfa7a-106">É necessário [adicionar um número de telefone a um convite de reunião?](https://docs.microsoft.com/MicrosoftTeams/set-the-phone-numbers-included-on-invites-in-teams)</span><span class="sxs-lookup"><span data-stu-id="dfa7a-106">Do you need to [add a phone number to a meeting invite?](https://docs.microsoft.com/MicrosoftTeams/set-the-phone-numbers-included-on-invites-in-teams)</span></span>
