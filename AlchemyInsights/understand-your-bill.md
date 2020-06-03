@@ -12,12 +12,12 @@ ms.custom:
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: a8b1c378856adaa13bcd33d8bc185a093f990e2f
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
+ms.openlocfilehash: 53e92b44277d239c927d13e63a6437c4ec9d0996
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158388"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512362"
 ---
 # <a name="understand-your-bill"></a>Entenda sua fatura
 
@@ -27,7 +27,7 @@ ms.locfileid: "43158388"
 
 2. Selecione um intervalo de datas na lista suspensa e escolha o pedido a ser revisado ou clique no link de PDF **Baixar fatura** para exibir uma cópia da fatura.
 
-Para mais informações, consulte [Exibir sua cobrança ou fatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+Para mais informações, consulte [Exibir sua cobrança ou fatura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
 
 **Entender sua cobrança/fatura**
 

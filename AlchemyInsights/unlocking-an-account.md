@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 3d32123f757a727e1f6ef04270152e276cf803fa
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 11321789ee6bd7568fda0d530b9b60eb382c83b9
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799039"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508580"
 ---
 # <a name="unlocking-an-account"></a>Desbloquear uma conta
 
@@ -40,4 +40,4 @@ Como um administrador, se um dos seus usuários estiver restrito de enviar email
 
 Para obter mais cenários de redefinição de senha, incluindo Redefinição de senha de autoatendimento, consulte [Redefinir o Microsoft 365 para obter senhas de negócios com várias tentativas de cobrança de instrumentos de pagamento on-line](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
 
-O serviço impede que um usuário envie e-mails depois de detectar evidências de uma conta comprometida e/ou spam de saída. Como precaução, siga as etapas para [Responder a uma conta de email comprometida no Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)para o usuário.
+O serviço impede que um usuário envie e-mails depois de detectar evidências de uma conta comprometida e/ou spam de saída. Como precaução, siga as etapas para [Responder a uma conta de email comprometida no Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)para o usuário.

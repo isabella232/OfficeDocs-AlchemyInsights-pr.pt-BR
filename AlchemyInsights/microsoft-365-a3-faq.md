@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002871"
 - "5417"
-ms.openlocfilehash: e21af75058b1c6f75507ac1899ecc9e4b5bfd407
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 30dca17df71b2237a1ed1546a4cc2f9cbd3b5f20
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "44282175"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510344"
 ---
 # <a name="microsoft-365-a3-faq"></a>Perguntas frequentes sobre o Microsoft 365 A3
 
@@ -25,7 +25,7 @@ ms.locfileid: "44282175"
 - Para **mudar de plano**, confira [Mudar de plano do Microsoft 365 for Business manualmente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - Para **atribuir** licenças A3 aos usuários, acesse **Cobrança > [Licenças](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Para saber mais, consulte [Atribuir licenças](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Para **adicionar/remover** licenças A3, acesse **Cobrança > [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)** e clique em **Adicionar/remover licenças**. Para obter mais informações, consulte [Adicionar/remover licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
-- Para **cancelar** licenças A3, acesse **Cobrança > [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)**, clique em **Configurações e ações** e clique em **Cancelar assinatura**. Para obter mais informações, consulte [Cancelar sua assinatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Para **cancelar** licenças A3, acesse **Cobrança > [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)**, clique em **Configurações e ações** e clique em **Cancelar assinatura**. Para obter mais informações, consulte [Cancelar sua assinatura](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Para **ativar** a assinatura A3, consulte [Ativar sua assinatura](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Para **reativar** a assinatura A3, consulte [Reativar sua assinatura](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
 - Para estender a avaliação do A3, consulte [Estender sua avaliação](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).

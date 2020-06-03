@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002872"
 - "5425"
-ms.openlocfilehash: 361efbd5ff9b080566d29fd4b9dba106eb111bda
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 5b518b2ab973c578194b4e4e66f642a9f3a06a14
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912103"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511856"
 ---
 # <a name="microsoft-365-a5-faq"></a>Perguntas frequentes sobre o Microsoft 365 A5
 
@@ -25,7 +25,7 @@ ms.locfileid: "43912103"
 - Para **mudar de plano**, confira [Mudar de plano do Microsoft 365 for Business manualmente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - Para **atribuir** licenças A5 a usuários, vá para **Cobrança > [Licenças](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Para obter mais informações, confira [Atribuir licenças](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Para **adicionar/remover** licenças A5, acesse **Cobrança > [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)** e clique em **Adicionar/Remover licenças**. Para obter mais informações, confira [Adicionar/remover licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
-- Para **cancelar** licenças A5, vá para **Cobrança > [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)**, clique em **Configurações e Ações** e clique em **Cancelar assinatura**. Para obter mais informações, confira [Cancelar sua assinatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Para **cancelar** licenças A5, vá para **Cobrança > [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)**, clique em **Configurações e Ações** e clique em **Cancelar assinatura**. Para obter mais informações, confira [Cancelar sua assinatura](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Para **ativar** a assinatura A5, confira [Ativar sua assinatura](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Para **reativar** a assinatura A5, confira [Reativar sua assinatura](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
 - Para estender a avaliação A5, confira [Estender sua avaliação](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
