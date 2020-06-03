@@ -12,16 +12,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: b1c44e0990d07686ef083d2045a164afc5f11033
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4f484126e83a30ebcf00e42a4fb155532b19b337
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705541"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507682"
 ---
-# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a><span data-ttu-id="0e31b-102">Converter uma caixa de correio do usuário em uma caixa de correio compartilhada</span><span class="sxs-lookup"><span data-stu-id="0e31b-102">Convert a user mailbox to a shared mailbox</span></span>
+# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a><span data-ttu-id="7e1bb-102">Converter uma caixa de correio do usuário em uma caixa de correio compartilhada</span><span class="sxs-lookup"><span data-stu-id="7e1bb-102">Convert a user mailbox to a shared mailbox</span></span>
 
-<span data-ttu-id="0e31b-103">Quando você converte a caixa de correio de um usuário individual em uma caixa de correio compartilhada, todos os itens de email e calendário existentes são mantidos em uma caixa de correio compartilhada onde várias pessoas podem acessar.</span><span class="sxs-lookup"><span data-stu-id="0e31b-103">When you convert an individual user's mailbox to a shared mailbox, all of the existing email and calendar items are retained in a shared mailbox where multiple people can access.</span></span> <span data-ttu-id="0e31b-104">Você também pode converter uma caixa de correio compartilhada de volta para uma caixa de correio de usuário (privada).</span><span class="sxs-lookup"><span data-stu-id="0e31b-104">You can also convert a shared mailbox back to a user (private) mailbox.</span></span>
+<span data-ttu-id="7e1bb-103">Quando você converte a caixa de correio de um usuário individual em uma caixa de correio compartilhada, todos os itens de email e calendário existentes são mantidos em uma caixa de correio compartilhada onde várias pessoas podem acessar.</span><span class="sxs-lookup"><span data-stu-id="7e1bb-103">When you convert an individual user's mailbox to a shared mailbox, all of the existing email and calendar items are retained in a shared mailbox where multiple people can access.</span></span> <span data-ttu-id="7e1bb-104">Você também pode converter uma caixa de correio compartilhada de volta para uma caixa de correio de usuário (privada).</span><span class="sxs-lookup"><span data-stu-id="7e1bb-104">You can also convert a shared mailbox back to a user (private) mailbox.</span></span>
   
-<span data-ttu-id="0e31b-105">Para obter mais informações, consulte [converter uma caixa de correio de usuário em uma caixa de correio compartilhada](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="0e31b-105">For more information, see [Convert a user mailbox to a shared mailbox](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).</span></span>
+<span data-ttu-id="7e1bb-105">Para obter mais informações, consulte [converter uma caixa de correio de usuário em uma caixa de correio compartilhada](https://docs.microsoft.com/microsoft-365/admin/email/convert-user-mailbox-to-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="7e1bb-105">For more information, see [Convert a user mailbox to a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/convert-user-mailbox-to-shared-mailbox).</span></span>
   
