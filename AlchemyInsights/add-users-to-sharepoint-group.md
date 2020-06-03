@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3199"
-ms.openlocfilehash: 67bfca96af77dcc0c151892b32b2d66e55c76025
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: ea4fb74365fdd5f44e14aa68d5df6746ff3c754b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43910956"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506618"
 ---
 # <a name="add-users-to-a-sharepoint-group"></a>Adicionar usuários a um grupo do SharePoint
 
 Um grupo do SharePoint é um conjunto de usuários que têm o mesmo conjunto de permissões para sites e conteúdo. Em vez de atribuir permissões uma pessoa por vez, você pode usar grupos para atribuir convenientemente o mesmo nível de permissão a muitas pessoas de uma só vez.
 
 - [Adicionar usuários a um grupo](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-users-to-a-group)
-- [Adicionar ou remover membros dos grupos do Microsoft 365 usando o centro de administração](https://docs.microsoft.com/office365/admin/create-groups/add-or-remove-members-from-groups?view=o365-worldwide)
+- [Adicionar ou remover membros dos grupos do Microsoft 365 usando o centro de administração](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)

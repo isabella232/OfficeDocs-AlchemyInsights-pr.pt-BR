@@ -12,12 +12,12 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 4fc934fcf9c1af0cd68aa20d5dc31d3d82264965
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eae0ffdadf9f43b70c35992a03fce764b9299300
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063533"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509192"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Como fazer uma compra da Microsoft 365
 
@@ -27,7 +27,7 @@ As compras no Microsoft 365 podem ser feitas no centro de administração.
 
 - Para adquirir licenças adicionais, vá para a página **cobrança** \> **[de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Escolha a assinatura à qual você deseja adicionar licenças e, em seguida, selecione **Adicionar/remover licenças**.
   
-Para saber mais, veja [comprar licenças para sua assinatura do Microsoft 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Para saber mais, veja [comprar licenças para sua assinatura do Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Solução de Problemas**
 
@@ -35,6 +35,6 @@ Se você tiver problemas com o carregamento da página, tente abrir a página da
 
 **Recursos adicionais**
   
-- [Atribuir licenças aos usuários no Microsoft 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Atribuir licenças aos usuários no Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
-- [Cancelar o Microsoft 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Cancelar o Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

@@ -9,18 +9,18 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 9a6e59f5798130856ba3d82e8d233c2c79e462a7
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: a8aba717c826a929eda4977ad279ce7f1ac4ce70
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911532"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505675"
 ---
 # <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Excluir um site do novo centro de administração do SharePoint
 
 Usando o novo centro de administração do SharePoint, você pode excluir os sites clássicos e modernos. Selecione **sites ativos**, selecione o site e, em seguida, selecione **excluir**. Para [Exibir e restaurar sites excluídos no novo centro de administração do SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selecione **sites excluídos**. Para obter mais informações, consulte [excluir um site no novo centro de administração do SharePoint](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
 
-**Importante:** Se o site fizer parte de uma política de retenção, talvez não seja possível excluí-lo até que o site seja removido da [política &amp; do centro de administração de conformidade de segurança](https://protection.office.com/?rfr=AdminCenter#/homepage). Confira [visão geral das políticas de retenção](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) para obter mais informações. 
+**Importante:** Se o site fizer parte de uma política de retenção, talvez não seja possível excluí-lo até que o site seja removido da [ &amp; política do centro de administração de conformidade de segurança](https://protection.office.com/?rfr=AdminCenter#/homepage). Confira [visão geral das políticas de retenção](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) para obter mais informações. 
 
 Sobre
 - Os administradores do SharePoint agora podem excluir sites que pertencem a **grupos do Microsoft 365**. Isso excluirá o grupo e todos os seus recursos, incluindo a caixa de correio e o calendário do Outlook e todos os canais do teams. Para obter mais informações, consulte [excluir um site do SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)

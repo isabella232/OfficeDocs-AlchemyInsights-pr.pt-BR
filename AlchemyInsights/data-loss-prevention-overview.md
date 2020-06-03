@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: ce9353f81caba1717d92c913b26800ca67890dd8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b6073cd4043efcebd6e447dee9ba85f31e541ec8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053069"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505747"
 ---
 # <a name="data-loss-prevention-dlp-overview"></a>Visão geral da prevenção de perda de dados (DLP)
 
@@ -26,5 +26,5 @@ Por exemplo, você pode identificar qualquer documento com um número de cartão
 - Impedir o compartilhamento acidental de informações confidenciais.
 
 
-Para obter mais informações, revise o [artigo](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)a seguir.
+Para obter mais informações, revise o [artigo](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)a seguir.
 

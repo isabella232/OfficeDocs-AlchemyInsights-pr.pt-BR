@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788654"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507014"
 ---
 # <a name="enable-an-archive-mailbox"></a>Habilitar uma caixa de correio de arquivo morto
 
@@ -27,7 +27,7 @@ Confira aqui como criar uma caixa de correio de arquivo morto:
 
 2. Entre no Microsoft 365 usando sua conta de administrador.
 
-3. No painel esquerdo do centro de conformidade &amp; de segurança, selecione **Information governance** \> **arquivamento**de governança de informações.
+3. No painel esquerdo do centro de conformidade de segurança &amp; , selecione **Information governance** \> **arquivamento**de governança de informações.
 
 4. Selecione o usuário cuja caixa de correio de arquivo morto você deseja habilitar.
 
@@ -43,7 +43,7 @@ Para habilitar o arquivo morto para uma caixa de correio compartilhada:
 
 1. Vá para o [centro de administração do Exchange](https://outlook.office365.com/ecp) e entre usando sua conta de administrador.
 
-2. Vá para **destinatários** > **compartilhados**.
+2. Vá para **destinatários**  >  **compartilhados**.
 
 3. Selecione a caixa de correio compartilhada.
 
@@ -51,6 +51,6 @@ Para habilitar o arquivo morto para uma caixa de correio compartilhada:
 
 Para saber mais, confira:
   
-- [Habilitar caixas de correio de arquivo morto](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Habilitar caixas de correio de arquivo morto](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [Configurar uma política de arquivo morto e exclusão](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

@@ -13,18 +13,18 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: c3968ef0ac4926fae3e8a0f988c464471f740a94
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 2e5a26819030087e22eaeba0603569f92e2f86e1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44417592"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505711"
 ---
 # <a name="declined-credit-card"></a>Cartão de crédito recusado
 
 Se você pagar com cartão de crédito e ele for recusado, você receberá um email informando que não foi possível processar o pagamento. Verifique se o número do cartão de [crédito](https://go.microsoft.com/fwlink/p/?linkid=842054) , a data de validade, o nome no cartão de crédito e o endereço, incluindo cidade, estado e CEP, são exibidos exatamente como no cartão de crédito e no seu extrato de cartão de crédito. Você pode atualizar suas informações de cartão de crédito e enviar o pagamento imediatamente usando a opção **liquidar saldo** na página **[seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** . 
 
-Para saber mais, veja "e se meu cartão de crédito tiver expirado e se o meu pagamento estiver vencido?" em [pagamento para sua assinatura do Microsoft 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+Para saber mais, veja "e se meu cartão de crédito tiver expirado e se o meu pagamento estiver vencido?" em [pagamento para sua assinatura do Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
 Se a mensagem "recusado" continuar sendo exibida, contate seu banco. É possível que o cartão de crédito não esteja ativo. Por exemplo, se você recebeu recentemente o cartão pelo correio com uma data de validade atualizada, pode ser necessário ativá-lo. O banco também pode informar se o cartão está aprovado para transações online, internacionais ou recorrentes.  
   

@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661788"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508796"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Aumentar o tamanho da caixa de correio de arquivo morto
 
-O Office 365 [limita](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) o tamanho das caixas de correio de arquivo morto com base na licença atribuída à conta de usuário. Quando a caixa de correio de arquivo morto alcança 90% de seu tamanho permitido, o usuário recebe uma notificação por email. Quando uma caixa de correio de arquivo morto atinge seu limite de tamanho, o usuário não pode mover mais itens para a caixa de correio de arquivo morto. O Office 365 não aumentará o tamanho de uma caixa de correio de arquivo morto quando o limite de tamanho for atingido. Em vez disso, os usuários podem executar as seguintes ações para liberar espaço na caixa de correio de arquivo morto:
+A Microsoft 365 [limita](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) o tamanho das caixas de correio de arquivo morto com base na licença atribuída à conta de usuário. Quando a caixa de correio de arquivo morto alcança 90% de seu tamanho permitido, o usuário recebe uma notificação por email. Quando uma caixa de correio de arquivo morto atinge seu limite de tamanho, o usuário não pode mover mais itens para a caixa de correio de arquivo morto. O Microsoft 365 não aumentará o tamanho de uma caixa de correio de arquivo morto quando o limite de tamanho for atingido. Em vez disso, os usuários podem executar as seguintes ações para liberar espaço na caixa de correio de arquivo morto:
 
 - Exporte os itens para um arquivo. pst usando o Outlook.
 
 - Excluir itens da caixa de correio de arquivo morto.
 
-O Office 365 fornece **arquivamento ilimitado** para as licenças do Office 365 Enterprise E3 e e5. Um administrador deve habilitar esse recurso antes que a caixa de correio de arquivo morto alcance o tamanho máximo. Quando o arquivamento ilimitado é habilitado, pode levar até 30 dias antes de o espaço livre ser adicionado à caixa de correio de arquivo morto. Portanto, recomendamos que os administradores verifiquem o espaço livre na caixa de correio de arquivo morto, permitindo que o usuário continue usando a caixa de correio de arquivo morto enquanto expande. Para obter mais informações, consulte [Overview of Unlimited Archiving in office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving) e [Enable Unlimited archiving in Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
+O Microsoft 365 fornece **arquivamento ilimitado** para as licenças do Office 365 Enterprise E3 e e5. Um administrador deve habilitar esse recurso antes que a caixa de correio de arquivo morto alcance o tamanho máximo. Quando o arquivamento ilimitado é habilitado, pode levar até 30 dias antes de o espaço livre ser adicionado à caixa de correio de arquivo morto. Portanto, recomendamos que os administradores verifiquem o espaço livre na caixa de correio de arquivo morto, permitindo que o usuário continue usando a caixa de correio de arquivo morto enquanto expande. Para obter mais informações, consulte [Overview of Unlimited Archiving in microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving) e [Enable Unlimited archiving in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
 
-Para obter mais informações sobre como acessar a caixa de correio de arquivo morto no Outlook, confira [requisitos do Outlook para acessar itens em um arquivo morto expandido automaticamente](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). Para configurar uma política de retenção que move automaticamente itens para a caixa de correio de arquivo morto, consulte [Configurar uma política de arquivo morto e exclusão para caixas de correio em sua organização do Office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes).
+Para obter mais informações sobre como acessar a caixa de correio de arquivo morto no Outlook, confira [requisitos do Outlook para acessar itens em um arquivo morto expandido automaticamente](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). Para configurar uma política de retenção que move automaticamente itens para a caixa de correio de arquivo morto, consulte [Configurar uma política de arquivo morto e exclusão para caixas de correio em sua organização do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes).
 
 **Observação**: a expansão automática de arquivos não é suportada para caixas de correio principais no Exchange 2010.

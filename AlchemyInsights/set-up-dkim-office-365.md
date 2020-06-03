@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 0acaed476dbd06bc933bf466f9bf6116413a44bb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43645660"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509372"
 ---
 # <a name="setup-dkim"></a>Configurar DKIM
 
-As instruções completas para configurar o DKIM para domínios personalizados no Microsoft 365 estão [aqui](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+As instruções completas para configurar o DKIM para domínios personalizados no Microsoft 365 estão [aqui](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
 
 1. Para **cada** domínio personalizado, você precisa criar **dois** registros CNAME do DKIM no serviço de hospedagem DNS do seu domínio (normalmente, o registrador de domínio). Por exemplo, contoso.com e fourthcoffee.com exigem quatro registros CNAME DKIM: dois para contoso.com e dois para fourthcoffee.com.
 
@@ -36,7 +36,7 @@ As instruções completas para configurar o DKIM para domínios personalizados n
 
      **TTL**: 3600
 
-   \<DomainGUID\> é o texto à esquerda do `.mail.protection.outlook.com` registro MX personalizado para o domínio personalizado (por exemplo, `contoso-com` para o domínio contoso.com). \<InitialDomain\> é o domínio que você usou ao se inscrever no Microsoft 365 (por exemplo, contoso.onmicrosoft.com).
+   \<DomainGUID\>é o texto à esquerda do `.mail.protection.outlook.com` registro MX personalizado para o domínio personalizado (por exemplo, `contoso-com` para o domínio contoso.com). \<InitialDomain\>é o domínio que você usou ao se inscrever no Microsoft 365 (por exemplo, contoso.onmicrosoft.com).
 
 2. Depois de criar os registros CNAME para seus domínios personalizados, conclua as instruções a seguir:
 
@@ -46,6 +46,6 @@ As instruções completas para configurar o DKIM para domínios personalizados n
 
    c. No painel de navegação inferior à esquerda, expanda **Administrador** e escolha **Exchange**.
 
-   d. Vá para **Protection** > **DKIM**de proteção.
+   d. Vá para **Protection**  >  **DKIM**de proteção.
 
    e. Selecione o domínio e, em seguida, escolha **habilitar** para **assinar mensagens para este domínio com assinaturas do DKIM**. Repita essa etapa para cada domínio personalizado.

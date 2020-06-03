@@ -13,12 +13,12 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 83fd98202d57c2ffceac4fcac8a928626d0ca203
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: bafaee929a668b918fef6858c24c308602e10307
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062885"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509912"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Renovação pré-paga da Microsoft 365
 
@@ -35,4 +35,4 @@ ms.locfileid: "44062885"
 
 5. Revise os detalhes do pedido e, em seguida, selecione **resgatar**.
 
-Para saber mais, confira [adicionar licenças ou estender uma assinatura paga para usar uma chave do produto (Product Key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)).
+Para saber mais, confira [adicionar licenças ou estender uma assinatura paga para usar uma chave do produto (Product Key](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)).

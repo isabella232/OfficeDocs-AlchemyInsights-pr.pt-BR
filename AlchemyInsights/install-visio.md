@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765977"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508652"
 ---
 # <a name="install-visio"></a>Instalar o Visio
 
@@ -25,7 +25,7 @@ O Visio é vendido como um aplicativo autônomo, portanto, se você ainda não o
 
 **Observação**: o Visio online plano 1 não inclui uma versão de área de trabalho do Visio, portanto, nenhuma instalação é possível.
 
-Se você tiver uma assinatura do Visio online Plan 2, deverá [atribuir uma licença](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) a um usuário ou não terá uma opção para instalar o Visio de **minhas instalações** no portal da [minha conta](https://portal.office.com/account#installs). 
+Se você tiver uma assinatura do Visio online Plan 2, deverá [atribuir uma licença](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) a um usuário ou não terá uma opção para instalar o Visio de **minhas instalações** no portal da [minha conta](https://portal.office.com/account#installs). 
 
 As versões de licença de não volume do Visio Standard ou Visio Professional estão associadas às contas da Microsoft e não podem ser gerenciadas no centro de administração. Para instalar essas versões, os usuários devem entrar no [Account.Microsoft.com](https://account.microsoft.com) com a conta da Microsoft associada a esta versão do Visio.
 

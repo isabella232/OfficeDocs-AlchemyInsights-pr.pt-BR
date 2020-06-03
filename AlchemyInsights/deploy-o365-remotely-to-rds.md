@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: fe051cd1dac899dc9bb19d275c352ec6585b6a93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010242"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507574"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Implantando o Microsoft 365 Apps for Enterprise para uso compartilhado no RDS, Terminal Server ou VDI
 
@@ -38,9 +38,9 @@ Para corrigir erros relacionados à ativação de computador compartilhado:
 
 Se você deseja instalar o Microsoft 365 aplicativos para empresas no RDS do centro de administração do Microsoft 365, ***que usa as configurações de instalação padrão***, use as seguintes etapas:
 
-1.    Verifique a assinatura que você tem. [Saiba como](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have).
-2.    Se necessário, alterne para uma assinatura diferente. [Saiba como](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
-3.    Se o Office já estiver instalado no servidor RDS usando qualquer outra assinatura da Microsoft, desinstale-o. Por exemplo, indo para o **painel** > de controle**desinstalar um programa**. Desinstale [o usando o assistente de recuperação e suporte da Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy) se você estiver executando problemas.
+1.    Verifique a assinatura que você tem. [Saiba como](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
+2.    Se necessário, alterne para uma assinatura diferente. [Saiba como](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+3.    Se o Office já estiver instalado no servidor RDS usando qualquer outra assinatura da Microsoft, desinstale-o. Por exemplo, indo para o **painel de controle**  >  **desinstalar um programa**. Desinstale [o usando o assistente de recuperação e suporte da Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy) se você estiver executando problemas.
 4.    No servidor RDS, entre no centro de administração do Microsoft 365 com sua conta de administrador e [Instale o Microsoft 365 aplicativos para empresas](https://portal.office.com/OLS/MySoftware.aspx).
 5.    Após a instalação do Office, ***não abra ou entre*** em qualquer aplicativo do Office.
 6.    No servidor RDS, habilite a ativação de computador compartilhado editando o registro, seguindo estas etapas:

@@ -12,12 +12,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 7d31f6bcbd464b7428092b6fd6ff9f9582db2a8b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9369878b62a5abe79bd215487bea6cabb0e80f06
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704365"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507430"
 ---
 # <a name="dlp-policy-tip-issues"></a>Problemas de dica de política DLP
 
@@ -29,11 +29,11 @@ Ao usar **políticas DLP**, os usuários podem ser notificados de uma violação
   
 Para configurar dicas de política em sua política de DLP no centro de segurança e conformidade no modo de imposição completa, faça o seguinte:
   
-- Verifique se as dicas de política foram **habilitadas** na regra DLP usando as etapas [aqui](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- Verifique se as dicas de política foram **habilitadas** na regra DLP usando as etapas [aqui](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
 
-- Verifique se o **conteúdo corresponde** ao que é **necessário** para acionar a regra descrita neste artigo [aqui](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+- Verifique se o **conteúdo corresponde** ao que é **necessário** para acionar a regra descrita neste artigo [aqui](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 
-- As dicas de política são exibidas no OWA e no Outlook. No entanto, ao usar o **Outlook 2013 ou posterior**, as dicas de política são exibidas apenas em determinadas condições. Essas condições estão listadas aqui: [condições suportadas para o Outlook 2013 ou posterior para exibir dicas de política](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- As dicas de política são exibidas no OWA e no Outlook. No entanto, ao usar o **Outlook 2013 ou posterior**, as dicas de política são exibidas apenas em determinadas condições. Essas condições estão listadas aqui: [condições suportadas para o Outlook 2013 ou posterior para exibir dicas de política](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-Para obter informações adicionais sobre dicas de política de DLP, consulte: [Mostrar dicas de política para políticas de DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+Para obter informações adicionais sobre dicas de política de DLP, consulte: [Mostrar dicas de política para políticas de DLP](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
   

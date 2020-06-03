@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 76e14abce4e493cec4869279ff9a8d2ce4debf0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911819"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510164"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Como realizar pesquisas de conteúdo e pesquisas de descoberta eletrônica
 
@@ -32,6 +32,6 @@ Use a ferramenta de pesquisa de conteúdo no centro de conformidade de & de segu
 4. Insira as condições de pesquisa necessárias, incluindo palavras-chave e locais de conteúdo.  
 5. Clique em **salvar & executar** para nomear a pesquisa, iniciá-la e visualizar os resultados.
 
-Para obter instruções detalhadas sobre pesquisas de conteúdo, exportação de resultados e criação de ocorrências de descoberta eletrônica para manter dados, consulte [pesquisa de conteúdo](https://docs.microsoft.com/office365/securitycompliance/content-search) e [ocorrências de descoberta eletrônica](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Para obter instruções detalhadas sobre pesquisas de conteúdo, exportação de resultados e criação de ocorrências de descoberta eletrônica para manter dados, consulte [pesquisa de conteúdo](https://docs.microsoft.com/microsoft-365/compliance/content-search) e [ocorrências de descoberta eletrônica](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 
-Saiba mais sobre a pesquisa de conteúdo examinando os [requisitos e limites](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) e [investigando itens parcialmente indexados](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) e outros resultados a serem cientes.
+Saiba mais sobre a pesquisa de conteúdo examinando os [requisitos e limites](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) e [investigando itens parcialmente indexados](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) e outros resultados a serem cientes.

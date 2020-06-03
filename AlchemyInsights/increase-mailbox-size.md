@@ -12,12 +12,12 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: d1c7e79b0ba00db87ac0fc3cecd54a6b12721325
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064217"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508724"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Mudar de assinatura para aumentar o tamanho da caixa de correio
 
@@ -35,6 +35,6 @@ Se o tamanho da caixa de correio for de 50 GB, você poderá aumentá-lo para 10
 
 5. Insira o número de licenças necessárias, escolha se deseja pagar a cada mês ou pelo ano inteiro e, em seguida, selecione **checkout**.
 
-Para obter mais detalhes, consulte [atualizar para um plano diferente](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+Para obter mais detalhes, consulte [atualizar para um plano diferente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 
-Se você tiver uma [assinatura que ofereça suporte a um arquivo morto in-loco](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), também poderá obter o armazenamento de email adicional habilitando uma caixa de correio de arquivo morto. Uma caixa de correio de arquivo morto fornece armazenamento adicional e permite que você mova, copie e pesquise mensagens na caixa de correio principal e de arquivo morto. Para obter instruções sobre como habilitar uma caixa de correio de arquivo morto, consulte [habilitar uma caixa de correio de arquivo morto](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Se você tiver uma [assinatura que ofereça suporte a um arquivo morto in-loco](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), também poderá obter o armazenamento de email adicional habilitando uma caixa de correio de arquivo morto. Uma caixa de correio de arquivo morto fornece armazenamento adicional e permite que você mova, copie e pesquise mensagens na caixa de correio principal e de arquivo morto. Para obter instruções sobre como habilitar uma caixa de correio de arquivo morto, consulte [habilitar uma caixa de correio de arquivo morto](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes).

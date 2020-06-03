@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 0f26865ab01e40b9a4429ada09150049f02416ea
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 009c7f3848a7ab911a250c6b761c195d2fa37ba2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761264"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510956"
 ---
 # <a name="more-info-about-retention-policies"></a>Mais informações sobre políticas de retenção
 
@@ -27,15 +27,15 @@ Para a maioria das organizações, o volume e a complexidade de seus dados aumen
 ## <a name="a-from-security-and-compliance-center"></a>A) do centro de conformidade e segurança
 
 - Vá para segurança e conformidade > governança de dados > retenção
-  - Confira [este](https://docs.microsoft.com/office365/securitycompliance/retention-policies) artigo
+  - Confira [este](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) artigo
 
 - Vá para segurança e conformidade > eDiscovery> descoberta eletrônica avançada 
-  - Confira [este](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) artigo
+  - Confira [este](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) artigo
 
 - Ir para a segurança e conformidade > classificações > retenção
   - Consulte estes artigos
-    - [Rótulos de confidencialidade](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [Visão geral dos rótulos](https://docs.microsoft.com/office365/securitycompliance/labels)
+    - [Rótulos de confidencialidade](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+    - [Visão geral dos rótulos](https://docs.microsoft.com/microsoft-365/compliance/labels)
 
 ## <a name="b-legacy-ediscovery-policies"></a>B) políticas de descoberta eletrônica herdadas
 

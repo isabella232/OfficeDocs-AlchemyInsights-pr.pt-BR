@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: e44a2c9ba855daec0b79212655d52c291c3c72eb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3e82793bb993aeba66eab0cca5c8b1d18d7f9103
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682280"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504863"
 ---
 # <a name="activate-visio"></a>Ativar o Visio
 
-Antes que um usuário possa instalar e ativar o aplicativo de área de trabalho Visio da área de trabalho incluído no Visio online Plan 2, o usuário deve ter sido atribuído a uma [licença do Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+Antes que um usuário possa instalar e ativar o aplicativo de área de trabalho Visio da área de trabalho incluído no Visio online Plan 2, o usuário deve ter sido atribuído a uma [licença do Visio](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 **Observação** O Visio online plano 1 não inclui uma versão de área de trabalho do Visio.
 
@@ -33,7 +33,7 @@ Para ativar o Visio:
 Para problemas de ativação, execute a [solução de problemas de ativação](https://aka.ms/SARA-OfficeActivation-Alchemy) no computador afetado.
 
 Para obter informações detalhadas, consulte:<br>
-[Ativar o Office em um PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Um aviso de assinatura aparece quando abro um aplicativo Microsoft](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Erro do Office "os produtos que encontramos em sua conta não podem ser usados <app>para ativar"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Erros de ativação e de Produto Não Licenciado no Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)
+[Ativar o Office em um computador](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Um aviso de assinatura é exibido quando abro um aplicativo da Microsoft](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Erro do Office "os produtos que encontramos em sua conta não podem ser usados para ativar <app> "](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Produto não licenciado e erros de ativação no Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)
