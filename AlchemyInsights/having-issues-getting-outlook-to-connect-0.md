@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
-ms.openlocfilehash: c68fc2381432a9681ed60dac4e8c8fde3c303b8c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0d7bc37cd2b418883142c760ad2bfdb504c1c679
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710179"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44499031"
 ---
 # <a name="having-issues-getting-outlook-to-connect"></a>Você está tendo problemas para se conectar ao Outlook?
 
@@ -21,6 +21,6 @@ Detectamos que o Outlook não está configurado para funcionar corretamente no (
   
 {HealthCheckString}
   
-Os registros NS ou CNAME das configurações de domínio (DNS) não estão configurados corretamente. Você pode consultar [criar registros DNS em qualquer provedor de Hospedagem de DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) para obter instruções detalhadas. 
+Os registros NS ou CNAME das configurações de domínio (DNS) não estão configurados corretamente. Para obter instruções detalhadas, confira [Criar registros DNS em qualquer provedor de hospedagem de DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider). 
   
 Para corrigir isso, acesse a página [Domínios](https://admin.microsoft.com/adminportal/home#/Domains) no Centro de Administração do Microsoft 365, e ajudaremos você. 

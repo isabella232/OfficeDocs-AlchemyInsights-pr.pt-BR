@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: fa226612a9b9bfa8e6ca0b287fc51969d95e3469
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1e0dbe74a3b8dd25005f1eb82870efe9c4f7ccfc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692501"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502559"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Alterando permissões em uma caixa de correio
 
 Se os usuários precisarem de acesso às caixas de correio diferentes das suas, precisarão receber permissões para trabalhar com essas caixas de correio. A forma como você atribui essas permissões depende do tipo de caixa de correio. Se os usuários precisarem de acesso a:
   
-- Caixas de correio de outros usuários-Confira [conceder permissões de caixa de correio para outro usuário](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
+- Caixas de correio de outros usuários-Confira [conceder permissões de caixa de correio para outro usuário](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).
     
 - Uma caixa de correio compartilhada, confira [Adicionar ou remover membros de uma caixa de correio compartilhada](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     

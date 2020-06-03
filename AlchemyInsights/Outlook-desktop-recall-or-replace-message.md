@@ -9,12 +9,12 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d64332778f9132aff6a9660bb0d522f4e16b753c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bb84363ae7d3c91750d5de789c091c7cebbbedc2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687498"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502307"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Cancelar ou substituir uma mensagem de email do Outlook
 
@@ -26,15 +26,15 @@ Para cancelar ou substituir uma mensagem de email:
 
 1. No painel de pastas à esquerda da janela do Outlook, selecione a pasta Itens enviados.
 1. Clique duas vezes na mensagem que você deseja cancelar para abri-la.
-1. Selecione a guia **mensagem** e, em seguida, selecione **ações** > **cancelar esta mensagem**.
+1. Selecione a guia **mensagem** e, em seguida, selecione **ações**  >  **cancelar esta mensagem**.
 1. Selecione **Excluir cópias não lidas desta mensagem** ou **Excluir cópias não lidas e substituir por uma nova mensagem**e, em seguida, selecione **OK**.
 1. Se você estiver enviando uma mensagem de substituição, redija a mensagem e selecione **Enviar**.
 1. O sucesso ou a falha de uma recuperação de mensagem depende das configurações do destinatário no Outlook. Para ver as etapas para verificar o cancelamento, confira [Este artigo](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-Procurar e excluir mensagens de email em sua organização
+Pesquisar e excluir mensagens de email em sua organização
 
 - Se você não for um administrador global, sua conta deverá ser adicionada à função de gerente de descoberta eletrônica ou à função de gerenciamento de pesquisa de conformidade para pesquisar mensagens. Para excluir mensagens, você precisará ingressar no grupo de função gerenciamento da organização ou na função gerenciamento de pesquisa e limpeza. As permissões para essas funções são atribuídas no [centro de conformidade e segurança](https://go.microsoft.com/fwlink/?linkid=2083731).
-- [Criar uma pesquisa de conteúdo](https://docs.microsoft.com/office365/securitycompliance/content-search) para localizar a mensagem a ser excluída.
+- [Criar uma pesquisa de conteúdo](https://docs.microsoft.com/microsoft-365/compliance/content-search) para localizar a mensagem a ser excluída.
 - [Conecte-se ao PowerShell do centro de conformidade e segurança](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
 Se você estiver usando a autenticação multifator, confira [conectar-se ao PowerShell do centro de conformidade e segurança do Microsoft 365 usando a autenticação multifator](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).

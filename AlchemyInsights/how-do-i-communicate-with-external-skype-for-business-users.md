@@ -12,20 +12,20 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: 46da02a7a2ae1be92698f376be404a76bd4f23e6
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 3bdd3fc028e0cd3cd6ec5692e11c303dcd7ace6b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265076"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44496263"
 ---
 # <a name="allow-external-communications-with-skype-for-business"></a>Permitir comunicações externas com o Skype for Business 
 
 Você deseja permitir que os usuários do Skype for Business entrem em contato com os usuários de fora da sua organização? Confira [permitir que os usuários entrem em contato com usuários externos do Skype for Business](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
 
-Os registros DNS devem estar configurados corretamente para que as comunicações externas funcionem corretamente. Confira [aqui](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) para ver se há instruções específicas sobre como configurar registros DNS com seu provedor. 
+Os registros DNS devem estar configurados corretamente para que as comunicações externas funcionem corretamente. Confira [aqui](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) para ver se há instruções específicas sobre como configurar registros DNS com seu provedor. 
 
-Você deseja permitir que os usuários do Skype for Business entrem em contato com os usuários do Skype Consumer? Confira:
+Você deseja permitir que os usuários do Skype for Business entrem em contato com os usuários do Skype Consumer? Consulte:
 
 - [Permitir que os usuários do Skype for Business adicionem contatos do Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
 

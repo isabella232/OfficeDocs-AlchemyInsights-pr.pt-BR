@@ -13,17 +13,17 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 5d118036398d8d9f9a56e8a96e44d81ceccf6573
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: 9b9008dca74e6aa8e6a05010361359a078dbd590
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44225184"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44498923"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Como alterar de pagamentos de cartão de crédito para fatura?
 
 > [!NOTE]
-> A opção de pagamento por fatura só estará disponível se a sua assinatura estiver em um determinado valor (que varia de acordo com o local do serviço). Podemos solicitar uma verificação de crédito, em caso de pagamentos de valor superior por meio de fatura. Para saber mais, confira [o pagamento da sua assinatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
+> A opção de pagamento por fatura só estará disponível se a sua assinatura estiver em um determinado valor (que varia de acordo com o local do serviço). Podemos solicitar uma verificação de crédito, em caso de pagamentos de valor superior por meio de fatura. Para saber mais, confira [o pagamento da sua assinatura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
 
 1. No centro de administração, vá para a página **cobrança**  >  [de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 

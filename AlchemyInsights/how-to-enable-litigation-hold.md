@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 688b5dd936b22ccfc2f556776a0362d179c37edf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: fe21746110ed2cb99fb13563c84c966e277fc70c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720720"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495795"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Colocar uma caixa de correio em retenção legal
 
 - Para colocar uma caixa de correio em retenção de litígio ou bloqueio in-loco, é necessária uma licença do Exchange Online plano 2 do [Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Se uma caixa de correio for atribuída a uma licença do plano 1, você poderá atribuir uma licença de complemento de arquivamento do Exchange Online License Add-on de arquivamento [do Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
 
-- Para habilitar a retenção de litígio para um único usuário, [siga estas etapas](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Quando a retenção de litígio está habilitada, todo o conteúdo da caixa de correio é preservado.
+- Para habilitar a retenção de litígio para um único usuário, [siga estas etapas](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold). Quando a retenção de litígio está habilitada, todo o conteúdo da caixa de correio é preservado.
 
 - Para preservar o conteúdo em todas as caixas de correio em sua organização, você pode usar uma [política de retenção em toda a organização](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Observe que, para políticas de retenção em toda a organização, novos usuários serão atribuídos automaticamente à política.
