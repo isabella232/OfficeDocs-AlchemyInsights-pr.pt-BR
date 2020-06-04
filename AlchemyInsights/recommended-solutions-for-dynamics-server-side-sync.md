@@ -11,12 +11,12 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 4fdcae9dbe524f5e552c8b4c8736d6795c394348
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1bd2fae31757ab4d890e1732b004edf594e3e724
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509890"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "36745457"
 ---
 # <a name="dynamics-server-side-sync-recommended-solutions"></a>Soluções recomendadas de sincronização do lado do servidor do Dynamics
 
@@ -26,7 +26,7 @@ ms.locfileid: "36509890"
 
 * [Como limpar o cache do lado do servidor para um portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [Como alterar a audiência e o tipo de um portal do Dynamics 365](https://support.microsoft.com/en-us/help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Como alterar a audiência e o tipo de um portal do Dynamics 365](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
 * [Como alterar a URL base de um portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 

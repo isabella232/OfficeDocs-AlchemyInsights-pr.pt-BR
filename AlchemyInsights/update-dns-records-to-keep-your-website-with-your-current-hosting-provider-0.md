@@ -14,15 +14,15 @@ ms.custom:
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
 ms.openlocfilehash: 7bd36c3954d12d3ee4ac624a2f827d8e5cd88082
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665748"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Atualizar registros DNS para manter seu site com seu provedor de hospedagem atual
 
-1. No centro de administração do Microsoft 365, vá para a página **Configurar** > [domínios](https://portal.office.com/adminportal/home#/Domains) e, na lista de domínios, selecione o domínio que você está usando para o seu site.
+1. No centro de administração do Microsoft 365, vá para a página **Configurar**  >  [domínios](https://portal.office.com/adminportal/home#/Domains) e, na lista de domínios, selecione o domínio que você está usando para o seu site.
 
 2. Selecione **+ Novo registro personalizado** e insira o seguinte:
 

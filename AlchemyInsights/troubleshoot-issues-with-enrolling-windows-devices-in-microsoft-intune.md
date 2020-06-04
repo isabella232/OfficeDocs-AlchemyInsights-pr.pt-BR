@@ -12,10 +12,10 @@ ms.custom:
 - "784"
 - "6200002"
 ms.openlocfilehash: 7b298360fe31d3f52ef382e5b8f25ee3588c36c8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665820"
 ---
 # <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Solucionar problemas com a inscrição de dispositivos Windows no Microsoft Intune
