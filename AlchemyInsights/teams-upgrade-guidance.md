@@ -11,16 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 39986b670948cdccb8a2d2652403a2e0376d71ec
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908764"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44254737"
 ---
 # <a name="microsoft-teams-upgrade"></a>Atualização do Microsoft Teams
 
-**Importante**: Podemos ajudar a corrigir isso para você usando um diagnóstico de suporte, mas parece que você não está usando o Novo Centro de Administração. Para usar o Novo Centro de Administração, deslize o botão de alternância no canto superior direito, que diz **Novo Centro de Administração** à direita. Usando o Novo Centro de Administração, clique no widget **Precisa de Ajuda?**, digite "Atualização do Teams" e siga as instruções para executar o diagnóstico.
+**Importante**: Se você foi atualizado do Skype for Business Online para o Microsoft Teams no modo Somente equipes, mas acha que ainda não está pronto, podemos ajudar a corrigir isso usando um diagnóstico de suporte. Verifique se você está usando o novo Centro de administração deslizando a alternância no canto superior direito, que diz novo **Centro de administração** à direita. Para usar o Novo Centro de administração, clique no widget **Precisa de ajuda?**, digite "**Atualização do Teams**" e siga as instruções para executar o diagnóstico.
 
 Quer você esteja começando a usar o Teams, usando o Teams em conjunto com o Skype for Business ou pronto para atualizar, queremos garantir que você tenha tudo o que precisa para realizar uma migração tranquila para o Teams. Para obter mais informações, visite os links abaixo.
 
