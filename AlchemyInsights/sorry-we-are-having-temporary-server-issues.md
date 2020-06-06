@@ -1,5 +1,5 @@
 ---
-title: Corrigir aplicativos do Office lamentamos, estamos com mensagens de problemas de servidor temporárias
+title: Corrigindo os aplicativos do Microsoft 365 lamentamos, estamos com mensagens de problemas de servidor temporárias
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: a1ac62f3587e318d563cfea1df8db23b720358a6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6db04a437de8e50af349b5c690791981ae872f14
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764105"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582691"
 ---
-# <a name="fixing-the-office-apps-sorry-we-are-having-temporary-server-issues-message"></a>Corrigindo os aplicativos do Office "Desculpe, estamos tendo problemas de servidor temporários"
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Corrigindo os aplicativos do Microsoft 365 "Desculpe, estamos tendo problemas de servidor temporários"
 
 Se você receber essa mensagem, tente o seguinte:
 
-1. Verifique o firewall, o software antivírus e as configurações de proxy para confirmar que eles não estão bloqueando o acesso à Internet para os aplicativos do Office. Confira [URLs e intervalos de endereços IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Verifique as configurações de firewall, software antivírus e proxy para confirmar que eles não estão bloqueando o acesso à Internet para os aplicativos do Microsoft 365. Confira [URLs e intervalos de endereços IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Vá para **Iniciar** > **executar**e digite **Services. msc**. Certifique-se de que os seguintes serviços estejam em execução:
+2. Vá para **Iniciar**  >  **executar**e digite **Services. msc**. Certifique-se de que os seguintes serviços estejam em execução:
     - Configuração automática de dispositivos conectados à rede
     - Serviço de lista de rede
     - Reconhecimento de local de rede

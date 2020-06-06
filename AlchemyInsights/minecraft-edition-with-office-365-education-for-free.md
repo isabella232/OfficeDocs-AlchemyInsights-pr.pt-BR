@@ -12,12 +12,12 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: aa65e494dce09d4cb54fea29b5b37d6f54c4a089
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: a1420596c2859fe163e991a9db1fe88039b01f36
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762053"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579637"
 ---
 # <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition com o Office 365 Education gratuitamente
 
@@ -29,7 +29,7 @@ ms.locfileid: "43762053"
 
   - Se sua escola não tiver um locatário do Azure AD, o [administrador de ti poderá configurar um](https://docs.microsoft.com/education/windows/school-get-minecraft) como parte do processo de obter o **Minecraft: Education Edition**.
 
-  - O Office 365 Education, que inclui versões online dos aplicativos do Office mais um armazenamento online de 1 TB é gratuito para professores e alunos. [Inscreva sua escola para o Office 365 Education](https://products.office.com/academic/office-365-education-plan).
+  - O Office 365 Education, que inclui versões online do Microsoft 365 aplicativos mais um armazenamento online de 1 TB é gratuito para professores e alunos. [Inscreva sua escola para o Office 365 Education](https://products.office.com/academic/office-365-education-plan).
 
   - Se sua escola tiver uma assinatura educacional do Office 365, ela inclui uma assinatura gratuita do Azure AD. [Registre sua assinatura gratuita do Azure ad](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
 

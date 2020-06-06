@@ -1,5 +1,5 @@
 ---
-title: Os aplicativos do Office não são iniciados/inicializados
+title: Os aplicativos do Microsoft 365 não são iniciados/inicializados
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2531"
 - "9000572"
-ms.openlocfilehash: bed29ce271df96afe229275a079b9769591924a1
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: d30030995bbc495c21537620c9b4a3d5b8c34804
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908768"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576836"
 ---
-# <a name="office-apps-crash-stop-responding-or-dont-launch"></a>Os aplicativos do Office falham, param de responder ou não iniciam
+# <a name="microsoft-365-apps-crash-stop-responding-or-dont-launch"></a>Falha no Microsoft 365 apps, parar de responder ou não iniciar
 
-Para corrigir os aplicativos do Office paradas ou travar, tente as seguintes opções:
+Para corrigir os bloqueios de aplicativos do Microsoft 365 ou panes, tente as seguintes opções:
 
 - [Investigue possíveis problemas com os suplementos](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d#bkmk_addins) instalados para o Office
-- Verificar se o [software antivírus está em conflito](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d?ocmsassetID#bkmk_conflict) com os aplicativos do Office
+- Verificar se o [software antivírus está em conflito](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d?ocmsassetID#bkmk_conflict) com os aplicativos do Microsoft 365
 - Verificar ou [instalar as atualizações mais recentes do Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5)
 - [Reparar o Office](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) usando o painel de controle
 - [Desinstalar](https://support.office.com/article/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8) e reinstalar o Office

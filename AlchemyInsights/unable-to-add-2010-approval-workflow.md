@@ -2,18 +2,18 @@
 title: Não é possível adicionar o fluxo de trabalho de aprovação 2010
 ms.author: pebaum
 author: pebaum
-ms.date: 12/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: 11ba9bf04f826b0d7465a9a81a36c327e79f4d13
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f40716dd399fe7bea1b606cd725676268dc0a66d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049541"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582835"
 ---
 # <a name="unable-to-add-2010-approval-workflow"></a>Não é possível adicionar o fluxo de trabalho de aprovação 2010
 
@@ -33,7 +33,7 @@ Para resolver esse problema, siga estas etapas:
   
 2. Na seção **gerenciar** da faixa de opções de **fluxo de trabalho** , selecione **publicar globalmente**. Na caixa de diálogo de confirmação exibida, selecione **OK**. 
   
-3. Em um navegador da Web, localize o site raiz do conjunto de sites e acesse os **recursos do conjunto de sites**configurações \> de **site** . Alternar o recurso de **fluxos de trabalho** : 
+3. Em um navegador da Web, localize o site raiz do conjunto de sites e acesse **Site Settings** os \> **recursos do conjunto de sites**configurações de site. Alternar o recurso de **fluxos de trabalho** : 
   
 · Se o recurso estiver *ativado* , clique em desativar e, em seguida **,** clique em **Ativar**. 
   

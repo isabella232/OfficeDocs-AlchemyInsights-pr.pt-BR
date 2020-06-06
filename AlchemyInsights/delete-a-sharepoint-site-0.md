@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 612410700b00f02e524ada86d505883fb0f2d0fe
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: a409a3e5916895573db73593c297ce425ab65a88
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911568"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580285"
 ---
-# <a name="delete-sites-that-belong-to-an-microsoft-365-group"></a>Excluir sites que pertencem a um grupo do Microsoft 365
+# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Excluir sites que pertencem a um grupo do Microsoft 365
 
 Quando os usuários criam um novo site de equipe do SharePoint Home ou você cria um novo site de equipe do novo centro de administração do SharePoint, um grupo do Microsoft 365 correspondente é criado automaticamente. O Microsoft 365 Group-Connected Team sites também é criado quando você cria um grupo Microsoft 365 ou uma equipe no Microsoft Teams. Para excluir um site do SharePoint que pertença a um grupo do Microsoft 365, você precisa excluir o próprio grupo do Microsoft 365. 
   

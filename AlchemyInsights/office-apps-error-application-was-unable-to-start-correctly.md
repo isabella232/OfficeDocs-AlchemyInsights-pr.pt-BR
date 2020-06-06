@@ -1,5 +1,5 @@
 ---
-title: 'Erro de aplicativos do Office: o aplicativo não pôde ser iniciado corretamente'
+title: 'Erro de aplicativos do Microsoft 365: o aplicativo não pôde ser iniciado corretamente'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2533"
 - "9000572"
-ms.openlocfilehash: a096fbb25daf341a3a66294782c33e20d29d8322
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: bc860a2e5debed1de33b7269e699ccd034181602
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886430"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581147"
 ---
-# <a name="office-apps-error-the-application-was-unable-to-start-correctly"></a>Erro de aplicativos do Office: o aplicativo não pôde ser iniciado corretamente
+# <a name="microsoft-365-apps-error-the-application-was-unable-to-start-correctly"></a>Erro de aplicativos do Microsoft 365: o aplicativo não pôde ser iniciado corretamente
 
 Para corrigir esse erro, tente as seguintes opções:
 
@@ -30,6 +30,6 @@ Para corrigir esse erro, tente as seguintes opções:
 
 Para saber mais, confira: 
 
-- [Erro ao abrir os aplicativos do Microsoft Office](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
+- [Erro ao abrir o Microsoft 365 aplicativos](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
 - [Recebo um erro de "trabalho interrompido" Quando inicio aplicativos do Office no meu computador](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Solucionar problemas que ocorrem quando você inicia ou usa aplicativos do Office](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
+- [Solucionar problemas que ocorrem quando você inicia ou usa o Microsoft 365 aplicativos](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)

@@ -1,5 +1,5 @@
 ---
-title: Problemas para entrar nos aplicativos do Office
+title: Problemas para entrar nos aplicativos do Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2560"
-ms.openlocfilehash: de0a1b78724db9a8e93d8d599ce3b503abcb86e2
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: e4f2fea5c2f368ae240614ee1f7bc729338dd75d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938125"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579925"
 ---
-# <a name="fixing-the-office-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Correção dos aplicativos do Office "Desculpe, outra conta da sua organização já está conectada"
+# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Correção dos aplicativos do Microsoft 365 "Desculpe, outra conta da sua organização já está conectada" "Message
 
-Para corrigir esse erro, tente o seguinte:
+Para corrigir esse erro, use as etapas a seguir:
 
 - Remover todas as contas de trabalho, exceto a conta afetada, usando as configurações do Windows > **acessar o trabalho ou a escola**.
 - [Limpe as credenciais do Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) usando o Gerenciador de credenciais do Windows.<br/>
     **Observação:** Os caminhos do registro do Office 2016 foram alterados para 16,0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Abra um aplicativo do Office, escolha a**conta** > de **arquivo** > **sair**. Em seguida, entre usando uma conta de usuário com uma licença válida. Para obter informações detalhadas, consulte [contas no Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- Para Mac, consulte [não é possível entrar em um aplicativo do Office 2016 para Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
+- Abra um aplicativo do Office, escolha a conta de **arquivo**  >  **Account**  >  **sair**. Em seguida, entre usando uma conta de usuário com uma licença válida. Para informações detalhadas, consulte [Contas no Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Para o Mac, consulte [Não é possível entrar em um aplicativo do Office 2016 para Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
 
 Para saber mais, confira ["a outra conta da sua organização já entrou neste computador" no Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).
