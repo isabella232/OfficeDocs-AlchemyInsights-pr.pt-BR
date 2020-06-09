@@ -13,18 +13,18 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: ddb9ffb2f6545e99a593ee830854f986438950cd
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
-ms.translationtype: HT
+ms.openlocfilehash: 34593fbe80f11c9b4e1d10d3e1dbe5ff79602299
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010818"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44617930"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft Teams instalado com as atualizações do Office
 
 O Microsoft Teams está incluído como parte das ***novas instalações*** de aplicativos do Microsoft 365 Apps para Grandes Empresas e Microsoft 365 Apps para Pequenos e Médios negócios. Para mais informações, confira [Quando o Microsoft Teams começará a ser incluído nas novas instalações do Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Além disso, a partir da versão 1906 no Canal Mensal, o Teams será adicionado gradualmente às ***instalações existentes*** no Microsoft 365 Apps para Grandes Empresas (e no Microsoft 365 Apps para Pequenos e Médios negócios) em dispositivos que executam o Windows quando você atualizar a instalação existente para a versão mais recente. Para mais informações, confira [E as instalações existentes do Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Além disso, a partir da versão 1906 no canal atual, as equipes serão adicionadas gradualmente às ***instalações existentes*** dos aplicativos da Microsoft 365 para empresas (e aos aplicativos do Microsoft 365 para empresas) em dispositivos que executam o Windows quando você atualiza sua instalação existente para a versão mais recente. Para mais informações, confira [E as instalações existentes do Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
 **Observação:** Se você não quiser esperar por esse cronograma de distribuição, é possível implantar o Teams de maneira autônoma para seus usuários [seguindo estas instruções](https://docs.microsoft.com/MicrosoftTeams/msi-deployment). Você também pode solicitar que os usuários instalem o Teams a partir de https://teams.microsoft.com/downloads.
 

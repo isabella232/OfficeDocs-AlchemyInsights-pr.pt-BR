@@ -10,15 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: b56a676181ec551bc7943d5eea0c49cd279d9e37
-ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
+ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41855690"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44617955"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Erro: as regras neste computador não correspondem
 
-Este é um problema conhecido com a área de trabalho do Outlook. A equipe do Outlook implementou uma correção inicial na versão 12228,20332 lançada em 12/3/2019. Essa correção não corrigiu todos os relatórios que recebemos.
-
 Para ver o status atualizado desse problema conhecido, confira [as regras deste computador não correspondem às regras no Microsoft Exchange](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
+
+A equipe do Outlook implementou uma correção no Build 12928,10000. A correção já está em um insider Fast e vai para o canal mensal no final de junho de 2020. Depois que você tiver a compilação fixa, poderá receber o prompt "quais regras você deseja manter" uma última vez. Escolha servidor quando solicitado e, em seguida, volte no Outlook e habilite novamente qualquer regra que tenha sido desabilitada.
+
+Até que a correção esteja disponível, use a seguinte solução alternativa:
+
+**Solução**: em relatórios recentes, o problema ocorreu para aqueles que têm apenas regras de cliente criadas na área de trabalho do Outlook. Se você continuar a executar o problema, considere excluir as regras e, em seguida, criar e editar regras somente no OWA (Outlook Web App) até que o problema seja resolvido.
+
+Se não for possível excluir as regras manualmente, você poderá executar um comando do Outlook ao iniciar o Outlook executando o Outlook. exe/Cleanrules. Isso excluirá as regras de cliente e de servidor. Ele excluirá todas as regras para todas as contas no perfil do Outlook. Este comando está mais documentado no artigo de opções de linha de comando.
