@@ -1,5 +1,5 @@
 ---
-title: Alterar endereço de e-mail de um grupo do Microsoft 365
+title: Alterar endereço de email de um grupo do Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4704"
-ms.openlocfilehash: 0a07e6279f533a4c26a4e90c10651421a5df8860
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 32968f085a4e9d49f60ef88e4e78bf6c67629556
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "44282173"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580645"
 ---
-# <a name="change-email-address-of-an-microsoft-365-group"></a>Alterar endereço de e-mail de um grupo do Microsoft 365
+# <a name="change-email-address-of-a-microsoft-365-group"></a>Alterar endereço de email de um grupo do Microsoft 365
 
-Você pode alterar o endereço de e-mail de um grupo do Microsoft 365 ao usar o centro de administração. Basta selecionar o grupo e selecionar @edit endereço de e-mail.
+Você pode alterar o endereço de email de um grupo do Microsoft 365 no centro de administração. Basta selecionar o grupo e selecionar @edit endereço de e-mail.
 
 Você também pode usar o comando EXO PowerShell para alterar o endereço SMTP principal de um grupo do Microsoft 365:
 
