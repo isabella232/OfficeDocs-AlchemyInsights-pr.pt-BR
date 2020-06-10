@@ -14,26 +14,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 625040199ad94749870efd3654af1525dd9c3bca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: de352e3576665cd3a758ecd488b48f625308ad3d
+ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049037"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44667836"
 ---
 # <a name="manage-your-onedrive-storage"></a>Gerenciar o armazenamento do OneDrive
 
-O espaço de armazenamento do OneDrive não conta para a cota geral do locatário. 
+Você pode gerenciar o OneDrive for Business para ver quanto espaço você está usando e liberar espaço.  Para obter mais informações, visite os links abaixo.
 
-Saiba [como o espaço de armazenamento do onedrive é alocado por usuário/plano](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).
-
-Saiba [quanto armazenamento você está usando no onedrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
-
-Saiba [como obter a cota de armazenamento do onedrive usando o PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).
-
-A Microsoft fornecerá inicialmente 1 TB por usuário, que os administradores podem aumentar até 5 TB por usuário. Saiba como [definir o espaço de armazenamento padrão para os usuários do onedrive](https://docs.microsoft.com/onedrive/set-default-storage-space).
-
-Saiba [como alterar o espaço de armazenamento do onedrive de um usuário específico](https://docs.microsoft.com/onedrive/change-user-storage).
-
-Saiba [como os administradores globais podem definir a cota de armazenamento do onedrive para todos os usuários que usam o PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).
-  
+- [Gerenciar seu armazenamento do OneDrive for Business](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [Alterar o espaço de armazenamento do OneDrive de um usuário específico](https://docs.microsoft.com/onedrive/change-user-storage)
+- [Definir o espaço de armazenamento padrão para os usuários do OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space)
