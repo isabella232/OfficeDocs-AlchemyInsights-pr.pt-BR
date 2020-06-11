@@ -1,5 +1,5 @@
 ---
-title: Mensagem de aplicativos do Office - Desculpe, outra conta da sua organização já está conectada
+title: 'Mensagem de aplicativos do Microsoft 365: Outra conta da sua organização já está conectada neste dispositivo'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 5c5dfd24ccb3e31ce56db8be4f4aebcf60bfcb69
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 60a51c2a45e76391b132b92bb03059864bffb2ed
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182269"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576908"
 ---
-# <a name="office-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Mensagem de aplicativos do Office - Desculpe, outra conta da sua organização já está conectada
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Mensagem de aplicativos do Microsoft 365: Outra conta da sua organização já está conectada neste dispositivo
 
 Para corrigir esse erro, use as etapas a seguir:
 
 - Abra um aplicativo do Office e [Saia](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071) das contas de usuários existentes.
 
-- Vá para **configurações do Windows > Contas > E-mail e contas** e remova as contas de trabalho existentes.
+- Vá para **Configurações do Windows > Contas > E-mail e contas** e remova as contas de trabalho existentes.
 
 - Vá para **Configurações do Windows > Contas > Acessar o trabalho ou a escola** e desconecte as contas existentes. 
 

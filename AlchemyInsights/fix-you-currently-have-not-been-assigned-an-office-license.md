@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: 08743a57ff963a23f7fe1910012f63f3955fb6d2
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 98cc12012c270b85ff2c6437e3fdd3d589ee1bf5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010170"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580177"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Correção - "no momento, você não tem uma licença do Office atribuída"
 
@@ -24,7 +24,7 @@ Para instalar os aplicativos de cliente do Office, certifique-se de ter uma assi
 
 **Observação**: [o Office Home and Business](https://products.office.com/home-and-business) é um produto do [Office para uso doméstico](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) e não faz parte de uma assinatura para empresas. O Project Online Essentials não inclui uma versão para área de trabalho do Project, portanto, nenhuma instalação é necessária. Os usuários do Plano 1 do Visio podem acessar o Visio na Web, pois o plano do não inclui o aplicativo para área de trabalho do Visio. Os aplicativos para área de trabalho do Project e do Visio não estão disponíveis no Mac
 
-Se você tiver uma assinatura que inclua aplicativos do Office, você não verá uma opção para instalá-lo, a menos que tenha uma [licença atribuída](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Se você for o administrador do Office 365 responsável por atribuir licenças, confira [Atribuir licenças a usuários](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
+Se você tiver uma assinatura que inclua aplicativos do Microsoft 365, você não verá uma opção para instalá-lo, a menos que tenha uma [licença atribuída](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Se você for o administrador do Office 365 responsável por atribuir licenças, confira [Atribuir licenças a usuários](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 
 Cada usuário precisa:
 
