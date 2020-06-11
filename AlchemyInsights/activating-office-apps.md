@@ -1,5 +1,5 @@
 ---
-title: Ativar aplicativos do Office
+title: Ativar aplicativos do Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 192153f10d7f2267dc8ce86a6f455dc3bca55402
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 757366de236d84ad67cbef892abb241dd48aa2c5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682497"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581399"
 ---
-# <a name="activating-office-apps"></a>Ativar aplicativos do Office
+# <a name="activating-microsoft-365-apps"></a>Ativar aplicativos do Microsoft 365
 
 Para ativar o Office, consulte:
 
@@ -28,11 +28,12 @@ Para ativar o Office, consulte:
 
 Para corrigir problemas de ativação do Office, consulte:
 
+- Execute a [Solução de problemas de ativação](https://aka.ms/SARA-OfficeActivation-Alchemy) e reinicie o computador.
 - [Produto não licenciado e erros de ativação no Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
 - [O que tentar se você não puder instalar ou ativar o Office para Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-Se você trocou recentemente as contas ou as assinaturas do Office, siga as etapas abaixo para corrigir problemas de ativação:
+Siga as etapas a seguir, se não for possível entrar no Microsoft 365:
 
 1. Abra um aplicativo do Office e [Saia](https://go.microsoft.com/fwlink/?linkid=2114082) das contas de usuários existentes.
 

@@ -1,5 +1,5 @@
 ---
-title: Mensagem de aplicativos do Office - Não foi possível encontrar as licenças do Office associadas
+title: 'Mensagem de aplicativos do Microsoft 365: não foi possível encontrar as licenças do Office associadas'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505079"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581639"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Mensagem de aplicativos do Office - Não foi possível encontrar as licenças do Office associadas
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Mensagem de aplicativos do Microsoft 365: não foi possível encontrar as licenças do Office associadas
 
 Para corrigir esse erro, use as etapas a seguir:
 
@@ -38,9 +38,9 @@ Se o problema persistir, experimente a seguinte etapa:
 
 - Reinicie o estado de ativação do Office. Consulte [Redefina os aplicativos Microsoft 365 do estado de ativação empresarial](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Verifique as configurações de firewall, software antivírus e proxy para verificar se eles estão bloqueando o acesso de aplicativos do Office à Internet. 
+- Verifique as configurações de firewall, software antivírus e proxy para verificar se eles estão bloqueando o acesso de aplicativos do Microsoft 365 à Internet. 
 
-Para visualizar mais opções de solução de problemas, consulte:
+Para mais opções de solução de problemas, confira:
 
 [Produto não licenciado e erros de ativação no Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
