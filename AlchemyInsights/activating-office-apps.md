@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 757366de236d84ad67cbef892abb241dd48aa2c5
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 94f4c8802e511bbb8b42570ac3c4536b61a1c5db
+ms.sourcegitcommit: 462522e6bccde76f6c46795b0eca71320c5d442d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581399"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "44735200"
 ---
 # <a name="activating-microsoft-365-apps"></a>Ativar aplicativos do Microsoft 365
 
@@ -25,6 +25,8 @@ Para ativar o Office, consulte:
 - [Ativar o Office em um computador](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) 
 
 - [Ativar o Office em um Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
+
+**Observação:** Verifique se você tem uma assinatura do Office 365 ou do Microsoft 365 que [inclui aplicativos de cliente do Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), como, por exemplo, o Microsoft 365 Business Standard, o Microsoft 365 Apps para Pequenos e Médios Negócios ou o Microsoft 365 Apps para Grandes Empresas. Além disso, certifique-se de que a conta de usuário que você está usando para entrar nos aplicativos do Office tem [uma licença atribuída](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 Para corrigir problemas de ativação do Office, consulte:
 
