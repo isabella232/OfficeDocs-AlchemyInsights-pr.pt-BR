@@ -11,16 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 583ea686ea119e4e8b9cc7201a92b84ce77fe30e
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: a12ef0b9a7be66f294302eb16a569d82cea29507
+ms.sourcegitcommit: 36fcad9aeebac00a8441148d0e105cd72dcc1d7d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580537"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44797959"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Problemas e resoluções comuns às ADFS
 
 A configuração do domínio federado pode ser atualizada conforme descrito nos seguintes artigos da Base de Dados de Conhecimento da Microsoft.
+
+- [Expiração do Certificado de Federação ADFS](adfs-federation-certificate-expiring.md)
 
 - [2713898](https://support.microsoft.com/help/2713898) "Ocorreu um problema ao acessar o site" erro do AD FS quando um usuário federado entra no Microsoft 365, Azure ou Intune.
 
