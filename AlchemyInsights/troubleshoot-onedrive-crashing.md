@@ -43,5 +43,5 @@ Observações:
 
 Observações:
 
-- Se você escolheu sincronizar apenas algumas pastas antes da redefinição, precisará fazer isso novamente após concluir a sincronização. Leia  [Escolher quais pastas do OneDrive sincronizar com seu computador](https://support.office.com/article/98b8b011-8b94-419b-aa95-a14ff2415e85)  para mais informações.
+- Se você escolhido sincronizar apenas algumas pastas antes da redefinição, precisará fazer isso novamente após concluir a sincronização. Leia  [Escolher quais pastas do OneDrive sincronizar com seu computador](https://support.office.com/article/98b8b011-8b94-419b-aa95-a14ff2415e85)  para mais informações.
 - Será necessário concluir isso para o seu OneDrive pessoal e para o OneDrive for Business.

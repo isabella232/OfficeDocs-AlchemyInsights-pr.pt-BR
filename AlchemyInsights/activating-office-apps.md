@@ -26,7 +26,7 @@ Para ativar o Office, consulte:
 
 - [Ativar o Office em um Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Observação:** Verifique se você tem uma assinatura do Office 365 ou do Microsoft 365 que [inclui aplicativos de cliente do Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), como, por exemplo, o Microsoft 365 Business Standard, o Microsoft 365 Apps para Pequenos e Médios Negócios ou o Microsoft 365 Apps para Grandes Empresas. Além disso, certifique-se de que a conta de usuário que você está usando para entrar nos aplicativos do Office tem [uma licença atribuída](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+**Observação:** Verifique se você tem uma assinatura do Office 365 ou do Microsoft 365 que [inclui aplicativos de cliente do Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), como o Microsoft 365 Business Standard, o Microsoft 365 Apps para Pequenos e Médios Negócios ou o Microsoft 365 Apps para Grandes Empresas. Além disso, certifique-se de que a conta de usuário que você está usando para entrar nos aplicativos do Office tem [uma licença atribuída](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 Para corrigir problemas de ativação do Office, consulte:
 
