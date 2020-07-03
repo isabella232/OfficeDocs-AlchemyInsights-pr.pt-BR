@@ -1,5 +1,5 @@
 ---
-title: Alterar os nameservers no Amazon
+title: Alterar os nameservers na Amazon
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -19,8 +19,8 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 06/12/2020
 ms.locfileid: "44716484"
 ---
-# <a name="change-nameservers-at-amazon"></a><span data-ttu-id="58d32-102">Alterar os nameservers no Amazon</span><span class="sxs-lookup"><span data-stu-id="58d32-102">Change nameservers at Amazon</span></span>
+# <a name="change-nameservers-at-amazon"></a><span data-ttu-id="0cf48-102">Alterar os nameservers na Amazon</span><span class="sxs-lookup"><span data-stu-id="0cf48-102">Change nameservers at Amazon</span></span>
 
-[<span data-ttu-id="58d32-103">Alterar os nameservers para configurar o Microsoft 365 com Amazon Web Services</span><span class="sxs-lookup"><span data-stu-id="58d32-103">Change nameservers to setup Microsoft 365 with Amazon Web Services</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-aws?view=o365-worldwide)
+[<span data-ttu-id="0cf48-103">Alterar os nameservers para configurar o Microsoft 365 com Amazon Web Services</span><span class="sxs-lookup"><span data-stu-id="0cf48-103">Change nameservers to setup Microsoft 365 with Amazon Web Services</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-aws?view=o365-worldwide)
 
-<span data-ttu-id="58d32-104">Para outros problemas de domínios, experimente as [Perguntas frequentes sobre domínios](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="58d32-104">For other domains issues try the  [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
+<span data-ttu-id="0cf48-104">Para outros problemas de domínios, experimente as [Perguntas frequentes sobre domínios](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="0cf48-104">For other domains issues try the  [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
