@@ -21,12 +21,12 @@ ms.locfileid: "45083921"
 ---
 # <a name="change-default-domain"></a>Alterar o domínio padrão
 
-Depois de adicionar um domínio personalizado utilizando o [Assistente para Adicionar Domínio](https://portal.office.com/adminportal/home#/Domains/Wizard), o domínio personalizado torna-se o domínio padrão para os novos usuários não havendo qualquer alteração para os usuários preexistentes.
+Depois de adicionar um domínio personalizado utilizando o [Assistente para Adicionar Domínio](https://portal.office.com/adminportal/home#/Domains/Wizard), o domínio personalizado torna-se o domínio padrão para os novos usuários, não havendo qualquer alteração para os usuários preexistentes.
 
-- Para alterar o domínio padrão em um domínio existente, escolha o domínio na [página Domínios](https://admin.microsoft.com/Adminportal/Home#/Domains), depois selecione **Definir como padrão**.
+- Para alterar o domínio padrão em um domínio existente, escolha o domínio na [página Domínios](https://admin.microsoft.com/Adminportal/Home#/Domains) e selecione **Definir como padrão**.
 
-- Para alterar o nome do domínio dos usuários existentes, na [página de Usuários Ativos](https://admin.microsoft.com/Adminportal/Home#/users)selecione múltiplos usuários, selecione **...,** e então selecione **Alterar domínios**.
+- Para alterar o nome do domínio dos usuários existentes, na [página de Usuários Ativos](https://admin.microsoft.com/Adminportal/Home#/users)selecione múltiplos usuários, selecione **...** e selecione **Alterar domínios**.
 
-- Para alterar o domínio ou adicionar um codinome para um único utilizador, na [ página de Usuários Ativos](https://admin.microsoft.com/Adminportal/Home#/users) selecione o nome do usuário e então selecione **Gerenciar nome de usuário e email**.
+- Para alterar o domínio ou adicionar um codinome para um único usuário, na [ página de Usuários Ativos](https://admin.microsoft.com/Adminportal/Home#/users) selecione o nome do usuário e então selecione **Gerenciar nome de usuário e email**.
 
 O domínio inicial .onmicrosoft.com não pode ser renomeado ou removido.

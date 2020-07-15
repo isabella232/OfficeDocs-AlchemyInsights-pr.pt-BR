@@ -23,10 +23,10 @@ ms.locfileid: "45083923"
 
 Para alterar a ortografia de um nome de domínio personalizado, por exemplo, todas as letras minúsculas ou uma mistura de letras minúsculas e maiúsculas, o domínio deve ser removido e depois novamente adicionado com as letras maiúsculas/minúsculas ou ortografia desejada.
 
-1. Na [página Domínios](https://portal.office.com/adminportal/home#/Domains), escolha o domínio e então selecione  **Remover domínio**.</br>
+1. Na [página Domínios](https://portal.office.com/adminportal/home#/Domains), escolha o domínio e selecione  **Remover domínio**.</br>
 
     Para obter instruções mais detalhadas, consulte[ Como remover um domínio](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide).
 
-2. Adicione novamente o domínio com a ortografia e maiúsculas e minúsculas corretas utilizando o[Assistente para Adicionar Domínio](https://portal.office.com/adminportal/home#/Domains/Wizard).
+2. Adicione novamente o domínio com a ortografia e maiúsculas e minúsculas corretas utilizando o [Assistente para Adicionar Domínio](https://portal.office.com/adminportal/home#/Domains/Wizard).
 
 Você não pode alterar as letras maiúsculas/minúsculas ou renomear o domínio onmicrosoft.com após o registo.
