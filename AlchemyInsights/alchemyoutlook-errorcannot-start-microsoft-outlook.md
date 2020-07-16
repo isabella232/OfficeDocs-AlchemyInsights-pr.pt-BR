@@ -1,5 +1,5 @@
 ---
-title: Erro do Outlook não é possível iniciar o Microsoft Outlook
+title: Alchemy-erro do Outlook ' não pode iniciar o Microsoft Outlook '
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,17 +12,19 @@ ms.custom:
 - "457"
 - "1800017"
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: 9efe1eadbec5f8ee00c4450f26049b66f3ac99b3
-ms.sourcegitcommit: 36c7cc63f8a86e247993e6cd566afe57087435e4
+ms.openlocfilehash: f17ff5ccd11ca5769885f10a596cde85677ba5a3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44694811"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "36664524"
 ---
-# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Erro do Outlook: não é possível iniciar o Microsoft Outlook
+# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Erro do Outlook: "não é possível iniciar o Microsoft Outlook"
 
 Você está tendo problemas para iniciar o Outlook 2016, o Outlook 2013 ou o Outlook 2010 ou o recebimento de "não é possível iniciar o Microsoft Outlook. Não é possível abrir as mensagens de erro da janela do Outlook?
   
 Primeiro, use as etapas de solução de problemas neste [artigo](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) para ajudar a resolver esses problemas de inicialização. 
   
-Você também pode executar a [ferramenta de diagnóstico avançado](https://aka.ms/SaRA-OutlookAdvDiagnostics) na máquina afetada.
+Você também pode executar a [ferramenta de diagnóstico avançado](https://aka.ms/SaRA-OutlookAdvDiagnostics) na máquina afetada. 
+  
+
