@@ -28,7 +28,7 @@ ms.locfileid: "44853977"
 6. Em **regra de compartilhamento**, selecione uma das opções a seguir para especificar os domínios com os quais você deseja compartilhar:
     - **Compartilhando com todos os domínios**
     - **Compartilhar com um domínio específico**
-8. If you select **Sharing with a specific domain**, type the name of the domain you want to share with. If you need to enter more than one domain for this sharing policy, save the settings for the first domain, then edit the sharing rules to add more domains.
+8. Se você selecionar **Compartilhar com um domínio específico**, digite o nome do domínio com o qual você deseja compartilhar. Se for necessário inserir mais de um domínio para essa política de compartilhamento, salve as configurações para o primeiro domínio e depois edite as regras de compartilhamento para adicionar mais domínios.
 9. Para especificar as informações que podem ser compartilhadas, marque a caixa de seleção **Compartilhar sua pasta de calendário** e selecione uma das seguintes opções:
     - **Informações de disponibilidade do calendário somente com as horas**
     - **Informações de disponibilidade do calendário com hora, assunto e local**
