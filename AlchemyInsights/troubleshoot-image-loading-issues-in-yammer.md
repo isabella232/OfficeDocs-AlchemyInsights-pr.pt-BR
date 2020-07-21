@@ -25,9 +25,9 @@ Quando problemas ocorrem com fotos e visualizações de arquivos no Yammer, solu
 
 **Problemas com a foto do perfil**  
 
-Se usuários finais entrarem no Yammer pelo Microsoft 365, eles devem alterar seu perfil, incluindo a foto do perfil. Se usuários não tiverem permissão para fazer atualizações no perfil, um administrador poderá fazer a atualização para o usuário. Para mais informações, confira[Exibir e atualizar seu perfil no Office Delve](https://support.microsoft.com/office/view-and-update-your-profile-in-office-delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
+Se usuários finais entrarem no Yammer pelo Microsoft 365, eles devem alterar seu perfil, incluindo a foto do perfil. Se usuários não tiverem permissão para fazer atualizações no perfil, um administrador poderá fazer a atualização para o usuário. Para mais informações, confira [Exibir e atualizar seu perfil no Office Delve](https://support.microsoft.com/office/view-and-update-your-profile-in-office-delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
 
-Para informações sobre edição de perfil, incluindo fotos de perfil, confira[Alterar perfil e configurações no Yammer](https://support.microsoft.com/office/classic-yammer-change-my-yammer-profile-and-settings-a3aeca0e-de34-4897-9b59-de6516542851). 
+Para informações sobre edição de perfil, incluindo fotos de perfil, confira [Alterar perfil e configurações no Yammer](https://support.microsoft.com/office/classic-yammer-change-my-yammer-profile-and-settings-a3aeca0e-de34-4897-9b59-de6516542851). 
 
 Fotos atualizadas do perfil são sincronizadas de maneira diferente dos atributos de perfil. Usuários devem entrar para iniciar a sincronização da foto de perfil. Para saber mais, confira [são imagens de perfil de usuário atualizadas do Office 365 para o Yammer](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle#q-are-user-profile-pictures-updated-from-office-365-to-yammer).
 
@@ -45,6 +45,6 @@ Quando arquivos ou imagens são publicados no Yammer, as visualizações podem n
 - A visualização de arquivo foi removida pelo usuário antes da publicação.
 - Um problema de serviço impediu uma visualização de ser gerada.
 
-**Observação**Visualizações de links e carregamento de arquivos podem se comportar de maneira diferente. Links para arquivos na internet ou links que requerem autenticação adicional podem não ser exibidos corretamente.
+**Observação** Visualizações de links e carregamento de arquivos podem se comportar de maneira diferente. Links para arquivos na internet ou links que requerem autenticação adicional podem não ser exibidos corretamente.
 
 Para saber mais, confira [Anexar um arquivo ou imagem a uma mensagem no Yammer](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-message-f576d4d1-ad66-4ce4-9c43-46cf75978dbf). 
