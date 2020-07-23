@@ -2,7 +2,7 @@
 title: Solucionar problemas de sincronização de senha
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,51 +13,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 54b5a033b7cbb99520425b31800364ed4a99a4e6
+ms.sourcegitcommit: 1d01b8b48eef2d5d10c375dcf802cd36e9d6bf61
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732498"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45387865"
 ---
-# <a name="troubleshoot-password-synchronization"></a><span data-ttu-id="dfb26-102">Solucionar problemas de sincronização de senha</span><span class="sxs-lookup"><span data-stu-id="dfb26-102">Troubleshoot password synchronization</span></span>
+# <a name="troubleshoot-password-synchronization"></a><span data-ttu-id="6bb31-102">Solucionar problemas de sincronização de senha</span><span class="sxs-lookup"><span data-stu-id="6bb31-102">Troubleshoot password synchronization</span></span>
 
-<span data-ttu-id="dfb26-103">Para solucionar problemas em que nenhuma senha é sincronizada com o Azure AD Connect versão 1.1.614.0 ou posterior:</span><span class="sxs-lookup"><span data-stu-id="dfb26-103">To troubleshoot issues where no passwords are synchronized with Azure AD Connect version 1.1.614.0 or later:</span></span>
-  
-1. <span data-ttu-id="dfb26-104">Abra uma nova sessão do Windows PowerShell em seu servidor do Azure AD Connect com a opção **Executar como administrador** .</span><span class="sxs-lookup"><span data-stu-id="dfb26-104">Open a new Windows PowerShell session on your Azure AD Connect server with the **Run as Administrator** option.</span></span>
+<span data-ttu-id="6bb31-103">Para solucionar problemas de sincronização de senha, comece usando esta tarefa de solução de problemas do AAD Connect para determinar por que as senhas não estão sendo sincronizadas.</span><span class="sxs-lookup"><span data-stu-id="6bb31-103">To troubleshoot password synchronization issues, start by using this AAD Connect troubleshooting task to determine why passwords are not syncing.</span></span> <span data-ttu-id="6bb31-104">Para começar, vá para [gerenciar a sincronização direta](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).</span><span class="sxs-lookup"><span data-stu-id="6bb31-104">To begin, go to [Manage direct sync](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).</span></span>  
 
-2. <span data-ttu-id="dfb26-105">Execute **Set-ExecutionPolicy RemoteSigned** ou **Set-ExecutionPolicy Unrestricted**.</span><span class="sxs-lookup"><span data-stu-id="dfb26-105">Run **Set-ExecutionPolicy RemoteSigned** or **Set-ExecutionPolicy Unrestricted**.</span></span>
+1. <span data-ttu-id="6bb31-105">Abra uma nova sessão do Windows PowerShell em seu servidor do Azure AD Connect e selecione a opção **Executar como administrador** .</span><span class="sxs-lookup"><span data-stu-id="6bb31-105">Open a new Windows PowerShell session on your Azure AD Connect server, and select the **Run as Administrator** option.</span></span>
 
-3. <span data-ttu-id="dfb26-106">Inicie o assistente do Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="dfb26-106">Start the Azure AD Connect wizard.</span></span>
+2. <span data-ttu-id="6bb31-106">Execute Set-ExecutionPolicy RemoteSigned ou Set-ExecutionPolicy Unrestricted.</span><span class="sxs-lookup"><span data-stu-id="6bb31-106">Run Set-ExecutionPolicy RemoteSigned or Set-ExecutionPolicy Unrestricted.</span></span>
 
-4. <span data-ttu-id="dfb26-107">Navegue até a página **tarefas adicionais** , selecione **solução de problemas**e clique em **Avançar**.</span><span class="sxs-lookup"><span data-stu-id="dfb26-107">Navigate to the **Additional Tasks** page, select **Troubleshoot**, and click **Next**.</span></span>
+3. <span data-ttu-id="6bb31-107">Inicie o assistente do Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="6bb31-107">Start the Azure AD Connect wizard.</span></span>
 
-5. <span data-ttu-id="dfb26-108">Na página solução de problemas, clique em **Iniciar para iniciar o menu solução de problemas** no PowerShell.</span><span class="sxs-lookup"><span data-stu-id="dfb26-108">On the Troubleshooting page, click **Launch to start the troubleshooting** menu in PowerShell.</span></span>
+4. <span data-ttu-id="6bb31-108">Vá até a página tarefas adicionais > **solucionar problemas**  >  **em seguida**.</span><span class="sxs-lookup"><span data-stu-id="6bb31-108">Go to the Additional Tasks page > **Troubleshoot** > **Next**.</span></span>
 
-6. <span data-ttu-id="dfb26-109">No menu principal, selecione **solucionar problemas de sincronização de senha**.</span><span class="sxs-lookup"><span data-stu-id="dfb26-109">In the main menu, select **Troubleshoot Password Synchronization**.</span></span>
+5. <span data-ttu-id="6bb31-109">Selecione **Iniciar** para abrir o menu de solução de problemas do PowerShell.</span><span class="sxs-lookup"><span data-stu-id="6bb31-109">Select **Launch** to open the PowerShell troubleshooting menu.</span></span>
 
-7. <span data-ttu-id="dfb26-110">No menu sub, selecione a **sincronização de senha não funciona de**forma alguma.</span><span class="sxs-lookup"><span data-stu-id="dfb26-110">In the sub menu, select **Password Synchronization does not work at all**.</span></span>
+6. <span data-ttu-id="6bb31-110">Selecione **solucionar problemas de sincronização de senha**.</span><span class="sxs-lookup"><span data-stu-id="6bb31-110">Select **Troubleshoot Password Synchronization**.</span></span>
 
-<span data-ttu-id="dfb26-111">**Entender os resultados da tarefa de solução de problemas**</span><span class="sxs-lookup"><span data-stu-id="dfb26-111">**Understand the results of the troubleshooting task**</span></span>
-  
-<span data-ttu-id="dfb26-112">A tarefa de solução de problemas executa as seguintes verificações:</span><span class="sxs-lookup"><span data-stu-id="dfb26-112">The troubleshooting task performs the following checks:</span></span>
-  
-- <span data-ttu-id="dfb26-113">Valida que o recurso de sincronização de senha está habilitado para o locatário do Azure AD.</span><span class="sxs-lookup"><span data-stu-id="dfb26-113">Validates that the password synchronization feature is enabled for your Azure AD tenant.</span></span>
+    <span data-ttu-id="6bb31-111">Normalmente, o problema é que uma senha não é sincronizada para uma conta de usuário específica.</span><span class="sxs-lookup"><span data-stu-id="6bb31-111">The issue is usually that a password is not synchronized for a specific user account.</span></span>
 
-- <span data-ttu-id="dfb26-114">Valida se o servidor do Azure AD Connect não está no modo de preparação.</span><span class="sxs-lookup"><span data-stu-id="dfb26-114">Validates that the Azure AD Connect server is not in staging mode.</span></span>
+    <span data-ttu-id="6bb31-112">**Anotações** A sincronização de senha falha se a última sincronização de senha bem-sucedida ocorreu algum tempo atrás.</span><span class="sxs-lookup"><span data-stu-id="6bb31-112">**Notes** Password synchronization fails if the last successful password sync was some time ago.</span></span>
 
-- <span data-ttu-id="dfb26-115">Para cada conector local existente do Active Directory (que corresponde a uma floresta existente do Active Directory):</span><span class="sxs-lookup"><span data-stu-id="dfb26-115">For each existing on-premises Active Directory connector (which corresponds to an existing Active Directory forest):</span></span>
-
-- 
-  - <span data-ttu-id="dfb26-116">Valida se o recurso de sincronização de senha está habilitado.</span><span class="sxs-lookup"><span data-stu-id="dfb26-116">Validates that the password synchronization feature is enabled.</span></span>
-
-  - <span data-ttu-id="dfb26-117">Procura eventos de pulsação de sincronização de senha nos logs de eventos de aplicativos do Windows.</span><span class="sxs-lookup"><span data-stu-id="dfb26-117">Searches for password synchronization heartbeat events in the Windows Application Event logs.</span></span>
-
-  - <span data-ttu-id="dfb26-118">Para cada domínio do Active Directory sob o conector local do Active Directory:</span><span class="sxs-lookup"><span data-stu-id="dfb26-118">For each Active Directory domain under the on-premises Active Directory connector:</span></span>
-
-  - <span data-ttu-id="dfb26-119">Valida se o domínio pode ser acessado pelo servidor do Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="dfb26-119">Validates that the domain is reachable from the Azure AD Connect server.</span></span>
-
-  - <span data-ttu-id="dfb26-120">Valida que as contas dos serviços de domínio Active Directory (AD DS) usadas pelo conector do Active Directory local tem o nome de usuário, senha e permissões corretos necessários para a sincronização de senha.</span><span class="sxs-lookup"><span data-stu-id="dfb26-120">Validates that the Active Directory Domain Services (AD DS) accounts used by the on-premises Active Directory connector has the correct username, password, and permissions required for password synchronization.</span></span>
-
-<span data-ttu-id="dfb26-121">Para saber mais sobre como solucionar problemas de sincronização de senha, confira [solucionar problemas de sincronização de senha com o Azure ad Connect Sync](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization)</span><span class="sxs-lookup"><span data-stu-id="dfb26-121">For more help troubleshooting password sync, see [Troubleshoot password synchronization with Azure AD Connect sync](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).</span></span>
-  
+<span data-ttu-id="6bb31-113">Para obter mais ajuda para a solução de problemas de sincronização de senha, consulte [Troubleshoot password hash Synchronization with Azure ad Connect Sync](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).</span><span class="sxs-lookup"><span data-stu-id="6bb31-113">For more help troubleshooting password synchronization, see [Troubleshoot password hash synchronization with Azure AD Connect sync](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).</span></span>
