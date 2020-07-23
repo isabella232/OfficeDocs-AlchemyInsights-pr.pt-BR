@@ -11,23 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003073"
 - "5903"
-ms.openlocfilehash: 7b9d56bf2b95b534a4936b7f1a1544c40e75f450
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: 3bce20c922e3beceb29f06e97184826a3d05fd8c
+ms.sourcegitcommit: fceb55831ea461d2ae2988e30ec0bbb0a705ceb8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44841752"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45374996"
 ---
 # <a name="saving-files-and-folders-to-onedrive"></a>Salvando arquivos e pastas no OneDrive
 
-Há diferentes métodos para salvar arquivos e salvar arquivos no OneDrive.
+Há métodos diferentes para salvar arquivos e salvar arquivos no OneDrive. Se você estiver tendo problemas para salvar arquivos no OneDrive, tente o seguinte:
 
-- Se você estiver tendo problemas para salvar arquivos no OneDrive, tente o seguinte:
-
-- Clique na nuvem azul na barra de tarefas e veja se há algum erro que você pode corrigir na janela pop-up.
-- Salve os arquivos em outro lugar que não a sua pasta do OneDrive e, em seguida, tente mover os arquivos de volta para a pasta do OneDrive.
-- Reinicialize seu computador e tente salvar novamente. Se um aplicativo tiver um arquivo aberto, em muitos casos, o OneDrive não poderá sincronizar o arquivo até que o aplicativo não o esteja mais usando.
-- Tente desvincular e vincular novamente o OneDrive. Para fazer isso, vá para o ícone do OneDrive na barra de tarefas > clique com o botão direito do mouse > conta > desvincular este computador. Clique no ícone do OneDrive na barra de tarefas novamente e entre.
-- Se estiver enfrentando um problema de armazenamento, confira [gerenciar o armazenamento do onedrive for Business](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68).
+- Selecione a nuvem azul na barra de tarefas e corrija quaisquer erros que apareçam na janela pop-up.
+- Salve os arquivos em outro lugar que não a sua pasta do OneDrive e tente mover os arquivos de volta para a pasta do OneDrive.
+- Reinicialize seu computador e tente salvar novamente. Em muitos casos, se um aplicativo tiver um arquivo aberto, o OneDrive não poderá sincronizar o arquivo até que o aplicativo não o esteja mais usando.    
+- Tente desvincular e vincular o onedrive, selecionando o ícone azul do onedrive na barra de tarefas > **ajuda &**  >  **conta**de configurações  >  **desvincular este computador**. Selecione o ícone azul do OneDrive na barra de tarefas novamente e entre.
+- Se você estiver enfrentando um problema de armazenamento, confira [gerenciar seu onedrive for Work ou School Storage](https://support.microsoft.com/office/manage-your-onedrive-for-work-or-school-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
 - Para obter mais informações sobre solução de problemas, confira [corrigir problemas de sincronização do onedrive](https://docs.microsoft.com/alchemyinsights/fix-onedrive-sync-issues).  
-- Se você pretende personalizar sua experiência de salvamento com o Office e o OneDrive, confira [Personalizar a experiência de salvamento no Office](https://support.microsoft.com/office/786200a7-f5f2-4d26-a3ae-b78c60dd5d3b).
+
+Se você quiser personalizar sua experiência de salvamento com o Office e o OneDrive, confira [Personalizar a experiência de salvamento no Office](https://support.microsoft.com/office/customize-the-save-experience-in-office-786200a7-f5f2-4d26-a3ae-b78c60dd5d3b).
