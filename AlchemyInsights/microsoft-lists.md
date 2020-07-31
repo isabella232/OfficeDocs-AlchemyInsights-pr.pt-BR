@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: 2485374a9cd7082698245af913d0e2463b03b809
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: 682b437962b2192ef57cf48d4eae775bf2a4fcc7
+ms.sourcegitcommit: e90b918f02102cd9764881c2d8c914567c6b070e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138999"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46509000"
 ---
 # <a name="microsoft-lists"></a>Microsoft Lists
 
@@ -25,7 +25,7 @@ A Microsoft está lançando o primeiro estágio do Microsoft Lists, um aplicativ
   
 **Cronologia**  
 
-- Lançamento segmentado para as organizações habilitadas no final de julho de 2020.
+- A distribuição já começou para as organizações habilitadas para lançamentos direcionados.
 - Lançamento para todas as organizações até meados de outubro de 2020.
 
 Todos os usuários com uma licença do SharePoint podem acessar o ícone “Listas” e começar a utilizar o Microsoft Lists. No momento, os administradores não conseguem desativar o recurso.
