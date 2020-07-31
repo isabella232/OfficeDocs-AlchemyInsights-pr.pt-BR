@@ -12,14 +12,16 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 3040365b9d686bcbcce60977ee9bdbbaffc70b24
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4d3ca121c8d22a0900f136f7f2a754dfb5b435f5
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502595"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522795"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Políticas de retenção no centro de administração do Exchange
+
+Se você quiser executar verificações automatizadas para as configurações mencionadas abaixo, selecione o botão voltar <: na parte superior desta página e insira o endereço de email do usuário que tem problemas com as políticas de retenção.
 
  **Problema:** As políticas de retenção recém-criadas ou atualizadas no centro de administração do Exchange não estão aplicando caixas de correio ou itens não são movidos para a caixa de correio de arquivo morto ou excluídos. 
   

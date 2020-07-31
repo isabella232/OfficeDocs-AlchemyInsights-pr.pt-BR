@@ -9,14 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508796"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522831"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Aumentar o tamanho da caixa de correio de arquivo morto
+
+
+Se você quiser executar verificações automatizadas para as configurações mencionadas abaixo, selecione o botão voltar <-no início desta página e insira o endereço de email do usuário que precisa de seu tamanho de caixa de correio de arquivo.
 
 A Microsoft 365 [limita](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) o tamanho das caixas de correio de arquivo morto com base na licença atribuída à conta de usuário. Quando a caixa de correio de arquivo morto alcança 90% de seu tamanho permitido, o usuário recebe uma notificação por email. Quando uma caixa de correio de arquivo morto atinge seu limite de tamanho, o usuário não pode mover mais itens para a caixa de correio de arquivo morto. O Microsoft 365 não aumentará o tamanho de uma caixa de correio de arquivo morto quando o limite de tamanho for atingido. Em vez disso, os usuários podem executar as seguintes ações para liberar espaço na caixa de correio de arquivo morto:
 

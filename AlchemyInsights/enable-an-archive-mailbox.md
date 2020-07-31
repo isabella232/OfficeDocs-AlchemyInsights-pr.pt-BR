@@ -10,14 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507014"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522723"
 ---
 # <a name="enable-an-archive-mailbox"></a>Habilitar uma caixa de correio de arquivo morto
+
+Se quiser que possamos executar verificações automatizadas para garantir que uma caixa de correio de arquivo morto possa ser configurada, selecione o botão voltar <-no início dessa página e insira o endereço de email da conta.
 
 As caixas de correio de arquivo morto no Microsoft 365 (também chamadas de *arquivos online* ou *arquivos mortos locais*) fornecem aos usuários um armazenamento de email adicional. Os usuários podem mover ou copiar itens para a caixa de correio de arquivo morto, e os administradores podem criar uma política de arquivamento que move automaticamente itens para caixas de correio de arquivo morto.
   

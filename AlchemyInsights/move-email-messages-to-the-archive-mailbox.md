@@ -12,14 +12,16 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 35c11f1bfb7c61b28a64f0128c29ddf7b4fce939
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 9af8a4d3ce72fd901ff2f3a1aae0654c7213dd7e
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511028"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522759"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>Mover email para a caixa de correio de arquivo morto
+
+Se você quiser executar verificações automatizadas para as configurações mencionadas abaixo, selecione o botão voltar <: na parte superior desta página e insira o endereço de email do usuário que tem problemas ao mover o email para sua caixa de correio de arquivo morto.
 
 1. Confirmar se uma **caixa de correio de arquivo morto** foi habilitada. Caso contrário, use as etapas neste [artigo](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) para habilitar a caixa de correio de arquivo morto.
 
