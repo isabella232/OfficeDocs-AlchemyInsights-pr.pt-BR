@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: fe21746110ed2cb99fb13563c84c966e277fc70c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 56620e4795649d55181305b7b8c0a9d28c83e977
+ms.sourcegitcommit: 61308045a58252764f6378bbeb8802b6d2ff6c0b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495795"
+ms.lasthandoff: 08/08/2020
+ms.locfileid: "46596735"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Colocar uma caixa de correio em retenção legal
 
@@ -26,4 +26,4 @@ ms.locfileid: "44495795"
 
 - Para habilitar a retenção de litígio para um único usuário, [siga estas etapas](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold). Quando a retenção de litígio está habilitada, todo o conteúdo da caixa de correio é preservado.
 
-- Para preservar o conteúdo em todas as caixas de correio em sua organização, você pode usar uma [política de retenção em toda a organização](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Observe que, para políticas de retenção em toda a organização, novos usuários serão atribuídos automaticamente à política.
+- Para preservar o conteúdo de todas as caixas de correio em sua organização ou para criar outros tipos de retenção, use uma ou mais etiquetas de retenção. Observe que para políticas de retenção em toda a organização, novos usuários são atribuídos automaticamente à política. Para obter mais informações, consulte [saiba mais sobre políticas de retenção e rótulos de retenção](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). 
