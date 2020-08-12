@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: a099b3f056696bebae150fdd5b82e921f928f116
+ms.sourcegitcommit: 3ef4860c2e1918c1ff4009201189a5b77be3454f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509012"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46636681"
 ---
 # <a name="how-to-verify-your-domain"></a>Como verificar seu domínio
 
-Para verificar seu domínio, será necessário adicionar um registro TXT ao seu registrador de domínios para verificar se você é o proprietário do seu domínio. Primeiro, siga o [Assistente para adicionar domínio](https://portal.office.com/adminportal/home#/Domains/Wizard) clicando em **Configurar** \> **domínios**e, em seguida, em **Adicionar domínio**.
-  
-Siga as instruções em [criar registros DNS em qualquer provedor de Hospedagem de DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) para adicionar um registro txt para verificar o seu domínio.
+Para verificar um domínio, siga o [Assistente para adicionar domínio](https://portal.office.com/adminportal/home#/Domains/Wizard)ou vá manualmente para a **instalação**  >  **Domains**  >  **Adicionar domínio**.
 
-Para outros problemas de domínios, tente as [perguntas frequentes sobre domínios](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Para obter mais informações sobre as alterações de DNS necessárias para verificar seu domínio, consulte as instruções em [Add DNS Records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+
+Para saber mais, Confira as perguntas [frequentes sobre domínios](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
