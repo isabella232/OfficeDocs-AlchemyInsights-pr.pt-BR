@@ -2,7 +2,7 @@
 title: Atribuir ou cancelar a atribuição de licenças aos usuários
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,20 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: c2273d00b8033e9fb9d57c90576118d3788b0504
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2c3b11d51a2b5895c8d90ebef27121561f221334
+ms.sourcegitcommit: 69cf3c185e03a4b1da35c5ca492ee6c74a5d739a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495975"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46657055"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>Atribuir ou cancelar a atribuição de licenças aos usuários
 
-Um usuário precisa de uma licença para ter acesso aos serviços. Aqui estão as etapas para **Adicionar, alterar ou remover** uma licença de um usuário.
+Um usuário precisa de uma licença para ter acesso aos serviços. Aqui estão as etapas para atribuir uma licença ou cancelar a atribuição de uma licença de um usuário.
   
 1. No centro de administração, vá para usuários ativos do **usuário** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
+2. Selecione a linha do usuário ao qual você quer atribuir uma licença.
+3. No painel direito, selecione **Licenças e Aplicativos**.
+4. Expanda a seção **licenças** , marque ou desmarque as caixas das licenças que você deseja atribuir ou cancelar a atribuição e, em seguida, selecione **salvar alterações**.
 
-2. Selecione o nome do usuário para o qual você deseja atribuir, alterar ou remover uma licença.
-
-3. Clique em **gerenciar licenças de produto**e selecione a licença que você deseja atribuir a este usuário.
-
-    Por padrão, todos os serviços associados a essa licença são atribuídos automaticamente ao usuário. Para limitar quais serviços estão disponíveis para o usuário, desmarque a caixa de seleção dos serviços que você não deseja que o usuário tenha.
-
-4. Na parte inferior do painel, clique em **salvar alterações**.
-
-Para obter mais informações, consulte [assign licenses to Users](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)e [Remove licenses from Users](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user).
+Para obter mais informações, consulte [atribuir licenças aos usuários](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)e [cancelar a atribuição de licenças de usuários](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
