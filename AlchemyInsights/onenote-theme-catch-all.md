@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: 58159ec61c9ee10e340e5f88a478d378339be3a5
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: ee621d55537347d3bae836e2cf074b1ac0b8237a
+ms.sourcegitcommit: 9818d3c8e6b10f23244e51286e2463caf48fffd5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563570"
+ms.lasthandoff: 08/21/2020
+ms.locfileid: "46852876"
 ---
 # <a name="common-issues-and-resolutions-with-onenote"></a>Problemas comuns e resoluções com o OneNote
 
@@ -24,7 +24,7 @@ Aqui estão alguns tópicos do OneNote solicitados com frequência:
 
 - [Corrigir problemas de sincronização](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) -para resolver os problemas mais comuns relacionados à sincronização do OneNote, use as etapas em [corrigir problemas quando não for possível sincronizar o OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
 
-- Use [o OneNote no Teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **Note**: no momento, o OneNote no Microsoft Teams é somente leitura para locatários comerciais e de educação. Para editar, favor usar o OneNote para a web ou aplicativo OneNote para desktop.
+- Usar [o OneNote no Microsoft Teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) 
 
 - [Use o bloco de anotações de classe do OneNote no Teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) perguntas sobre a configuração de um bloco de anotações de classe no Teams.
 
