@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 94cd2127240be5faacd397ba6255fdb16e364308
+ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43650556"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46902608"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Aposentadoria de ferramentas de descoberta eletrônica herdadas
 
@@ -40,9 +40,9 @@ Como resultado da nova e aprimorada funcionalidade de descoberta eletrônica no 
 - [Descoberta eletrônica avançada v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Linha do tempo para aposentadoria**:
-- 1 de abril de 2020: você não poderá criar novas pesquisas e isenções, mas ainda poderá executar, editar e excluir pesquisas existentes de sua responsabilidade. O suporte da Microsoft não oferecerá mais suporte a descoberta eletrônica in-loco & segura no Eat.
-
-- 1º de julho de 2020: o & de descoberta eletrônica in-loco tem funcionalidade no Eat será colocado em um modo somente leitura. Isso significa que você só poderá remover pesquisas e isenções existentes.
+- **1º de julho de 2020** Você não pode mais criar novas pesquisas e isenções, mas pode executar, editar e excluir pesquisas existentes de sua responsabilidade. O suporte da Microsoft não oferece mais suporte a descoberta eletrônica in-loco & segura no Eat.
+    
+- **1 de outubro de 2020** A funcionalidade de descoberta eletrônica in-loco &s no Eat será colocada no modo somente leitura, portanto, você só poderá remover pesquisas e isenções existentes.
 
 **Para obter mais informações, consulte**:
 
