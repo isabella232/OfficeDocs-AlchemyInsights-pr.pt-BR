@@ -13,15 +13,22 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: a8b548da6390391fd36de9cf848cf3a4801c9d92
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44702194"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47290007"
 ---
 # <a name="teams-outlook-add-in"></a>Suplemento do Outlook para o Teams
 
-Para solucionar problemas de um suplemento do Office Teams ausente, primeiro execute o diagnóstico de serviço aqui no portal de administração.  Se o diagnóstico de serviço indicar que não há problemas, continue a baixar e executar o cenário de suplemento do Outlook do Microsoft **Teams** [Assistant de suporte e recuperação](https://aka.ms/SaRA-TeamsAddInScenario) nas máquinas de usuários afetadas para diagnosticar e corrigir problemas de cliente.
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Para solucionar problemas de um suplemento do Office Teams ausente
 
-Para solucionar o problema manualmente, revise a lista de possíveis fatores que podem fazer com que o suplemento do Teams não apareça listado [aqui](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+1. Execute o diagnóstico de serviço no portal de administração. 
+2. Se o diagnóstico de serviço indicar que não há problemas, diagnostique e corrija qualquer problema de cliente nas máquinas de usuário afetadas, baixando e executando o cenário de suplemento do Outlook Microsoft Teams [Assistant de recuperação e suporte](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook Add-in Scenario**.
+
+Para solucionar o problema manual de um suplemento do Office Teams ausentes, revise a lista de possíveis fatores que podem fazer com que o suplemento do Teams não apareça listado. Para obter mais informações, consulte [o suplemento de reunião do teams no Outlook para Windows não é exibido](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Para solucionar problemas de agendamento de uma reunião do teams em nome de outra pessoa (delegado)
+
+Para agendar uma reunião do teams em nome de outra pessoa, confira [solucionar problemas de interação do Microsoft Teams e do Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
