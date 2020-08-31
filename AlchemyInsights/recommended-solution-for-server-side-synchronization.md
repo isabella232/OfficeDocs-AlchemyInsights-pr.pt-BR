@@ -22,9 +22,9 @@ ms.locfileid: "45207339"
 # <a name="recommended-solution-for-server-side-synchronization"></a>Solução recomendada para a sincronização do lado do servidor
 
 - [Ocorreu um erro depois de clicar em Testar e ativar a Caixa de correio no Dynamics 365](https://go.microsoft.com/fwlink/p/?linkid=2007026)
-- [Por que a mensagem de e-mail que enviei tem um status de "Envio pendente"?](https://go.microsoft.com/fwlink/p/?linkid=859627)
+- [Por que a mensagem de email que enviei tem um status de "Envio pendente"?](https://go.microsoft.com/fwlink/p/?linkid=859627)
 - [Um compromisso é cancelado ou excluído inesperadamente ao usar a sincronização do lado do servidor](https://go.microsoft.com/fwlink/p/?linkid=2007027)
-- [O erro "Não é possível enviar e-mails como o usuário selecionado" ao tentar enviar e-mails como outro usuário](https://go.microsoft.com/fwlink/p/?linkid=2007131)
+- [O erro "Não é possível enviar emails como o usuário selecionado" ao tentar enviar emails como outro usuário](https://go.microsoft.com/fwlink/p/?linkid=2007131)
 - [Solucionar problemas de sincronização do lado do servidor](https://go.microsoft.com/fwlink/p/?linkid=2007132)
-- [Configurar a sincronização do lado do servidor de e-mails, compromissos, contatos e tarefas](https://go.microsoft.com/fwlink/p/?linkid=534983)
-- [Integrar (sincronizar) o seu sistema de e-mail](https://go.microsoft.com/fwlink/p/?linkid=851471)
+- [Configurar a sincronização do lado do servidor de emails, compromissos, contatos e tarefas](https://go.microsoft.com/fwlink/p/?linkid=534983)
+- [Integrar (sincronizar) o seu sistema de email](https://go.microsoft.com/fwlink/p/?linkid=851471)

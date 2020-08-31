@@ -23,7 +23,7 @@ ms.locfileid: "46903513"
 
 Existem três maneiras de aumentar a duração da bateria quando não for possível conectar seu laptop ou tablet.  
 
-- **Use a economia de bateria** selecione o botão **Iniciar** e, em seguida, selecione **Configurações**  >  **Sistema**  >  **Bateria**. Por padrão, a economia de bateria se ativa quando o nível da bateria vai abaixo de 20%, mas você pode ajustá-lo nas configurações da bateria.
+- **Use a economia de bateria** Selecione o botão **Iniciar** e, em seguida, selecione **Configurações**  >  **Sistema**  >  **Bateria**. Por padrão, a economia de bateria se ativa quando o nível da bateria vai abaixo de 20%, mas você pode ajustá-lo nas configurações da bateria.
     
 - **Use o Microsoft Edge para navegação** testes mostram que, ao navegar com o Microsoft Edge, a bateria dura 36-53% por carregamento do que a navegação com o Chrome, Firefox ou Opera no Windows 10.
     

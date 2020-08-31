@@ -1,5 +1,5 @@
 ---
-title: Impossibilitado de comprar a oferta EDU
+title: Não é possível comprar a oferta EDU
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -19,7 +19,7 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 07/08/2020
 ms.locfileid: "45083922"
 ---
-# <a name="unable-to-purchase-edu-offer"></a>Impossibilitado de comprar a oferta EDU
+# <a name="unable-to-purchase-edu-offer"></a>Não é possível comprar a oferta EDU
 
 Para afirmar se a sua instituição se qualifica para os preços acadêmicos, você deve [completar o nosso processo de verificação e informar o seu domínio](https://portal.office.com/Adminportal/Home#/Domains/SOWizard). A versão de avaliação do Office 365 A1 para docentes e do Office 365 A1 para Estudantes estão disponíveis para utilização enquanto você aguarda a revisão de elegibilidade da sua instituição.
 
