@@ -11,32 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: be518df0d40123c1f0da6596bd6e2e91a0c2c8fa
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 418cedd25f040cc6ed296a0e8ea8a80579dec6a1
+ms.sourcegitcommit: a09884e7169f9aa290f60a4c8fa4eeb80d53ee49
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005426"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47316187"
 ---
 # <a name="private-channels-in-microsoft-teams"></a>Canais privados no Microsoft Teams
 
-Os canais privados são um novo recurso no Microsoft Teams. Observe que os canais privados não podem ser convertidos de canais padrão ou vice-versa.
+Os canais privados no Microsoft Teams criam espaços prioritários para colaboração em suas equipes. O acesso é restrito aos usuários da equipe que forem proprietários ou membros do canal privado. É possível adicionar qualquer pessoa, inclusive convidados, como membro de um canal privado, desde que já sejam membros da equipe.
 
-Para obter detalhes sobre canais privados, como informações sobre [criação de canal privado e](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) [sites do SharePoint de canal privado](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites), consulte [canais privados no Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). 
-
-**Observação:** Como a configuração para retenção de mensagens de canal privado ainda não é suportada, os locatários com políticas de retenção habilitadas não terão canais privados habilitados por padrão. Os canais privados podem ser habilitados no centro de administração do Microsoft Teams. Além disso, observe que, enquanto a retenção de mensagens de canal privado não é suportada, a retenção de arquivos compartilhados em canais privados é suportada.
+Para saber mais, inicie com [canais privados no Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). Isso inclui informações como a [criação e a associação de canal](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) privado e [sites do SharePoint de canal privado](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
 
 **Precisa de um novo proprietário de equipe?**
 
-Se o proprietário do seu canal privado sair, você poderá adicionar um novo proprietário da equipe via Teams PowerShell.
+Se o seu proprietário do canal privado deixar sua organização ou for removido do grupo, um membro do canal privado será automaticamente promovido para ser o proprietário do canal privado.
 
-
-- Vá [aqui](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) para instalar o Teams PowerShell.
-
-Aqui está o cmdlet que você precisará:
-
-`
-    Add-TeamChannelUser -GroupId <group_id> -DisplayName "<channel_name>" -User <UPN> -Role Owner
-`
-
-Para obter mais informações sobre o Teams PowerShell, consulte [Teams PowerShell Overview](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).
+Os administradores também podem ver [gerenciar o ciclo de vida de canais privados no Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) para saber mais sobre as políticas para gerenciar quem pode criar canais privados, bem como maneiras de ajudar a criar consultas para descoberta eletrônica ou bloqueio legal.
