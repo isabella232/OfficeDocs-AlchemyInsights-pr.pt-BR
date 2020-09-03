@@ -38,7 +38,7 @@ Um status bem-sucedido significa que o Intune implantou o perfil configurado com
 
 **Quando configuro uma VPN personalizada para iOS, o recurso VPN por aplicativo não é disponibilizado.**
 
-A VPN por aplicativo para dispositivos iOS no Intune estão disponíveis no momento para uma lista específica de provedores e parceiros, que também devem atender aos pré-requisitos de certificado antes de configurar uma VPN por aplicativo. Para saber mais, veja [Configurar VPN (Rede Virtual Privada) por aplicativo para dispositivos iOS/iPadOS no Intune](https://docs.microsoft.com/intune/vpn-setting-configure-per-app). 
+A VPN por aplicativo para dispositivos iOS no Intune está disponível no momento para uma lista específica de provedores e parceiros, que também devem atender aos pré-requisitos de certificado antes de configurar uma VPN por aplicativo. Para saber mais, veja [Configurar VPN (Rede Virtual Privada) por aplicativo para dispositivos iOS/iPadOS no Intune](https://docs.microsoft.com/intune/vpn-setting-configure-per-app). 
 
 Para saber mais informações sobre todos os tipos de conexão VPN no Intune, veja [Criar perfis VPN para se conectar aos servidores VPN no Intune](https://docs.microsoft.com/intune/vpn-settings-configure).  
 

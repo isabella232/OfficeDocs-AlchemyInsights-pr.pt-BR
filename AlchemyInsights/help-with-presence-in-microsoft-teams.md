@@ -21,7 +21,7 @@ ms.locfileid: "47291199"
 ---
 # <a name="help-with-presence-in-microsoft-teams"></a>Ajuda com a Presença no Microsoft Teams
 
-A presença faz parte do perfil de usuário do Microsoft Teams e em todo o Microsoft 365 ou Office 365, que indica a disponibilidade atual do usuário e o status para outros usuários. Por padrão, todas as pessoas da sua organização que usam o Teams podem ver, quase em tempo real, se outros usuários estiverem disponíveis online.
+A presença faz parte do perfil de usuário do Microsoft Teams e em todo o Microsoft 365 ou Office 365, que indica a disponibilidade atual do usuário e o status para outros usuários. Por padrão, todas as pessoas da sua organização que usam o Teams podem ver, quase em tempo real, se outros usuários estão disponíveis online.
 
 Para saber mais sobre como funciona a presença configurada pelo aplicativo, confira [Presença de usuário no Teams](https://docs.microsoft.com/microsoftteams/presence-admins).
 

@@ -1,5 +1,5 @@
 ---
-title: Verifique seu domínio no Azure AD
+title: Verificar seu domínio no Azure AD
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -19,6 +19,6 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 07/28/2020
 ms.locfileid: "45431317"
 ---
-# <a name="verify-your-domain-in-azure-ad"></a>Verifique seu domínio no Azure AD
+# <a name="verify-your-domain-in-azure-ad"></a>Verificar seu domínio no Azure AD
 
 Para verificar seu nome de domínio após o registro no Azure AD, veja [Verificar seu nome de domínio personalizado](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#verify-your-custom-domain-name).
