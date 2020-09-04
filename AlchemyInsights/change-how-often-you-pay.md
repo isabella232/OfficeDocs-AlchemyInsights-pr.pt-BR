@@ -2,7 +2,7 @@
 title: Alterar a frequência de pagamento
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,20 +14,22 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c07867d1eb448c89e30dc499bc1fcb19a63a823b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43939643"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364575"
 ---
 # <a name="change-how-often-you-pay"></a>Alterar a frequência de pagamento
 
-Para alterar a frequência de cobrança e pagamento de uma assinatura, conclua as seguintes etapas no centro de administração do Microsoft 365. 
-1. Vá para **Faturamento > [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Encontre a assinatura que você deseja alterar. Na seção **cobrança** , ao lado de **faturar mensal** ou **faturada anualmente**, clique em **Editar**. 
-3. Escolha a opção para saber com que frequência você deseja ser cobrado e clique em **alterar**.
+Para alterar a frequência de cobrança e pagamento de uma assinatura, conclua as seguintes etapas no centro de administração do Microsoft 365.
+
+1. Vá para a página **cobrança**  >  [de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Na guia **produtos** , selecione a assinatura que você deseja alterar. 
+3. Na página detalhes da assinatura, na seção **configurações de assinatura e pagamento** , selecione **Editar frequência de cobrança**.
+4. No painel **Editar frequência de cobrança** , shoose a opção para saber com que frequência você deseja ser cobrado e, em seguida, selecione **alterar**.
 
 **Observação**: a cobrança mensal ou anual são as únicas opções.
 
-Para obter mais informações, consulte [alterar sua frequência de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).
+Para saber mais, confira [Alterar a frequência de cobrança](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
