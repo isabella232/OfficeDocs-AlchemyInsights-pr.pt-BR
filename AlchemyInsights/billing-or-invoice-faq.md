@@ -14,12 +14,12 @@ ms.custom:
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: a3c7574de2cecdd69a30d4ca47c6f60eb5c81224
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: a8aaac45e7ea102ef34505c94644f5bd3feecbc8
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431169"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364611"
 ---
 # <a name="billing-or-invoice-faq"></a>Perguntas frequentes sobre cobrança ou fatura
 
@@ -29,6 +29,6 @@ ms.locfileid: "45431169"
 - Se você quiser alterar a**frequência das cobranças**para mensalmente ou anualmente, confira [alterar a frequência de cobrança](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
 - Se precisar de ajuda com sua fatura, confira [Compreender sua fatura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
 - Se precisar de ajuda para **visualizar** sua fatura, confira [Exibir a sua conta ou fatura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
-- Se você deseja alterar as informações de cobrança, confira [gerenciar o perfil de cobrança](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) ou [alterar o endereço de cobrança](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
+- Se você quer alterar as informações de cobrança, consulte [gerenciar o perfil de cobrança](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) ou [alterar o endereço de cobrança](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
 
 Para mais informações, veja [Entendendo a sua fatura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
