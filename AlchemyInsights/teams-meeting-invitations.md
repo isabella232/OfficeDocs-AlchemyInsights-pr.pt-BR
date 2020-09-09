@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 778ac2d7796539f78f34a6659b75116c8866f399
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 374aee5f3cc152d3fb03619c1748f7cc19b4ac44
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553157"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406494"
 ---
-# <a name="teams-meeting-invitations"></a><span data-ttu-id="e90a3-102">Convites para reuniões do Teams</span><span class="sxs-lookup"><span data-stu-id="e90a3-102">Teams meeting invitations</span></span>
+# <a name="teams-meeting-invitations"></a><span data-ttu-id="338d5-102">Convites para reuniões do Teams</span><span class="sxs-lookup"><span data-stu-id="338d5-102">Teams meeting invitations</span></span>
 
-- <span data-ttu-id="e90a3-103">Você precisa saber como [criar um convite de reunião no](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)Teams?</span><span class="sxs-lookup"><span data-stu-id="e90a3-103">Do you need to know how to [create a meeting invitation in Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)?</span></span>
+<span data-ttu-id="338d5-103">Precisa de ajuda para personalizar os convites das reunião do Teams para sua organização?</span><span class="sxs-lookup"><span data-stu-id="338d5-103">Need help customizing Teams Meeting Invitations for your organization?</span></span> <span data-ttu-id="338d5-104">Certifique-se de conferir [Personalizar convites da reunião](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).</span><span class="sxs-lookup"><span data-stu-id="338d5-104">Be sure to review [Customize Meeting invitations](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).</span></span>  
 
-- <span data-ttu-id="e90a3-104">Atualmente, os convites para reunião do Teams **não podem ser personalizados**.</span><span class="sxs-lookup"><span data-stu-id="e90a3-104">Currently, Teams meeting invitations **cannot be customized**.</span></span> <span data-ttu-id="e90a3-105">[Vote no Teams UserVoice](https://microsoftteams.uservoice.com/) para que esse problema seja adicionado ao roteiro.</span><span class="sxs-lookup"><span data-stu-id="e90a3-105">Please [vote on Teams UserVoice](https://microsoftteams.uservoice.com/) to have this issue added to the roadmap.</span></span>
+<span data-ttu-id="338d5-105">Para saber mais, confira o artigo [Gerenciar as configurações de reunião no Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).</span><span class="sxs-lookup"><span data-stu-id="338d5-105">For additional information see [Manage meeting settings in Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).</span></span>

@@ -10,21 +10,17 @@ ms.assetid: ''
 ms.custom:
 - "9002255"
 - "4366"
-ms.openlocfilehash: a3e3a3d4a9de183826f51be1c10cf9d0ac687cbd
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
+ms.openlocfilehash: f11abae1a804fcda412ca2e0d1dfa8d899e2d31d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42946587"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406385"
 ---
-# <a name="plan-deploy-and-manage-teams-rooms"></a><span data-ttu-id="e5da1-102">Planejar, implantar e gerenciar salas do Teams</span><span class="sxs-lookup"><span data-stu-id="e5da1-102">Plan, deploy, and manage Teams Rooms</span></span>
+# <a name="plan-deploy-and-manage-teams-rooms"></a><span data-ttu-id="db90a-102">Planejar, implantar e gerenciar salas do Teams</span><span class="sxs-lookup"><span data-stu-id="db90a-102">Plan, deploy, and manage Teams Rooms</span></span>
 
-<span data-ttu-id="e5da1-103">Configure e use as Salas do Microsoft Teams em sua organização seguindo estas etapas:</span><span class="sxs-lookup"><span data-stu-id="e5da1-103">Set up and use Microsoft Teams Rooms in your organization by following these steps:</span></span> 
+- <span data-ttu-id="db90a-103">[Planejar](https://docs.microsoft.com/microsoftteams/rooms/rooms-plan) a Sala do Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="db90a-103">[Plan](https://docs.microsoft.com/microsoftteams/rooms/rooms-plan)  for Microsoft Teams Room.</span></span> <span data-ttu-id="db90a-104">Isso inclui[atualização de licenciamento](https://docs.microsoft.com/microsoftteams/rooms/rooms-licensing), [requisitos de hardware e os sistemas de Sala do Microsoft Teams suportados](https://docs.microsoft.com/microsoftteams/rooms/requirements#hardware-requirements).</span><span class="sxs-lookup"><span data-stu-id="db90a-104">This includes[licensing update](https://docs.microsoft.com/microsoftteams/rooms/rooms-licensing), [hardware requirements and supported Microsoft Teams Room systems](https://docs.microsoft.com/microsoftteams/rooms/requirements#hardware-requirements).</span></span>
+- <span data-ttu-id="db90a-105">[Configurar contas](https://docs.microsoft.com/microsoftteams/rooms/rooms-configure-accounts) para a Sala do Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="db90a-105">[Configure accounts](https://docs.microsoft.com/microsoftteams/rooms/rooms-configure-accounts)  for Microsoft Teams Room.</span></span>
+- <span data-ttu-id="db90a-106">[Gerencie dispositivos](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage)  usando o centro de administração do Teams (é necessário ter um administrador de serviços do Teams ou uma função de administrador global) e examine uma [lista de problemas conhecidos](https://docs.microsoft.com/microsoftteams/rooms/known-issues).</span><span class="sxs-lookup"><span data-stu-id="db90a-106">[Manage devices](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage)  using the Teams admin center (you need to have a Teams Service Administrator or a Global Administrator role) and review a [list of known issues](https://docs.microsoft.com/microsoftteams/rooms/known-issues).</span></span>
 
-- <span data-ttu-id="e5da1-104">[Planeje seu ambiente e revise os requisitos](https://docs.microsoft.com/microsoftteams/rooms/rooms-plan).</span><span class="sxs-lookup"><span data-stu-id="e5da1-104">[Plan your environment and review requirements](https://docs.microsoft.com/microsoftteams/rooms/rooms-plan).</span></span>
-
-- <span data-ttu-id="e5da1-105">[Configure contas e implante com o seu ambiente](https://docs.microsoft.com/microsoftteams/rooms/rooms-deploy).</span><span class="sxs-lookup"><span data-stu-id="e5da1-105">[Configure accounts and deploy with your environment](https://docs.microsoft.com/microsoftteams/rooms/rooms-deploy).</span></span>
-
-- <span data-ttu-id="e5da1-106">[Gerencie, solucione problemas](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage#troubleshooting) e esteja atento aos [problemas conhecidos](https://docs.microsoft.com/microsoftteams/rooms/known-issues).</span><span class="sxs-lookup"><span data-stu-id="e5da1-106">[Manage, troubleshoot](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage#troubleshooting), and be aware of [known issues](https://docs.microsoft.com/microsoftteams/rooms/known-issues).</span></span> 
-
-<span data-ttu-id="e5da1-107">Para saber mais, confira [Salas do Microsoft Teams](https://docs.microsoft.com/microsoftteams/rooms/).</span><span class="sxs-lookup"><span data-stu-id="e5da1-107">For more info, see [Microsoft Teams Rooms](https://docs.microsoft.com/microsoftteams/rooms/).</span></span>
+<span data-ttu-id="db90a-107">Para obter mais informações sobre como planejar, implantar e gerenciar Salas do Microsoft Teams, confira [Sala do Microsoft Teams](https://docs.microsoft.com/microsoftteams/rooms/).</span><span class="sxs-lookup"><span data-stu-id="db90a-107">For more information on planning, deploying and managing Microsoft Teams Rooms, see [Microsoft Teams Room](https://docs.microsoft.com/microsoftteams/rooms/).</span></span>
