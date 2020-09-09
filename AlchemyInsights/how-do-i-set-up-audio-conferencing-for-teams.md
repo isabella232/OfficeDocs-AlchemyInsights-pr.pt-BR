@@ -12,26 +12,26 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d93d598643422f83931ed13d7a002901bd555cfe
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709927"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406350"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Audioconferência
 
-Precisa de ajuda para ativar ou configurar audioconferências no Microsoft Teams? Esse usuário foi criado recentemente?  Em caso afirmativo, você precisará esperar de 2 a 24 horas para que as configurações sejam efetivadas.
+Precisa de ajuda para ativar ou configurar as [audioconferências no Microsoft Teams](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)?  O usuário foi recentemente criado? Em caso afirmativo, você precisará esperar várias horas para que as configurações sejam efetivadas.
 
-Para verificar se o usuário está licenciado para conferências de áudio e tem um número de chamada padrão:
+Se [licenças tiverem sido compradas](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses), verifique se o usuário está licenciado para a audioconferência do Microsoft 365 e tem um número de chamada padrão.
 
 1. Vá para [Usuários ativos](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) e selecione o usuário em questão.
 
 2. Dependendo da versão do centro de administração, escolha ou**Licenças e aplicativos** ou clique em **Editar** em **Licenças do produto**.
 
-3. Confirme se o usuário tem licenças selecionadas para **Audioconferência, Microsoft Teams**e para o **Skype for Business online (plano 2)**.
+3. Confirme se o usuário possui licenças selecionadas para **Audioconferência do Microsoft 365, Microsoft Teams**e para o **Skype for Business Online (plano 2)**. Se a licença de ** audioconferência do Microsoft 365** não estiver presente, você precisará [comprar licenças de suplemento](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business) primeiro.
 
-4. Em **Centros de administração** de usuários, clique em **Mostrar todos** e, em seguida, em **Teams**.
+4. Em **Centro de administração**de usuários, clique em **Mostrar todos** e, em seguida, em **Teams**.
 
 5. No **centro de administração do Microsoft Teams**, clique em **Portal herdado**.
 
@@ -39,4 +39,4 @@ Para verificar se o usuário está licenciado para conferências de áudio e tem
 
 7. Selecione o usuário em questão e verifique se o usuário tem um **Número de Chamada Telefônica Padrão**.
 
-Para saber mais, confira [Planos de chamadas](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ou ligue para a equipe de cobrança do Microsoft Commerce para obter ajuda com perguntas relacionadas a licenciamento.
+Se precisar de mais ajuda para adquirir licenças para a**audioconferência do Microsoft**, ligue para o [suporte à cobrança da Microsoft](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support).
