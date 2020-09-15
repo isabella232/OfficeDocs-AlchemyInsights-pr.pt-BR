@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 382ce7702e4726457ec802d1eec658477505e44e
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 9ab6542d80ba62eb1640d0010d11ad6ae637ced9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44541986"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701667"
 ---
 # <a name="remove-the-large-attachment"></a>Remover o anexo grande
 
@@ -26,7 +27,7 @@ ms.locfileid: "44541986"
 2. No painel de navegação, selecione a ação de **saída**. A partir daqui, você pode: 
     - Exclua a mensagem (selecione-a e, em seguida, selecione **excluir**).
     - Arraste a mensagem para a pasta Rascunhos, clique duas vezes para abri-la e remova o anexo e selecione-a e, em seguida, selecione **excluir**.
-3. Se você receber um erro dizendo que o Outlook está tentando transmitir a mensagem, feche o Outlook. Pode levar alguns momentos para sair. Se o Outlook não fechar, pressione Ctrl + Alt + Delete e selecione **iniciar o Gerenciador de tarefas**. No Gerenciador de tarefas, selecione a guia **processos** , role para baixo até Outlook. exe e selecione **finalizar processo**.
+3. Se você receber um erro dizendo que o Outlook está tentando transmitir a mensagem, feche o Outlook. Pode levar alguns momentos para sair. Se o Outlook não fechar, pressione Ctrl + Alt + Delete e selecione **iniciar o Gerenciador de tarefas**. No Gerenciador de tarefas, selecione a guia **processos** , role para baixo até outlook.exe e selecione **finalizar processo**.
 4. Depois que o Outlook fechar, reinicie-o e repita as etapas 2 e 3. 
 5. Depois de remover o anexo, clique em **Enviar/receber**  >  **trabalhar offline** para retomar o trabalho online. 
 

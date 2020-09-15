@@ -5,6 +5,7 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,16 +13,16 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: 61016010133bf07fa321be1a5bdef1674bcc2550
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7db0963bd43115fbd6b793751219ab93640b8310
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054113"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700731"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>Restaurar itens excluídos do SharePoint
 
-Quando você exclui um item ou site do SharePoint, ele não é removido imediatamente. Os itens excluídos vão para a lixeira por um período de tempo. Durante esse tempo, você pode restaurar os itens excluídos para o local original. Para obter mais informações, visite os links abaixo.
+Quando você exclui um item ou site do SharePoint, ele não é removido imediatamente. Os itens excluídos vão para a lixeira por um período de tempo. Durante esse período, você pode restaurar os itens excluídos para o local original. Para obter mais informações, visite os links abaixo.
 
 - [Restaurar itens na Lixeira de um site do SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
@@ -35,7 +36,7 @@ Quando você exclui um item ou site do SharePoint, ele não é removido imediata
 
 - [PNP do SharePoint Online](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
-**Recurso de restauração de arquivos**
+**Recurso Restaurar arquivos**
 
 Se vários arquivos do OneDrive ou do SharePoint forem excluídos, substituídos, corrompidos ou infectados por malware, você poderá restaurar toda a sua biblioteca do OneDrive ou do SharePoint para uma hora anterior usando o recurso de restauração de arquivos.
 
