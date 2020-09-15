@@ -6,21 +6,22 @@ manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
 ms.assetid: b6878497-5885-4241-b2d0-e951817c48d2
-ms.openlocfilehash: ead3988e85b41f92f993e05e456ca7a29f6bf329
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: e6eaf11337a580395a116e8f4a8efee799c6094a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43739784"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47659118"
 ---
-# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a><span data-ttu-id="30b27-102">Converse com a família e amigos no Skype no Outlook.com</span><span class="sxs-lookup"><span data-stu-id="30b27-102">Talk to family and friends on Skype in Outlook.com</span></span>
+# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a><span data-ttu-id="e3758-102">Converse com a família e amigos no Skype no Outlook.com</span><span class="sxs-lookup"><span data-stu-id="e3758-102">Talk to family and friends on Skype in Outlook.com</span></span>
 
-<span data-ttu-id="30b27-103">Os clientes do Outlook.com podem conversar com amigos e familiares com os recursos de chat, voz e vídeo no Skype.</span><span class="sxs-lookup"><span data-stu-id="30b27-103">Outlook.com customers can talk to friends and family with the chat, voice, and video features in Skype.</span></span> <span data-ttu-id="30b27-104">Ao [mesclar suas contas da Microsoft e do Skype](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409), você terá acesso automaticamente ao Skype na web no Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="30b27-104">When you [merge your Microsoft and Skype accounts](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409), you automatically have access to Skype on the web in Outlook.com.</span></span>
+<span data-ttu-id="e3758-103">Os clientes do Outlook.com podem conversar com amigos e familiares com os recursos de chat, voz e vídeo no Skype.</span><span class="sxs-lookup"><span data-stu-id="e3758-103">Outlook.com customers can talk to friends and family with the chat, voice, and video features in Skype.</span></span> <span data-ttu-id="e3758-104">Ao [mesclar suas contas da Microsoft e do Skype](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409), você terá acesso automaticamente ao Skype na web no Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="e3758-104">When you [merge your Microsoft and Skype accounts](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409), you automatically have access to Skype on the web in Outlook.com.</span></span>
   
-<span data-ttu-id="30b27-105">Saiba mais sobre como [falar com a família e amigos no Skype no Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="30b27-105">Learn more about how to [talk to family and friends on Skype in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).</span></span>
+<span data-ttu-id="e3758-105">Saiba mais sobre como [falar com a família e amigos no Skype no Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="e3758-105">Learn more about how to [talk to family and friends on Skype in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).</span></span>
   
 
