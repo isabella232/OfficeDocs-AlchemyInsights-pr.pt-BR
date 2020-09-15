@@ -6,6 +6,7 @@ manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6e04773d9c0a5f30b613221ad59fe77096ae39a9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512542"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658938"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Solucionar erros de pesquisa de conteúdo
 
@@ -34,4 +35,4 @@ Por exemplo, você recebe o seguinte ao executar pesquisas?
 
 Ou ao pesquisar ou exportar resultados de um grande número de caixas de correio (mais de 100.000 caixas de correio), você está recebendo erros de exportação?
 
-Para esses tipos de erros, tente pesquisar os locais de conteúdo que falharam. Confira [Este artigo](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) para obter mais informações.
+Para esses tipos de erros, tente pesquisar os locais de conteúdo que falharam. Confira  [Este artigo](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) para obter mais informações.

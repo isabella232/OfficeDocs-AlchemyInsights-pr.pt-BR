@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2662"
 - "9000660"
-ms.openlocfilehash: b6613733e743e08a9b18b1ada70fde164b0d5dc3
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 22d69db749671afdfe7a809d1bc598e2ad1891d8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010278"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658209"
 ---
 # <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Desinstalar ou excluir equipes de instalações do Office novas ou existentes
 
@@ -28,4 +29,4 @@ O Microsoft Teams está incluído como parte do Microsoft 365 Apps for Enterpris
 ) para impedir que o Microsoft Teams instale automaticamente com o Office.
 - Use a opção [PreventFirstLaunchAfterInstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation) , *antes de instalar o Teams*, para evitar que o Microsoft Teams inicie automaticamente após a instalação.
 
-Se você estiver usando o Office para Mac, confira [instalações do Microsoft Teams em um Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Se você estiver usando o Office para Mac, confira [Instalações do Microsoft Teams em um Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).

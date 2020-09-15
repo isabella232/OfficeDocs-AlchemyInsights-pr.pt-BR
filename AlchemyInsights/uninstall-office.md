@@ -5,7 +5,7 @@ author: janellem
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,12 +13,12 @@ ms.custom:
 - "2000023"
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
 description: As etapas abaixo descrevem como desinstalar o Office de um computador.
-ms.openlocfilehash: 1b7475b5a1f6f926bd854e41a5d14cfc22b752c9
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1be113b2fd140dc30857de68a4ab851c0d946af7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43731316"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658245"
 ---
 # <a name="uninstall-office"></a>Desinstalar o Office
 
