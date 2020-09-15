@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3815"
 - "9001720"
-ms.openlocfilehash: 5e1b2c54071eabda51724b300a9ef75888d7062f
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.openlocfilehash: b22004a83e8a7e291c1e55fecaab3ab290c3d9de
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707594"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685406"
 ---
-# <a name="blur-your-background-in-a-teams-meeting"></a><span data-ttu-id="2f2ce-102">Desfocar seu plano de fundo em uma reunião do Teams</span><span class="sxs-lookup"><span data-stu-id="2f2ce-102">Blur your background in a Teams meeting</span></span>
+# <a name="blur-your-background-in-a-teams-meeting"></a><span data-ttu-id="33d72-102">Desfocar seu plano de fundo em uma reunião do Teams</span><span class="sxs-lookup"><span data-stu-id="33d72-102">Blur your background in a Teams meeting</span></span>
 
-<span data-ttu-id="2f2ce-103">Os planos de fundo desfocados só funcionam para reuniões agendadas.</span><span class="sxs-lookup"><span data-stu-id="2f2ce-103">Blurring backgrounds only works for scheduled meetings.</span></span>
+<span data-ttu-id="33d72-103">Os planos de fundo desfocados só funcionam para reuniões agendadas.</span><span class="sxs-lookup"><span data-stu-id="33d72-103">Blurring backgrounds only works for scheduled meetings.</span></span>
 
-- <span data-ttu-id="2f2ce-104">Para iniciar uma reunião com o desfoque de plano de fundo, mova o controle deslizante de desfoque (um à direita do controle deslizante de vídeo) para a direita na tela Escolher as configurações de áudio e vídeo quando você está ingressando na reunião.</span><span class="sxs-lookup"><span data-stu-id="2f2ce-104">To start a meeting with background blur, move the blur slider—the one to the right of the video slider—to the right on the Choose your audio and video settings screen when you're joining the meeting.</span></span>
+- <span data-ttu-id="33d72-104">Para iniciar uma reunião com o desfoque de plano de fundo, mova o controle deslizante de desfoque (um à direita do controle deslizante de vídeo) para a direita na tela Escolher as configurações de áudio e vídeo quando você está ingressando na reunião.</span><span class="sxs-lookup"><span data-stu-id="33d72-104">To start a meeting with background blur, move the blur slider—the one to the right of the video slider—to the right on the Choose your audio and video settings screen when you're joining the meeting.</span></span>
 
-- <span data-ttu-id="2f2ce-105">Para ativar o desfoque de plano de fundo durante uma reunião, clique em **Mais opções > Mais opções** botão **> Desfocar o plano de fundo**.</span><span class="sxs-lookup"><span data-stu-id="2f2ce-105">To turn on background blur during a meeting, click **More options > More options** button **> Blur my background**.</span></span>
+- <span data-ttu-id="33d72-105">Para ativar o desfoque de plano de fundo durante uma reunião, clique em **Mais opções > Mais opções** botão **> Desfocar o plano de fundo**.</span><span class="sxs-lookup"><span data-stu-id="33d72-105">To turn on background blur during a meeting, click **More options > More options** button **> Blur my background**.</span></span>
 
-<span data-ttu-id="2f2ce-106">Para mais detalhes, confira [Desfocar o seu plano de fundo em uma reunião do Teams](https://support.office.com/article/Blur-your-background-in-a-Teams-meeting-f77a2381-443a-499d-825e-509a140f4780).</span><span class="sxs-lookup"><span data-stu-id="2f2ce-106">For more information, see [Blur your background in a Teams meeting](https://support.office.com/article/Blur-your-background-in-a-Teams-meeting-f77a2381-443a-499d-825e-509a140f4780).</span></span>
+<span data-ttu-id="33d72-106">Para mais detalhes, confira [Desfocar o seu plano de fundo em uma reunião do Teams](https://support.office.com/article/Blur-your-background-in-a-Teams-meeting-f77a2381-443a-499d-825e-509a140f4780).</span><span class="sxs-lookup"><span data-stu-id="33d72-106">For more information, see [Blur your background in a Teams meeting](https://support.office.com/article/Blur-your-background-in-a-Teams-meeting-f77a2381-443a-499d-825e-509a140f4780).</span></span>
