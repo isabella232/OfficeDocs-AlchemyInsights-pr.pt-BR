@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: 65888cd3d0447b7bf9894498bc64ead443345c8e
-ms.sourcegitcommit: d3477d7e57e196aa195a6eff773f08a33cdfce27
+ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42612335"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674926"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>Experiência de exploratório do Microsoft Teams
 
-A experiência de exploratório do Microsoft Teams permite que os usuários em sua organização que tenham o Azure Active Directory (AAD) e não sejam licenciados para o Microsoft Teams iniciem uma experiência exploratório do teams. Os administradores podem ativar ou desativar esse recurso para usuários em sua organização. (A versão anterior de avaliação do Microsoft Commercial Cloud agora é chamada de experiência exploratório do teams.)
+A experiência de exploratório do Microsoft Teams permite que os usuários em sua organização que tenham o Azure Active Directory (AAD) e não sejam licenciados para o Microsoft Teams iniciem uma experiência exploratório do teams. Os administradores podem ativar ou desativar esse recurso para os usuários em sua organização. (A versão anterior de avaliação do Microsoft Commercial Cloud agora é chamada de experiência exploratório do teams.)
 
 A experiência de exploratório do Microsoft Teams está disponível sem custo adicional até seu próximo aniversário corporativo ou renovação em ou após janeiro de 2021. Nesse momento, os usuários finais em uma licença de experiência do Microsoft exploratório precisarão migrar para uma licença paga que inclua o Teams.
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 61a926c363c62bc7acb5efefe42b834f33c78eb6
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 55ed9a92675939c05477fbf6d12bbedd6eb931d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44542073"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673702"
 ---
 # <a name="missing-emails-in-quarantine"></a>Emails ausentes em quarentena "
 
@@ -26,7 +27,7 @@ Para abrir o centro de conformidade & segurança, vá para [https://protection.o
 
 Você pode pesquisar pelos seguintes valores:  
 
-- **ID da mensagem**: o identificador globalmente exclusivo da mensagem. Se você selecionar uma mensagem na lista, o valor **ID da mensagem** aparecerá no painel de submenu **detalhes** exibido. Os administradores podem usar [Rastreamento da mensagem](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) para localizar mensagens e seus valores da ID da mensagem correspondentes.
+- **ID da mensagem**: o identificador globalmente exclusivo da mensagem. Se você selecionar uma mensagem na lista, o valor  **ID da mensagem**  aparecerá no painel de submenu  **detalhes**  exibido. Os administradores podem usar [Rastreamento da mensagem](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) para localizar mensagens e seus valores da ID da mensagem correspondentes.
 - **Endereço de e-mail do remetente**: o endereço de e-mail de um único remetente.
 - **Endereço de e-mail do destinatário**: o endereço de e-mail de um único destinatário.
 - **Assunto**: use todo o assunto da mensagem. A pesquisa não diferencia maiúsculas de minúsculas.
