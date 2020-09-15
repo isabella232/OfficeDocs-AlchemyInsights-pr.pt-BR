@@ -5,17 +5,18 @@ author: daeite
 manager: jackiesm
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 0bd18328-35e4-4e4a-94c3-48430e8e2e77
-ms.openlocfilehash: 06f914ae1a5dc35c60a6f4586d632a78a6e582a8
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7f7713b53a6758713bc77f3f427fb36a97a2de6e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766807"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47718861"
 ---
 # <a name="change-your-password"></a>Alterar sua senha
 
@@ -23,7 +24,7 @@ Se você esqueceu sua senha do Outlook.com, vá para a [página de redefinição
   
 1. Selecione seu nome ou imagem de perfil no canto superior direito e selecione **minha conta**. 
     
-2. Em seu nome, selecione **mais ações** > **alterar senha**. 
+2. Em seu nome, selecione **mais ações**  >  **alterar senha**. 
     
 3. Siga as etapas para assinar e escolher uma nova senha. 
     
