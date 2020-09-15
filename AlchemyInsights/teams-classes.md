@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001725"
 - "3829"
-ms.openlocfilehash: c30a62636a89b41ee5ee3ea6668c415b3febb0d5
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.openlocfilehash: 68e78abcedecbf2f0e81426fa584fe70a7e04ce6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707396"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691203"
 ---
 # <a name="teams-classes"></a>Classes do Teams
 
-Caso tenha um locatário EDU, você precisa habilitar o Microsoft Teams manualmente. Para fazer isso, entre no Microsoft 365 e vá para **Configurações do centro de administração>Configurações > Microsoft Teams**. Caso não veja o Microsoft Teams na lista de servicos, desabilite **Experimentar o novo centro de administração** para localizar **Configurações > Serviços e suplementos > Microsoft Teams**. Para obter mais informações, veja [Habilitar o Microsoft Teams para a sua escola](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1). 
+Caso tenha um locatário EDU, você precisa habilitar o Microsoft Teams manualmente. Para fazer isso, entre no Microsoft 365 e vá para **Configurações do centro de administração>Configurações > Microsoft Teams**. Caso não veja o Microsoft Teams na lista de servicos, desabilite **Experimentar o novo centro de administração** para localizar **Configurações > Serviços e suplementos > Microsoft Teams**. Para saber mais, confira [Habilitar o Microsoft Teams para a sua escola](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1). 
 
 **Importante**: Talvez seja necessário aguardar até 24 horas para que as alterações entrem em vigor. 
 
