@@ -6,6 +6,7 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,12 +15,12 @@ ms.custom:
 - "899"
 - "3800014"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: cc5827975eff10a119281541622224d0e37f08a7
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
+ms.openlocfilehash: d2511183d068330cdcfb4e08b08df4f18625c822
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44372987"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684218"
 ---
 # <a name="policy-error-when-sharing-a-calendar"></a>Erro de política ao compartilhar um calendário
 
@@ -32,7 +33,7 @@ ms.locfileid: "44372987"
     Get-Mailbox User1 | fl *sharing*
     `
 
-3. Atualize a política de compartilhamento para o usuário. Para fazer isso, execute estas etapas:
+3. Atualize a política de compartilhamento para o usuário. Para fazer isso, siga estas etapas:
     - Abra o centro de administração do Exchange.
     - Clique em **organização**e, em seguida, clique duas vezes na política atribuída ao usuário em **compartilhamento individual**. Esta é a política retornada na etapa 2.
     - Na página regra de compartilhamento, selecione o nível de compartilhamento de calendário que você deseja permitir em **especifique quais informações você deseja compartilhar**; clique em **salvar**.
