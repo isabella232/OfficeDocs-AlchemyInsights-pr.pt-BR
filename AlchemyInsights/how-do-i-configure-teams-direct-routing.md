@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,19 +13,19 @@ ms.custom:
 - "1945"
 - "2659"
 - "9000321"
-ms.openlocfilehash: 1f7b829aff4beb8f727d23e143b5f8607d1da5a8
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
+ms.openlocfilehash: 7143fda9fc744375571e8b39dc281fbac2d17d46
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37344261"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704882"
 ---
 # <a name="phone-system-direct-routing-for-microsoft-teams"></a>Roteamento direto do sistema de telefonia para o Microsoft Teams
 
 Confira os seguintes artigos para saber mais sobre o [Roteamento direto do sistema de telefonia para o Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page): 
 
-- [Planejar roteamento direto](https://docs.microsoft.com/MicrosoftTeams/direct-routing-plan)
-- [Configurar o roteamento direto](https://docs.microsoft.com/MicrosoftTeams/direct-routing-configure) 
-- [Monitorar e solucionar problemas de roteamento direto](https://docs.microsoft.com/MicrosoftTeams/direct-routing-monitor-and-troubleshoot)
+- [Planejar o Roteamento Direto](https://docs.microsoft.com/MicrosoftTeams/direct-routing-plan)
+- [Configurar o Roteamento Direto](https://docs.microsoft.com/MicrosoftTeams/direct-routing-configure) 
+- [Monitorar e solucionar problemas do Roteamento Direto](https://docs.microsoft.com/MicrosoftTeams/direct-routing-monitor-and-troubleshoot)
 
 **Observação:** Você também pode conferir o vídeo do YouTube [Routing Direct do teams](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl) .

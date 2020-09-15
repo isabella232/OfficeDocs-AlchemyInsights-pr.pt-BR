@@ -6,6 +6,7 @@ manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,16 +14,16 @@ ms.custom:
 - "1401"
 - "8000047"
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: f331cc789a50f44fc62e22b5bf8f6f3e3daa6c00
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 17bb3df0b28be00ec0a639f32ef8d9904c14f9d3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724498"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704297"
 ---
 # <a name="how-to-create-an-email-signature"></a>Como criar uma assinatura de email
 
-Vá para [as configurações de redação e resposta](https://go.microsoft.com/fwlink/?linkid=2006164) (**definições** \> de **exibição de todas as configurações** \> do Outlook **redigir e responder**).
+Vá para [as configurações de redação e resposta](https://go.microsoft.com/fwlink/?linkid=2006164) (**definições** de \> **exibição de todas as configurações do Outlook** \> **redigir e responder**).
   
  **Observação:** Você pode ter apenas uma assinatura por conta.
   
