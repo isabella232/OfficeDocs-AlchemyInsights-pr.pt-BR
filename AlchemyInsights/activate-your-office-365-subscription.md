@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 226eaa73b3934e266c1f53f73752ec142fdecdf5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43783995"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698049"
 ---
 # <a name="activate-your-subscription"></a>Ativar a assinatura
 
 **Ativar uma assinatura**
 
-- Para conceder aos usuários acesso a um serviço, atribua uma licença a eles. Para obter instruções sobre como atribuir licenças, confira [Atribuir licenças a usuários](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
+- Para conceder aos usuários acesso a um serviço, atribua uma licença a eles. Para obter instruções sobre como atribuir licenças, confira [Atribuir licenças a usuários](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 - Se você já possui uma licença atribuída, poderá encontrar aplicativos que podem ser baixados na [página Minha conta](https://portal.office.com/account/#installs). Esta página fornece uma lista de aplicativos disponíveis para download com base nas licenças atribuídas.
 
@@ -32,13 +33,13 @@ ms.locfileid: "43783995"
 
 Se sua assinatura expirou ou foi desabilitada pela Microsoft, ou se você a cancelou durante o período da assinatura, é possível reativá-la no centro de administração do Microsoft 365.
 
-- No centro de administração do Microsoft 365, vá para a página [Assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054) (ou clique em **Cobrança > Assinaturas**).
+- No Centro de administração do Microsoft 365, vá para a página **Cobrança** > **[Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-- Escolha a assinatura que deseja reativar, em seguida clique em **Reativar**. Se você não vir **Reativar** como uma ação disponível, [ligue para o Suporte](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b) para reativar sua assinatura.
+- Escolha a assinatura que deseja reativar, em seguida clique em **Reativar**. Se você não vir **Reativar** como uma ação disponível, [ligue para o Suporte](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) para reativar sua assinatura.
 
-- Insira seus detalhes de pagamento. Você também pode [atualizar suas informações de pagamento existentes](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide) aqui.
+- Insira seus detalhes de pagamento. Você também pode [atualizar suas informações de pagamento existentes](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) aqui.
 
-Para obter mais informações, confira [Reativar sua assinatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Para obter mais informações, confira [Reativar sua assinatura](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Ativar uma nova assinatura com uma chave do produto**
 
