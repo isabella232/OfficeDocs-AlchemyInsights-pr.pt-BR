@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: da49fb3e5d7a6a4697259897133461cdc9e340ad
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: 230f857bd35f4cf381fc71de04231834fb8d0ee6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944020"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714892"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>Proteção de Informações do Azure: instalação do cliente AIP
 
@@ -33,4 +34,8 @@ Se você estiver instalando o cliente AIP, use as seguintes etapas:
 
 4. Se você ainda enfrentar problemas ao instalar o próprio cliente após executar a ferramenta acima, localize a pasta **%temp%** e forneça os arquivos de log de instalação do cliente que começam com Microsoft_Azure_Information_Protection_XXXXXXXXXX. log.
 
-5. Se a instalação foi bem-sucedida e você ainda tiver problemas ao usar o AIP, selecione o tópico de suporte apropriado para soluções relevantes.
+Para obter mais informações:
+
+- Revise a [documentação da Proteção de Informações do Azure (AIP)](https://docs.microsoft.com/azure/information-protection/what-is-information-protection), configure os [requisitos](https://docs.microsoft.com/azure/information-protection/get-started/requirements) e o local para [baixar o cliente do AIP](https://www.microsoft.com/download/details.aspx?id=53018).
+
+- Para obter informações sobre a assinatura do Azure, confira as [Assinaturas e recursos da Proteção de Informações do Azure](https://azure.microsoft.com/pricing/details/information-protection).
