@@ -5,18 +5,19 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 3d162003c34773f4764c12cc27554e451fec4c27
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: e1f40da41eddc56c8086881a426bddb363c92446
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44225220"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686018"
 ---
 # <a name="billing-and-payment"></a>Cobrança e pagamento
 
@@ -34,24 +35,24 @@ Se estiver pagando por cartão de crédito ou conta bancária, o método de paga
 
 Se você tiver adicionado um novo cartão e ainda estiver recebendo um aviso de recusa no cartão de crédito antigo, talvez seja necessário associar esse novo cartão à assinatura.
 
-1. No centro de administração, vá para a página métodos de pagamento **de faturas**  >  **& pagamentos**  >  [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
+1. No centro de administração, acesse a página **Cobrança** > **Cobranças e pagamentos** > [Formas de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Selecione a linha do método de pagamento a ser substituída. O painel direito lista todos os perfis de cobrança e assinaturas individuais que usam a forma de pagamento selecionada.
+2. Selecione a linha do método de pagamento a ser substituído. O painel direito lista todos os perfis de cobrança e assinaturas individuais que usam o método de pagamento selecionado.
 
-3. No painel direito, selecione **substituir método de pagamento para todos os itens**.
+3. No painel direito, marque **Substituir o método de pagamento para todos os itens**.
 
-4. Para usar um método de pagamento existente, escolha um na lista suspensa e selecione **substituir**.
+4. Para usar um método de pagamento existente, escolha um na lista suspensa e selecione **Substituir**.
 
     > [!NOTE]
-    > Se você tiver assinaturas associadas a um perfil de cobrança, só poderá usar um cartão de crédito ou débito para pagar por eles. Se você tiver contas bancárias listadas na página **métodos de pagamento** , elas não estarão disponíveis para seleção na lista suspensa.
+    > Se você tiver assinaturas associadas a um perfil de cobrança, só poderá usar um cartão de crédito ou débito para pagar por eles. Se você tiver contas bancárias listadas na página **Métodos de pagamento**, elas não estarão disponíveis para seleção na lista suspensa.
 
-5. Para adicionar um novo método de pagamento, selecione **Adicionar método de pagamento**.
+5. Para adicionar um novo método de pagamento, marque**Adicionar método de pagamento**.
 
-6. No painel **Adicionar um método de pagamento** , insira as informações da conta e, em seguida, selecione **salvar**. Você deve usar um método de pagamento do mesmo país do seu locatário.
+6. No painel **Adicionar um método de pagamento**, insira as informações da conta e, em seguida, selecione **Salvar**. Você deve usar um método de pagamento do mesmo país do seu locatário.
 
-7. A nova forma de pagamento já está selecionada na lista suspensa. Selecione **substituir**.
+7. O novo método de pagamento já está selecionado na lista suspensa. Selecione **Substituir**.
 
-Para saber mais, confira [gerenciar métodos de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Para saber mais, consulte [Gerenciar métodos de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Frequência de cobrança**
 
