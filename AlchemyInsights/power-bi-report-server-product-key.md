@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: dc4418ed53bfc9e40eae8936f1b135b71ad57934
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: ec7b033d524ba257ee985b5cd11881b0b9109e8b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753486"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801937"
 ---
 # <a name="power-bi-report-server-product-key"></a>Chave do produto do servidor de relatório do Power BI
 
@@ -24,6 +25,6 @@ Se você comprou o Power BI Premium, na guia **configurações premium** do port
 
 Selecionar a **chave do servidor de relatório do Power bi** exibe uma caixa de diálogo contendo a chave do produto. Você pode copiá-lo e usá-lo com a instalação.
 
-Se você tiver um contrato de SA do SQL Server Enterprise, poderá obter sua chave do produto no [centro de serviços](https://www.microsoft.com/Licensing/servicecenter/)de licenciamento por volume.
+Se você tiver um contrato de SA do SQL Server Enterprise, poderá obter sua chave do produto no [centro de serviços de licenciamento por volume](https://www.microsoft.com/Licensing/servicecenter/).
 
-Para obter mais informações:https://docs.microsoft.com/power-bi/report-server/install-report-server
+Para obter mais informações: https://docs.microsoft.com/power-bi/report-server/install-report-server
