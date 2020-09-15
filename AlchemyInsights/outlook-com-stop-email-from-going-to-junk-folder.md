@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: e1da0c7b67c1f09f6ed6589848ddd2d4e5a5775a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6e10fb27472c770bb9530a20d86fd0ec1d3cb0dc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710935"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694263"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Impedir que as mensagens vá para a pasta lixo eletrônico
 
@@ -24,7 +25,7 @@ Se você descobrir que uma mensagem de email em sua pasta de lixo eletrônico no
 
 1. Abra a [pasta lixo eletrônico](https://outlook.live.com/mail/junkemail).
 1. Selecione a mensagem. (*Observação:* os itens em sua pasta lixo eletrônico são excluídos após 30 dias.)
-1. Acima da lista de mensagens, selecione **não lixo eletrônico** > **.**
+1. Acima da lista de mensagens, selecione **não lixo eletrônico**  >  **Not junk**.
 
 Se quiser impedir que qualquer mensagem de um remetente vá para a pasta lixo eletrônico, adicione o remetente à sua lista de remetentes confiáveis:
 
