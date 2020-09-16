@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 374aee5f3cc152d3fb03619c1748f7cc19b4ac44
-ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
+ms.openlocfilehash: 2c332abe8c525012f4d6b2cd8c3f7054ccc8933e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/08/2020
-ms.locfileid: "47406494"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736204"
 ---
-# <a name="teams-meeting-invitations"></a><span data-ttu-id="338d5-102">Convites para reuniões do Teams</span><span class="sxs-lookup"><span data-stu-id="338d5-102">Teams meeting invitations</span></span>
+# <a name="teams-meeting-invitations"></a><span data-ttu-id="78950-102">Convites para reuniões do Teams</span><span class="sxs-lookup"><span data-stu-id="78950-102">Teams meeting invitations</span></span>
 
-<span data-ttu-id="338d5-103">Precisa de ajuda para personalizar os convites das reunião do Teams para sua organização?</span><span class="sxs-lookup"><span data-stu-id="338d5-103">Need help customizing Teams Meeting Invitations for your organization?</span></span> <span data-ttu-id="338d5-104">Certifique-se de conferir [Personalizar convites da reunião](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).</span><span class="sxs-lookup"><span data-stu-id="338d5-104">Be sure to review [Customize Meeting invitations](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).</span></span>  
+<span data-ttu-id="78950-103">Precisa de ajuda para personalizar os convites das reunião do Teams para sua organização?</span><span class="sxs-lookup"><span data-stu-id="78950-103">Need help customizing Teams Meeting Invitations for your organization?</span></span> <span data-ttu-id="78950-104">Certifique-se de conferir [Personalizar convites da reunião](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).</span><span class="sxs-lookup"><span data-stu-id="78950-104">Be sure to review [Customize Meeting invitations](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).</span></span>  
 
-<span data-ttu-id="338d5-105">Para saber mais, confira o artigo [Gerenciar as configurações de reunião no Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).</span><span class="sxs-lookup"><span data-stu-id="338d5-105">For additional information see [Manage meeting settings in Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).</span></span>
+<span data-ttu-id="78950-105">Para saber mais, confira o artigo [Gerenciar as configurações de reunião no Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).</span><span class="sxs-lookup"><span data-stu-id="78950-105">For additional information see [Manage meeting settings in Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).</span></span>
