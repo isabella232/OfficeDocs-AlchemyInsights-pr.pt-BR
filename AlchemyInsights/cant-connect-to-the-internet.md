@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: c28ab39b88b4f088fb4c6e76450f79b16e1976ad
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 50e901a0bb6e6b4abefbb3aa8946c40fb11dfc99
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265040"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794250"
 ---
 # <a name="fix-network-connection"></a>Corrigir conexão de rede
 
@@ -38,7 +39,7 @@ Se isso não funcionar, tente reiniciar o computador, o modem e o roteador (se v
 
 3. Conecte o cabo de alimentação do modem e do roteador.
 
-4. Ao aguardar o modem e o roteador para ligar completamente, reinicie seu computador: **Iniciar** > **** > **reinicialização**de energia.
+4. Ao aguardar o modem e o roteador para ligar completamente, reinicie seu computador: **Iniciar**  >  **Power**  >  **reinicialização**de energia.
 
 **Solução de problemas avançada**
 
