@@ -6,19 +6,20 @@ manager: scotv
 ms.date: 08/06/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6117"
 - "9003238"
-ms.openlocfilehash: b07f28320049d6e91a005574683ea4e40f7636c1
-ms.sourcegitcommit: a96f029381c42d331b9ea64fa54061b7b96c4e52
+ms.openlocfilehash: c7126d0f8aae4835e151a371c1a50f9b48346efa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46580857"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754795"
 ---
-# <a name="migrate-from-federated-domain-to-managed-domain"></a><span data-ttu-id="af092-102">Migrar de domínio federado para domínio gerenciado</span><span class="sxs-lookup"><span data-stu-id="af092-102">Migrate from federated domain to managed domain</span></span>
+# <a name="migrate-from-federated-domain-to-managed-domain"></a><span data-ttu-id="42cf6-102">Migrar de domínio federado para domínio gerenciado</span><span class="sxs-lookup"><span data-stu-id="42cf6-102">Migrate from federated domain to managed domain</span></span>
 
-<span data-ttu-id="af092-103">Para converter ou migrar seu domínio federado para um domínio gerenciado, confira as diretrizes em [migrar da federação para a sincronização de hash de senha para o Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/plan-migrate-adfs-password-hash-sync).</span><span class="sxs-lookup"><span data-stu-id="af092-103">To convert or migrate your federated domain to a managed domain, see the guidelines in [Migrate from federation to password hash synchronization for Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/plan-migrate-adfs-password-hash-sync).</span></span>
+<span data-ttu-id="42cf6-103">Para converter ou migrar seu domínio federado para um domínio gerenciado, confira as diretrizes em [migrar da federação para a sincronização de hash de senha para o Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/plan-migrate-adfs-password-hash-sync).</span><span class="sxs-lookup"><span data-stu-id="42cf6-103">To convert or migrate your federated domain to a managed domain, see the guidelines in [Migrate from federation to password hash synchronization for Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/plan-migrate-adfs-password-hash-sync).</span></span>
