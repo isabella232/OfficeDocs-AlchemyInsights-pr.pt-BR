@@ -5,15 +5,16 @@ author: MikePlumleyMSFT
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: ed8e97b20c96a7b46995c969074cc4cef3a787d9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d8be1eb5bdcd0b5b08ddad32a45b6282c788c26a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715872"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720670"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>Restringir o acesso no SharePoint ou no OneDrive
 
@@ -25,6 +26,6 @@ Você pode compartilhar em um nível superior (por exemplo, compartilhar um site
     
 - Se você tiver duas subpastas em uma pasta e quiser compartilhar uma subpasta com grupos A e B e permitir apenas o grupo um acesso à segunda subpasta, compartilhe a pasta pai com o grupo A e adicione o grupo B à primeira subpasta.
     
-[Parar de compartilhar um arquivo ou uma pasta](https://go.microsoft.com/fwlink/?linkid=2008861)
+[Parar de compartilhar um arquivo ou uma pasta ](https://go.microsoft.com/fwlink/?linkid=2008861)
   
 
