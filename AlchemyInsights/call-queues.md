@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: c93e923e45261b1ff06993c64f167031b6f8bbff
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
+ms.openlocfilehash: 2cbb823c2051fd3c78233ce9ec5b090519654e69
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37316635"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734287"
 ---
 # <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Filas de chamadas no Microsoft Teams e no Skype for Business 
 
 Para começar a usar as filas de chamadas, consulte os links a seguir.
 
-- [Criar uma fila de chamada em nuvem](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [Atender chamadas de atendedor automático e fila de chamadas diretamente do teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+- [Criar uma fila de chamada do Cloud](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
+- [Atender chamadas do atendedor automático e da fila de chamadas diretamente no Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
