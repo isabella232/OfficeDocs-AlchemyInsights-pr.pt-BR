@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001475"
 - "3506"
-ms.openlocfilehash: 94dda7a42632f57ce3aef5f467b87df1033b8d49
-ms.sourcegitcommit: 9a35768444824cde9e192f1d9daafc9157437244
+ms.openlocfilehash: 7e7a397a1f6777972a81bcbb6bffa1c98d8370a4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42268558"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730147"
 ---
 # <a name="fix-bluetooth-problems-in-windows-10"></a>Corrigir problemas de Bluetooth no Windows 10
 
@@ -32,11 +33,11 @@ Se você instalou recentemente as atualizações do Windows 10 ou a atualizaçã
 
 1. No Gerenciador de dispositivos, clique em **Bluetooth**e, em seguida, clique no nome do adaptador Bluetooth (que pode incluir a palavra "rádio").
 
-2. Pressione e segure (ou clique com o botão direito do mouse) o adaptador Bluetooth e, em seguida, clique em **Atualizar** > **pesquisa de driver automaticamente para software de driver atualizado**. Siga as etapas e, em seguida, clique em **fechar**.
+2. Pressione e segure (ou clique com o botão direito do mouse) o adaptador Bluetooth e, em seguida, clique em **Atualizar**  >  **pesquisa de driver automaticamente para software de driver atualizado**. Siga as etapas e, em seguida, clique em **fechar**.
 
       - Se o Windows não conseguir encontrar um novo driver Bluetooth, visite o site do fabricante do computador e baixe o Driver Bluetooth mais recente de lá.
 
-    - Depois de baixá-lo, clique em **Atualizar driver** > **Procurar no computador para software** > de driver**procure** o local onde os arquivos de driver estão armazenados > **OK** > **Avançar**e siga as etapas para instalar.
+    - Depois de baixá-lo, clique em **Atualizar driver**  >  **Procurar no computador para software de driver**  >  **procure** o local onde os arquivos de driver estão armazenados > **OK**  >  **Avançar**e siga as etapas para instalar.
 
 3. Após instalar o driver atualizado, reinicie o computador e verifique se isso corrige o problema de conexão.
 
