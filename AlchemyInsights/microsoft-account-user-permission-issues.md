@@ -5,15 +5,16 @@ author: pebaum
 manager: pamgreen
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 3b863c5e9962dd29ca2ed41d113041d74830f615
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 512494a69ab274af00962cb9777a3479b4200fd7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702726"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725395"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Problema de solução de problemas-usuário não encontrado no diretório
 
@@ -23,7 +24,7 @@ As etapas a seguir podem ser concluídas para solucionar o problema.
 
 - Verifique se a conta que aceitou o convite por email é a mesma conta que está sendo usada para entrar mais tarde. Certifique-se de que o usuário está usando a mesma conta para aceitar o convite e entrar no site. 
 
-Para obter mais informações, consulte [como gerenciar aliases para sua conta</a> da Microsoft para gerenciar o logon do Microsoft 365](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
+Para obter mais informações, consulte [como gerenciar aliases para sua conta da Microsoft </a> para gerenciar o logon do Microsoft 365](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
 
 - Navegue até cada (s) site (s) em que o usuário está recebendo o erro. 
 
