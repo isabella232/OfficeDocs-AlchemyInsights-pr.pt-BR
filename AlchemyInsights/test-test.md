@@ -5,17 +5,18 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 54ac2dbc1f45f88541c2338f3b55a777b4b57123
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 06711c289365c0fcdf71cf9cccf3cfc53511495a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766841"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750439"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Habilitando a criptografia BitLocker com o Intune
 
@@ -24,7 +25,7 @@ A política do Intune Endpoint Protection pode ser usada para definir configura�
 Você deve estar ciente de que muitos dispositivos mais recentes que executam o Windows 10 dão suporte à criptografia automática do BitLocker, que é disparada sem a aplicação da política de MDM. Isso pode afetar a aplicação da política se as configurações não padrão forem configuradas. Confira mais detalhes na seção perguntas frequentes.
 
 
-Perguntas  frequentes p: Quais edições do Windows dão suporte à criptografia de dispositivo usando a política do Endpoint Protection?
+Perguntas frequentes   p: Quais edições do Windows dão suporte à criptografia de dispositivo usando a política do Endpoint Protection?
  A: as configurações na política do Intune Endpoint Protection são implementadas usando o CSP do BitLocker.Nem todas as edições nem versões do Windows dão suporte ao CSP do BitLocker. 
       No momento, edições do Windows: Enterprise; Educação, Mobile, Mobile Enterprise e Professional (da compilação 1809 em diante) são suportados.
 
