@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: bd2e8cb204edd7135fc34ef0d42ac8259434d37d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582727"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737941"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Sugestões para a solução de erros de "produto não licenciado"
 
@@ -35,7 +36,7 @@ Você também pode tentar as seguintes ações de solução de problemas:
 - [Reinicie o estado de ativação do Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). 
 - [Executar um reparo online do Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 
-Para visualizar mais opções de solução de problemas, consulte: 
+Para mais opções de solução de problemas, confira: 
 
 - [Erros de ativação e de Produto Não Licenciado no Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 - [Erro "Não foi possível conectar-se à sua conta. Tente novamente mais tarde" ao ativar o Office](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)
