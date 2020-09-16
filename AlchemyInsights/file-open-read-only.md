@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2fdb4f048c2bee022a49c2cca2ce9770f42a87a2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702762"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745560"
 ---
 # <a name="file-open-read-only"></a>Abrir arquivo somente leitura
 
@@ -37,7 +38,7 @@ Arquivos da Internet e de outros locais potencialmente não seguros podem conter
   
  **O OneDrive está completo?**
   
-Se o arquivo estiver armazenado no OneDrive e o espaço de armazenamento do OneDrive estiver cheio, você não poderá salvar o documento até que esteja sob o espaço alocado. Você pode verificar seu espaço livre no OneDrive clicando no ícone do OneDrive no centro de notificações e escolhendo gerenciar armazenamento ou pode ir para [https://onedrive.live.com](https://onedrive.live.com), entrar e observar a quantidade de espaço usado no canto inferior esquerdo da tela.
+Se o arquivo estiver armazenado no OneDrive e o espaço de armazenamento do OneDrive estiver cheio, você não poderá salvar o documento até que esteja sob o espaço alocado. Você pode verificar seu espaço livre no OneDrive clicando no ícone do OneDrive no centro de notificações e escolhendo gerenciar armazenamento ou pode ir para [https://onedrive.live.com](https://onedrive.live.com) , entrar e observar a quantidade de espaço usado no canto inferior esquerdo da tela.
   
  **O Office está ativado?**
   
