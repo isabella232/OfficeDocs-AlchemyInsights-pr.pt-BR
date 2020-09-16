@@ -4,27 +4,27 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
 ms.custom:
 - "2407"
 - "9000246"
-ms.openlocfilehash: 725de4832982cdebbfab76610ced3bee8a24a574
-ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
+ms.openlocfilehash: 508c16ef1e9906c4884064ef21b0527685dd1bb1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46786085"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47747035"
 ---
-# <a name="create-and-edit-modern-pages-on-a-sharepoint-site"></a><span data-ttu-id="e633c-102">Criar e editar páginas modernas em um site do SharePoint</span><span class="sxs-lookup"><span data-stu-id="e633c-102">Create and edit modern pages on a SharePoint site</span></span>
+# <a name="create-and-edit-modern-pages-on-a-sharepoint-site"></a><span data-ttu-id="7c340-102">Criar e editar páginas modernas em um site do SharePoint</span><span class="sxs-lookup"><span data-stu-id="7c340-102">Create and edit modern pages on a SharePoint site</span></span>
 
-<span data-ttu-id="e633c-103">Você pode editar arquivos e páginas de forma rápida e fácil, e eles ficam ótimos em qualquer dispositivo.</span><span class="sxs-lookup"><span data-stu-id="e633c-103">You can edit files and pages quickly and easily, and they look great on any device.</span></span> <span data-ttu-id="e633c-104">Para saber mais, confira os links abaixo.</span><span class="sxs-lookup"><span data-stu-id="e633c-104">For more information, please visit the links below.</span></span>
+<span data-ttu-id="7c340-103">Você pode editar arquivos e páginas de forma rápida e fácil, e eles ficam ótimos em qualquer dispositivo.</span><span class="sxs-lookup"><span data-stu-id="7c340-103">You can edit files and pages quickly and easily, and they look great on any device.</span></span> <span data-ttu-id="7c340-104">Para saber mais, confira os links abaixo.</span><span class="sxs-lookup"><span data-stu-id="7c340-104">For more information, please visit the links below.</span></span>
 
-- [<span data-ttu-id="e633c-105">Criar e editar páginas modernas em um site do SharePoint</span><span class="sxs-lookup"><span data-stu-id="e633c-105">Create and edit modern pages on a SharePoint site</span></span>](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)
-- [<span data-ttu-id="e633c-106">Criar e editar páginas clássicas em um site do SharePoint</span><span class="sxs-lookup"><span data-stu-id="e633c-106">Create and edit classic pages on a Sharepoint Site</span></span>](https://support.office.com/article/create-and-edit-classic-sharepoint-pages-ee50e4a0-d0c1-48c8-86e9-d468a8b13bac)
-- <span data-ttu-id="e633c-107">[Não é possível editar documentos no navegador](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/error-when-view-or-edit-in-browser).</span><span class="sxs-lookup"><span data-stu-id="e633c-107">[Unable to edit documents in browser](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/error-when-view-or-edit-in-browser).</span></span>
-- [<span data-ttu-id="e633c-108">Editar um documento em uma biblioteca de documentos</span><span class="sxs-lookup"><span data-stu-id="e633c-108">Edit a document in a document library</span></span>](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)
-- [<span data-ttu-id="e633c-109">Tipos de arquivo com suporte para a visualização de arquivos no OneDrive, no SharePoint e no Teams</span><span class="sxs-lookup"><span data-stu-id="e633c-109">File types supported for previewing files in OneDrive, SharePoint, and Teams</span></span>](https://support.office.com/article/file-types-supported-for-previewing-files-in-onedrive-sharepoint-and-teams-e054cd0f-8ef2-4ccb-937e-26e37419c5e4)
-- [<span data-ttu-id="e633c-110">Nomes e tipos de arquivos inválidos no OneDrive, OneDrive for Business e SharePoint</span><span class="sxs-lookup"><span data-stu-id="e633c-110">Invalid file names and file types in OneDrive, OneDrive for Business, and SharePoint</span></span>](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- [<span data-ttu-id="7c340-105">Criar e editar páginas modernas em um site do SharePoint</span><span class="sxs-lookup"><span data-stu-id="7c340-105">Create and edit modern pages on a SharePoint site</span></span>](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [<span data-ttu-id="7c340-106">Criar e editar páginas clássicas em um site do SharePoint</span><span class="sxs-lookup"><span data-stu-id="7c340-106">Create and edit classic pages on a Sharepoint Site</span></span>](https://support.office.com/article/create-and-edit-classic-sharepoint-pages-ee50e4a0-d0c1-48c8-86e9-d468a8b13bac)
+- <span data-ttu-id="7c340-107">[Não é possível editar documentos no navegador](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/error-when-view-or-edit-in-browser).</span><span class="sxs-lookup"><span data-stu-id="7c340-107">[Unable to edit documents in browser](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/error-when-view-or-edit-in-browser).</span></span>
+- [<span data-ttu-id="7c340-108">Editar um documento em uma biblioteca de documentos</span><span class="sxs-lookup"><span data-stu-id="7c340-108">Edit a document in a document library</span></span>](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)
+- [<span data-ttu-id="7c340-109">Tipos de arquivo com suporte para a visualização de arquivos no OneDrive, no SharePoint e no Teams</span><span class="sxs-lookup"><span data-stu-id="7c340-109">File types supported for previewing files in OneDrive, SharePoint, and Teams</span></span>](https://support.office.com/article/file-types-supported-for-previewing-files-in-onedrive-sharepoint-and-teams-e054cd0f-8ef2-4ccb-937e-26e37419c5e4)
+- [<span data-ttu-id="7c340-110">Nomes e tipos de arquivos inválidos no OneDrive, OneDrive for Business e SharePoint</span><span class="sxs-lookup"><span data-stu-id="7c340-110">Invalid file names and file types in OneDrive, OneDrive for Business, and SharePoint</span></span>](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
