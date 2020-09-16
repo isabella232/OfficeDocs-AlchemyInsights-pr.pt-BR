@@ -6,6 +6,7 @@ manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
@@ -13,12 +14,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.openlocfilehash: f4002dc865fb7a03b07a9256709b947d6d774cb0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44343097"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751231"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>Notificações de alerta do SharePoint não entregues
 
@@ -34,7 +35,7 @@ Perguntas frequentes sobre alertas:
 - Não é possível enviar alertas para o grupo de distribuição, somente os grupos de segurança e O365 têm suporte.
 - Você não pode personalizar modelos de email de alerta; Você precisa usar o fluxo de trabalho do Microsoft FLOW ou SharePoint Designer para obtê-los.
 
-## <a name="related-topics"></a>Tópicos relacionados
+## <a name="related-topics"></a>Tópicos Relacionados
 
 Deseja experimentar o Microsoft Flow no SharePoint Online?
 
