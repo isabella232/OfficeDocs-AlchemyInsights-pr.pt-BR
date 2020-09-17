@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
@@ -11,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: 7841348d404db74d94451ee19980387e20d08db9
-ms.sourcegitcommit: 018aadd53eac92248bc6d5ad63b739216103090a
+ms.openlocfilehash: f3a74bf74fb0786227e3f6c9bd53af1c8bebe098
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42940096"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795520"
 ---
-# <a name="set-up-advanced-ediscovery"></a><span data-ttu-id="5e7e7-102">Configurar a Descoberta Eletrônica Avançada</span><span class="sxs-lookup"><span data-stu-id="5e7e7-102">Set up advanced eDiscovery</span></span>
+# <a name="set-up-advanced-ediscovery"></a><span data-ttu-id="caf6c-102">Configurar a Descoberta Eletrônica Avançada</span><span class="sxs-lookup"><span data-stu-id="caf6c-102">Set up advanced eDiscovery</span></span>
 
-<span data-ttu-id="5e7e7-103">A Descoberta Eletrônica Avançada permite que você analise os dados não estruturados para ajudar a reduzir o custo da Descoberta Eletrônica.</span><span class="sxs-lookup"><span data-stu-id="5e7e7-103">Advanced eDiscovery lets you analyze your unstructured data to help reduce eDiscovery cost.</span></span> <span data-ttu-id="5e7e7-104">Você pode aplicar análise de texto, aprendizagem de máquina e codificação de relevância/preditiva.</span><span class="sxs-lookup"><span data-stu-id="5e7e7-104">You can apply text analytics, machine learning, and relevance/predictive coding.</span></span>  <span data-ttu-id="5e7e7-105">O recurso de Descoberta Eletrônica Avançada exige uma das seguintes opções:</span><span class="sxs-lookup"><span data-stu-id="5e7e7-105">The Advanced eDiscovery feature requires either of the following:</span></span>
+<span data-ttu-id="caf6c-103">A Descoberta Eletrônica Avançada permite que você analise os dados não estruturados para ajudar a reduzir o custo da Descoberta Eletrônica.</span><span class="sxs-lookup"><span data-stu-id="caf6c-103">Advanced eDiscovery lets you analyze your unstructured data to help reduce eDiscovery cost.</span></span> <span data-ttu-id="caf6c-104">Você pode aplicar análise de texto, aprendizagem de máquina e codificação de relevância/preditiva.</span><span class="sxs-lookup"><span data-stu-id="caf6c-104">You can apply text analytics, machine learning, and relevance/predictive coding.</span></span>  <span data-ttu-id="caf6c-105">O recurso de Descoberta Eletrônica Avançada exige uma das seguintes opções:</span><span class="sxs-lookup"><span data-stu-id="caf6c-105">The Advanced eDiscovery feature requires either of the following:</span></span>
 
-- <span data-ttu-id="5e7e7-106">Assinatura do Microsoft 365 E5 ou do Office 365 E5</span><span class="sxs-lookup"><span data-stu-id="5e7e7-106">Microsoft 365 E5 or Office 365 E5 subscription</span></span>
+- <span data-ttu-id="caf6c-106">Assinatura do Microsoft 365 E5 ou do Office 365 E5</span><span class="sxs-lookup"><span data-stu-id="caf6c-106">Microsoft 365 E5 or Office 365 E5 subscription</span></span>
 
-- <span data-ttu-id="5e7e7-107">Assinatura do Microsoft 365 E3 com complemento de Conformidade E5</span><span class="sxs-lookup"><span data-stu-id="5e7e7-107">Microsoft 365 E3 subscription with E5 Compliance add-on</span></span>
+- <span data-ttu-id="caf6c-107">Assinatura do Microsoft 365 E3 com complemento de Conformidade E5</span><span class="sxs-lookup"><span data-stu-id="caf6c-107">Microsoft 365 E3 subscription with E5 Compliance add-on</span></span>
 
-- <span data-ttu-id="5e7e7-108">Assinatura do Office 365 E3 com complemento de Conformidade Avançada</span><span class="sxs-lookup"><span data-stu-id="5e7e7-108">Office 365 E3 subscription with Advanced Compliance add-on</span></span>
+- <span data-ttu-id="caf6c-108">Assinatura do Office 365 E3 com complemento de Conformidade Avançada</span><span class="sxs-lookup"><span data-stu-id="caf6c-108">Office 365 E3 subscription with Advanced Compliance add-on</span></span>
 
-<span data-ttu-id="5e7e7-109">Veja a seguir uma visão geral detalhada das etapas para configurar e gerenciar a Descoberta Eletrônica Avançada:</span><span class="sxs-lookup"><span data-stu-id="5e7e7-109">Below is a high-level overview of steps to setup and manage Advanced eDiscovery:</span></span>
+<span data-ttu-id="caf6c-109">Veja a seguir uma visão geral detalhada das etapas para configurar e gerenciar a Descoberta Eletrônica Avançada:</span><span class="sxs-lookup"><span data-stu-id="caf6c-109">Below is a high-level overview of steps to setup and manage Advanced eDiscovery:</span></span>
 
-<span data-ttu-id="5e7e7-110">**1. Verificar e atribuir licenças apropriadas**</span><span class="sxs-lookup"><span data-stu-id="5e7e7-110">**1. Verify and assign appropriate licenses**</span></span>
+<span data-ttu-id="caf6c-110">**1. Verificar e atribuir licenças apropriadas**</span><span class="sxs-lookup"><span data-stu-id="caf6c-110">**1. Verify and assign appropriate licenses**</span></span>
 
-<span data-ttu-id="5e7e7-111">**2. Atribuir permissões de Descoberta Eletrônica**</span><span class="sxs-lookup"><span data-stu-id="5e7e7-111">**2. Assign eDiscovery permissions**</span></span>
+<span data-ttu-id="caf6c-111">**2. Atribuir permissões de Descoberta Eletrônica**</span><span class="sxs-lookup"><span data-stu-id="caf6c-111">**2. Assign eDiscovery permissions**</span></span>
 
-<span data-ttu-id="5e7e7-112">**3. Definir configurações globais para a Descoberta Eletrônica Avançada**</span><span class="sxs-lookup"><span data-stu-id="5e7e7-112">**3. Configure global settings for Advanced eDiscovery**</span></span>
+<span data-ttu-id="caf6c-112">**3. Definir configurações globais para a Descoberta Eletrônica Avançada**</span><span class="sxs-lookup"><span data-stu-id="caf6c-112">**3. Configure global settings for Advanced eDiscovery**</span></span>
 
-<span data-ttu-id="5e7e7-113">**4. Criar uma ocorrência de Descoberta Eletrônica Avançada**</span><span class="sxs-lookup"><span data-stu-id="5e7e7-113">**4. Create an Advanced eDiscovery case**</span></span>
+<span data-ttu-id="caf6c-113">**4. Criar uma ocorrência de Descoberta Eletrônica Avançada**</span><span class="sxs-lookup"><span data-stu-id="caf6c-113">**4. Create an Advanced eDiscovery case**</span></span>
 
-<span data-ttu-id="5e7e7-114">Para obter informações sobre as etapas necessárias para configurar a Descoberta Eletrônica Avançada, confira [Introdução à Descoberta Eletrônica Avançada](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="5e7e7-114">For information on the necessary steps to setup Advanced eDiscovery , see  [Get Started with Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery?view=o365-worldwide).</span></span>
+<span data-ttu-id="caf6c-114">Para obter informações sobre as etapas necessárias para configurar a Descoberta Eletrônica Avançada, confira [Introdução à Descoberta Eletrônica Avançada](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="caf6c-114">For information on the necessary steps to setup Advanced eDiscovery , see  [Get Started with Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery?view=o365-worldwide).</span></span>
