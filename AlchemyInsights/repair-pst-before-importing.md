@@ -6,18 +6,19 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 518543f664873c99d5f296284199cd417c620e00
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1ed37192a6b054b745fd48fbc01a6b00fa7074ed
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720125"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799084"
 ---
 # <a name="repair-pst-file-before-importing"></a>Reparar arquivo. pst antes de importar
 
@@ -25,9 +26,9 @@ Antes de importar um arquivo. pst no Outlook, verifique se o arquivo não está 
 
 1. Saia do Outlook.
 
-2. Localizar e executar `Scanpst.exe` na pasta de programa do Office (c:\Arquivos de programas (x86)\<\Microsoft\> Office\root\Office versão ou c:\Arquivos\<de\>Programas\Microsoft Office\root\Office versão).
+2. Localize e execute `Scanpst.exe` na pasta de programa do Office (c:\Arquivos de programas (x86) \Microsoft Office\root\Office \<Version\> ou C:\Arquivos de Programas\Microsoft Office\root\Office \<Version\> ).
 
-3. Na **ferramenta de reparo da caixa de entrada do Microsoft Outlook**, clique em **procurar** para localizar o arquivo. pst (\\ por exemplo\>, em C:\Users<username \AppData\Local\Microsoft\Outlook). Selecione o arquivo. pst e clique em **abrir**.
+3. Na **ferramenta de reparo da caixa de entrada do Microsoft Outlook**, clique em **procurar** para localizar o arquivo. pst (por exemplo, em C:\Users \\<username \> \AppData\Local\Microsoft\Outlook). Selecione o arquivo. pst e clique em **abrir**.
 
 4. Clique em **Iniciar** para iniciar a verificação.
 

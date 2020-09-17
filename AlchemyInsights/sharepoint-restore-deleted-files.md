@@ -5,23 +5,24 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 2702837bff2c0a465dde2c090a44e02747cc85ec
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: fc560686ec5c6a3d42a97687fda80ae5001b5c60
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051053"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797536"
 ---
 # <a name="restore-a-deleted-file-or-folder"></a>Restaurar um arquivo ou pasta excluído
 
-O SharePoint Online mantém backups de todo o conteúdo por 14 outros dias além da exclusão real. Se o conteúdo não puder ser restaurado por meio da lixeira ou da restauração de arquivos, um administrador pode entrar em contato com o suporte da Microsoft para solicitar uma restauração a qualquer momento dentro da janela de 14 dias. As restaurações de backups só podem ser concluídas para conjuntos de sites ou subsites, não para arquivos específicos, listas ou bibliotecas.
+O SharePoint Online mantém os backups de todo o conteúdo por 14 dias adicionais além da exclusão real. Se o conteúdo não puder ser restaurado por meio da lixeira ou da restauração de arquivos, um administrador pode entrar em contato com o suporte da Microsoft para solicitar uma restauração a qualquer momento dentro da janela de 14 dias. As restaurações de backups podem ser concluídas apenas nos conjuntos ou subsite de sites, não em arquivos, listas ou bibliotecas específicas.
 
-Quando você exclui um item ou site do SharePoint, ele não é removido imediatamente. Os itens excluídos vão para a lixeira por um período de tempo. Durante esse tempo, você pode restaurar os itens excluídos para o local original. Para obter mais informações, visite os links abaixo.
+Quando você exclui um item ou site do SharePoint, ele não é removido imediatamente. Os itens excluídos vão para a lixeira por um período de tempo. Durante esse período, você pode restaurar os itens excluídos para o local original. Para saber mais, confira os links abaixo.
 
 [Restaurar itens na lixeira de um site do SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b).
 
@@ -33,7 +34,7 @@ Quando você exclui um item ou site do SharePoint, ele não é removido imediata
 
 Para ações de lixeira em massa, os administradores podem considerar o uso de [PnP do SharePoint Online](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps).
 
-**Recurso de restauração de arquivos**
+**Recurso Restaurar arquivos**
 
 Se vários arquivos do OneDrive ou do SharePoint forem excluídos, substituídos, corrompidos ou infectados por malware, você poderá restaurar toda a sua biblioteca do OneDrive ou do SharePoint para uma hora anterior usando o recurso de restauração de arquivos.
 
