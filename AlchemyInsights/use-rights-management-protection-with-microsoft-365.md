@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,19 +13,19 @@ ms.custom:
 - "9001670"
 - "3737"
 - "3820"
-ms.openlocfilehash: 149d349deed9dd698f94adb64fcc429f8e8d2afc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ebaff37a0f56cc6fb997c9a22df905bd9c8d00f7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710683"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799876"
 ---
-# <a name="use-rights-management-protection-with-microsoft-365"></a><span data-ttu-id="2b963-102">Use a Proteção de Gerenciamento de Direitos com o Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="2b963-102">Use Rights Management Protection with Microsoft 365</span></span>
+# <a name="use-rights-management-protection-with-microsoft-365"></a><span data-ttu-id="4b261-102">Use a Proteção de Gerenciamento de Direitos com o Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="4b261-102">Use Rights Management Protection with Microsoft 365</span></span>
 
-<span data-ttu-id="2b963-103">Você deve ativar o [serviço de Gerenciamento de Direitos (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) antes de poder usar os recursos do Gerenciamento de Direitos de Informação(IRM) dos aplicativos e serviços Microsoft.</span><span class="sxs-lookup"><span data-stu-id="2b963-103">You must activate the [Rights Management service (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) before you can use the Information Rights Management (IRM) features of Microsoft applications and services.</span></span>
+<span data-ttu-id="4b261-103">Você deve ativar o [serviço de Gerenciamento de Direitos (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) antes de poder usar os recursos do Gerenciamento de Direitos de Informação(IRM) dos aplicativos e serviços Microsoft.</span><span class="sxs-lookup"><span data-stu-id="4b261-103">You must activate the [Rights Management service (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) before you can use the Information Rights Management (IRM) features of Microsoft applications and services.</span></span>
 
-1. <span data-ttu-id="2b963-104">Para obter os requisitos de licença e a ativação no **centro de administração do Microsoft 365**, confira [Como ativar a Proteção do Gerenciamento de Direitos no Centro de Administração do Microsoft 365](https://docs.microsoft.com/azure/information-protection/activate-office365).</span><span class="sxs-lookup"><span data-stu-id="2b963-104">For license requirements and activation from the **Microsoft 365 admin center**, see [How to activate Rights Management Protection from Microsoft 365 Admin Center](https://docs.microsoft.com/azure/information-protection/activate-office365).</span></span> <span data-ttu-id="2b963-105">**Observação**: exige a Conta de Administração Global.</span><span class="sxs-lookup"><span data-stu-id="2b963-105">**Note**: Requires Global Administration Account.</span></span>
+1. <span data-ttu-id="4b261-104">Para obter os requisitos de licença e a ativação no **Centro de administração do Microsoft 365**, consulte [Como ativar a Proteção do Gerenciamento de Direitos no Centro de Administração do Microsoft 365](https://docs.microsoft.com/azure/information-protection/activate-office365).</span><span class="sxs-lookup"><span data-stu-id="4b261-104">For license requirements and activation from the **Microsoft 365 admin center**, see [How to activate Rights Management Protection from Microsoft 365 admin center](https://docs.microsoft.com/azure/information-protection/activate-office365).</span></span> <span data-ttu-id="4b261-105">**Observação**: exige a Conta de Administração Global.</span><span class="sxs-lookup"><span data-stu-id="4b261-105">**Note**: Requires Global Administration Account.</span></span>
 
-2. <span data-ttu-id="2b963-106">Para obter os requisitos de licença e a ativação do **Portal do Azure**, confira [Como ativar o serviço de Proteção do Gerenciamento de Direitos do portal do Azure](https://docs.microsoft.com/azure/information-protection/activate-azure).</span><span class="sxs-lookup"><span data-stu-id="2b963-106">For license requirements and activation from **Azure Portal**, see [How to activate the Rights Management protection service from Azure portal](https://docs.microsoft.com/azure/information-protection/activate-azure).</span></span> <span data-ttu-id="2b963-107">**Observação**: não há necessidade de uma Conta de Administrador Global.</span><span class="sxs-lookup"><span data-stu-id="2b963-107">**Note**: Does not require Global Administrator Account.</span></span>
+2. <span data-ttu-id="4b261-106">Para obter os requisitos de licença e a ativação do **Portal do Azure**, confira [Como ativar o serviço de Proteção do Gerenciamento de Direitos do portal do Azure](https://docs.microsoft.com/azure/information-protection/activate-azure).</span><span class="sxs-lookup"><span data-stu-id="4b261-106">For license requirements and activation from **Azure Portal**, see [How to activate the Rights Management protection service from Azure portal](https://docs.microsoft.com/azure/information-protection/activate-azure).</span></span> <span data-ttu-id="4b261-107">**Observação**: não há necessidade de uma Conta de Administrador Global.</span><span class="sxs-lookup"><span data-stu-id="4b261-107">**Note**: Does not require Global Administrator Account.</span></span>
 
-<span data-ttu-id="2b963-108">Para saber mais, confira [Ponteiros para informações sobre o Gerenciamento de Direitos no centro de administração](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).</span><span class="sxs-lookup"><span data-stu-id="2b963-108">For more info, see [Pointers to information about Rights Management in the admin center](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).</span></span>
+<span data-ttu-id="4b261-108">Para saber mais, confira [Ponteiros para informações sobre o Gerenciamento de Direitos no centro de administração](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).</span><span class="sxs-lookup"><span data-stu-id="4b261-108">For more info, see [Pointers to information about Rights Management in the admin center](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).</span></span>
