@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 8f9b9a06d12c289f40f9be8247621a01c619f21e
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: a056a9bf006b2400b94ee52444ab83e71b232348
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789218"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737545"
 ---
 # <a name="subscription-no-longer-active"></a>A assinatura não está mais ativa
 
@@ -24,12 +25,14 @@ Se um [aviso de assinatura for exibido quando um aplicativo da Microsoft](https:
 
 **Reativar uma assinatura**
 
-1. No centro de administração, acesse a página **Faturamento > [Produtos e serviços](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. No centro de administração, acesse a página **Cobrança** > **[Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Na página Produtos e serviços, encontre a assinatura que quer reativar.
+2. Localize a assinatura que você deseja reativar.
 
-3. Na seção Faturamento, clique em **Reativar agora**.  Se você estiver na visualização Cartões, clique nas reticências entre o Nome e a quantidade Disponível e escolha Reativar no menu. **Observação**: Se você não encontrar a assinatura que está procurando, pode ser necessário ajustar o filtro de Status da assinatura na parte superior da página para **Todos**.
+3. Na seção **Cobrança**, clique em **Reativar agora**.  Se você estiver no modo de exibição de **Cartões**, clique nas reticências entre o **Nome** e a **Quantidade disponível** e escolha **Reativar** no menu.
+
+**Observação**: Se você não encontrar a assinatura que está procurando, pode ser necessário ajustar o filtro de **Status da assinatura** na parte superior da página para **Todos**.
 
 4. Confirme seus detalhes de pagamento para atualizar suas informações de pagamento existentes. Quando você terminar de inserir sua forma de pagamento, clique em **Reativar**.
 
-Para obter mais informações, consulte [Reativar sua assinatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Para obter mais informações, consulte [Reativar sua assinatura](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

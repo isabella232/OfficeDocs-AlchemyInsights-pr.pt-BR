@@ -5,6 +5,7 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
@@ -12,12 +13,12 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 50b2c29db1fd294abe6c9e60f067156109de392b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 21d0f8d0118d92562b425921742513157563b5fb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742197"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773835"
 ---
 # <a name="sharepoint-online-throttling"></a>Limitação do SharePoint Online
 
@@ -27,7 +28,7 @@ ms.locfileid: "43742197"
 
 Os usuários podem receber um erro de servidor 503 está ocupado ao tentar navegar até sites do SharePoint ou do OneDrive. 
 
-Esse erro pode ser causado pela limitação no serviço do SharePoint. SharePoint Online usa a limitação para manter o melhor desempenho e confiabilidade do serviço SharePoint Online. O número de ações do usuário ou simultâneas redução dos limites chamadas (por script ou código) para impedir o uso excessivo de recursos. 
+Esse erro pode ser causado pela limitação no serviço do SharePoint. SharePoint Online usa a limitação para manter o melhor desempenho e confiabilidade do serviço SharePoint Online. A limitação limita o número de ações do usuário ou de chamadas simultâneas (por script ou código) a fim de impedir o uso excessivo de recursos. 
 
 Para obter mais informações sobre limitação, confira o artigo sobre [como ficar limitado ou bloqueado no SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 

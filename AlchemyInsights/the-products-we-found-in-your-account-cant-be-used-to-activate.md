@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3418"
 - "9001424"
-ms.openlocfilehash: a3996d97af29c56fc500a8624515bade49d7d056
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 857118b1c97a2971ff8ec6a055ae16efeb47a5ce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581899"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773331"
 ---
 # <a name="fixing-the-microsoft-365-apps-the-products-we-found-in-your-account-cant-be-used-to-activate-message"></a>Corrigindo os aplicativos do Microsoft 365 "os produtos que encontramos em sua conta não podem ser usados para ativar" a mensagem
 
