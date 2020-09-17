@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -11,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 21f9ead80336e638a064d16ca14c3ec5c73046c3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: dd5dd5550ecaa781afd10c14157b437f3a78f9af
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052061"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47782891"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>O usuário externo não consegue aceitar um convite de compartilhamento
 
