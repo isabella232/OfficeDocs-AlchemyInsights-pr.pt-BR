@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: c49dfbf422b312f4744711d5f12b0eb83b6ebf2e
-ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
+ms.openlocfilehash: 39310233eae83ceb18c6ff82451ae747f3c50048
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/16/2020
-ms.locfileid: "44268760"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691095"
 ---
 # <a name="teams-client-crashing"></a>Falha nos clientes do Teams?
 
@@ -28,36 +29,22 @@ Se o cliente de Teams estiver falhando, experimente o seguinte:
 
 - Entre com sua conta de administrador de locatário e consulte [Painel de integridade do serviço](https://docs.microsoft.com/office365/enterprise/view-service-health) para verificar se existe erro ou degradação do serviço.
 
- - Como uma última etapa, você pode tentar limpar o cache de cliente do Teams:
+- Desinstalar e reinstalar o aplicativo Teams (link)
+    - Navegue até a pasta %appdata%\Microsoft\teams\ no computador e exclua todos os arquivos desse diretório.
+    - [Baixar e instalar o aplicativo Teams](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)e, se possível, instale o Teams como um administrador (clique com o botão direito do mouse no instalador Teams e selecione "Executar como administrador", se disponível).
 
-    1.  Sair completamente do cliente do aplicativo para desktop Microsoft Teams. Você pode clicar com o botão direito do mouse em **Teams** na Bandeja de Ícones e clicar em **Sair**, ou executar o Gerenciador de Tarefas e eliminar completamente o processo.
-
-    2.  Vá para o explorador de arquivos e digite%appdata%\Microsoft\teams.
-
-    3.  Uma vez no diretório, você verá algumas das seguintes pastas:
-
-         - A partir de **Cache de Aplicativos**, vá até Cache e exclua qualquer um dos arquivos no local do Cache:  %appdata%\Microsoft\teams\application cache\cache.
-
-        - No **Blob_storage**, exclua todos os arquivos: %appdata%\Microsoft\teams\blob_storage.
-
-        - No **Cache**, exclua todos os arquivos: %appdata%\Microsoft\teams\Cache.
-
-        - No **banco de dados**, exclua todos os arquivos: %appdata%\Microsoft\teams\databases.
-
-        - No **GPUCache**, exclua todos os arquivos: %appdata%\Microsoft\teams\GPUcache.
-
-        - Em **IndexedDB**, exclua o arquivo .db. db:%appdata%\Microsoft\teams\IndexedDB.
-
-        - No **Armazenamento Local**, exclua todos os arquivos: %appdata%\Microsoft\teams\Local Storage.
-
-        - Por fim, no **tmp**, exclua qualquer arquivos: %appdata%\Microsoft\teams\tmp.
-
-    4. Reinicie o cliente do Teams.
-
-Se o seu cliente do Teams ainda estiver travando, você pode reproduzir o problema? Se sim: 
+Se o seu cliente do Teams ainda estiver travando, você pode reproduzir o problema? Se sim:
 
 1. Use o gravador de etapas para capturar suas etapas.
     - Feche TODOS os aplicativos desnecessários ou confidenciais.
     - Inicie o Gravador de etapas e reproduza o problema enquanto estiver conectado à conta de usuário afetada.
+    - [Reúna os logs de equipes que capturam as etapas de reprodução registradas](https://docs.microsoft.com/microsoftteams/log-files). **Observação**: não deixe de capturar o endereço de entrada do usuário afetado.
+    - Coletar as informações de despejo e/ou balde de falha (Windows). Inicie o Windows PowerShell no computador onde a falha está ocorrendo e execute os seguintes comandos:
+
+        `
+        PS C:\Users\user01> cd $env:temp
+        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
+        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
+        `
     
 2. Anexe o arquivo ao seu caso de suporte.
