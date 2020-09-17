@@ -5,24 +5,25 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: aada8e90d168a4c621dd81ee8d306b934c20d119
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6f026f932bb35d12d32ce7eddf49e49a44db7f31
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761802"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799552"
 ---
 # <a name="network-migration"></a>Migração de rede
 
 Seu locatário do O365 é possivelmente associado a várias redes do yammer em um locatário 1: muitas configurações de rede. A partir de 16 de outubro de 2018, o Yammer não dará mais suporte a várias redes do Yammer associadas a um locatário. Você pode executar uma migração de rede para obter uma configuração de 1:1 preferencial.
   
-- Para exibir uma lista das redes associadas ao seu locatário, faça logon no Yammer como um administrador global e navegue até **administrador de rede**e, em seguida, **migração de rede**. Escolha **Avançar**.
+- Para exibir uma lista das redes associadas ao seu locatário, faça logon no Yammer como um administrador global e navegue até **administrador de rede**e, em seguida, **migração de rede**. Escolha **Próximo**.
 
 - Se você vir várias redes listadas na etapa 2 de 3, terá várias redes do Yammer associadas ao seu locatário do O365.
 
