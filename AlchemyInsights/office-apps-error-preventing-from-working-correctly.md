@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2534"
 - "9000572"
-ms.openlocfilehash: 42d499b584f896a73cd94f3a3eaa60a1220ea420
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: aaff626451e389c229cf0ed0532e44b637090fec
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576800"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802945"
 ---
 # <a name="microsoft-365-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Erro de aplicativos Microsoft 365: o aplicativo foi executado em um erro que o está impedindo de funcionar corretamente
 
-Para corrigir esse erro, tente as seguintes opções:
+Para consertar esse erro, tente as seguintes opções:
 
 - Verificar ou [instalar as atualizações mais recentes](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5) do Office
 - Investigue possíveis [problemas com os suplementos](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d?ocmsassetID=HA104114659&CorrelationId=98329f6f-f51f-4f44-a876-4142c3583312#bkmk_addins) instalados para o Office
@@ -32,5 +33,5 @@ Para corrigir esse erro, tente as seguintes opções:
 Para saber mais, confira: 
 
 - [Erro ao abrir o Microsoft 365 aplicativos](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
-- [Recebo um erro de "trabalho interrompido" Quando inicio aplicativos do Office no meu computador](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
+- [Recebo um erro "parou de funcionar" quando inicio os aplicativos do Office no meu Computador](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
 - [Solucionar problemas que ocorrem quando você inicia ou usa o Microsoft 365 aplicativos](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
