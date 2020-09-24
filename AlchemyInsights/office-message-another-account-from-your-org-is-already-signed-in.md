@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 0a9678905a58be2b68ad60d0d947483671d6b3b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2bb894cf97c094a1648da8db83cbd459da4fda4
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802801"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236005"
 ---
 # <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Mensagem de aplicativos do Microsoft 365: Outra conta da sua organização já está conectada neste dispositivo
 
@@ -32,6 +32,8 @@ Para corrigir esse erro, use as etapas a seguir:
 - Clique no ícone **+** para adicionar ou conectar sua conta. Insira suas credenciais e aguarde a conclusão do processo.
 
 - Inicie o aplicativo do Office e entre novamente se necessário. 
+
+**Dica** em computadores com Windows, podemos diagnosticar e corrigir automaticamente vários problemas de entrada comuns do Office para você. Baixe e execute o  **[Assistente de Suporte e Recuperação da Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** para usar nossa ferramenta automatizada.
 
 Se o problema persistir, experimente o seguinte procedimento: 
 
