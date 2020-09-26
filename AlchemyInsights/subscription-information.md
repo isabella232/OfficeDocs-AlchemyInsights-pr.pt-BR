@@ -2,7 +2,7 @@
 title: Informações de assinatura
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,29 +14,25 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: dcf016e451cf1d88484578b9bc250fdf2ee11624
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f328c870d2fcd8093c2fd10bb26ca0326ddf2ccd
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737581"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286982"
 ---
-# <a name="subscription-information"></a><span data-ttu-id="7d90b-102">Informações de assinatura</span><span class="sxs-lookup"><span data-stu-id="7d90b-102">Subscription information</span></span>
+# <a name="subscription-information"></a><span data-ttu-id="e480b-102">Informações de assinatura</span><span class="sxs-lookup"><span data-stu-id="e480b-102">Subscription information</span></span>
 
-<span data-ttu-id="7d90b-103">Para obter informações sobre as assinaturas de sua propriedade, acesse a página **cobrança** \> **[de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="7d90b-103">For information about the subscriptions you own, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+<span data-ttu-id="e480b-103">Para obter informações sobre as assinaturas de sua propriedade, acesse a página **cobrança** \> [de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="e480b-103">For information about the subscriptions you own, go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
   
-<span data-ttu-id="7d90b-104">Informações importantes sobre cada assinatura:</span><span class="sxs-lookup"><span data-stu-id="7d90b-104">Key information about each subscription:</span></span>
+<span data-ttu-id="e480b-104">A tabela mostra as seguintes informações de chave sobre cada assinatura:</span><span class="sxs-lookup"><span data-stu-id="e480b-104">The table shows the following key information about each subscription:</span></span>
   
-- <span data-ttu-id="7d90b-105">Status de cada</span><span class="sxs-lookup"><span data-stu-id="7d90b-105">Status of each</span></span>
-
-- <span data-ttu-id="7d90b-106">Licenças compradas</span><span class="sxs-lookup"><span data-stu-id="7d90b-106">Licenses purchased</span></span>
-
-- <span data-ttu-id="7d90b-107">Licenças atribuídas</span><span class="sxs-lookup"><span data-stu-id="7d90b-107">Licenses assigned</span></span>
-
-- <span data-ttu-id="7d90b-108">Status de cobrança recorrente</span><span class="sxs-lookup"><span data-stu-id="7d90b-108">Recurring billing status</span></span>
-
-- <span data-ttu-id="7d90b-109">Carga</span><span class="sxs-lookup"><span data-stu-id="7d90b-109">Balance</span></span>
-
-- <span data-ttu-id="7d90b-110">Método de pagamento</span><span class="sxs-lookup"><span data-stu-id="7d90b-110">Payment method</span></span>
-
-- <span data-ttu-id="7d90b-111">Próxima cobrança ou data de vencimento</span><span class="sxs-lookup"><span data-stu-id="7d90b-111">Next billing or expiration date</span></span>
+- <span data-ttu-id="e480b-105">Nome do produto</span><span class="sxs-lookup"><span data-stu-id="e480b-105">Product name</span></span>
+- <span data-ttu-id="e480b-106">Licenças atribuídas</span><span class="sxs-lookup"><span data-stu-id="e480b-106">Licenses assigned</span></span>
+- <span data-ttu-id="e480b-107">Licenças compradas</span><span class="sxs-lookup"><span data-stu-id="e480b-107">Licenses purchased</span></span>
+- <span data-ttu-id="e480b-108">Status</span><span class="sxs-lookup"><span data-stu-id="e480b-108">Status</span></span>
+- <span data-ttu-id="e480b-109">Renovação ou data de vencimento</span><span class="sxs-lookup"><span data-stu-id="e480b-109">Renewal or expiration date</span></span>
+- <span data-ttu-id="e480b-110">Método de pagamento</span><span class="sxs-lookup"><span data-stu-id="e480b-110">Payment method</span></span>
+- <span data-ttu-id="e480b-111">Conta de cobrança (se aplicável)</span><span class="sxs-lookup"><span data-stu-id="e480b-111">Billing account (if applicable)</span></span>
+ 
+<span data-ttu-id="e480b-112">Para adicionar ou remover colunas, selecione **escolher colunas**.</span><span class="sxs-lookup"><span data-stu-id="e480b-112">To add or remove columns, select **Choose columns**.</span></span>
