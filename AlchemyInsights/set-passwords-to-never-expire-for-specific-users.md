@@ -15,18 +15,18 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 4787e9e4be87785b7273ee74f175092c5a85f15e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f9cac3fa487c42db60065a94eb7a8c2c9271691
+ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795556"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48295594"
 ---
 # <a name="set-passwords-to-never-expire"></a>Definir senhas para nunca expirar
 
-Para definir todas as senhas como nunca expirar, no centro de administração do Microsoft 365, acesse a página **configurações**de  >  [ &amp; privacidade de segurança](https://portal.office.com/adminportal/home#/settings/security) . Selecione **Editar** ao lado de **política de senha**e ative o controle deslizante. **On**
+Para definir todas as senhas para nunca expirar, no centro de administração do Microsoft 365, vá para as configurações da organização **configurações**do  >  **> [segurança e](https://portal.office.com/adminportal/home#/settings/security)a  >  [política de expiração da senha](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) de privacidade** e desmarque a opção definir senhas do usuário para expirar após vários dias.
   
-Para obter informações mais detalhadas, consulte: 
+Para obter informações mais detalhadas, consulte:
 
 - [Definir a política de expiração de senha para sua organização.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
