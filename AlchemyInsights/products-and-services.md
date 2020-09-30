@@ -1,8 +1,8 @@
 ---
 title: Seus produtos
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: c7c4e9427bcdd1416a197d8df078be2638da55a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49f90fd3a911abaebe158e442d97f9345548ee88
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799228"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307006"
 ---
 # <a name="your-products"></a>Seus produtos
 
-Você pode encontrar as assinaturas pertencentes à sua organização na página **cobrança**  >  **[de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Aqui estão alguns dos destaques desta página, juntamente com links para obter mais informações sobre cada recurso:
+Você pode encontrar as assinaturas pertencentes à sua organização na página **cobrança**  >  [de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054) . Aqui estão alguns dos destaques desta página, juntamente com links para obter mais informações sobre cada recurso:
 
-1. Gerencie o número de licenças que foram adquiridas para cada assinatura, juntamente com quantos estão em uso.  **Observação**: as licenças que não estão em uso (não atribuídas a um usuário) ainda são cobradas.  Para não ser cobrado por licenças não usadas, reduza o número de licenças adquiridas. Para obter informações sobre como adicionar ou remover licenças de uma assinatura, consulte [como adicionar ou reduzir licenças](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
+1. Exibir o número de licenças atribuídas e quantas licenças foram adquiridas para cada assinatura.
+    > [!NOTE]
+    > Você ainda está cobrado por licenças que não estão em uso (não atribuídas a um usuário). Para não ser cobrado por licenças não usadas, reduza o número de licenças adquiridas. Para obter informações sobre como adicionar ou remover licenças de uma assinatura, consulte [como adicionar ou reduzir licenças](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
+2. Exibir o status de cada assinatura. Para saber como reativar uma assinatura, confira [reativar sua assinatura](reactivate-your-subscription.md).
+3. Exibir a data de renovação ou de expiração de cada assinatura. Você pode gerenciar a renovação selecionando a assinatura e, em seguida, selecionando **Editar cobrança recorrente**. Para saber como gerenciar a cobrança recorrente, confira [gerenciar cobrança recorrente](manage-auto-renewal.md).
+4. Exiba o método de pagamento usado para cada assinatura. Para saber como alterar a forma de pagamento, confira [alterar método de pagamento](change-payment-method.md).
+5. [Alterar a frequência de pagamento](change-how-often-you-pay.md).
+6. [Cancelar a assinatura](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-2. Exiba a data de renovação ou de expiração da assinatura.  Você pode gerenciar a renovação clicando no link **Editar** ao lado da data **renovar/expira** em.  Consulte [renovar Microsoft 365 for Business](https://go.microsoft.com/fwlink/?linkid=2119216) para obter mais informações sobre como gerenciar a cobrança recorrente.
-
-3. [Reativar uma assinatura expirada ou desabilitada](https://go.microsoft.com/fwlink/?linkid=2117519).
-
-4. [Edite o método de pagamento usado para pagar a assinatura](https://go.microsoft.com/fwlink/?linkid=2117167).
-
-5. [Altere a frequência com que você é cobrado](https://go.microsoft.com/fwlink/?linkid=2119112).
-
-6. [Cancele a assinatura](https://go.microsoft.com/fwlink/?linkid=2119113).
-
-Você pode adquirir assinaturas adicionais da página serviços de **Billing**  >  [**compra**](https://go.microsoft.com/fwlink/p/?linkid=868433) de cobrança.
+Você pode comprar assinaturas adicionais na página serviços de **Billing**  >  [compra](https://go.microsoft.com/fwlink/p/?linkid=868433) de cobrança.
