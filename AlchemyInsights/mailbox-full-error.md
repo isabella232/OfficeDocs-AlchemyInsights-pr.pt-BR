@@ -4,7 +4,7 @@ title: "NDR com código de erro" 554 5.2.2 caixa de correio cheia "" MS. Author:
 - 3500007
 ---
 
-# <a name="ndr-with-error-code-554-522-mailbox-full"></a>NDR com código de erro "554 5.2.2 caixa de correio cheia"
+# <a name="ndr-with-error-code-554-522-mailbox-full"></a>NDR com código de erro 554 5.2.2 caixa de correio cheia
 
 Se você estiver obtendo um NDR com código de erro "554 5.2.2 caixa de correio cheia", ao enviar emails para uma pasta pública habilitada para email:  
 
