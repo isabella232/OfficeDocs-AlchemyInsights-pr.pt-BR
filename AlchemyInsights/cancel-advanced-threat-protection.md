@@ -1,8 +1,8 @@
 ---
 title: Cancelar proteção avançada contra ameaças
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683678"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416262"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Cancelar proteção avançada contra ameaças
 
-A proteção avançada contra ameaças pode ser cancelada no **centro de administração do Microsoft 365**.
+Os administradores podem cancelar a assinatura avançada de proteção contra ameaças de sua organização no centro de administração do Microsoft 365.
 
 1. Vá para a página **cobrança**  >  [de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Localize o plano de proteção avançada contra ameaças para cancelar.
-3. Clique em **cancelar assinatura**.
+2. Na guia **produtos** , encontre o plano de proteção avançada contra ameaças que você deseja cancelar. Selecione **mais ações** (três pontos) e, em seguida, selecione **cancelar assinatura**.
+3. No painel **cancelar assinatura** , escolha um motivo pelo qual você está cancelando. Opcionalmente, forneça comentários.
+4. Selecione **Salvar**.
 
-Reembolso: qualquer crédito rateado será retornado para você no próximo ciclo de cobrança.
-
-**Observação**: se você não vir a opção para cancelar, clique na assinatura para exibir os detalhes e você deverá ver a opção **Cancelar inscrição** em **configurações & ações**.
+**Reembolso:** Qualquer crédito rateado será retornado para você no próximo ciclo de cobrança.
 
 Para saber mais, confira [cancelar sua assinatura](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
