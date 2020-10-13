@@ -1,8 +1,8 @@
 ---
 title: Cancelar a sua assinatura da Microsoft
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 50cac2ae491e0bea1a18a56cc78cd8d3105b3a40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12a2daf3cc68b85a26d29088315d1046ddf3cfb6
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683246"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416455"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Cancelar a sua assinatura da Microsoft
 
-1. Vá para [Serviços e assinaturas](https://account.microsoft.com/services/)e entre com a conta da Microsoft que você usou para comprar a assinatura.
+Os administradores podem cancelar a assinatura de sua organização no Centro de administração do Microsoft 365.
 
-2. Localize sua assinatura e clique em **Gerenciar**. Se você vir **Ativar a fatura recorrente**, em vez de **Gerenciar**, vá para a seção Solução de problemas; caso contrário, prossiga para a etapa 3.
+1. Vá para a página **Cobrança**\>[Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Na guia **Produtos**, encontre a assinatura que deseja cancelar. Selecione **Mais ações** (três pontos) e, em seguida, selecione **Cancelar assinatura**.
+3. No painel **Cancelar assinatura**, escolha um motivo pelo qual você está cancelando. Opcionalmente, forneça qualquer comentário.
+4. Selecione **Salvar**.
 
-3. Na página seguinte, clique em **Cancelar** ou **Atualizar ou Cancelar**, dependendo do tipo da sua assinatura.
-
-4. Siga as instruções dadas na página para prosseguir com o cancelamento.
+**Reembolso:** qualquer crédito rateado será devolvido a você no próximo ciclo de faturamento.
