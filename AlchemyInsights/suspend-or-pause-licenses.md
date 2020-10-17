@@ -1,8 +1,8 @@
 ---
 title: Suspender ou pausar licenças
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-ms.openlocfilehash: 7d92f1c7a03eb9eb5c195b0d3a866e1da003f45d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 355d83a5d99c079e5487a663f43b1155fa6f40b8
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800164"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488905"
 ---
-# <a name="suspend-or-pause-licenses"></a><span data-ttu-id="91375-102">Suspender ou pausar licenças</span><span class="sxs-lookup"><span data-stu-id="91375-102">Suspend or pause licenses</span></span>
+# <a name="suspend-or-pause-licenses"></a><span data-ttu-id="c4540-102">Suspender ou pausar licenças</span><span class="sxs-lookup"><span data-stu-id="c4540-102">Suspend or pause licenses</span></span>
 
-<span data-ttu-id="91375-103">Para suspender ou pausar temporariamente suas licenças de usuário, você pode remover licenças do **Centro de administração do Microsoft 365** e adicioná-las novamente mais tarde.</span><span class="sxs-lookup"><span data-stu-id="91375-103">To suspend or pause your user licenses temporarily, you can remove licenses from the **Microsoft 365 admin center** and add them back at a later time.</span></span>
+<span data-ttu-id="c4540-103">Para suspender ou pausar temporariamente suas licenças de usuário, você pode remover licenças do Centro de administração do Microsoft 365 e adicioná-las novamente mais tarde.</span><span class="sxs-lookup"><span data-stu-id="c4540-103">To suspend or pause your license usage temporarily, you can remove licenses from the Microsoft 365 admin center, and then add them back at a later time.</span></span>
 
-1. <span data-ttu-id="91375-104">Primeiro, você precisa [cancelar a atribuição de licenças](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users?view=o365-worldwide) de usuários, antes de removê-las da sua assinatura.</span><span class="sxs-lookup"><span data-stu-id="91375-104">You need to first [unassign licenses](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users?view=o365-worldwide) from users, before removing them from your subscription.</span></span>
+1. <span data-ttu-id="c4540-104">Antes de remover licenças da sua assinatura, primeiro você deve [cancelar a atribuição de licenças aos usuários](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).</span><span class="sxs-lookup"><span data-stu-id="c4540-104">Before removing licenses from your subscription, you must first [unassign licenses from users](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).</span></span>
+2. <span data-ttu-id="c4540-105">Em seguida, vá para a página **Cobrança** > [Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="c4540-105">Next, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+3. <span data-ttu-id="c4540-106">Na guia **Produtos**, escolha a assinatura que deseja atualizar.</span><span class="sxs-lookup"><span data-stu-id="c4540-106">On the **Products** tab, select the subscription that you want to update.</span></span>
+4. <span data-ttu-id="c4540-107">Na página de detalhes da assinatura, selecione **Remover licenças**.</span><span class="sxs-lookup"><span data-stu-id="c4540-107">On the subscription details page, select **Remove licenses**.</span></span>
+5. <span data-ttu-id="c4540-108">No painel **Remover licenças**, na caixa **Total de licenças**, insira o número total de licenças que deseja para esta assinatura e selecione **Salvar**.</span><span class="sxs-lookup"><span data-stu-id="c4540-108">In the **Remove licenses** pane, in the **Total licenses** box, enter the total number of licenses that you want for this subscription, then select **Save**.</span></span> <span data-ttu-id="c4540-109">Por exemplo, se você tem 100 licenças e deseja suspender ou pausar 25, insira 75 como total de licenças para a sua assinatura.</span><span class="sxs-lookup"><span data-stu-id="c4540-109">For example, if you have 100 licenses and want to suspend or pause 25, then enter 75 as the total licenses for your subscription.</span></span>
 
-2. <span data-ttu-id="91375-105">Em seguida, acesse **Cobrança > [Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="91375-105">Then go to **Billing > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
-
-3. <span data-ttu-id="91375-106">Na página **Seus produtos**, localize a assinatura para a qual você deseja remover licenças e clique em **Adicionar/Remover licenças**.</span><span class="sxs-lookup"><span data-stu-id="91375-106">On the **Your products** page, find the subscription you want to remove licenses for, and click **Add/Remove licenses**.</span></span>
-
-4. <span data-ttu-id="91375-107">Na caixa total de licenças, digite o número total de licenças necessárias para a assinatura e, em seguida, clique em**Enviar alteração**.</span><span class="sxs-lookup"><span data-stu-id="91375-107">In the total licenses box, enter the total number of licenses that you need for this subscription, and then click **Submit change**.</span></span> <span data-ttu-id="91375-108">Por exemplo, se você tem 100 licenças e deseja suspender ou pausar 50, digite 50 como licenças totais para a sua assinatura.</span><span class="sxs-lookup"><span data-stu-id="91375-108">For example, if you have 100 licenses and want to suspend or pause 50, then enter 50 as the total licenses for your subscription.</span></span>
-
-<span data-ttu-id="91375-109">Para mais informações, confira [Gerenciar licenças de assinatura](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="91375-109">For more info, see [Manage subscription licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide).</span></span>
+<span data-ttu-id="c4540-110">Para mais informações, confira [Gerenciar licenças de assinatura](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="c4540-110">For more info, see [Manage subscription licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span></span>
