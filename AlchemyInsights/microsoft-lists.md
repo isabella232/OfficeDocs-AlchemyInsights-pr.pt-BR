@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: c5c66a4ed0891a7127bcf0730aedf6d8d125fdb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb72faa902a18f14d408ccabb8fc346f3bd3085d
+ms.sourcegitcommit: abb1acc29fadfaa6927f73af4452ba2cfc452fa2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724567"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48465992"
 ---
 # <a name="microsoft-lists"></a>Microsoft Lists
 
@@ -26,11 +26,15 @@ A Microsoft está lançando o primeiro estágio do Microsoft Lists, um aplicativ
   
 **Cronologia**  
 
-- A distribuição já começou para as organizações habilitadas para lançamentos direcionados.
-- Lançamento para todas as organizações até meados de outubro de 2020.
+- A implementação foi concluída para as organizações habilitadas para o Lançamento direcionado.
+- A implementação para as organizações de Lançamento padrão começou e será concluída no final de novembro de 2020.
 
-Todos os usuários com uma licença do SharePoint podem acessar o ícone “Listas” e começar a utilizar o Microsoft Lists. No momento, os administradores não conseguem desativar o recurso.
- 
-No inicializador de aplicativos do Microsoft 365, selecione o ícone “Listas”. Comece uma lista do zero ou com modelos pré-desenvolvidos. Além disso, é possível criar novas listas a partir das listas existentes ou importando dados do Excel para criar uma lista. Veja as suas listas favoritas e mais recentes, incluindo suas próprias listas e as que foram compartilhadas com você. É possível criar tanto listas pessoais quanto listas da equipe.  
+Qualquer usuário com uma licença do SharePoint pode acessar o ícone Listas e começar a usar as Listas da Microsoft.
+
+Como um administrador global ou do SharePoint no Microsoft 365, você pode controlar as configurações das Listas da Microsoft. Você pode:
+
+Desabilitar a criação de listas pessoais (impedir que os usuários salvem novas listas em "Minhas listas").
+Desabilitar os modelos de lista integrados que não são relevantes para a sua organização.
+Conferir [Listas de Controle](https://docs.microsoft.com/sharepoint/control-lists)
 
 Para obter mais informações, consulte o artigo [Microsoft Lists](https://aka.ms/microsoftlists).
