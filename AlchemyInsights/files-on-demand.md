@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "6432"
 - "9003530"
-ms.openlocfilehash: e0ba83778179abefe3ac4fe3e8ab0303d65ad929
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e3da81ee048c6257e05b998c0f457fa433738fd
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745297"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791282"
 ---
 # <a name="configure-files-on-demand"></a>Configurar Arquivos Sob Demanda
+
+Os Arquivos do OneDrive Sob Demanda requerem a versão do[Windows 10 Fall Creators Update](https://go.microsoft.com/fwlink/p/?linkid=859040) (versão 1709 ou posterior) ou do Windows Server 2019 e do OneDrive build 17.3.7064.1005 ou posterior.
 
 Os Arquivos do OneDrive Sob Demanda ajudam a acessar todos os arquivos no OneDrive sem precisar baixá-los nem usar o espaço de armazenamento do dispositivo.
 
 Para configurar os Arquivos Sob Demanda em seu computador:
 
-1. Selecione o ícone de nuvem branca ou azul do **OneDrive** na área de notificação da barra de tarefas do Windows. Selecione **Configurações e ajuda** ícone de engrenagem > **Configurações**.
-2. Na guia **Configurações**, selecione a caixa **Economizar espaço e baixar os arquivos à medida que os usar**.  
+1. Selecione o ícone de nuvem branca ou azul do **OneDrive** na área de notificação da barra de tarefas do Windows. Selecione **Configurações e ajuda** ícone de engrenagem > **Configurações** .
+2. Na guia **Configurações** , selecione a caixa **Economizar espaço e baixar os arquivos à medida que os usar** .  
 
 Você também pode configurar os Arquivos Sob Demanda usando o registro.
 
