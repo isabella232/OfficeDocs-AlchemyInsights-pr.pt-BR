@@ -1,5 +1,5 @@
 ---
-title: Solucionar problemas com a proteção avançada contra ameaças do Office 365 (ATP)
+title: Solucionar problemas com o Microsoft defender para Office 365 (ATP)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,21 +11,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 4164781a331ec919811332e94636449e9d88430d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf54d5b3b854587202ff1b575889b9602228dd06
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758053"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801395"
 ---
 # <a name="troubleshoot-issues-with-office-365-atp"></a>Solucionar problemas com o Office 365 ATP
 
-- **Observe atrasos com entrega de mensagem de email**? Tente usar a opção de entrega dinâmica para suas políticas de anexos seguros de ATP. Isso evitará atrasos de entrega de mensagens de email ao proteger os destinatários de arquivos mal-intencionados.
-- **Você deseja relatar falsos positivos ou falsos negativos**? Use este link para enviar o arquivo para análise: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Você sabia que é possível habilitar a proteção de links de segurança ATP para emails enviados entre pessoas de sua organização**? Siga estas etapas:
+- **Observe atrasos com entrega de mensagem de email** ? Tente usar a opção de entrega dinâmica para suas políticas de anexos seguros de ATP. Isso evitará atrasos de entrega de mensagens de email ao proteger os destinatários de arquivos mal-intencionados.
+- **Você deseja relatar falsos positivos ou falsos negativos** ? Use este link para enviar o arquivo para análise: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- **Você sabia que é possível habilitar a proteção de links de segurança ATP para emails enviados entre pessoas de sua organização** ? Siga estas etapas:
     1. Vá até https://protection.office.com e entre.
-    2. Vá para **Threat management**  >  **Policy**  >  **links seguros**da política de gerenciamento de ameaças.
-    3. Em **políticas que se aplicam a destinatários específicos**, edite (ou adicione) uma política.
-    4. Selecione **aplicar links seguros a mensagens enviadas dentro da organização**.
+    2. Vá para **Threat management**  >  **Policy**  >  **links seguros** da política de gerenciamento de ameaças.
+    3. Em **políticas que se aplicam a destinatários específicos** , edite (ou adicione) uma política.
+    4. Selecione **aplicar links seguros a mensagens enviadas dentro da organização** .
     5. Salve sua política e aguarde cerca de 30 minutos para que as alterações funcionem da mesma forma através do datacenter.
-- Para obter mais ajuda com a ATP, confira [proteção avançada contra ameaças do Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
+- Para obter mais ajuda com a ATP, consulte [Microsoft defender para Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).

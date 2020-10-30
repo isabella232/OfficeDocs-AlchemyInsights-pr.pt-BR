@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759207"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801532"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Simulador de ataque no Microsoft 365
 
-- Você está faltando no simulador de ataques? O simulador de ataque requer o **office 365 Advanced Threat Protection Plan 2 (plano ATP 2)** ou o **Office 365 Enterprise E5**. O simulador de ataques **não** está incluído no Office 365 Advanced Threat Protection Plan 1 (plano ATP 1), Office 365 Enterprise E3 ou qualquer aplicativo do Microsoft 365 para assinaturas de negócios.
+- Você está faltando no simulador de ataques? O simulador **de ataque requer o Microsoft defender para Office 365 plano 2 (ATP plano 2) ou o** **Office 365 Enterprise E5** . O simulador de ataque **não** está incluído no Microsoft defender para Office 365 plano 1 (plano ATP 1), Office 365 Enterprise E3 ou qualquer aplicativo do Microsoft 365 para assinaturas de negócios.
 
 - A conta que você usa para iniciar ataques simulados requer permissões de administrador global ou administrador de segurança e a autenticação multifator (MFA). Para obter mais informações sobre os requisitos de simulador de ataques, consulte [Este tópico](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
@@ -33,7 +33,7 @@ ms.locfileid: "47759207"
 
 - Coisas importantes que você deve saber sobre as simulações de conexões de **spear phishing** :
 
-  - Por design, você não pode fornecer um valor personalizado para a **URL do servidor de logon de phishing**.
+  - Por design, você não pode fornecer um valor personalizado para a **URL do servidor de logon de phishing** .
 
   - Se um destinatário usar o [suplemento habilitar o relatório de mensagens](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) para relatar a mensagem como phishing, talvez você não receba alertas para a mensagem (pois esse é um ataque simulado).
 

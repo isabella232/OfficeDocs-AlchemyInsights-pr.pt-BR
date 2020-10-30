@@ -1,5 +1,5 @@
 ---
-title: Solucionando problemas do Office 365 proteção avançada contra ameaças
+title: Solucionando problemas do Microsoft defender para Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658902"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801431"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Solucionando problemas do Office 365 proteção avançada contra ameaças
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Solucionando problemas do Microsoft defender para Office 365
 
 - Você percebe atrasos na entrega de mensagens? Use a opção de [entrega dinâmica](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) na política de anexos seguros de ATP. Isso ajudará a evitar atrasos de mensagem ao proteger destinatários de arquivos mal-intencionados.
 
@@ -28,8 +28,8 @@ ms.locfileid: "47658902"
 
   1. Acesse [https://protection.office.com](https://protection.office.com) e entre com uma conta de administrador global ou administrador de segurança.
 
-  2. No painel de navegação esquerdo em **Gerenciamento de ameaças**, **Policy** escolha \> **links seguros**de política.
+  2. No painel de navegação esquerdo em **Gerenciamento de ameaças** , **Policy** escolha \> **links seguros** de política.
 
-  3. Na seção **políticas que se aplicam a toda a organização** , selecione a política e clique em **Editar**.
+  3. Na seção **políticas que se aplicam a toda a organização** , selecione a política e clique em **Editar** .
 
-  4. Em **configurações**, habilite **aplicar links seguros a mensagens enviadas dentro da organização**.
+  4. Em **configurações** , habilite **aplicar links seguros a mensagens enviadas dentro da organização** .
