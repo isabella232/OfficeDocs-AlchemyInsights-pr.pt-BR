@@ -30,7 +30,7 @@ ms.locfileid: "48791326"
 
 Saiba mais: [como as transações de devolução e de troca são processadas](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)  
 Saiba mais: [políticas de Troca e de Reembolso](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)  
-Outras questões: [acesse o documentos de instâncias reservadas](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Outras questões: [acesse os documentos de instâncias reservadas](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Trocar uma instância reservada existente (autoatendimento)**
 
@@ -51,10 +51,10 @@ Para reembolsar uma reserva, vá para **Detalhes da Reserva** e clique em **Reem
 **Exemplos de proporcionais e requisitos mínimos para reembolso e troca**  
 Exemplo de reserva antecipada:
 
-- Você compra um RI com prazo de um ano por US$ 120 em 1 de janeiro
+- Você compra um RI com prazo de um ano por US$ 120 em 1º de janeiro
 - Em 7 de abril você deseja reembolsar ou trocar essa reserva
 - Como a reserva ficou ativa por 97 dias, você receberá (1-97/365)* US$ 120 de volta. (por exemplo, US$ 88,1). No momento, não há nenhuma multa em reembolsos
-- Se você trocar, a nova compra deve ser maior do que US$ 88,1
+- Se você trocar, a nova compra deverá ser maior do que US$ 88,1
 - Não há, no momento, nenhuma multa em reembolsos
 
 **Exemplo de reserva de plano de cobrança:**
@@ -64,7 +64,7 @@ Exemplo de reserva antecipada:
 - Como o último pagamento ocorreu há sete dias, você receberá (1-7/31) * US$ 10 de volta. (por exemplo, US$ 7,74)
 - Os pagamentos futuros cancelados são de US$ 80. No momento, não há nenhuma multa em reembolsos
 - Esse cancelamento deduzirá US$ 87,74 do seu limite de reembolso US$ 50.000
-- Se você trocar, o valor total da nova compra deve ser maior do que US$ 87,74
+- Se você trocar, o valor total da nova compra deverá ser maior do que US$ 87,74
 
 **Documentos Recomendados**
 
