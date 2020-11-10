@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: 0c8663cd6b6e6e344282abadfc80e6a40127f463
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a268745601da13f0fe09d7ca9260056d29b821bd
+ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675574"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48947400"
 ---
 # <a name="lists-app-in-teams"></a>Aplicativo Lists no Teams
 
-O aplicativo Lists do Microsoft Teams exibe listas em sites do SharePoint da equipe na seção de colaboração e trabalho em equipe dos canais. Com este aplicativo, os usuários finais podem trabalhar nas suas listas favoritas a partir do Teams.  
+O aplicativo Lists do Microsoft Teams exibe listas em sites do SharePoint da equipe na seção de colaboração e trabalho em equipe dos canais. Com esse aplicativo, os usuários podem trabalhar nas suas listas favoritas a partir do Teams.
 
-Este recurso vem ativado por padrão. O Lists é pré-instaladas para todos os usuários do Teams e estão disponíveis diretamente na galeria de guias de cada equipe e canal.  
+O Lists é pré-instalado para todos os usuários do Teams e está disponível diretamente na galeria de guias de cada equipe e canal.
 
 Os administradores do Teams podem controlar a disponibilidade do aplicativo usando políticas de permissão do Microsoft Teams. Para mais informações, confira [Gerenciar políticas de permissões de aplicativo no Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies).
 
-**Cronograma:** Inicio de setembro e conclusão em meados de outubro de 2020  
+**Cronograma:** Início de setembro e conclusão na metade de outubro de 2020  
 
 **Implantação:** Nível de organização  
 
@@ -36,7 +36,7 @@ Os administradores do Teams podem controlar a disponibilidade do aplicativo usan
 
 **Ação:** Analisar e avaliar
 
-Para mais informações, confira: 
+Para mais informações, confira:
 
 - [Anúncio do Microsoft Lists - Seu aplicativo de acompanhamento de informação inteligente no Microsoft 365.](https://techcommunity.microsoft.com/t5/microsoft-365-blog/announcing-microsoft-lists-your-smart-information-tracking-app/ba-p/1372233)
 - [Documentação do usuário final sobre Lists no Teams](https://support.microsoft.com/office/get-started-with-lists-in-microsoft-taeams-c971e46b-b36c-491b-9c35-efeddd0297db)
