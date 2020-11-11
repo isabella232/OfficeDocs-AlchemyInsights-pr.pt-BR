@@ -22,7 +22,7 @@ ms.locfileid: "48949697"
 ---
 # <a name="change-update-channels-for-office-apps"></a>Alterar canais de atualização de Aplicativos do Office
 
-Se você estiver gerenciando os canais de atualização do Microsoft 365 Apps usando o portal de administração, use as **opções de instalação do Office**  para selecionar o canal de atualização desejado antes de instalar os aplicativos do Office. Para saber mais, confira como [Gerenciar as opções de instalação do Office no Centro de administração do Microsoft 365](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365).
+Se você estiver gerenciando os canais de atualização do Microsoft 365 Apps usando o portal de administração, use as **opções de instalação do Office** para selecionar o canal de atualização desejado antes de instalar os aplicativos do Office. Para saber mais, confira como [Gerenciar as opções de instalação do Office no Centro de administração do Microsoft 365](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365).
 
 **Observação** : o canal de atualização selecionado usando as **opções de instalação do Office** se aplica a todos os usuários executando novas instalações (e, em alguns casos, instalações existentes). Se você usa algum outro método, como a ferramenta de implantação do Office (ODT), a política de grupo (GPO) ou o Microsoft Endpoint Configuration Manager (MECM) para gerenciar como os usuários recebem atualizações de recursos, as configurações que você selecionar no Centro de administração do Microsoft 365 não serão aplicadas.
 

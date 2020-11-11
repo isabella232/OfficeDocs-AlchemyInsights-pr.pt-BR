@@ -28,7 +28,7 @@ O Lists é pré-instalado para todos os usuários do Teams e está disponível d
 
 Os administradores do Teams podem controlar a disponibilidade do aplicativo usando políticas de permissão do Microsoft Teams. Para mais informações, confira [Gerenciar políticas de permissões de aplicativo no Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies).
 
-**Cronograma:** Início de setembro e conclusão na metade de outubro de 2020  
+**Cronograma:** início de setembro e conclusão na metade de outubro de 2020  
 
 **Implantação:** Nível de organização  
 
