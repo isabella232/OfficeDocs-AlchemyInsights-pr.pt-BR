@@ -12,18 +12,17 @@ ms.custom:
 - "1266"
 - "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: 3e1e19c6198cade36930e16445250254e2e50f5e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1ec40ba36c69296298e24dca64a873d53682833a
+ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693946"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "49085892"
 ---
 # <a name="prepare-for-use-of-tls-12-in-microsoft-365"></a>Preparar para o uso do TLS 1.2 no Microsoft 365
 
-A partir de 31 de outubro de 2018, o Microsoft 365 continuará a transição para o TLS 1.2. Isso significa que a Microsoft não corrigirá novos problemas que forem encontrados em clientes, dispositivos ou serviços que se conectem ao Microsoft 365 usando o TLS 1.0 e 1.1. **Isso não significa que o Microsoft 365 bloqueará as conexões TLS 1.0 e 1.1.** A data de substituição eventual será determinada pelo uso do cliente e o estado atual da segurança TLS herdada. Depois que uma decisão for tomada, haverá um anúncio com seis meses de antecedência, a menos que tenhamos conhecimento de um comprometimento conhecido. Nesse caso, talvez tenhamos que agir em menos de seis meses para proteger os clientes que usam os serviços.
+A partir de 31 de outubro de 2018, o Microsoft 365 continuará a transição para o TLS 1.2. A partir de 15 de outubro de 2020, o O365 começará a substituir o TLS 1,0 e a 1,1 pelo serviço. A implementação dessa alteração continuará nas próximas semanas e meses, mas os clientes devem presumir que nenhuma chamada TLS 1.0/1.1 funcionará ao interagir com o O365 a partir de 15 de outubro de 2020. Conforme comunicado anteriormente (MC126199 em dezembro de 2017, MC128929 em fevereiro de 2018, MC186827 em julho de 2019 e MC218794 em julho de 2020), estamos movendo todos os nossos serviços online para protocolo TLS 1.2+ para fornecer o melhor da classe criptografia e para garantir que nosso serviço seja mais seguro, por padrão. Os clientes ainda podem escolher por ter o TLS 1.0/1.1 nos servidores e recursos, mas devem presumir que apenas o TLS 1.2 ou superior funcionará ao interagir com os recursos do O365.
   
-É altamente recomendável que os servidores e clientes que se conectam ao Microsoft 365 ativem o TLS 1.2 o mais rápido possível.
-  
-Confira mais informações em [Preparo para o uso obrigatório do TLS 1.2 no Microsoft 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)
+Para saber mais sobre essas alterações, confira [aqui](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365?view=o365-worldwide) e [aqui](https://docs.microsoft.com/microsoft-365/compliance/tls-1.0-and-1.1-deprecation-for-office-365?view=o365-worldwide).
+
   
