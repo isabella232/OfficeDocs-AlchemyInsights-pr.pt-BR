@@ -14,15 +14,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: 4b6ce603b4c47014f8a99a479da55dca3ecc264c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bfe51559421c94cda4d3aa53c9baf5265af57224
+ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718321"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49348689"
 ---
 # <a name="all-subscriptions-are-active"></a>Todas as assinaturas estão ativas
 
-Suas assinaturas estão ativas. Isso pode ser verificado acessando a página **cobrança** de \> [seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054) . Suas assinaturas são ordenadas por status, com assinaturas ativas na parte superior. Informações adicionais, como contagem de licenças e método de pagamento, podem ser vistas escolhendo a assinatura.
+Suas assinaturas estão ativas. Isso pode ser verificado acessando a página **cobrança** de \> [seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054) . Suas assinaturas são listadas na guia **produtos** e o status de cada assinatura é mostrado na coluna **status da assinatura** . Para obter mais informações, selecione uma assinatura para exibir a página detalhes da assinatura.
   
 Se você estiver procurando remover suas assinaturas ativas ou fechar sua conta, consulte [como fechar sua conta](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide).
