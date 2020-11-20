@@ -2,7 +2,7 @@
 title: Aumentar o tamanho da caixa de correio para SKUs SMB
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,23 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: e4f4791358977133e2c94c70fb955304ebe80d88
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cfb05ac9cafd0bafc0baf1afa39bb8374d725f18
+ms.sourcegitcommit: eb7cf60a8fef79b00675eb645b0d0d8d5f9744df
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778283"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49363671"
 ---
-# <a name="upgrade-plans-to-increase-mailbox-size"></a><span data-ttu-id="77057-102">Atualizar planos para aumentar o tamanho da caixa de correio</span><span class="sxs-lookup"><span data-stu-id="77057-102">Upgrade plans to increase mailbox size</span></span>
+# <a name="upgrade-plans-to-increase-mailbox-size"></a><span data-ttu-id="eaf0c-102">Atualizar planos para aumentar o tamanho da caixa de correio</span><span class="sxs-lookup"><span data-stu-id="eaf0c-102">Upgrade plans to increase mailbox size</span></span>
 
-<span data-ttu-id="77057-103">Se o tamanho da caixa de correio for de 50 GB, você poderá aumentar o tamanho da caixa de correio para 100 GB alternando para o [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) ou o [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software).</span><span class="sxs-lookup"><span data-stu-id="77057-103">If the mailbox size is 50 GB, you can increase the mailbox size to 100 GB by switching to [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) or [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software).</span></span> <span data-ttu-id="77057-104">Aqui estão as etapas para mudar para uma assinatura diferente:</span><span class="sxs-lookup"><span data-stu-id="77057-104">Here are the steps to switch to a different subscription:</span></span>
+<span data-ttu-id="eaf0c-103">Se o tamanho da caixa de correio for de 50 GB, você poderá aumentar o tamanho da caixa de correio para 100 GB Atualizando para o [Office 365 E3](https://www.microsoft.com/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot:overviewtab), [Microsoft 365 e3](https://www.microsoft.com/microsoft-365/enterprise/e3?activetab=pivot%3aoverviewtab), [Office 365 E5](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5?rtc=1&activetab=pivot%3aoverviewtab)ou [Microsoft 365 E5](https://www.microsoft.com/microsoft-365/enterprise/e5?activetab=pivot%3aoverviewtab).</span><span class="sxs-lookup"><span data-stu-id="eaf0c-103">If the mailbox size is 50 GB, you can increase the mailbox size to 100 GB by upgrading to [Office 365 E3](https://www.microsoft.com/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot:overviewtab), [Microsoft 365 E3](https://www.microsoft.com/microsoft-365/enterprise/e3?activetab=pivot%3aoverviewtab), [Office 365 E5](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5?rtc=1&activetab=pivot%3aoverviewtab), or [Microsoft 365 E5](https://www.microsoft.com/microsoft-365/enterprise/e5?activetab=pivot%3aoverviewtab).</span></span> <span data-ttu-id="eaf0c-104">Aqui estão as etapas para atualizar para uma assinatura diferente:</span><span class="sxs-lookup"><span data-stu-id="eaf0c-104">Here are the steps to upgrade to a different subscription:</span></span>
   
-1. <span data-ttu-id="77057-105">No centro de administração do Microsoft 365, vá para a página **cobrança**  >  [de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="77057-105">In the Microsoft 365 admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="eaf0c-105">No centro de administração, acesse a página **Cobrança de** > [seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="eaf0c-105">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="eaf0c-106">Na guia **produtos** , selecione a assinatura que você deseja atualizar.</span><span class="sxs-lookup"><span data-stu-id="eaf0c-106">On the **Products** tab, select the subscription that you want to upgrade.</span></span>
+3. <span data-ttu-id="eaf0c-107">Na página detalhes da assinatura, na seção **detalhes e atualizações do produto** , selecione **Exibir atualizações recomendadas para sua organização**.</span><span class="sxs-lookup"><span data-stu-id="eaf0c-107">On the subscription details page, in the **Product details and upgrades** section, select **View upgrades recommended for your org**.</span></span>
+4. <span data-ttu-id="eaf0c-108">Na página **atualizações disponíveis** , encontre o novo plano desejado e, em seguida, selecione **Atualizar**.</span><span class="sxs-lookup"><span data-stu-id="eaf0c-108">On the **Available upgrades** page, find the new plan that you want, then select **Upgrade**.</span></span>
+5. <span data-ttu-id="eaf0c-109">Na página **checkout** , selecione ou adicione um método de pagamento e, em seguida, selecione **fazer pedido**.</span><span class="sxs-lookup"><span data-stu-id="eaf0c-109">On the **Checkout** page, select or add a payment method, then select **Place order**.</span></span>
+6. <span data-ttu-id="eaf0c-110">Em **tudo o que você está pronto!**</span><span class="sxs-lookup"><span data-stu-id="eaf0c-110">On the **You’re all set!**</span></span> <span data-ttu-id="eaf0c-111">, selecione o **status da atualização** ou **continue a configurar sua assinatura**.</span><span class="sxs-lookup"><span data-stu-id="eaf0c-111">page, select **status of your upgrade**, or **Continue to setup your subscription**.</span></span>
 
-2. <span data-ttu-id="77057-106">Selecione a assinatura a ser atualizada e, em seguida, selecione a guia **atualização** para exibir a lista de novos planos que estão disponíveis.</span><span class="sxs-lookup"><span data-stu-id="77057-106">Select the subscription to upgrade, then select the **Upgrade** tab to view the list of new plans that are available.</span></span>
+<span data-ttu-id="eaf0c-112">Ao concluir o check-out, o Microsoft 365 demora alguns minutos para finalizar a opção.</span><span class="sxs-lookup"><span data-stu-id="eaf0c-112">When you finish checkout, Microsoft 365 takes a few minutes to finalize the switch.</span></span> <span data-ttu-id="eaf0c-113">Você pode começar a usar sua nova assinatura imediatamente.</span><span class="sxs-lookup"><span data-stu-id="eaf0c-113">You can start using your new subscription right away.</span></span>
 
-3. <span data-ttu-id="77057-107">Escolha um plano para ver o novo custo total por mês.</span><span class="sxs-lookup"><span data-stu-id="77057-107">Choose a plan to see the new total cost per month.</span></span> <span data-ttu-id="77057-108">Certifique-se de ler as **informações da chave**e escolha **Avançar** para fazer check-out.</span><span class="sxs-lookup"><span data-stu-id="77057-108">Be sure to read the **key information**, then choose **Next** to check out.</span></span>
-
-4. <span data-ttu-id="77057-109">Ao concluir o check-out, o Microsoft 365 demora alguns minutos para finalizar a opção.</span><span class="sxs-lookup"><span data-stu-id="77057-109">When you finish checkout, Microsoft 365 takes a few minutes to finalize the switch.</span></span> <span data-ttu-id="77057-110">Você pode começar a usar sua nova assinatura imediatamente.</span><span class="sxs-lookup"><span data-stu-id="77057-110">You can start using your new subscription right away.</span></span>
-
-<span data-ttu-id="77057-111">Para obter mais detalhes, consulte [atualizar para um plano diferente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).</span><span class="sxs-lookup"><span data-stu-id="77057-111">For more details, see [Upgrade to a different plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).</span></span>
+<span data-ttu-id="eaf0c-114">Para obter mais informações, consulte [atualizar para um plano diferente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).</span><span class="sxs-lookup"><span data-stu-id="eaf0c-114">For more information, see [Upgrade to a different plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).</span></span>
