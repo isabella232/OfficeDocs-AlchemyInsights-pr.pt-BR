@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: a268745601da13f0fe09d7ca9260056d29b821bd
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 4022aff4bdedb9c3589e2546f75b00d9ea275293
+ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947400"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "49477433"
 ---
 # <a name="lists-app-in-teams"></a>Aplicativo Lists no Teams
 
@@ -28,11 +28,7 @@ O Lists é pré-instalado para todos os usuários do Teams e está disponível d
 
 Os administradores do Teams podem controlar a disponibilidade do aplicativo usando políticas de permissão do Microsoft Teams. Para mais informações, confira [Gerenciar políticas de permissões de aplicativo no Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies).
 
-**Cronograma:** início de setembro e conclusão na metade de outubro de 2020  
-
-**Implantação:** Nível de organização  
-
-**Tipo de controle:** Controle para o administrador do Teams  
+**Tipo de controle:** Controle de administração de equipes  
 
 **Ação:** Analisar e avaliar
 
