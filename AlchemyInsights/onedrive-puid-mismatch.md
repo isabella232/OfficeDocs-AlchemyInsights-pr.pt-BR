@@ -13,21 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 96023978dbbeeb162504d2b205a61f6980734d14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
+ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754327"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49569155"
 ---
 # <a name="onedrive-puid-mismatch"></a>Incompatibilidade de PUID do OneDrive
-Parece que você está tendo uma [incompatibilidade de PUID](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) no onedrive for Business. Siga as etapas abaixo para que possamos ajudá-lo assim que possível:
 
-1. Clique em **entrar em contato com o suporte**e em **nova solicitação de serviço**.
-2. Deixe o título e a descrição como **incompatibilidade de PUID no site do onedrive**.
+Parece que você está tendo uma [incompatibilidade de ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) no onedrive for Business. Siga as etapas abaixo para que possamos ajudá-lo assim que possível:
+
+1. Clique em  **entrar em contato com o suporte** e em  **nova solicitação de serviço**.
+2. Deixe o título e a descrição como  **incompatibilidade de ID de usuário do site do onedrive**.
 3. Depois que o tíquete for enviado, atualize-o com as seguintes informações:
     - URL do site do OneDrive afetada.
     - Nome principal do usuário (UPN) do usuário afetado.
-
-
-
