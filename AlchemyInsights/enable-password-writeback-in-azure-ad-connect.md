@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 9dbb88492a3906f6780a345cf880327d411dcc66
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0eecd89b2558359702935379d7ffbd8b7508f4cd
+ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709715"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49560428"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Habilitar o write-back de senha no Azure AD Connect
 
@@ -26,7 +26,7 @@ Para habilitar o write-back da redefinição de senha por autoatendimento, habil
 1. Entre no seu servidor Azure AD Connect e inicie o assistente de configuração do **Azure AD Connect**.
 2. Na página **Bem-vindo**, clique em **Configurar**.
 3. Na página **Tarefas adicionais**, clique em **Personalizar as opções de sincronização** e depois em **Avançar**.
-4. Na página **Conectar ao Azure AD**, insira uma credencial de administrador global para o locatário do Azure e clique em Avançar.
+4. Na página Conectar ao Azure AD, insira uma credencial de administrador global para o locatário do Azure e clique em Avançar.
 5. Nas páginas **Conectar os diretórios** e **Filtrar domínio/UO**, clique em **Avançar**.
 6. Na página **Recursos opcionais**, selecione a caixa ao lado de **Write-back de senha** e clique em **Avançar**.
 7. Na página **Pronto para configurar**, clique em **Configurar** e aguarde que o processo seja concluído.
@@ -41,3 +41,6 @@ Com o write-back de senha habilitado no Azure AD Connect, agora poderá configur
 5. Quando estiver pronto, clique em **Salvar**.
 
 Para saber mais, confira [Habilitar o write-back da redefinição de senha por autoatendimento do Azure Active Directory em um ambiente local](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
+
+> [!NOTE]
+>  Quando um administrador redefine a senha de um usuário no portal do Microsoft Azure, se esse usuário for federado ou hash de senha sincronizada, a senha será gravada no local. Atualmente, não há suporte para esta funcionalidade no portal de Administração do Office.

@@ -12,18 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: 5f5920c31de3da1b9fe50f4d8ad6de1794b603f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733279"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529006"
 ---
 # <a name="contact-the-sales-team"></a>Entre em contato com a Equipe de Vendas
 
-Com os conectores do Microsoft Graph, sua organização pode indexar dados de terceiros para que eles apareçam nos resultados da pesquisa da Microsoft.
+Existem várias maneiras de entrar em contato com a Equipe de Vendas do Microsoft 365.
 
-- [Conectores criados pela Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [Conectores criados por nossos parceiros](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-Para saber mais, confira [Visão geral dos conectores do Microsoft Graph](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+- Use o formulário [Fale conosco](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409) para que um especialista em vendas do Microsoft 365 entre em contato com você.
+- Para entrar em contato com um especialista em Licenciamento por Volume do Enterprise Agreement, comece com o portal do [Centro de Serviços de Licenciamento por Volume](https://go.microsoft.com/fwlink/p/?LinkId=329762).
