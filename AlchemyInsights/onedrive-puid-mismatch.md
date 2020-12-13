@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
+ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49605697"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49653248"
 ---
 # <a name="onedrive-puid-mismatch"></a>Incompatibilidade de PUID do OneDrive
 
@@ -26,6 +26,6 @@ Parece que você está tendo uma [incompatibilidade de ID](https://docs.microsof
 
 1. Clique em  **entrar em contato com o suporte** e em  **nova solicitação de serviço**.
 2. Deixe o título e a descrição como  **incompatibilidade de ID de usuário do site do onedrive**.
-3. Depois que o tíquete for enviado, atualize-o com as seguintes informações:
+3. Depois que o tíquete tiver sido enviado, atualize-o com as seguintes informações:
     - URL do site do OneDrive afetada.
     - Nome principal do usuário (UPN) do usuário afetado.
