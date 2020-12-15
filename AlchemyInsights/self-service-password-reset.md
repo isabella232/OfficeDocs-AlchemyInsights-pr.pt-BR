@@ -12,23 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "4769"
-ms.openlocfilehash: 693b051eb5f63a9b2eea8bce9321bbf435811269
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89bd5daa05a2466ee58b1686657e234d3c695490
+ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740174"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49676330"
 ---
 # <a name="self-service-password-reset-sspr"></a>Redefinição de senha por autoatendimento (SSPR)
 
-- Clique aqui para [Permitir que os usuários redefinam suas próprias senhas](https://admin.microsoft.com/Adminportal/Home#/featureexplorer/security/Sspr).  O SSPR (Redefinição de Senha de Autoatendimento) está habilitado por padrão para administradores.
+- [Planejar sua implantação de redefinição de senha de autoatendimento](https://go.microsoft.com/fwlink/?linkid=2142944)  
 
-- Clique aqui para [registrar suas informações de contato do SSPR](https://go.microsoft.com/fwlink/?linkid=849451).
+    ou
+- [Registrar suas informações de contato SSPR (SSPR é habilitado por padrão para administradores)](https://go.microsoft.com/fwlink/?linkid=849451)
 
-Para saber mais:
+    Para mais informações, confira:
 
-Configuração básica do SSPR – [Permitir que os usuários redefinam suas próprias senhas](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords?view=o365-worldwide)
+    Configuração básica do SSPR – [Permitir que os usuários redefinam suas próprias senhas](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords)
 
-[PERGUNTAS FREQUENTES DO SSPR](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq)
+    [PERGUNTAS FREQUENTES DO SSPR](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq)
 
-[Solução de problemas do SSPR](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
+    [Solução de problemas do SSPR](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
