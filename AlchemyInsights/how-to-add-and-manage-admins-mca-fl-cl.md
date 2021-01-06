@@ -1,5 +1,5 @@
 ---
-title: Como adicionar e gerenciar administradores-MCA FL/CL
+title: Como adicionar e gerenciar administradores
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683929"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755427"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>Como adicionar e gerenciar administradores-MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>Como adicionar e gerenciar administradores
+
+Com base na descrição do problema, encontramos uma solução para você. A maioria dos clientes foi capaz de resolver seu problema por conta própria após seguir nossa documentação.
 
 Para gerenciar sua conta de cobrança para um Microsoft Customer Agreement (MCA), você pode usar funções diferentes com o nível de acesso desejado. Essas funções são adicionais às funções de serviço internas do Azure que ajudam você a controlar seus recursos.
 

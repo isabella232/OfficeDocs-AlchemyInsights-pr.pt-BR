@@ -1,5 +1,5 @@
 ---
-title: Alternar para pagamento de fatura (transferência de cheque/transmissão)-WD WD
+title: Alternar para pagamento por fatura (transferência de cheque/transmissão)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49722815"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755391"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>Alternar para pagamento de fatura (transferência de cheque/transmissão)-WD WD
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Alternar para pagamento por fatura (transferência de cheque/transmissão)
+
+Com base na descrição do problema, encontramos uma solução para você. A maioria dos clientes foi capaz de resolver seu problema por conta própria após seguir nossa documentação.
 
 Se você alternar para pagar por fatura, isso significa que você pagará sua cobrança dentro de 30 dias da data da fatura. Para se qualificar para pagar sua assinatura do Azure por fatura, envie uma solicitação para o suporte do Azure. Depois que a solicitação for aprovada, você poderá mudar de assinatura para pagamento de fatura no [portal do Azure](https://portal.azure.com/).
 
