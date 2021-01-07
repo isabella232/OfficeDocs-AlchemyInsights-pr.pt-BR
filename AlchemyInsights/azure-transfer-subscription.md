@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
-ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
+ms.openlocfilehash: 74b7cc879973790b7532106c80b718856682a334
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/29/2020
-ms.locfileid: "49736866"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755535"
 ---
 # <a name="transfer-azure-billing-ownership"></a>Transferir propriedade de cobrança do Azure
 
 Entre no [portal do Azure](https://portal.azure.com/) como administrador da conta de cobrança que possui a assinatura que deseja transferir. Se você não tiver certeza se é um administrador ou se precisa determinar quem é, confira [Determinar o administrador de cobrança da conta](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
-1. Pesquise em _Gerenciamento de Custos + Cobrança_.
+1. Pesquise por _Gerenciamento de Custos + Cobrança_.
 1. Selecione **Assinaturas** no painel esquerdo. Dependendo do acesso, você pode precisar selecionar um escopo de cobrança e, em seguida, **Assinaturas** ou **Assinaturas do Azure**.
 1. Selecione **Transferir propriedade de cobrança** para a assinatura que deseja transferir.
 1. Insira o endereço de email de um usuário que é administrador de cobrança da conta e será o novo proprietário da assinatura e selecione **enviar solicitação de transferência**.
