@@ -1,5 +1,5 @@
 ---
-title: Alterar o domínio do grupo Microsoft 365
+title: Alterar o domínio do Grupo do Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,15 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 955797530f53d22c7c225ce0a32d686a00215219
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53ddccaf9f688ecdeeab8ba21a0700733a4b61b4
+ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748232"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "49911755"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a>Alterar o domínio do grupo Microsoft 365
+# <a name="change-the-domain-for-a-microsoft-365-group"></a>Alterar o domínio de um grupo do Microsoft 365
 
-Se você quiser alterar o domínio de um grupo do Microsoft 365 durante a criação, siga as etapas em [escolher o domínio a ser usado ao criar grupos do Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
+Se você quiser alterar o domínio de um Grupo do Microsoft 365 durante a criação, siga as etapas em Escolher o domínio a ser usado ao criar Grupos do [Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)
 
-Depois que o grupo Microsoft 365 já tiver sido criado, não há uma maneira de alterar o domínio no momento. A única maneira é criar um novo grupo do Microsoft 365 e excluir o antigo, se necessário (endereços de email adicionais podem ser adicionados através do [centro de administração do Exchange](https://outlook.office365.com/ecp).
+Para alterar o domínio de um Grupo do Microsoft 365 existente, como administrador, você pode navegar até o Centro de Administração do Microsoft 365 e executar https://admin.microsoft.com as seguintes etapas:
+
+- Choose **Groups** from the left-side menu
+- Pesquise o Grupo M365 que você deseja modificar e escolha-o e clique em **Editar** em Endereços de **Email** quando estiver na **guia** Geral.
+- Agora você pode alterar o domínio de seu endereço de email principal e também pode adicionar aliases de email.
+
+> [!IMPORTANT]
+> Grupos de distribuição regulares e grupos de segurança habilitados para email permitirão que você gerencie menos configurações do Centro de Administração do M365, **seção Grupos.** Se você quiser gerenciar mais detalhes,  clique na guia Configurações ao editar uma delas no Centro de Administração do M365 e escolha Gerenciar mais configurações na opção Centro de administração do **Exchange.**
