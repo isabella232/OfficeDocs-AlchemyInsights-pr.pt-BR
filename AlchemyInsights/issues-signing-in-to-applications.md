@@ -24,7 +24,7 @@ ms.locfileid: "49886769"
 
 Para detectar a causa ou diagnosticar problemas relacionados à login do usuário, execute as seguintes etapas:
 
-1. Iniciar o [Diagnóstico de](https://ms.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom).
+1. Inicie o [Diagnóstico de entrada](https://ms.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom).
 2. Encontre o evento para analisar inserindo os detalhes que você tem sobre o usuário, o aplicativo, a hora de entrar, a ID de solicitação ou a ID de correlação.
 3. Revise os resultados do diagnóstico mostrando os detalhes do que aconteceu e as ações que você pode tomar para fazer alterações, caso sejam necessárias alterações.
 
