@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 3cde8bb419d79506e101cd75fde6fcb69aa2441c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90655fea0b8a7debabdd986bf0f89244d509e8d9
+ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800956"
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "49951813"
 ---
 # <a name="set-up-insider-risk-management"></a>Configurar o gerenciamento de riscos internos
 
-Use políticas de gerenciamento de riscos internos para identificar atividades de risco e ferramentas de gerenciamento para executar ações em alertas de risco em sua organização. Antes de começar o gerenciamento de riscos internos, você deve confirmar sua **assinatura do Microsoft 365**. Para acessar e usar o gerenciamento de riscos internos, sua organização **deve** ter uma das seguintes assinaturas:
+Para acessar e usar o gerenciamento de riscos internos, sua organização **deve** ter uma das seguintes assinaturas:
 
 - Assinatura do **Microsoft 365 E5**.
 
@@ -29,16 +29,10 @@ Use políticas de gerenciamento de riscos internos para identificar atividades d
 
 Se você não possui um plano existente do **Microsoft 365 E5** e deseja experimentar o gerenciamento de riscos internos, você pode adicionar o Microsoft 365 à sua assinatura existente ou se inscrever para obter uma avaliação do Microsoft 365 Enterprise E5.
 
-As etapas básicas para o uso do Gerenciamento de Riscos Internos incluem:
-
-1. Habilitar permissões para o gerenciamento de riscos internos.
-
-2. Habilitar o log de auditoria.
-
-3. Configurar os pré-requisitos para o modelo (opcional).
-
-4. Definir as configurações de riscos internos.
-
-5. Criar uma política de gerenciamento de riscos internos.
+> [!DICAS]
+- > Usando o Modelo de "Vazamentos de Dados": Certifique-se de ter pelo menos uma política DLP configurada.
+- > O Administrador Não Vê Alertas: Certifique-se de que o usuário esteja atribuído a um dos seguintes grupos:
+    - >**Analistas do Gerenciamento de Risco Interno**
+    - >**Investigadores do Gerenciamento de Risco Interno**
 
 Para obter mais informações sobre como as políticas de riscos internos podem ajudá-lo a gerenciar riscos em sua organização, confira [Gerenciamento de riscos internos no Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2123907).
