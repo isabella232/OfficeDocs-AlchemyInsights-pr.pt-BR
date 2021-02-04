@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b82eeb6c716b180cf45dbae96dc4e508a977a517
+ms.sourcegitcommit: d3db72afc2f31ac9f1e78738937a51f40fb4b5fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697869"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50094025"
 ---
 # <a name="activating-office-using-device-based-licensing"></a>Ativando o Office usando o licenciamento baseado em dispositivo
 
+O licenciamento baseado em dispositivo para o Microsoft 365 Apps para empresas está disponível como uma licença apenas para alguns clientes comerciais e alguns clientes de educação. Para obter informações detalhadas, confira: [Licenciamento baseado em dispositivo para o Microsoft 365 Apps para empresas](https://docs.microsoft.com/deployoffice/device-based-licensing)
+
+Para ativar o Microsoft 365 Apps para empresas usando o licenciamento baseado em dispositivo, confira:
+
+- [Requisitos para usar o licenciamento baseado em dispositivo para o Microsoft 365 Apps para empresas](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Etapas para configurar o licenciamento baseado em dispositivo para o Microsoft 365 Apps para empresas](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+
+Para obter orientações sobre solução de problemas, confira Solucionar problemas de licenciamento [baseado em dispositivos do Microsoft 365 Apps para grandes empresas](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+
 > [!NOTE]
-> A [ativação baseada em dispositivo](https://aka.ms/officedba) do Office para clientes de educação dos EUA está agora preterida. Incentivamos as organizações a planejar a nova licença do Microsoft 365 Apps for Education (Device) para clientes de educação.
-
-Para ativar o Office usando o licenciamento baseado em dispositivo, você precisa ter a licença complementar de aplicativos para educação (dispositivo) da Microsoft 365 que está disponível somente para clientes de educação e está disponível somente por meio do registro de soluções de educação (EES). Confira [os requisitos para usar o licenciamento baseado em dispositivo para o Microsoft 365 aplicativos para empresas](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).
-
-
-Para obter informações detalhadas sobre a instalação, consulte:
-
-- [Etapas para configurar o licenciamento baseado em dispositivo para o Microsoft 365 aplicativos para empresas](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Gerenciar licenças para dispositivos](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
-
-Para obter orientação sobre solução de problemas, confira [solucionar problemas de licenciamento baseado em dispositivo para o Microsoft 365 aplicativos para empresas](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+> Se os Aplicativos do Microsoft 365 já estão instalados e ativados com o licenciamento de assinatura baseada no usuário ou a ativação de computador compartilhado, você precisará redefinir o estado da licença no dispositivo antes que ele seja transicionado para o licenciamento baseado em dispositivo. Para redefinir o estado de ativação, confira [Redefinir os Aplicativos do Microsoft 365 para o estado de ativação corporativa](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
