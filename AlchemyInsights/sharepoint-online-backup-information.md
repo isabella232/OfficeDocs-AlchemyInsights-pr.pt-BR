@@ -12,15 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000277"
 - "4838"
-ms.openlocfilehash: 8fd1307c3c967f92a60d2c38dfe727f1341ee86f
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: b9724c3fef32701cc5b919a64f9d4b78ce7a15a5
+ms.sourcegitcommit: 05a9dd3121c21322dc9ddec4c2eec548cafd5a43
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576167"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50165201"
 ---
 # <a name="sharepoint-online-backup-information"></a>Informações de backup do SharePoint Online
 
-Quando você exclui um item ou site do SharePoint, ele não é removido imediatamente. Os itens excluídos vão para a lixeira por um período de tempo. Durante esse período, você pode restaurar os itens excluídos para o local original.
+Para obter mais informações sobre resiliência do Microsoft Office SharePoint Online e OneDrive, consulte:
 
-O SharePoint Online mantém os backups de todo o conteúdo por 14 dias adicionais além da exclusão real. Se o conteúdo não puder ser restaurado pela [Lixeira](https://support.microsoft.com/office/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b) ou pela [Restauração de Arquivos](https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15), um administrador poderá entrar em contato com o Suporte da Microsoft para solicitar uma restauração a qualquer momento no prazo de 14 dias. As restaurações de backups podem ser concluídas apenas nos conjuntos ou subsite de sites, não em arquivos, listas ou bibliotecas específicas.
+- [Resiliência de dados do SharePoint e OneDrive no Microsoft 365 ](https://docs.microsoft.com/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency)
+
+> [!NOTE]
+> O SharePoint Online mantém os backups de todo o conteúdo por 14 dias adicionais além da exclusão real. Se o conteúdo não puder ser restaurado pela [Lixeira](https://support.microsoft.com/office/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b) ou pela [Restauração de Arquivos](https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15), um administrador poderá entrar em contato com o Suporte da Microsoft para solicitar uma restauração a qualquer momento no prazo de 14 dias. As restaurações de backups podem ser concluídas apenas nos conjuntos ou subsite de sites, não em arquivos, listas ou bibliotecas específicas.
