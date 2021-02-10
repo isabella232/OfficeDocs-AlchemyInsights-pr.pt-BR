@@ -1,31 +1,29 @@
 ---
 title: Alterar a forma de pagamento
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: f1076fdb94e051bb72b719ee5c8401dd49ce44da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681733"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152582"
 ---
 # <a name="change-payment-method-fromto"></a>Alterar a forma de pagamento de/para
 
 1. **Mudar de fatura para cartão de crédito ou conta bancária**
 
-    - Quando você muda de pagamento por fatura para pagamento com cartão de crédito ou conta bancária, criamos automaticamente uma nova assinatura para você, migramos seus usuários para a nova assinatura e desabilitamos sua assinatura antiga. Não se preocupe, seus usuários não verão uma interrupção no serviço e todas as suas informações estarão disponíveis através da nova assinatura. 
-
-    - Siga as etapas documentadas em [Mudar de fatura para cartão de crédito ou conta bancária](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account).
+    - Não é possível alterar automaticamente de pagamento por fatura para um método de pagamento diferente. Em vez disso, você precisa [comprar uma assinatura diferente](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) paga com um cartão de crédito ou débito ou conta bancária, [mover todos os usuários para a nova assinatura](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription) e, em seguida, [cancelar a assinatura antiga](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Mudar de cartão de crédito ou conta bancária para fatura**
 
@@ -33,6 +31,6 @@ ms.locfileid: "47681733"
 
     - Se a quantidade do seu pedido for muito alta, pode ser necessária uma verificação de crédito. Nesse caso, você verá a mensagem "Não qualificado para alterar a fatura. O pedido exige uma verificação de crédito." Nesse caso, você altera para pagar manualmente por fatura.
 
-    - Siga as etapas documentadas em [Mudar de cartão de crédito ou conta bancária para fatura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice). para concluir a alteração manual.
+    - Siga as etapas em [Como alterar a forma de pagamento com cartão de crédito para fatura?](how-do-i-change-from-credit-card-payments-to-invoice.md) para concluir a alteração manual.
 
-Para obter mais informações, confira [Alterar a forma de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Para obter mais informações, confira [Como pagar uma assinatura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
