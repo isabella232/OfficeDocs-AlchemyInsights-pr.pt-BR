@@ -3,7 +3,6 @@ title: Cancelar sua assinatura do Microsoft 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.openlocfilehash: 9ff327348002634bbef56ecce17c01caf58dd3f1
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 51832524d5acf6c761726d341e822796e532b950
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416241"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50231995"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Cancelar sua assinatura do Microsoft 365?
 
-Lamentamos ver você!
+Desculpe por vê-lo ir!
   
-Com base nos dados da sua organização, acreditamos que todas as suas assinaturas atuais têm mais de 25 licenças atribuídas. Remover licenças de usuários até que você tenha menos de 25 usuários licenciados. Em seguida, vá para a página **cobrança** \> [de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054) . Na guia **produtos** , encontre a assinatura que você deseja cancelar, selecione **mais ações** (três pontos) e, em seguida, selecione **cancelar assinatura**.
+Com base nos dados da sua organização, acreditamos que todas as assinaturas atuais têm mais de 25 licenças atribuídas. Antes de poder cancelar:
 
-**Reembolso:** Qualquer crédito rateado será retornado para você no próximo ciclo de cobrança.
+1. Remova licenças de usuários até que você tenha menos de 25 usuários licenciados.
+2. Vá para a **página Cobrança** \> **[de seus](https://go.microsoft.com/fwlink/p/?linkid=842054)** produtos.
+3. Na guia **Produtos,** encontre a assinatura que você deseja cancelar, selecione **Mais ações** (três pontos) e selecione **Cancelar assinatura.**
 
-Para saber mais, confira [cancelar sua assinatura](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+**Reembolso:** qualquer crédito rateado será devolvido a você no próximo ciclo de faturamento.
+
+Para saber mais, confira [Cancelar sua assinatura.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

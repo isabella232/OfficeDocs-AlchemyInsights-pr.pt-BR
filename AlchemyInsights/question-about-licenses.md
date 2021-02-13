@@ -12,19 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "491"
 - "1500032"
-ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: c5dcc770bb8ce91c732171030431740ed387044c
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: ddbad5acf5ecc17ce8ee2193ba304ddd50aa610f
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287054"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50231851"
 ---
 # <a name="questions-about-your-microsoft-365-license"></a>Perguntas sobre sua licença do Microsoft 365
 
-Use estas etapas para descobrir quantas licenças você comprou ou quantas licenças são atribuídas a uma assinatura.
+Use estas etapas para descobrir quantas licenças você comprou ou quantas licenças foram atribuídas de uma assinatura.
   
-1. No centro de administração, vá para a página **Cobrança** \> [Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Na guia **produtos** , encontre a assinatura sobre a qual você deseja saber mais. Você pode ver o número de licenças que você está pagando e quantas estão atribuídas no momento.
+1. No centro de administração, acesse a página **Cobrança** \> **[Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+2. Na guia **Produtos,** encontre a assinatura que você deseja saber mais. Você pode ver o número de licenças que está pagando e quantas estão atribuídas no momento.
 
-Se quiser adicionar mais licenças, ou se houver muitas, selecione a assinatura. Na página dados de assinatura, selecione **comprar licenças** ou **remover licenças** para ajustar o número total de licenças para a assinatura.
+Se você quiser adicionar mais licenças ou se tiver muitas, selecione a assinatura. Na página de dados da assinatura, selecione **Comprar licenças** ou **Remover licenças** para ajustar o número total de licenças da assinatura.
+
+**ASSISTA a um** vídeo que mostra como fazer isso: [Comprar novas licenças](https://go.microsoft.com/fwlink/p/?linkid=2154857) ou [Remover licenças existentes](https://go.microsoft.com/fwlink/p/?linkid=2154938)

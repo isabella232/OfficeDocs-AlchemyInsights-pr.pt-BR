@@ -1,9 +1,8 @@
 ---
-title: Há muitas licenças?
+title: Muitas licenças?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,24 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "540"
 - "1500027"
-ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 2ce1afbdf67a4cd1746d8cf0aa5818613278d8e4
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: a093cd0ac2bc4d165a91276e7a5f1a14a8b7736f
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307222"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50231959"
 ---
-# <a name="too-many-licenses"></a>Há muitas licenças?
+# <a name="too-many-licenses"></a>Muitas licenças?
 
-Se você acha que está sendo cobrado por muitas licenças, isso geralmente ocorre devido à compra de mais licenças e você precisa.
+Se você acha que está sendo cobrado por muitas licenças, isso geralmente ocorre porque você comprou mais licenças do que precisa.
   
 **Reduzir o número de licenças adquiridas**
+
+**ASSISTA a um** vídeo que mostra como fazer isso: [Remover licenças existentes](https://go.microsoft.com/fwlink/p/?linkid=2154938)
   
 1. No centro de administração, acesse a página **Cobrança** \> **[Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Na guia **produtos** , selecione a assinatura que você deseja alterar.
-3. Na página detalhes da assinatura, selecione **remover licenças**.
-4. No painel **remover licenças** , em **nova quantidade** na caixa **total de licenças** , insira o número total de licenças que você deseja para essa assinatura. Por exemplo, se você tiver licenças 100 e quiser remover 25 delas, digite 75.
+2. Na guia **Produtos**, encontre a assinatura que quer alterar.
+3. Na página de detalhes da assinatura, selecione **Remover licenças.**
+4. No painel **Remover licenças,** em Nova quantidade na caixa Total de  **licenças,** insira o número total de licenças que você deseja para essa assinatura. Por exemplo, se você tiver 100 licenças e quiser remover 25 delas, digite 75.
 5. Selecione **Salvar**.
 
-Para saber mais, veja [comprar ou remover licenças de assinatura](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Para saber mais, confira [Comprar ou remover licenças.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
