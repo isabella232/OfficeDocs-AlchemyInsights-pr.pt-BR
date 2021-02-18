@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001731"
 - "3830"
-ms.openlocfilehash: f41d6cf8cb1bac471ca33d81a867a35080906ae4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b22990f11bd229f206aa67f8793df3b605a4ba43
+ms.sourcegitcommit: 3c708a4a349b60b59bc623c44fb78674c685f3c2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732631"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "50291744"
 ---
 # <a name="create-an-org-wide-team-that-includes-everyone-in-your-organization"></a>Crie uma equipe de toda a organização que inclua todo o pessoal.
 
 Você pode criar uma equipe que inclua todos os membros da sua empresa ou organização, também conhecida como [Equipe de toda a organização](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team).
 
-- Sua organização tem **menos de 5000 usuários**? Atualmente, as equipes de toda a organização estão limitadas a organizações com 5000 ou menos usuários. Queremos aumentar esse limite no futuro.
+- Sua organização tem **menos de 10.000 usuários**? Atualmente, as equipes de toda a organização estão limitadas a organizações com 10.000 ou menos usuários. Queremos aumentar esse limite no futuro.
 
 - As equipes de toda a organização **atualmente não estão disponíveis** no **Teams para Educação**.
 
