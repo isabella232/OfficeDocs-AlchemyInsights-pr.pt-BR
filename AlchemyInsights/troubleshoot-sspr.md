@@ -1,0 +1,52 @@
+---
+title: Solucionar problemas de SSPR
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 03/04/2021
+ms.topic: article
+ms.audience: Admin
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9003259"
+- "6128"
+ms.openlocfilehash: 85bfc812dcffce008a6fa5394a6069bd64c514d6
+ms.sourcegitcommit: f4ba304b92ed01e35273ecda67e9dc3ad9d475c1
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50428506"
+---
+# <a name="troubleshoot-sspr"></a><span data-ttu-id="91004-102">Solucionar problemas de SSPR</span><span class="sxs-lookup"><span data-stu-id="91004-102">Troubleshoot SSPR</span></span>
+
+<span data-ttu-id="91004-103">**Estou com problemas para configurar a redefinição de senha**</span><span class="sxs-lookup"><span data-stu-id="91004-103">**I'm having trouble configuring password reset**</span></span>
+
+- <span data-ttu-id="91004-104">Se você for administrador e estiver procurando como habilitar a redefinição de senha de autoatendados, consulte [Tutorial enable SSPR](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr), to configure password reset for your organization.</span><span class="sxs-lookup"><span data-stu-id="91004-104">If you are administrator and looking for how to enable self-service password reset, see [Tutorial enable SSPR](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr), to configure password reset for your organization.</span></span> <span data-ttu-id="91004-105">Você também pode querer revisar os [requisitos de licenciamento.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="91004-105">You may also want to review the [licensing requirements](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span> <span data-ttu-id="91004-106">Você deve ter pelo menos uma licença atribuída em sua organização.</span><span class="sxs-lookup"><span data-stu-id="91004-106">You must have at least one license assigned in your organization.</span></span>
+    - <span data-ttu-id="91004-107">**Usuários somente na nuvem** - Qualquer SKU pago do Office 365 (O365) ou do Azure AD Basic</span><span class="sxs-lookup"><span data-stu-id="91004-107">**Cloud only users** - Any Office 365 (O365) paid SKU, or Azure AD Basic</span></span>
+    - <span data-ttu-id="91004-108">Usuários na nuvem **e/ou** locais - Azure AD Premium P1 ou P2, Enterprise Mobility + Security (EMS) ou Secure Productive Enterprise (SPE)</span><span class="sxs-lookup"><span data-stu-id="91004-108">**Cloud and/or on-premises users** - Azure AD Premium P1 or P2, Enterprise Mobility + Security (EMS), or Secure Productive Enterprise (SPE)</span></span>
+- <span data-ttu-id="91004-109">Para obter perguntas adicionais sobre a redefinição de senha de autoatendados, revise [nossas perguntas frequentes.](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="91004-109">For additional questions about self-service password reset, review [our FAQ](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span>
+
+<span data-ttu-id="91004-110">**Estou recebendo uma mensagem de erro**</span><span class="sxs-lookup"><span data-stu-id="91004-110">**I'm getting an error message**</span></span>
+
+<span data-ttu-id="91004-111">Revise este artigo para encontrar erros comuns e suas soluções: Solucionar problemas de redefinição de senha [de autoatendificação](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="91004-111">Review this article to find common errors and their solutions: [Troubleshoot self-service password reset](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)</span></span>
+
+<span data-ttu-id="91004-112">**Estou tendo um problema com minha política de redefinição de senha**</span><span class="sxs-lookup"><span data-stu-id="91004-112">**I'm having a problem with my password reset policy**</span></span>
+
+- <span data-ttu-id="91004-113">Se sua política de redefinição de senha não estiver se comportando como esperado ou se você tiver dúvidas sobre políticas de redefinição de senha, revise este artigo: Políticas e restrições de senha no [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support).</span><span class="sxs-lookup"><span data-stu-id="91004-113">If your password reset policy is not behaving as expected, or if you have questions about password reset policies, review this article: [Password policies and restrictions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span>
+- <span data-ttu-id="91004-114">As políticas de redefinição de senha não se aplicam aos administradores.</span><span class="sxs-lookup"><span data-stu-id="91004-114">Password reset policies do not apply to administrators.</span></span> <span data-ttu-id="91004-115">A Microsoft impõe uma política de redefinição de senha de dois portais padrão forte para qualquer função de administrador do Azure.</span><span class="sxs-lookup"><span data-stu-id="91004-115">Microsoft enforces a strong default two-gate password reset policy for any Azure administrator role.</span></span> <span data-ttu-id="91004-116">Certifique-se de que você está testando com um usuário que não seja um administrador.</span><span class="sxs-lookup"><span data-stu-id="91004-116">Make sure that you are testing with a user who is not an administrator.</span></span> <span data-ttu-id="91004-117">Para obter mais informações sobre a política de redefinição do administrador, consulte este artigo: [Diferenças de política de redefinição de administrador.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences)</span><span class="sxs-lookup"><span data-stu-id="91004-117">For more information on the administrator reset policy, see this article: [Administrator reset policy differences](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences).</span></span>
+
+<span data-ttu-id="91004-118">**Não quero que meus usuários registrem informações de segurança adicionais para redefinição de senha**</span><span class="sxs-lookup"><span data-stu-id="91004-118">**I don't want my users to register additional security info for password reset**</span></span>
+
+<span data-ttu-id="91004-119">Você pode preencher previamente dados (atributos de email e telefone) para seus usuários usando uma API, o PowerShell ou o Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="91004-119">You can pre-populate data (email and phone attributes) for your users using an API, PowerShell, or Azure AD Connect.</span></span> <span data-ttu-id="91004-120">Para saber como ler:</span><span class="sxs-lookup"><span data-stu-id="91004-120">To learn how read:</span></span>
+
+- [<span data-ttu-id="91004-121">Implantando redefinição de senha sem exigir que os usuários se registrem</span><span class="sxs-lookup"><span data-stu-id="91004-121">Deploying password reset without requiring users to register</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support#set-and-read-authentication-data-using-powershell)
+- [<span data-ttu-id="91004-122">Quais dados são usados pela redefinição de senha</span><span class="sxs-lookup"><span data-stu-id="91004-122">What data is used by password reset</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
+
+<span data-ttu-id="91004-123">**Quero que meus usuários registrem suas informações de segurança adicionais para redefinição de senha**</span><span class="sxs-lookup"><span data-stu-id="91004-123">**I want my users to register their additional security info for password reset**</span></span>
+
+1. <span data-ttu-id="91004-124">Faça com que seus usuários registrem suas informações de segurança para redefinição de senha de autoatendados direcionando-os [para](https://mysignins.microsoft.com/security-info)aka.ms/ssprsetup .</span><span class="sxs-lookup"><span data-stu-id="91004-124">Have your users register their security info for self service password reset by directing them to [aka.ms/ssprsetup](https://mysignins.microsoft.com/security-info).</span></span>
+1. <span data-ttu-id="91004-125">Depois que os dados são preenchidos para o usuário (pelo [](https://passwordreset.microsoftonline.com/) usuário ou pelo administrador), direcionar o usuário para aka.ms/sspr para que seus usuários possam ser habilitados para redefinir suas próprias senhas.</span><span class="sxs-lookup"><span data-stu-id="91004-125">After data is populated for the user (by the user or by the admin), direct your user to [aka.ms/sspr](https://passwordreset.microsoftonline.com/) so your users can be empowered to reset their own passwords.</span></span>
+1. <span data-ttu-id="91004-126">Se os usuários ainda estão enfrentando problemas, eles provavelmente serão **usuários sincronizados** com hash de senha ou **federados.**</span><span class="sxs-lookup"><span data-stu-id="91004-126">If users are still experiencing problems they are most likely **federated** or **password hash synched** users.</span></span> <span data-ttu-id="91004-127">Isso significa que provavelmente há um problema com o serviço writeback de senha.</span><span class="sxs-lookup"><span data-stu-id="91004-127">This means there is likely a problem with the Password Writeback service.</span></span>
