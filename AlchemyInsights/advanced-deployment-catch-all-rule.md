@@ -1,9 +1,10 @@
 ---
-title: Regra de interceptar todas as regras de implantação avançada
+title: Regra de Captura de Implantação Avançada de Todas
 ms.author: pebaum
 author: pebaum
+manager: mnirkhe
 ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +13,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 2b0ed94f65ef0aa1b5fac1f23b7f62a1425b887e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a6647dec85e495b54835e7d6c26807da4e5b621
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696680"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448631"
 ---
-# <a name="deploy-microsoft-365-apps"></a>Implantar aplicativos do Microsoft 365
+# <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a>Instalar o Office com o consultor de implantação do Microsoft 365 Apps
 
-Para a implantação de aplicativos do Microsoft 365 em vários usuários finais por meio da ferramenta de implantação do Office, do Microsoft Endpoint Configuration Manager, como parte de uma imagem de disco do sistema operacional ou em um cenário de computador compartilhado usando o Windows Server com serviços de área de trabalho remota (RDS) ou serviços de terminal, considere o uso do guia passo a passo no **supervisor de implantação do Microsoft 365**.
+O consultor de implantação do [Microsoft 365 Apps](https://admin.microsoft.com/adminportal/home) ajuda você a obter os dispositivos dos usuários executando a versão mais recente dos produtos do Office, como Word, Excel, PowerPoint e OneNote.
   
-Para começar, verifique se você está conectado como administrador de locatários ou administrador global e clique aqui: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .
+Você obterá orientações sobre os vários métodos de implantação, que incluem opções fáceis de auto-instalação, bem como implantações corporativas usando ferramentas de gerenciamento. As instruções ajudarão você a avaliar seu ambiente, a descobrir seus requisitos específicos de implantação e implementar as ferramentas de suporte necessárias para garantir uma instalação bem-sucedida.
   

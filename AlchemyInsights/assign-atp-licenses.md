@@ -1,8 +1,8 @@
 ---
-title: Atribuir licenças de proteção avançada contra ameaças
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: Atribuir licenças do Microsoft Defender para o Office 365
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5778"
-ms.openlocfilehash: a877495be34c9403f63ebf96b0b83052f4c31491
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+- commerce
+ms.openlocfilehash: 6eb6529b4b2b73b0f8a599eb396d088e77e9516d
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801168"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469578"
 ---
-# <a name="assign-advanced-threat-protection-licenses"></a>Atribuir licenças de proteção avançada contra ameaças
+# <a name="assign-microsoft-defender-for-office-365-licenses"></a>Atribuir licenças do Microsoft Defender para o Office 365
 
-O Microsoft defender para Office 365 pode ser atribuído a usuários no centro de administração do Microsoft 365.
+O Microsoft Defender para Office 365 pode ser atribuído aos usuários no Centro de Administração do Microsoft 365.
 
-1. Vá para **Billing**  >  [licenças](https://go.microsoft.com/fwlink/p/?linkid=842264)de cobrança.
+1. Vá para  >  [Licenças de Cobrança.](https://go.microsoft.com/fwlink/p/?linkid=842264)
 2. Selecione um produto para o qual você deseja atribuir licenças.
-3. Clique em **Atribuir licenças** .
-4. No painel **atribuir licenças a usuários**  , comece a digitar o nome de um usuário e, em seguida, escolha-o nos resultados. É possível selecionar até 20 usuários de cada vez.
-5. Clique em **Ativar ou desativar aplicativos e serviços**  para atribuir ou remover.
-6. Clique em **atribuir** e  **fechar** .
+3. Clique em **Atribuir licenças**.
+4. No painel **Atribuir licenças aos**  usuários, comece a digitar o nome de um usuário e escolha-o entre os resultados. É possível selecionar até 20 usuários de cada vez.
+5. Clique **em Ativar ou desativar aplicativos e serviços**  para atribuir ou remover.
+6. Clique **em Atribuir** e **Fechar.**
 
-Para comprar mais licenças ou removê-las, confira [Adicionar/Remover licenças de assinaturas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Para comprar mais ou remover licenças, consulte [Comprar ou remover Licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
