@@ -1,5 +1,5 @@
 ---
-title: Experiência de exploratório do Microsoft Teams
+title: Experiência exploratória do Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "9001513"
 - "3572"
 - "7228"
-ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
-ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
+ms.openlocfilehash: 1402f0f0e65fcc4201e65f2a8d1c3b09c12a0023
+ms.sourcegitcommit: b71e5981b7f30ef2bce4e695118d03aa68a5be4a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49019535"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50480707"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>Experiência de exploratório do Microsoft Teams
+# <a name="microsoft-teams-exploratory-experience"></a>Experiência exploratória do Microsoft Teams
 
-- O que é o [Teams exploratório](https://docs.microsoft.com/microsoftteams/teams-exploratory)? A experiência de exploratório do Microsoft Teams permite que os usuários em sua organização que não estejam licenciados para o Teams iniciem uma experiência exploratório do teams. Para obter mais informações, confira o [que há na experiência de exploratório do teams](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
-- [Quando minha licença expirará](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)? A experiência de exploratório do Microsoft Teams está disponível sem custo adicional até seu próximo aniversário de contrato ou renovação em ou após janeiro de 2021.
-- Como administrador, você pode [atualizar os usuários da licença exploratório do teams](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) comprando uma assinatura que inclui o Microsoft Teams, removendo a assinatura exploratório do teams do usuário e atribuindo a licença recém adquirida.
-- Para obter mais informações, consulte [Manage The Teams exploratório License.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
+- O que é [o Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory)? A experiência do Microsoft Teams Exploratory permite que os usuários em sua organização que não são licenciados para o Teams iniciem uma experiência exploratória do Teams. Para obter mais informações, consulte [o que está na experiência do Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
+- [Por quanto tempo dura a experiência do Teams Exploratory?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) A experiência do Microsoft Teams Exploratory está disponível sem custo adicional por 12 meses (a partir da inscrição inicial do usuário) mais um período de carência adicional de 30 dias.
+- Como administrador, você pode atualizar os usuários da licença [do Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) comprando uma assinatura que inclui o Teams, removendo a assinatura exploratória do Teams do usuário e atribuindo a licença recém-adquirida.
+- Para obter mais informações, consulte [Manage the Teams Exploratory license](https://docs.microsoft.com/microsoftteams/teams-exploratory).
