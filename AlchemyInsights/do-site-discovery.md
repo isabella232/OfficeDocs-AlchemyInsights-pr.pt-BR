@@ -1,0 +1,54 @@
+---
+title: Fazer descoberta do site
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 03/08/2021
+audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9143"
+- "9005291"
+ms.openlocfilehash: bdf94220de45d92f63e56501ea4e35389224d25c
+ms.sourcegitcommit: 475a9eaa095812091991857df6cf6490a8bbe179
+ms.translationtype: HT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 03/08/2021
+ms.locfileid: "50529157"
+---
+# <a name="do-site-discovery"></a>Fazer descoberta do site
+
+Se a sua organização ainda usa aplicativos da web legados e planeja usar o modo Internet Explorer (o que a maioria dos clientes faz), você deve fazer algumas descobertas de sites adicionais.
+
+**Você já implantou uma versão mais antiga do Microsoft Edge**
+
+Se você já configurou sua Lista de Sites da Empresa para funcionar com a versão herdada do Microsoft Edge, a descoberta de seu site está quase concluída. A única coisa que você precisa fazer é adicionar sites neutros.
+
+Sites neutros são normalmente sites que fornecem logon único (SSO). Se você for a um site neutro do Microsoft Edge, deseja permanecer no Microsoft Edge para fazer a autenticação. Se você for para um site neutro no modo Internet Explorer, deverá permanecer no modo Internet Explorer para fazer a autenticação.
+
+Identifique qualquer SSO ou outros sites neutros que você usa e adicione-os à sua Lista de Sites da Empresa.
+
+**Internet Explorer é o seu navegador padrão**
+
+Se você estiver usando apenas o Internet Explorer agora, talvez não saiba quais sites foram atualizados para os padrões modernos da web e quais ainda exigem o Internet Explorer. Você desejará localizar e adicionar esses sites à Lista de Sites da Empresa para que possa usar o modo Internet Explorer apenas para esses sites.
+
+> [!NOTE]
+> [A Descoberta de Sites da Empresa](https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/collect-data-using-enterprise-site-discovery) descobre sites que podem precisar do modo Internet Explorer. Ele pode coletar dados em computadores que executam o Windows Internet Explorer 8 por meio do Internet Explorer 11 no Windows 10, Windows 8.1 ou Windows 7.
+
+**Analisar os dados**
+
+Depois de coletar os dados do site, recomendamos o seguinte processo de quatro etapas para analisar os dados:
+1. Classifique os dados por domínio e, em seguida, por URL.
+2. Defina os limites de um aplicativo a ser configurado para o modo Internet Explorer. Você deseja incluir todos os sites e controles da web que definem o aplicativo, mas não deseja incluir sites e controles extras. Alguns sites podem ser tão simples como o *https://contoso.com/app1* enquanto outros podem exigir que você defina vários sites e páginas.
+3. Teste o aplicativo para verificar se ele não funciona nativamente. Muitos sites oferecem conteúdo moderno quando detectam um navegador moderno e só oferecem conteúdo legado quando detectam o Internet Explorer.
+4. Adicione o aplicativo à sua Lista de Sites de Empresas se ele falhar no teste.
+
+> [!NOTE]
+> Como prática recomendada, agrupe todos os sites que compõem um aplicativo. Dessa forma, quando você atualiza um aplicativo, é mais fácil remover todo o site do modo Internet Explorer e começar a usar um navegador moderno para esse aplicativo.
+
+Depois de concluir a descoberta do site e analisar os dados, você está pronto para começar a analisar sua estratégia de canal.
+
