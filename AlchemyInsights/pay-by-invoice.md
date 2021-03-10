@@ -1,5 +1,5 @@
 ---
-title: Pagar por fatura
+title: Pagar por Fatura
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -9,22 +9,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- commerce
 - "492"
 - "1500024"
-ms.openlocfilehash: 0bafb21aae965122f5ac6d214f2ac6d63858003c
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: 43638559082c02ef91a8557543d6565327ea988a
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152330"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601046"
 ---
-# <a name="pay-by-invoice"></a>Pagar por fatura
+# <a name="pay-by-invoice"></a>Pagar por Fatura
 
-Se a sua assinatura do Microsoft 365 custa mais do que um determinado valor em dinheiro (esse valor varia de acordo com o local do serviço), você terá a opção de pagar por fatura usando um cheque ou EFT. Uma consulta de crédito pode ser necessária para pagamentos de faturas com valores maiores. Se uma verificação de crédito for necessária, você será notificado quando comprar sua assinatura. Se concordar em ser contatado, você recebe um email que inclui mais informações sobre como solicitar a aprovação de crédito. Geralmente, as verificações de crédito são concluídas em dois dias úteis.
+Se sua assinatura do Microsoft 365 custa mais de uma determinada quantidade de dinheiro (esse valor varia de acordo com o local do serviço), você terá a opção de pagar por fatura usando uma verificação ou EFT. Uma consulta de crédito pode ser necessária para pagamentos de faturas com valores maiores. Se for necessária uma verificação de crédito, você será notificado quando adquirir sua assinatura. Se concordar em ser contatado, você receberá um email que inclui mais informações sobre a aplicação da aprovação de crédito. Geralmente, as verificações de crédito são concluídas em dois dias úteis.
 
-Se você pagar por fatura pela sua assinatura, você recebe um email quando o seu extrato de cobrança está pronto para exibição. Esse email não contém uma cópia do seu extrato de cobrança. No entanto, você pode optar [por receber uma cópia do seu extrato de cobrança por email.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice.md#receive-a-copy-of-your-billing-statement-in-email) Seu extrato de cobrança inclui detalhes sobre suas opções de pagamento e para onde enviá-lo. Se você inserir um número de OC (ordem de compra) ao adquirir uma assinatura, esse número aparecerá no seu demonstrativo de cobrança. Para obter informações sobre como acessar extratos de cobrança, consulte [Visualizar sua cobrança ou fatura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
+Se você paga sua assinatura por fatura, receberá um email quando o extrato da fatura estiver pronto para exibição. Esse email não apresentará uma cópia do extrato da sua fatura. No entanto, é possível optar por [receber uma cópia do extrato da sua fatura por email](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice.md#receive-a-copy-of-your-billing-statement-in-email). O extrato da sua fatura inclui detalhes sobre as opções de pagamento e para onde enviá-lo. Se você inserir um número de OC (ordem de compra) ao adquirir uma assinatura, esse número aparecerá no seu demonstrativo de cobrança. Para obter informações sobre como acessar extratos de cobrança, consulte [Visualizar sua cobrança ou fatura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
 
-Para saber mais sobre como pagar por fatura, [confira Como pagar sua assinatura.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Para saber mais sobre como pagar por fatura, consulte [Como pagar por sua assinatura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
 
-Se você estiver tentando atualizar métodos de pagamento, consulte [Gerenciar métodos de pagamento.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Se você estiver procurando atualizar métodos de pagamento, consulte [Gerenciar métodos de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

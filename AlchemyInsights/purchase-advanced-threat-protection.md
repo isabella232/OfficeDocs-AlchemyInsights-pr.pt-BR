@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-- commerce
-ms.openlocfilehash: 1f89de4fdd42f44ca75786262f19f12f65b7f594
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: dca5f0adec60af8583f286630613a4c5a94cddb4
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469794"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602100"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Comprar o Microsoft Defender para o Office 365
 
@@ -33,4 +32,4 @@ O Microsoft Defender para Office 365 está incluído em certas assinaturas, como
 
 Para atribuir licenças aos usuários, consulte [Atribuir licenças aos usuários](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 
-Para comprar mais ou remover licenças, consulte [Comprar ou remover Licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Para comprar mais licenças ou removê-las, confira [Adicionar ou remover Licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).

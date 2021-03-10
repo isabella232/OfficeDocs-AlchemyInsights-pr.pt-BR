@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "9360"
-ms.openlocfilehash: fe3a13acb0ba5c8872d7c0bb8c3961d83f7d3526
-ms.sourcegitcommit: bd6a9cb5d357baee5134c0dea430afc2a035c810
+ms.openlocfilehash: aa1eba1efef6a4c28aa6b9229071304093395922
+ms.sourcegitcommit: 9a00005546c2fe473e3cea2b06e38c27eada88c4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 03/09/2021
-ms.locfileid: "50568434"
+ms.locfileid: "50585647"
 ---
 # <a name="problems-resetting-password"></a>Problemas para redefinir senha
 
@@ -26,7 +26,7 @@ A seguir estão alguns dos problemas que você pode enfrentar ao redefinir a sen
 
 **Estou tendo um problema com a redefinição de senha não abordada nas outras categorias**
 
--Certifique-se de que você está autorizado a redefinir senhas. Somente administradores globais, de senha e de usuário podem redefinir senhas de usuário. Os administradores globais também podem redefinir as senhas de outro administrador privilegiado.
+- Verifique se você está autorizado a redefinir senhas. Somente administradores globais, de senha e de usuário podem redefinir senhas de usuário. Os administradores globais também podem redefinir as senhas de outro administrador privilegiado.
 - Certifique-se de entender os requisitos de licenciamento:
     - Você deve ter pelo menos uma licença atribuída em sua organização
         - Usuários somente na nuvem - Qualquer SKU pago do Office 365 (O365) ou do Azure AD Basic
