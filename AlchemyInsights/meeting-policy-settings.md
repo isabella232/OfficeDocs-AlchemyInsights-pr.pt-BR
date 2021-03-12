@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 683ca12c8f6e2511311c10ab5c4599ee66c08eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a55417df0f89063fbdd9ade6d104be4f8ab49c
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794322"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704594"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Gerenciar políticas de reunião no Microsoft Teams
 
-**Observação: pode levar até 24 horas para que as alterações de política entrem em vigor para os usuários.** Você pode não conseguir fazer alterações em políticas recentemente criadas imediatamente; Aguarde 4 horas e tente modificar novamente uma política recém-criada.
+**Observação: pode levar até 24 horas para que as alterações de política entre em vigor para os usuários.** Talvez você não consiga fazer alterações nas políticas recém-criadas imediatamente; aguarde 4 horas e tente modificar uma política recém-criada novamente.
 
-As políticas de reunião são usadas para controlar os recursos disponíveis para os participantes da reunião para reuniões agendadas por usuários em sua organização. Alguns recursos das políticas de reunião podem não ser implementados no centro de administração do teams ainda (eles estão "em breve" na documentação). Nesse caso, ou se você estiver recebendo um erro como "não é possível atualizar a política agora, mas tentar novamente mais tarde" no centro de administração do Microsoft Teams, recomendamos que você use o PowerShell para criar ou modificar as políticas de reunião do teams. 
+As políticas de reunião são usadas para controlar os recursos que estão disponíveis para os participantes da reunião para reuniões agendadas pelos usuários em sua organização. Alguns recursos das políticas de reunião podem ainda não ser implementados no centro de administração do Teams (eles são rotulados como "em breve" na documentação). Nesse caso, ou se você estiver recebendo um erro como "Não podemos atualizar a política agora, mas tentar novamente mais tarde" no Centro de administração do Microsoft Teams, recomendamos que você use o PowerShell para criar ou modificar políticas de reunião do Teams. 
 
 Para obter mais informações sobre políticas de reunião, consulte os seguintes recursos:
 
-- Para saber mais sobre como criar políticas, fazer alterações e atribuir usuários à política, confira [gerenciar políticas de reunião no Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+- Para saber mais sobre como criar políticas, fazer alterações e atribuir usuários à política, consulte Gerenciar políticas de reunião [no Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
-- Para fazer alterações de política usando cmdlets do PowerShell, consulte [Teams PowerShell Overview](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
-    - Você precisa usar o [módulo PowerShell do Skype for Business](https://www.microsoft.com/download/details.aspx?id=39366) para as políticas de reunião do teams. 
-    - Consulte a [documentação dos cmdlets do *-CsTeamsMeetingPolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) para obter mais informações.
+- Para fazer alterações de política usando cmdlets do PowerShell, consulte [Visão geral do Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
+    - Você precisa usar o módulo [do PowerShell](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) do Skype for Business para políticas de reunião do Teams. 
+    - Revise a [documentação dos cmdlets *-CsTeamsMeetingPolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) para obter mais informações.
 

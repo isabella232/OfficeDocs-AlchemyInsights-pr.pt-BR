@@ -12,29 +12,29 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 5aaca1ca3095616606da2e36c1f992af6366ac47
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8b0c44ffd3dd1a9f8f2a021299dc8d9ada200636
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812715"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704702"
 ---
 # <a name="managing-yammer-users"></a>Gerenciando usuários do Yammer
 
-1. Para obter informações sobre como gerenciar usuários do Yammer no Microsoft 365, confira [gerenciar usuários do yammer em todo o ciclo de vida](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Isso inclui detalhes sobre:
+1. Para obter informações sobre como gerenciar usuários do Yammer do Microsoft 365, consulte [Manage Yammer users across their lifecycle](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Isso inclui detalhes sobre:
 
-  - Criar um usuário
+  - Criando um usuário
 
   - Exclusão de usuários
 
-  - Gerenciando usuários do Yammer da Microsoft 365
+  - Gerenciando usuários do Yammer do Microsoft 365
 
-2. Confira [Adicionar, bloquear ou remover usuários do Yammer](https://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) para obter informações sobre o gerenciamento de usuários no console de administração do Yammer. Isso inclui:
+2. Confira [Adicionar, bloquear ou remover usuários](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) do Yammer para obter informações sobre como gerenciar usuários do console de administração do Yammer. Isso inclui:
 
-  - Convidando ou removendo usuários
+  - Convidar ou remover usuários
 
-  - Convidando usuários convidados
+  - Convidar usuários convidados
 
-  - Exportar a lista de usuários
+  - Exportando a lista de usuários
 
-3. Para obter informações sobre como adicionar, remover e gerenciar usuários externos, consulte [Adicionar participantes de mensagens externas à sua rede do Yammer](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).
+3. Para obter informações sobre como adicionar, remover e gerenciar usuários [externos, consulte Add external messaging participants to your Yammer network](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).

@@ -9,30 +9,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 5eec5982118b4f0246afadf2af219b2d5f32f95c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 20ef8205431aad821419f2559be3402c8228d838
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807647"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704774"
 ---
 # <a name="conditional-access-with-intune"></a>Acesso condicional com o Intune
 
-O uso do  **acesso condicional**  com o Intune requer três etapas:
+O uso  **do Acesso Condicional**  com o Intune requer três etapas:
 
-- Crie uma  **política de conformidade**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [Ios](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) para definir as configurações que devem ser atendidas antes que o dispositivo seja considerado compatível. Por exemplo, um dispositivo deve ter um PIN de pelo menos seis dígitos antes de ser considerado em conformidade.
-- Criar uma **política de acesso condicional**  que define quais recursos estão sendo protegidos e quais condições precisam ser atendidas para acessar esses recursos.  [Por exemplo,](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  um dispositivo deve estar em conformidade antes de acessar o email corporativo.
-- Verifique se as políticas de **conformidade**  e  **as políticas de acesso condicional**  estão direcionadas para os grupos de usuários desejados. Isso pode exigir a criação de grupos específicos de usuários no Azure Active Directory.
+- Crie uma  **Política de Conformidade**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) para definir as configurações que devem ser atendidas antes que o dispositivo seja considerado compatível. Por exemplo, um dispositivo deve ter um pino de pelo menos 6 dígitos antes de ser considerado compatível.
+- Crie uma **Política de Acesso Condicional**  que define quais recursos estão sendo protegidos e quais condições precisam ser atendidas para acessar esses recursos.  [Por exemplo, um](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  dispositivo deve estar em conformidade antes de acessar emails corporativos.
+- Verifique se **as Políticas de Conformidade**  e as Políticas de Acesso  **Condicional**  são direcionadas aos grupos de usuários desejados. Isso pode exigir a criação de grupos específicos de usuários no Azure Active Directory.
 
 **Links úteis:**
 
-[Visão geral de conformidade do dispositivo](https://docs.microsoft.com/intune/device-compliance-get-started)
+[Visão geral da conformidade do dispositivo](https://docs.microsoft.com/intune/device-compliance-get-started)
 
-[Solucionando problemas de autoridade de certificação](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+[Solução de problemas de CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[Política de solução de problemas](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+[Política de solução de problemas](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
-Para proteger o email (Exchange Online) do acesso por dispositivos não compatíveis, ambos os documentos devem ser seguidos:
+Para proteger Email (Exchange online) do acesso por dispositivos não compatíveis, ambos os documentos devem ser seguidos:
 
-1. [Proteger o acesso de email de dispositivos usando EAS](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
-2. [Proteger o acesso de email de dispositivos usando clientes de autenticação modernos, como o Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
+1. [Proteger o acesso de email contra dispositivos usando o EAS](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
+2. [Proteger o acesso de email contra dispositivos que usam clientes de autenticação modernos, como o Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
