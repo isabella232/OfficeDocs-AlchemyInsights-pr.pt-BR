@@ -1,5 +1,5 @@
 ---
-title: problemas-Sharing-with-Outlook-Customer-Manager
+title: problems-sharing-with-outlook-customer-manager
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 5f41d5ea0246f5d057a5ae243dd9ffc706ca594e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728239"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709238"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Problemas de compartilhamento com o Gerenciador de clientes do Outlook
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Problemas de compartilhamento com o Outlook Customer Manager
 
-Se você estiver tendo problemas de compartilhamento com o Gerenciador de clientes do Outlook, recomendamos que você primeiro tente limpar o cache do navegador. Por exemplo, no Internet Explorer, você pode:
+Se você estiver tendo problemas de compartilhamento com o Outlook Customer Manager, recomendamos que você primeiro tente limpar o cache do navegador. Por exemplo, no Internet Explorer, você faria:
 
-1. Vá para **configurações**definições  >  **gerais** de > em **Browsing history**  >  **caches de histórico de navegação e bancos de dados**.
-2. Excluir arquivos de cache do site "outlookapps.com".
+1. Vá para **Configurações**  >  **Gerais >** Configurações em **Histórico de** Navegação  >  **Caches e bancos de dados**.
+2. Excluir arquivos de cache para o site "outlookapps.com".
 3. Reinicie o Outlook.
 
-Para obter mais informações sobre compartilhamento, consulte [share Information in Outlook Customer Manager](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).
+Para obter mais informações sobre compartilhamento, consulte [Compartilhar informações no Outlook Customer Manager](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).

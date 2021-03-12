@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: ce17fdbda093dff6706762b6753f9cac889c3098
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49911969"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708554"
 ---
 # <a name="myapps-portal-issues"></a>Problemas do portal MyApps
 
@@ -28,9 +28,9 @@ Para solucionar problemas que você está enfrentando ao fazer login ou usar o p
 
 Para obter orientação sobre como descobrir por que os aplicativos que você espera não aparecem no painel de acesso do aplicativo, confira:
 
-- [Não sei por que um aplicativo que atribuí não está aparecendo no painel de acesso](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-not-appearing/)
+- [Não sei por que um aplicativo que atribuí não está aparecendo no painel de acesso](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
-- [Não sei por que um aplicativo está aparecendo no painel de acesso](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-appears/)
+- [Não sei por que um aplicativo está aparecendo no painel de acesso](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
 **Estou tendo problemas para fazer login no painel de acesso do aplicativo**
 

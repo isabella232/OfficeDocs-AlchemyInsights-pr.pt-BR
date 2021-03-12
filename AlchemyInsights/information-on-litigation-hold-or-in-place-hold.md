@@ -1,5 +1,5 @@
 ---
-title: Informações sobre retenção de litígio ou in-loco
+title: Informações sobre a hold de litígio ou a ressução in-locar
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,24 +10,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 3c0681b8e031f1a060a5c400f9c10760f33749e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 08579c3cf887de649480480856ba42478d488a0a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755443"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709310"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>Sobre contenções de litígio e bloqueios in-loco
+# <a name="about-litigation-holds-and-in-place-holds"></a>Sobre as resdações de litígio e as resdações in-place
 
-- Para aplicar uma retenção de litígio ou um bloqueio in-loco a uma caixa de correio, é necessária uma [licença do Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Se você tiver qualquer outro plano, atribua uma licença de [arquivamento do Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) separada à conta. 
+- Para aplicar uma hold de litígio ou uma hold in-loca a uma caixa de correio, uma licença do [Plano 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) do Exchange Online é necessária. Se você tiver qualquer outro Plano, atribua uma [licença](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) Arquivamento do Exchange Online separada à conta. 
     
-- **Para habilitar uma retenção de litígio** para um único usuário, siga as etapas descritas [aqui](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Quando a retenção de litígio está habilitada, todo o conteúdo da caixa de correio é colocado em espera.
+- **Para habilitar uma responsabilidade** de litígio para um único Usuário, siga as etapas descritas [aqui](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold). Quando a habilitação de litígio é habilitada, todo o conteúdo na caixa de correio é colocado em espera.
     
-- Para aplicar um **bloqueio in-loco em um único usuário** ou em uma retenção a **todas as caixas de correio em toda a organização**, você pode usar as políticas de retenção no centro de conformidade e segurança do Microsoft 365 seguindo as etapas descritas [aqui]( https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+- Para aplicar uma retenção **in-locar** em usuários individuais ou uma retenção em todas as caixas de correio em toda a Organização **,** você pode usar As Políticas de Retenção no Centro de Conformidade e Segurança do Microsoft 365 seguindo as etapas descritas [aqui](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
     
     > [!NOTE]
-    > Para políticas de retenção em toda a organização, novos usuários serão adicionados automaticamente à isenção. 
+    > Para políticas de retenção em toda a organização, novos usuários serão adicionados automaticamente à retenção. 
   
-- Para exibir ou descobrir o conteúdo da caixa de correio que é colocado em espera, use **pesquisa e exportação de descoberta eletrônica**. Para obter informações sobre como usar a **pesquisa e exportação de descoberta eletrônica**, siga as etapas descritas [aqui](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+- Para exibir ou descobrir o conteúdo da caixa de correio colocado em espera, use **a Pesquisa de Descoberta Eletrônico e Exportar**. Para obter informações sobre como usar a Pesquisa e Exportação de Descobertas **E,** siga as etapas descritas [aqui](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
     
 
