@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002258"
 - "4360"
-ms.openlocfilehash: 783e764f4f6da4ed2ceb19f8734d4178fa362edd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d9022e51ab2dc7119adaebe3d8315dd18670963d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796492"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707402"
 ---
-# <a name="verify-office-365-education-tenant"></a><span data-ttu-id="f5e15-102">Verificar locatário do Office 365 Education</span><span class="sxs-lookup"><span data-stu-id="f5e15-102">Verify Office 365 Education tenant</span></span>
+# <a name="verify-office-365-education-tenant"></a><span data-ttu-id="03ffe-102">Verificar locatário do Office 365 Education</span><span class="sxs-lookup"><span data-stu-id="03ffe-102">Verify Office 365 Education tenant</span></span>
 
-<span data-ttu-id="f5e15-103">Seu locatário pode ser verificado como um locatário Educacional seguindo algumas etapas simples.</span><span class="sxs-lookup"><span data-stu-id="f5e15-103">Your tenant can be verified as an Education tenant by following a few easy steps.</span></span> <span data-ttu-id="f5e15-104">Confira [configurar um locatário do Office 365](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant) para saber mais.</span><span class="sxs-lookup"><span data-stu-id="f5e15-104">Review [Set up an Office 365 Tenant](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant) for more information.</span></span> 
+<span data-ttu-id="03ffe-103">Seu locatário pode ser verificado como um locatário Educacional seguindo algumas etapas simples.</span><span class="sxs-lookup"><span data-stu-id="03ffe-103">Your tenant can be verified as an Education tenant by following a few easy steps.</span></span> <span data-ttu-id="03ffe-104">Confira [configurar um locatário do Office 365](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) para saber mais.</span><span class="sxs-lookup"><span data-stu-id="03ffe-104">Review [Set up an Office 365 Tenant](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) for more information.</span></span> 
