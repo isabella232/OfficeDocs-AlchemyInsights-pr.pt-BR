@@ -3,7 +3,7 @@ title: Problemas com links e URLs
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
+ms.date: 02/25/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 24885d873d6471a72ae66581ad1ceb0a19b664f7
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49950657"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707870"
 ---
 # <a name="issues-with-links-and-urls"></a>Problemas com links e URLs
 
@@ -31,7 +31,7 @@ URLs de resposta/URI de redirecionamento (ambas as expressões são intercambiá
 
 Ao entrar com o aplicativo que você está desenvolvendo, se a caixa de diálogo de entrada exibir **AADSTS50011: A url de resposta especificada na solicitação não corresponde às urls de resposta configuradas para o aplicativo <your app ID>**, você precisará adicionar ao registro do aplicativo, a URI de redirecionamento que seu código usou na solicitação de token para a plataforma de identidade da Microsoft.
 
-Para adicionar uma URL de resposta, vá para a guia **Autenticação** na página de **registro do aplicativo** no portal do Azure e adicione uma entrada na seção **URIs de redirecionamento**. As URIs de redirecionamento são digitadas (Web ou celular/área de trabalho). O valor que você precisa inserir depende do tipo de aplicativo que você está criando, conforme descrito abaixo:
+Para adicionar uma URL de resposta, vá para a guia **Autenticação** na página de **registro do aplicativo** no portal do Azure e adicione uma entrada na seção **URIs de redirecionamento**. O valor que você precisa inserir depende do tipo de aplicativo que você está criando, conforme descrito abaixo:
 
 - Para aplicativos de página única e apps Web, a URL de resposta é uma URL do seu aplicativo. Veja [Registro do aplicativo de página única](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) ou [Registrar um app da Web usando o portal do Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)
 - Para apps da área de trabalho, o valor que você precisa escolher depende de:

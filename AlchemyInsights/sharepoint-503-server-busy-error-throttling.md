@@ -1,8 +1,8 @@
 ---
-title: Limitação do SharePoint Online
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
+title: SharePoint Online - Throttling
+ms.author: v-smandalika
+author: v-smandalika
+ms.date: 01/05/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,26 +13,20 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 21d0f8d0118d92562b425921742513157563b5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01ce7a0266eb15a04f70826cc3f5e135f384c13b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773835"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707546"
 ---
-# <a name="sharepoint-online-throttling"></a>Limitação do SharePoint Online
+# <a name="sharepoint-online-throttling"></a>SharePoint Online Throttling
 
-**Importante**: Durante esses tempos sem precedentes, estamos tomando medidas para garantir que os serviços do SharePoint Online e OneDrive permaneçam altamente disponíveis - Visite [Ajustes de recursos temporários do SharePoint Online](https://aka.ms/ODSPAdjustments) para obter mais informações.
+SharePoint Online usa a limitação para manter o melhor desempenho e confiabilidade do serviço SharePoint Online. O número de ações do usuário ou simultâneas redução dos limites chamadas (por script ou código) para impedir o uso excessivo de recursos. 
 
-**erro de servidor 503 está ocupado**
+Para obter mais informações sobre a aceleração, consulte [Evite ser acelerada ou bloqueada no SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 
-Os usuários podem receber um erro de servidor 503 está ocupado ao tentar navegar até sites do SharePoint ou do OneDrive. 
+Se você acredita que esse erro não está relacionado à throttling, você pode verificar se há manutenção ativa ocorrendo em seu locatário navegando até a Central de [Mensagens](https://portal.office.com/adminportal/home#/MessageCenter).
 
-Esse erro pode ser causado pela limitação no serviço do SharePoint. SharePoint Online usa a limitação para manter o melhor desempenho e confiabilidade do serviço SharePoint Online. A limitação limita o número de ações do usuário ou de chamadas simultâneas (por script ou código) a fim de impedir o uso excessivo de recursos. 
-
-Para obter mais informações sobre limitação, confira o artigo sobre [como ficar limitado ou bloqueado no SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
-
-Se acreditar que esse erro não está relacionado à limitação, você poderá verificar se há manutenção ativa ocorrendo no locatário, navegando até o [centro de mensagens](https://portal.office.com/adminportal/home#/MessageCenter).
-
- Por fim, verifique se você está visitando a página [integridade do serviço](https://portal.office.com/adminportal/home#/servicehealth) para verificar se há avisos/incidentes que possam ocorrer.
+ Por fim, visite a página [Saúde do](https://portal.office.com/adminportal/home#/servicehealth) Serviço para verificar se há avisos/incidentes que possam estar ocorrendo.
 

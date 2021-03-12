@@ -1,5 +1,5 @@
 ---
-title: DLP não está funcionando conforme esperado
+title: A DLP não está funcionando conforme o esperado
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,41 +13,41 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 0ed893420b5813d5d18639c2c226c12f0306a13f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0f07e64c95675a4f6a0aeb6df110fe4e6a21d72f
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679681"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707798"
 ---
-# <a name="dlp-not-working-as-expected"></a>DLP não está funcionando conforme esperado
+# <a name="dlp-not-working-as-expected"></a>A DLP não está funcionando conforme o esperado
 
 **Importante**: Durante esses tempos sem precedentes, estamos tomando medidas para garantir que os serviços do SharePoint Online e OneDrive permaneçam altamente disponíveis - Visite [Ajustes de recursos temporários do SharePoint Online](https://aka.ms/ODSPAdjustments) para obter mais informações.
 
- **Configurando DLP**
+ **Configuração de DLP**
 
-Você está tendo problemas com a **prevenção de perda de dados (DLP)** no Office 365 que não está funcionando conforme o esperado? Em caso afirmativo, certifique-se de que sua **política de DLP** está configurada corretamente e que seus dados contêm o que a **política de DLP** está procurando quando estiver sendo avaliada.
+Você está com problemas com a Prevenção contra Perda de Dados **(DLP)** no Office 365 não está funcionando conforme o esperado? Nesse caso, certifique-se de que sua política **de DLP** está configurada corretamente e que seus dados contenham o que a **política de DLP** está procurando quando ela está sendo avaliada.
   
-As políticas de DLP permitem identificar e proteger informações confidenciais em sua organização. Para configurar as políticas de DLP, use as informações [aqui](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
+As políticas DLP permitem identificar e proteger informações confidenciais em sua organização. Para configurar políticas de DLP, use as informações [aqui](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template).
   
- **O que as políticas de DLP procuram**
+ **O que as políticas de DLP procurar**
   
-Ao usar os **tipos de informações confidenciais internas** nos centros de segurança e conformidade, as políticas de DLP procuram padrões e elementos específicos ao detectar esses tipos confidenciais.
+Ao usar os **tipos de** informações confidenciais internas nos centros de Segurança e Conformidade, as políticas DLP procurarão padrões e elementos específicos ao detectar esses tipos confidenciais.
   
-- **Tipos de informações confidenciais internas**
+- **Tipos de informações confidenciais integrados**
 
-    Para obter informações sobre os tipos confidenciais internos e o que a política de DLP procura ao detectar o tipo confidencial, consulte: [o que os tipos de informações confidenciais procuram](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
+    Para obter informações sobre os tipos Confidenciais integrados e o que uma política DLP procura ao detectar o tipo Sensitive, consulte: O que os tipos de informações confidenciais [procurarão](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 
-- **Tipos de informações confidenciais personalizadas**
+- **Tipos de informações confidenciais personalizados**
 
-    Se você estiver tentando criar tipos de informações confidenciais personalizados, use o artigo a seguir para obter informações sobre como criar um tipo confidencial personalizado: [criar um tipo de informação confidencial personalizado](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type).
+    Se você estiver tentando criar tipos de informações confidenciais personalizados, use o seguinte artigo para obter informações sobre como criar um tipo personalizado de informação confidenciais: Criar um tipo de informação [personalizado e confidenciais.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
 
 **Testar uma política de DLP**
 
-Para testar seus dados com um tipo de informação confidencial interno ou personalizado, use a opção **tipo de teste** em **classificações**  >  **confidenciais tipos de informações**. Para obter mais informações, consulte [testar tipos de informações confidenciais personalizados](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
+Para testar seus dados com um tipo de informação confidenciais integrado ou personalizado, use a opção **Tipo** de teste em **Classificações** Tipos de informações  >  **confidenciais.** Para obter mais informações, consulte [Test custom sensitive information types](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
 
  **Relatórios**
   
-- Obtenha informações confidenciais sobre os relatórios de [DLP.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)
+- Obter informações confidenciais de dados com [relatórios DLP.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)
 
-- Veja detalhes específicos do evento com um [relatório de incidentes](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports).
+- Consulte detalhes específicos do evento com um [Relatório de Incidentes.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports)

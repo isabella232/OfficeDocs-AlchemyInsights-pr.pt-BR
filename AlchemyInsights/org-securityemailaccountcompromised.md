@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: 423
 ms.assetid: f93a7a44-0cdf-4387-b428-53e1a48f63ce
-ms.openlocfilehash: 94d8eec4f10e3df5ccdd891b7ae12c97bbb4d594
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd03c7549cf7669f79a84ba7227239b8e6e73103
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724387"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707618"
 ---
 # <a name="compromised-email-accounts"></a>Contas de email comprometidas
 
 Existem várias etapas que podem ser executadas para ajudar a melhorar a segurança da sua organização:
 
-- **Ativar autenticação multifator (MFA)**: se uma conta foi comprometida, redefinir a senha, seguido da ativação do MFA, é uma boa maneira de ajudar a garantir que isso não aconteça novamente. Se a conta comprometida foi usada para enviar spam, ela provavelmente está bloqueada para enviar emails (mesmo depois de tomar as providências para protegê-la). Para remover o usuário da lista de bloqueio, consulte [este tópico](https://technet.microsoft.com/library/ms.exch.eac.actioncenter.aspx).
+- **Ativar autenticação multifator (MFA)**: se uma conta foi comprometida, redefinir a senha, seguido da ativação do MFA, é uma boa maneira de ajudar a garantir que isso não aconteça novamente. Se a conta comprometida foi usada para enviar spam, ela provavelmente está bloqueada para enviar emails (mesmo depois de tomar as providências para protegê-la). Para remover o usuário da lista de bloqueio, consulte [Usar o portal de exclusão para remover a si mesmo da lista de remetentes bloqueados](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis).
 
 - **Executar o Secure Score do Office 365**: o Secure Score realiza uma análise detalhada das configurações de segurança da sua organização e fornece recomendações para torná-la mais segura.
 
