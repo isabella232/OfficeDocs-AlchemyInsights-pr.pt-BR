@@ -1,9 +1,9 @@
 ---
-title: Cogerenciamento
+title: Co-gerenciamento
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: 0f7c5d647e133b092b778c39fddc3c3ae3e7c7fc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a10f2d9ee8617cf194c61492be69064d53242318
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681248"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896783"
 ---
-# <a name="co-management"></a>Cogerenciamento
+# <a name="co-management"></a>Co-gerenciamento
 
-**Pré-requisitos para migrar do config Manager híbrido para o Intune**
+**Pré-requisitos para migrar do Config Manager Hybrid para o Intune**
 
-- Leia [Este artigo](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [Adicione uma licença do Intune aos seus usuários](https://docs.microsoft.com/intune/licenses-assign).
-- Use o [navegador de borda](https://www.microsoft.com/windows/microsoft-edge) ao configurar o cogerenciamento.
+- Revise [este artigo](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid).
+- [Adicione uma licença do Intune aos seus usuários.](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign)
+- Use o [navegador de Borda](https://www.microsoft.com/edge) ao configurar o Co-gerenciamento.
 
-**Como instalar o cliente do Gerenciador de configuração em dispositivos gerenciados pelo Intune**
+Uma experiência de configuração de co-gerenciamento guiada passo a passo pode ser encontrada [aqui](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide).
 
-Confira os [dispositivos Windows com gerenciamento de MDM do Intune](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+**Como instalar o cliente Config Manager em dispositivos gerenciados pelo Intune**
 
-**E se eu só quiser alterar a autoridade MDM?**
+Consulte [Intune MDM-managed Windows devices](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
 
-A autoridade de MDM pode ser alterada sem abrir um caso de suporte. Revise a seguinte documentação para ajudar a alterar sua autoridade MDM:
+**E se eu quiser alterar a autoridade MDM?**
 
-- [Alterar autoridade MDM do Configuration Manager para o Intune autônomo](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
-- [Alterar autoridade MDM do Intune autônomo para o Gerenciador de configurações](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+A Autoridade MDM pode ser alterada sem abrir um caso de suporte. Revise a documentação a seguir para ajudar a alterar sua autoridade MDM:
+
+- [Alterar a autoridade MDM do Configuration Manager para o Intune autônomo](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Alterar a autoridade MDM do Intune autônomo para o Configuration Manager](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)

@@ -3,7 +3,7 @@ title: Criar vários perfis no Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003923"
 - "6976"
-ms.openlocfilehash: 01f503c797c89ef8f3240b6349f3f7d596fadb32
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+- "9004596"
+- "8216"
+ms.openlocfilehash: 0c67e8e82199a40f820292fa7473d10a260c1367
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49665547"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896999"
 ---
 # <a name="create-multiple-profiles-in-microsoft-edge"></a>Criar vários perfis no Microsoft Edge
 
-Os perfis permitem que vários usuários operem em um ambiente compartilhado enquanto mantêm o acesso às suas configurações personalizadas do navegador, indicadores e extensões. Para adicionar vários perfis no Microsoft Edge, siga estas etapas:
+Os perfis permitem que vários usuários operem em um ambiente compartilhado, mantendo o acesso às configurações, indicadores e extensões do navegador personalizado. Para adicionar vários perfis no Microsoft Edge, siga estas etapas:
 
 1. Inicie o Microsoft Edge.
-    - Se você não tiver entrado, selecione o ícone de perfil > **entrar**. Isso o levará automaticamente para a página **gerenciar configurações de perfil** .
-    - Se você estiver conectado, selecione o ícone de perfil > **gerenciar configurações de perfil**.
-2. Selecione **perfil > + adicionar perfil > adicionar**.
-3. Selecione **entrar para sincronizar dados** para se conectar a uma conta existente.
-4. Selecione **Sim** para ativar a sincronização de logon e, em seguida, selecione **confirmar**.
+    - Se você não estiver assinado, selecione o ícone de perfil > **Entrar**. Isso o levará automaticamente para a página **Gerenciar configurações de** perfil.
+    - Se você estiver dentro, selecione o ícone de perfil > **Gerenciar configurações de perfil**.
+2. Selecione **Perfil > + Adicionar perfil > Adicionar**.
+3. Selecione **Entrar para sincronizar dados para** se conectar a uma conta existente.
+4. Selecione **Sim** para ativar a sincronização de login e selecione **Confirmar**.
 
     O perfil adicional agora está disponível para uso.
