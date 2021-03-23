@@ -1,5 +1,5 @@
 ---
-title: Personalize a sua tela de bloqueio no Windows 10
+title: Personalizar sua tela de bloqueio no Windows 10
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -20,7 +20,7 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 03/19/2021
 ms.locfileid: "50897359"
 ---
-# <a name="personalize-your-lock-screen-in-windows-10"></a>Personalize a sua tela de bloqueio no Windows 10
+# <a name="personalize-your-lock-screen-in-windows-10"></a>Personalizar sua tela de bloqueio no Windows 10
 
 Para saber mais sobre como personalizar sua tela de bloqueio, consulte [Personalizar sua tela de bloqueio](https://support.microsoft.com/windows/personalize-your-lock-screen-81dab9b0-35cf-887c-84a0-6de8ef72bea0).
 
@@ -34,9 +34,9 @@ Quando você escolhe **Imagem** ou **Apresentação de slides** para a sua tela 
 
 Caso não veja a imagem do Destaque do Windows quando você entrar, verifique as Configurações para esta solicitação de Destaque. 
 
-1. Selecione o botão **Iniciar** e, em seguida, selecione **Configurações** (o ícone da engrenagem).
+1. Selecione o botão **Iniciar** e selecione **Configurações** (o ícone da engrenagem).
 
-1. Escolha **Personalização** e, em seguida, selecione **Tela de bloqueio**.
+1. Escolha **Personalização** e selecione **Tela de bloqueio**.
 
 1. Certifique-se que a opção **Mostrar imagem de plano de fundo na tela de bloqueio** está ativada.
 
