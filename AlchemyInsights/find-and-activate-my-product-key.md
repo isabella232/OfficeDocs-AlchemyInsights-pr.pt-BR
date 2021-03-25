@@ -1,8 +1,8 @@
 ---
-title: Localizar e ativar minha chave de produto
+title: Encontrar e ativar a chave do meu produto
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 107916aae8aef805e2adb5caaef1d06f97edeaa3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 37a847074f14ac914950ad42dfc0c6c52db942a6
+ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708563"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51200697"
 ---
-# <a name="find-and-activate-my-product-key"></a>Localizar e ativar minha chave de produto
+# <a name="find-and-activate-my-product-key"></a>Encontrar e ativar a chave do meu produto
 
-Se você comprou o Microsoft 365 for Business por meio de um [programa de licença aberta da Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=613298), veja como encontrar e ativar sua chave do produto.
+Se você comprou o Microsoft 365 para empresas por meio de um Programa de Licença Aberta da [Microsoft,](https://go.microsoft.com/fwlink/p/?LinkID=613298)veja como encontrar e ativar a chave do produto.
 
-1. Após adquirir uma chave de um parceiro do Microsoft 365, verifique a caixa de entrada para obter um email da Microsoft que contenha um link de ativação.  **Observação**: o email é enviado para a pessoa listada como administrador online no contrato de licenciamento por volume.  Se você não tem certeza de quem é designado como administrador online, pergunte ao seu parceiro do Microsoft 365.
+1. Depois de comprar uma chave de um parceiro do Microsoft 365, verifique na caixa de entrada um email da Microsoft que contém um link de ativação.
 
-2. Siga o link no email para entrar com sua conta corporativa ou de estudante, aceite o contrato de licença aberto e Renove a assinatura.  Para obter instruções passo a passo, baixe o guia PDF, [Ativar serviços online: assinatura do Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
+    > [!NOTE]
+    > O email é enviado para a pessoa indicada como administrador online no contrato de licenciamento por volume. Se você não tiver certeza de quem é designado como administrador online, pergunte ao seu parceiro do Microsoft 365.
+1. Siga o link no email para entrar com sua conta de estudante ou de trabalho, aceitar o contrato de licença Abrir e renovar a assinatura. Para um passo a passo passo, baixe o guia PDF, Ativar Serviços Online: Assinatura do [Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkId=618100).
 
-**Observação**: os clientes de licenciamento por volume também podem optar por ativar assinaturas no [centro de serviços de licenciamento por volume](https://go.microsoft.com/fwlink/p/?LinkID=282016).  Para saber como, baixe o guia PDF, [Active Online Services no centro de serviços de licenciamento por volume](https://go.microsoft.com/fwlink/p/?LinkId=618096).
-
-Se você comprou o Microsoft 365 Business Premium Standard de uma loja de varejo, use as etapas a seguir para estender a data de expiração ou adicionar uma licença a uma assinatura existente.
-
-**Observação**: para usar uma chave de produto para estender a data de expiração ou adicionar uma licença à sua assinatura padrão existente do Microsoft 365 Business Premium, você precisa de uma chave nova e não usada para a mesma assinatura do Microsoft 365.  Inserir sua chave de produto do Microsoft 365 original não funcionará porque uma chave que já foi resgatada não pode ser usada novamente.
-
-1. No centro de administração, vá para a página **cobrança**  >  **[de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. Encontre a assinatura para a qual você deseja estender a data de expiração ou adicionar licenças.  Clique em [estender data de término](https://go.microsoft.com/fwlink/p/?linkid=842054) ou [adicionar mais licenças](https://go.microsoft.com/fwlink/p/?linkid=842054).
-
-3. Clique em **usar uma chave de produto nova e não usada** e, em seguida, em **Avançar**.
-
-4. Insira a chave do produto e clique em **Avançar**.
-
-5. Revise os detalhes do pedido.  Se tudo parecer correto, clique em **resgatar**.
+    > [!NOTE]
+    > Os clientes de licenciamento por volume também podem optar por ativar assinaturas no Centro de Serviço de [Licenciamento por Volume.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Para saber como baixar o guia PDF, Active Online Services no Centro de [Serviço de Licenciamento por Volume.](https://go.microsoft.com/fwlink/p/?LinkId=618096)
