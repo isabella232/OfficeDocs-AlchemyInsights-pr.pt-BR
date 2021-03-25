@@ -2,7 +2,7 @@
 title: Como instalar o Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,19 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 7f61ff7eb02371790ecb335841244eddb2bcbb2e
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: d2e11c59f3b47095e272a5c27446e584ed90c879
+ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707726"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51200625"
 ---
 # <a name="how-to-install-office"></a>Como instalar o Office
 
-Para instalar os aplicativos para cliente do Office, certifique-se de ter uma assinatura como o Microsoft 365 Premium Standard para Pequenos e Médios Negócios, o Microsoft 365 Apps para Pequenos e Médios Negócios ou o Office 365 Education.
+Para instalar os aplicativos para cliente do Office, certifique-se de que possui uma assinatura corporativa, como o Microsoft 365 Business Standard, o Microsoft 365 Apps para Pequenos e Médios negócios ou o Microsoft Office 365 educacional.
   
-*OBSERVAÇÃO: [ o Office Home & Business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) é um produto do [Office para uso doméstico](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) e não faz parte da assinatura para empresas. Para instruções específicas para o Visio ou Project, consulte [Instalar Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) ou [ Instalar Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*
+> [!NOTE]
+> O [Office Home and Business](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) é um produto do [Office para uso doméstico](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=alchemy_clientdia)e não faz parte de uma assinatura corporativa. Para obter instruções específicas sobre o Visio ou o Project, confira [instalar o Visio](https://support.microsoft.com/office/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=Alchemy_ClientDIA) ou [instalar o Project](https://support.microsoft.com/office/7059249b-d9fe-4d61-ab96-5c5bf435f281?wt.mc_id=Alchemy_ClientDIA).
 
 Crie as contas de usuário e adicione seu domínio. Verifique se o usuário tem uma [licença atribuída](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
