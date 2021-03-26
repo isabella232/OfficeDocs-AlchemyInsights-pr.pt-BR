@@ -1,5 +1,5 @@
 ---
-title: Encontrar e ativar a chave do meu produto
+title: Cartão pré-pago de varejo
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 49a612831c416ca6767eeb47800bca535a3fc010
-ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
+ms.openlocfilehash: 1785cc69d00211cf025814e66ae317fc5b69e8bd
+ms.sourcegitcommit: 84f0aebdb278703f642a0c33fe260e3aee849be9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 03/25/2021
-ms.locfileid: "51207593"
+ms.locfileid: "51217956"
 ---
-# <a name="find-and-activate-my-product-key"></a>Encontrar e ativar a chave do meu produto
+# <a name="retail-prepaid-card"></a>Cartão pré-pago de varejo
 
 Se você comprou o Microsoft 365 Business Standard em um loja de varejo, use as etapas a seguir para estender a data de expiração ou adicionar uma licença a uma assinatura existente.
 
