@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003928"
 - "6983"
-ms.openlocfilehash: 3a59a7d51ddd0213fa42c0e094b7269a406ae7e7
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10186"
+- "9005827"
+ms.openlocfilehash: 2dea0d38ddc97d4952f3d14efebea2eea2f760da
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576349"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398681"
 ---
 # <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>Usar o Microsoft Edge para depurar remotamente um dispositivo Android de um computador de desenvolvimento
 
-Para depurar remotamente o conteúdo do Live em um dispositivo Android do seu computador:
+Para depurar remotamente o conteúdo ao vivo em um dispositivo Android do computador:
 
-1. Configure o dispositivo Android para depuração remota e descubra-o no computador de desenvolvimento.
-2. No computador de desenvolvimento, inspecione e depure o conteúdo do Live no dispositivo Android.
-3. O screencast do conteúdo ao vivo do dispositivo Android em uma instância do DevTools no computador de desenvolvimento.
+1. Configurar o dispositivo Android para depuração remota e descubra-o no computador de desenvolvimento.
+2. No computador de desenvolvimento, inspecione e depure conteúdo ao vivo no dispositivo Android.
+3. Conteúdo ao vivo de screencast do dispositivo Android para uma instância do DevTools no computador de desenvolvimento.

@@ -1,5 +1,5 @@
 ---
-title: Conceitos de autenticação avançada aplicáveis ao Microsoft Edge
+title: Conceitos avançados de autenticação aplicáveis ao Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,27 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "9003931"
 - "6986"
-ms.openlocfilehash: 241d594fac6664dd1e85fd60e30a6344c432555e
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+- "8329"
+- "9004625"
+ms.openlocfilehash: d469973c4f8605b00d32f6f625eb5fdd17e8f390
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571764"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398538"
 ---
-# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Conceitos de autenticação avançada aplicáveis ao Microsoft Edge
+# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Conceitos avançados de autenticação aplicáveis ao Microsoft Edge
 
-Veja a seguir os conceitos de autenticação avançada que se aplicam ao Microsoft Edge:
+A seguir estão os conceitos avançados de autenticação aplicáveis ao Microsoft Edge:
 
-**Autenticação proativa**
+**Autenticação Proativa**
 
-Quando você habilita a política [ProactiveAuthEnabled](https://go.microsoft.com/fwlink/?linkid=2134621) , o Microsoft Edge tenta autenticar proativamente usuários conectados através dos serviços da Microsoft. Em intervalos regulares, ele usará um serviço online para verificar se há um manifesto atualizado que contenha a configuração de controle de autenticação proativa.
+Quando você habilitar [a política ProactiveAuthEnabled,](https://go.microsoft.com/fwlink/?linkid=2134621) o Microsoft Edge tentará autenticar proativamente os usuários de entrada por meio dos serviços Microsoft. Em intervalos regulares, ele usará um serviço online para verificar se há um manifesto atualizado que contém a configuração que rege a Autenticação Proativa.
 
-Benefícios: a autenticação pró-ativa habilita a autenticação para os principais serviços, como a página de nova guia do Office. Além disso, se o Bing for usado como o mecanismo de pesquisa, a autenticação pró-ativa melhorará o desempenho da barra de endereços e ajudará a gerar resultados de pesquisa personalizados para as necessidades de sua empresa.
+Benefícios: a Autenticação Proativa habilita a autenticação para serviços principais, como a Página nova guia do Office. Além disso, se o Bing for usado como mecanismo de pesquisa, a Autenticação Proativa melhora o desempenho da barra de endereços e ajuda a gerar resultados de pesquisa personalizados para as necessidades da sua empresa.
 
 **Windows Hello CredUI para autenticação NTLM**
 
-Se o logon único (SSO) não estiver disponível quando um site tentar entrar no usuário por meio do mecanismo NTLM ou Negotiate, este recurso permitirá que o usuário Compartilhe as credenciais do sistema operacional com o site e satisfaça o desafio de autenticação usando a IU de credenciais do Windows Hello. Esse fluxo de logon aparecerá apenas no Windows 10 e apenas para usuários que não obtêm SSO durante um Challenge NTLM ou negociar.
+Se o SSO (login único) não estiver disponível quando um site tentar entrar no usuário por meio do mecanismo NTLM ou Negociar, esse recurso permitirá que o usuário compartilhe as credenciais do sistema operacional com o site e atenda ao desafio de autenticação usando a interface do usuário do Windows Hello Cred. Esse fluxo de login aparecerá somente no Windows 10 e somente para usuários que não receberem SSO durante um NTLM ou um desafio Negociar.
 
 **Usar senhas salvas para entrar automaticamente**
 
-Os usuários que salvam senhas no Microsoft Edge podem habilitar o logon automático para sites onde foram salvas credenciais. Os usuários podem ativar ou desativar esse recurso no edge://settings/passwords, e você pode configurá-lo nas políticas do [Gerenciador de senhas](https://go.microsoft.com/fwlink/?linkid=2134622) .
+Os usuários que salvam senhas no Microsoft Edge podem habilitar o login automático em sites onde salvaram credenciais. Os usuários podem ativar ou desativar esse recurso edge://settings/passwords e você pode configurá-lo nas políticas de gerenciador [de](https://go.microsoft.com/fwlink/?linkid=2134622) senhas.

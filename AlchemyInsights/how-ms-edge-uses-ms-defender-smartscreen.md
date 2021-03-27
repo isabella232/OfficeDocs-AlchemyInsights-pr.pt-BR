@@ -1,5 +1,5 @@
 ---
-title: Como o Microsoft Edge usa o Microsoft defender SmartScreen?
+title: Como o Microsoft Edge usa o Microsoft Defender SmartScreen?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003847"
 - "6897"
-ms.openlocfilehash: 2a08bd507c77e9735028b30f7bf7bc8f8f018cad
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8331"
+- "9004625"
+ms.openlocfilehash: f03243ae6ff076920c4d5895b78931c26c9be675
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576332"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398609"
 ---
-# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Como o Microsoft Edge usa o Microsoft defender SmartScreen
+# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Como o Microsoft Edge usa o Microsoft Defender SmartScreen
 
-Para mantê-lo seguro na Web, o Microsoft Edge usa o Microsoft defender SmartScreen como um sistema de alerta antecipado em sites que trabalham com ataques de phishing e distribuem malware por meio de ataques focados.
+Para mantê-lo seguro na Web, o Microsoft Edge usa o Microsoft Defender SmartScreen como um sistema de aviso antecipado contra sites que perpetram ataques de phishing e distribuem malware por meio de ataques focados.
 
-Os administradores podem configurar o Microsoft defender SmartScreen usando a política de grupo, o Microsoft Intune ou as configurações de MDM (gerenciamento de dispositivo móvel). Com base em como você configurou o Microsoft defender SmartScreen, você pode mostrar aos usuários uma página de aviso e permitir que eles continuem no site ou bloqueiem o site completamente.
+Os administradores podem configurar o Microsoft Defender SmartScreen usando configurações de Política de Grupo, Microsoft Intune ou gerenciamento de dispositivo móvel (MDM). Com base em como você configura o Microsoft Defender SmartScreen, você pode mostrar aos usuários uma página de aviso e permitir que eles continuem no site ou bloqueiem o site inteiramente.
 
-Para saber mais, confira [suporte do Microsoft Edge para o Microsoft defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) e [o Microsoft defender Application Guard](https://go.microsoft.com/fwlink/?linkid=2132839).
+Para saber mais, confira Suporte do [Microsoft Edge para o Microsoft Defender SmartScreen e](https://go.microsoft.com/fwlink/?linkid=2133081) o Microsoft Defender Application [Guard.](https://go.microsoft.com/fwlink/?linkid=2132839)
