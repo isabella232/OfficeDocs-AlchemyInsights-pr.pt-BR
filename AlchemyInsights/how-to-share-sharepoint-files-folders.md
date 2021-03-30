@@ -1,5 +1,5 @@
 ---
-title: Como compartilhar arquivos ou pastas do SharePoint
+title: Como compartilhar arquivos ou pastas do SharePoint ou OneDrive
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: f75b7521c384396bef61dd9cad256161ddf67d83
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d021267604325d73d554c107ded943dc7084a24
+ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779003"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408102"
 ---
-# <a name="how-to-share-sharepoint-files-or-folders"></a>Como compartilhar arquivos ou pastas do SharePoint
+# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>Como compartilhar arquivos ou pastas do SharePoint ou OneDrive
 
-Os arquivos armazenados em um site do SharePoint geralmente estão disponíveis para todos com permissões para o site, mas você pode querer compartilhar arquivos ou pastas específicos com pessoas que não tenham acesso ao site. Ao compartilhar arquivos e pastas, você pode decidir se deseja permitir que as pessoas editem ou apenas os vejam.
+Os arquivos que você armazena em um site do SharePoint geralmente estão disponíveis para todos com permissões para o site, mas talvez você queira compartilhar arquivos ou pastas específicos com pessoas que não têm acesso ao site. Ao compartilhar arquivos e pastas, você pode decidir se as pessoas podem editar ou apenas exibi-las. Para mais informações, confira:
 
-[Compartilhar arquivos ou pastas do SharePoint](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+[Compartilhar arquivos ou pastas do Microsoft Office SharePoint Online](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[Compartilhar arquivos e pastas do OneDrive](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)

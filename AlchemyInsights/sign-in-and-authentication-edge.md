@@ -20,4 +20,4 @@ ms.locfileid: "51398752"
 ---
 # <a name="sign-in-and-authentication-features-of-microsoft-edge"></a>Recursos de login e autenticação do Microsoft Edge
 
-O tipo de conta usada para fazer login determina qual [recursos de autenticação](https://go.microsoft.com/fwlink/?linkid=2134570) estão disponíveis no Microsoft Edge.
+O tipo de conta usada para fazer login determina quais [recursos de autenticação](https://go.microsoft.com/fwlink/?linkid=2134570) estão disponíveis no Microsoft Edge.
