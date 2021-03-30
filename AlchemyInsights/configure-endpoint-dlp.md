@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: d0363d6bdecdb266a5f4a3a14bd496ede6bb9931
-ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
+ms.openlocfilehash: 36af769b67f8c9aa4b8d17e9f4f3f3b82c8a8534
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48305431"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402400"
 ---
 # <a name="configure-endpoint-dlp"></a>Configurar o Microsoft Endpoint DLP
 
@@ -28,14 +28,14 @@ Iniciando com o Endpoint DLP:
 
 - Verifique se você possui o licenciamento apropriado de SKU/assinaturas. Para mais informações, consulte [licenciamento de SKU/assinaturas.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#skusubscriptions-licensing).
 - Verifique as permissões exigidas para habilitar o gerenciamento de dispositivos, acessar a página de integração ou ativar/desativar o monitoramento de dispositivos. Para mais informações, consulte [Permissões](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#permissions).
-- Dispositivos integrados dentro do gerenciamento de dispositivos, seguindo o procedimento de dispositivos integrados. Se você não tiver a opção de Integração de Dispositivo (visualização) em Conformidade com o M365  **Configurações **, confirme se possui a licença e as permissões apropriadas mencionadas acima. Para mais informações, consulte [Integração de Dispositivo](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices). 
-- Crie diretrizes de DLP para proteger seus itens sigilosos. Para mais informações, consulte [Cenários da diretriz DLP do Endpoint](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios).
+- Dispositivos integrados dentro do gerenciamento de dispositivos, seguindo o procedimento de dispositivos integrados. Se você não tiver a opção de Integração de Dispositivo (visualização) em Conformidade com o M365  **Configurações**, confirme se possui a licença e as permissões apropriadas mencionadas acima. Para mais informações, consulte [Integração de Dispositivo](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices). 
+- Crie diretrizes de DLP para proteger seus itens sigilosos. Para mais informações, consulte [Cenários da diretriz DLP do Endpoint](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios &preserve-view=true).
 
 Para obter mais informações sobre o Microsoft Endpoint DLP, consulte [Saiba mais sobre a prevenção de perda de dados do Microsoft 365 Endpoint (visualização)](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about).
 
 **Etapas de coleta de dados importantes, caso o suporte seja necessário:**
 
-1. Baixe o MDATP Client Analyzer Preview do [http://aka.ms/betamdatpanalyzer](http://aka.ms/betamdatpanalyzer "http://aka.ms/betamdatpanalyzer")
+1. Baixe o MDATP Client Analyzer Preview do [https://aka.ms/betamdatpanalyzer](https://aka.ms/betamdatpanalyzer "https://aka.ms/betamdatpanalyzer")
 2. Execute a ferramenta como Administrador na janela do cmd:
 3. MDATPClientAnalyzerPreview\MDATPClientAnalyzer.cmd –t
 4. Quando solicitado "Digite o número de minutos para coletar rastreamentos:", insira o número de minutos necessários para executar o cenário

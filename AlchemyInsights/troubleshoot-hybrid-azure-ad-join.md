@@ -12,14 +12,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6162"
+- "6158"
 - "9003244"
-ms.openlocfilehash: cb50ece43e36c81560aa07b6b892470d6ccd1981
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9003246"
+ms.openlocfilehash: 18d0ce6bdf3df96e07cc6607b9ae6142d548dabe
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690267"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401895"
 ---
 # <a name="troubleshoot-hybrid-azure-ad-join"></a>Ingresso no Azure AD híbrido
+
+Altamente recomendado Certifique-se de que um dispositivo pode acessar is pontos de extremidade do Registro de Dispositivo na conta do sistema usando o [Script de Teste de Conectividade de Registro de Dispositivo](https://docs.microsoft.com/samples/azure-samples/testdeviceregconnectivity/testdeviceregconnectivity/).
+
+1. Se você estiver configurando os registros de dispositivos pela primeira vez, certifique-se de revisar a [Introdução ao gerenciamento de dispositivos no Azure Active Directory](https://docs.microsoft.com/samples/azure-samples/testdeviceregconnectivity/testdeviceregconnectivity/) para saber como colocar os dispositivos sob o controle do Azure AD.
+1. Se você estiver registrando diretamente os dispositivos no Azure Active Directory e inscrevendo-os no Intune, certifique-se de ter [configurado o Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) e ter o [licenciamento](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) em vigor primeiro.
+1. Verifique se você está autorizado a executar operações no Azure Active Directory e no AD local. Apenas um administrador global no Azure Active Directory pode gerenciar as configurações para registros de dispositivos. Além disso, se estiver configurando os registros automáticos no Active Directory local, você precisará ser um administrador do Active Directory e do AD FS (se aplicável).
+
+Para obter mais detalhes sobre como resolver os possíveis problemas com a associação híbrida, consulte [Solucionar problemas de Associação Híbrida](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-current) para configurar dispositivos híbridos associados ao Azure Active Directory e Gerenciar Dispositivos usando o portal do Azure Ad, consulte [Configurar dispositivos híbridos associados ao Azure Active Directory (associados ao domínio local)](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan?WT.mc_id=Portal-Microsoft_Azure_Support) e [Gerenciar dispositivos usando o portal do Azure](https://docs.microsoft.com/azure/active-directory/devices/device-management-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
 
 Para resolver problemas comuns com o ingresso no Azure Active Directory híbrido (AD), confira [perguntas frequentes sobre ingresso no Azure AD híbrido](https://docs.microsoft.com/azure/active-directory/devices/faq#hybrid-azure-ad-join-faq).

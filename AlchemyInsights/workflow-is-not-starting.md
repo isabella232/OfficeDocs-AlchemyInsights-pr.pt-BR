@@ -1,5 +1,5 @@
 ---
-title: O fluxo de trabalho não está sendo iniciado
+title: O fluxo de trabalho não está iniciando
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,39 +13,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: e3b8777ed74b812b31338784999eea43a95d3456
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e69f3e529e4a2202f641cb62f42b1a20d774a398
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794755"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403731"
 ---
-# <a name="workflow-is-not-starting"></a>O fluxo de trabalho não está sendo iniciado
+# <a name="workflow-is-not-starting"></a>O fluxo de trabalho não está iniciando
 
-- Os fluxos de trabalho do SharePoint 2010 e do SharePoint 2013 não estão sendo iniciados.
+- Os fluxos de trabalho do SharePoint 2010 e do SharePoint 2013 não estão iniciando.
 
-    - Se o seu fluxo de trabalho não estiver sendo iniciado, pode haver um problema de serviço temporário no qual os usuários podem enfrentar atrasos intermitentes com o progresso do fluxo de trabalho. Verifique o [painel de integridade do serviço](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) para ver se sua organização é afetada.
+    - Se o fluxo de trabalho não estiver iniciando, pode haver um problema de serviço temporário em que os usuários possam ter atrasos intermitentes com o andamento do fluxo de trabalho. Verifique o [Painel de Saúde do Serviço](https://admin.microsoft.com/AdminPortal/Home/servicehealth) para ver se sua organização está impactada.
 
-    - Se passar mais de 24 horas desde que você viu o problema pela primeira vez, registre um tíquete de suporte. Em muitos casos, já estamos trabalhando em uma solução. Aguarde pelo menos 24 horas para concluir uma solução.
+    - Se mais de 24 horas se passaram desde que você viu esse problema pela primeira vez, registre um tíquete de suporte. Em muitos casos, já estamos trabalhando em uma solução. Dê-nos pelo menos 24 horas para concluir uma solução.
 
 - Fluxos de trabalho do SharePoint 2010 atrasados no início.
 
-    - Isso ocorre se o fluxo de trabalho é acionado em lotes grandes. (por exemplo, quando vários itens são adicionados ao mesmo tempo).
+    - Isso ocorrerá se o fluxo de trabalho for disparado em lotes grandes. (por exemplo, quando vários itens são adicionados ao mesmo tempo).
 
-    - Os fluxos de trabalho não são projetados para executar em tempo real, de forma que um atraso é o comportamento de design.
+    - Os fluxos de trabalho não são projetados para ser executados em tempo real, portanto, um atraso é o comportamento de design.
 
-   -  Se o fluxo de trabalho é um XMOL (Extensible Object Markup Language) complexo, a compilação pode ser lenta. Confira [este](https://support.microsoft.com//kb/3043697) artigo.
+   -  Se o Fluxo de Trabalho for XMOL (Linguagem de Marcação de Objeto Extensível complexo), a compilação poderá ser lenta. Confira [este](https://support.microsoft.com//kb/3043697) artigo.
 
-    - Você deve simplificar o fluxo de trabalho ou recriá-lo usando o tipo de plataforma de fluxo de trabalho do Microsoft SharePoint 2013.
+    - Você deve simplificar o fluxo de trabalho ou reprojetá-lo usando o tipo de plataforma de fluxo de trabalho do Microsoft SharePoint 2013.
 
-    - Se o histórico do seu fluxo de trabalho tiver crescido grande, talvez você queira limpar os itens ou criar uma nova lista de histórico.
+    - Se o histórico do fluxo de trabalho tiver se aumentado, talvez você queira limpar os itens ou criar uma nova lista de histórico.
 
-        Mais informações: [Limpar histórico de fluxo de trabalho](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Mais informações : [Limpar Histórico do Fluxo de Trabalho](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Tópicos relacionados
 Deseja experimentar o Microsoft Flow no SharePoint Online?
-- [Criar fluxo](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint e fluxo](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
-
-
+- [Criar Fluxo](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint e Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
