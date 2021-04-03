@@ -1,5 +1,5 @@
 ---
-title: Adicionar uma extensão ao Microsoft Edge do repositório do Chrome na Web
+title: Adicionar uma extensão ao Microsoft Edge do Chrome Web Store
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003868"
 - "6922"
-ms.openlocfilehash: b11a1304ce6c82c6182dfdcc13716d295ab802d3
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+- "8312"
+- "9004621"
+ms.openlocfilehash: 0b393d548ab8cf408c26c1548f29e02e61bd8695
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609534"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51504998"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Adicionar uma extensão ao Microsoft Edge do repositório do Chrome na Web
+# <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Adicionar uma extensão ao Microsoft Edge do Chrome Web Store
 
-Para adicionar uma extensão ao Microsoft Edge do repositório do Chrome Web, conclua as seguintes etapas:
+Para adicionar uma extensão ao Microsoft Edge no Chrome Web Store, conclua as seguintes etapas:
 
-1. Vá para o repositório da Web do Chrome.
-2. Na faixa na parte superior da página, selecione **permitir extensões de outras lojas**.
-3. Selecione a extensão que você deseja adicionar e clique em **Adicionar ao Chrome**.
-4. Na caixa de diálogo de confirmação, revise cuidadosamente as modificações que a extensão pode fazer e, em seguida, clique em **adicionar extensão**.
-A caixa de diálogo final confirmará que a extensão foi adicionada.
+1. Vá para a Chrome Web Store.
+2. Na faixa na parte superior da página, selecione **Permitir extensões de outros armazenamentos**.
+3. Selecione a extensão que você gostaria de adicionar e clique em **Adicionar ao Chrome**.
+4. Na caixa de diálogo de confirmação, revise cuidadosamente as modificações que a extensão pode fazer e clique em **Adicionar extensão**.
+A caixa de diálogo final confirmará se a extensão foi adicionada.

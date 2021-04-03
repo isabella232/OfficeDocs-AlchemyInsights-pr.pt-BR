@@ -1,5 +1,5 @@
 ---
-title: Restaurar um grupo do Microsoft 365 excluído
+title: Restaurar um grupo excluído do Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,20 +14,27 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 963af6d056d1df07905970b8a45f7916cdb35469
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f640093cd099f20d3a95eede5c141ad74838b0b
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774687"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505669"
 ---
-# <a name="restore-a-deleted-microsoft-365-group"></a>Restaurar um grupo do Microsoft 365 excluído
+# <a name="restore-a-deleted-microsoft-365-group"></a>Restaurar um grupo excluído do Microsoft 365
 
-Os grupos excluídos são mantidos por 30 dias. Para restaurar um grupo excluído:
-  
-1. No [centro de administração do Exchange](https://outlook.office365.com/ecp/), selecione **destinatários** no painel esquerdo e, em seguida, selecione **grupos**. Se um grupo tiver sido excluído menos de 30 dias atrás, ele aparecerá na lista e a coluna STATUS listará a data excluída.
+Você pode restaurar um grupo excluído do Microsoft 365 ou o Microsoft Teams dentro de 30 dias a partir da exclusão.
 
-2. Selecione o grupo e clique em **restaurar** na barra de comandos ou clique no link "clique aqui para restaurar" no painel de detalhes.
+1. Para fazer logon no Centro de administração do Microsoft 365 e listar os grupos e equipes excluídos, vá para o Centro de administração [do Microsoft 365.](https://aka.ms/RestoreDeletedGroup)
 
-Para saber mais, ou saiba como restaurar grupos usando o PowerShell, confira [restaurar um grupo do Microsoft 365 excluído](https://go.microsoft.com/fwlink/?linkid=867802).
-  
+    **Observação:** Faça logoff usando a conta atribuída ao administrador do locatário ou à função de administrador de grupos.
+
+1. Selecione o grupo/Teams excluído do Microsoft 365 a ser restaurado e clique em **restaurar o grupo**.
+
+    Se o grupo não puder ser restaurado devido a um endereço SMTP conflitante, use o seguinte comando para encontrar o objeto que está causando conflito e remover o endereço SMTP:
+
+    `Get-Recipient -Filter "EmailAddresses -eq '<conflictingsmtpaddress>'"`
+
+    **Observação:** Em alguns casos, pode levar até 24 horas para que o grupo e todos os seus dados sejam restaurados.
+
+    Para obter mais informações ou saber como restaurar grupos usando o PowerShell, consulte [Restore a deleted Microsoft 365 group](https://go.microsoft.com/fwlink/?linkid=867802).

@@ -1,5 +1,5 @@
 ---
-title: Gerenciamento de todos os grupos de empresas do Yammer
+title: Yammer Gerenciar todo o grupo da empresa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,15 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 49ea7fdadc2cc241e85f47f68f07f610b7306648
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a7b607adba78349309d8f2ceb067f0c7493905c
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688826"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505416"
 ---
-# <a name="all-company-group"></a>Todos os grupos de empresas
+# <a name="all-company-group"></a>Todo o Grupo da Empresa
 
-O grupo **todos da empresa** é criado automaticamente quando você cria uma rede do Yammer. É um grupo de sistema padrão que não pode ser renomeado ou excluído. Todos podem postar no grupo de **toda a empresa** , mas somente os administradores de rede do Yammer podem postar comunicados para o grupo. Use o **Group insights**para exibir informações sobre o contrato no grupo **todas as empresas** .
+A comunidade All Company agora dá suporte a recursos semelhantes a outras comunidades no Yammer. Isso inclui opções como fotos de capa e nomeação. Também é possível restringir todas as postagens da Empresa no Yammer. Para obter mais informações, consulte [All Company now works like other Yammer communities](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community).
 
-Para obter mais informações, consulte [Manage a Group in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).
+## <a name="common-issues-and-solutions"></a>Problemas e soluções comuns
+
+- Toda a personalização ou restrição de postagem da empresa não está disponível para administradores de rede. Abra uma solicitação de serviço para habilitar o grupo moderno All Company.
+
+- O Community Insights não mostra dados antigos. Agora que All Company é uma comunidade real, os dados anteriores da rede não são mostrados.
+
+- Toda a Empresa parece ser excluída. Quando a comunidade está conectada a um grupo do Microsoft 365, esse grupo pode ser excluído. O grupo do Microsoft 365 deve ser restaurado no locatário.
+
