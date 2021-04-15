@@ -13,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 023bb40e54a1f1a87f0b618d49a812fc9dfda971
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737005"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692382"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Problemas comuns do Teams para clientes da área educacional
 
@@ -39,14 +39,14 @@ se você precisar de ajudar para implantar o Teams para dar suporte ao aprendiza
 
 - **Reuniões e Discagem no Teams**: precisa de ajuda para ativar ou configurar audioconferências no Microsoft Teams? Esse usuário foi criado recentemente? Em caso afirmativo, você precisará esperar de 2 a 24 horas para que as configurações sejam efetivadas. Para verificar se o usuário está licenciado para conferências de áudio e tem um número de chamada padrão:
     1. Vá para Usuários ativos e selecione o usuário em questão.
-    2. Dependendo da versão do centro de administração, escolha ou**Licenças e aplicativos** ou clique em **Editar** em **Licenças do produto**.
+    2. Dependendo da versão do centro de administração, escolha ou **Licenças e aplicativos** ou clique em **Editar** em **Licenças do produto**.
     3. Confirme se o usuário tem licenças selecionadas para Audioconferência, Microsoft Teams e para o Skype for Business Online (plano 2).
     4. Em Centro de Administração de Usuários, clique em **Mostrar todos** e em **Teams**.
     5. No centro de administração do Microsoft Teams, clique em **Portal herdado**.
     6. No centro de administração do Skype for Business, clique em **audioconferência** e, em seguida, em **usuários**.
     7. Selecione o usuário em questão e verifique se o usuário tem um Número de Chamada Padrão Tarifada.
 
-    Para saber mais, confira [Planos de chamadas](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ou ligue para a equipe de cobrança do Microsoft Commerce para obter ajuda com perguntas relacionadas a licenciamento.
+    Para mais informações, consulte [Planos de Chamada do Microsoft Teams](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ou ligue para a equipe de Cobrança do Microsoft Commerce para obter ajuda com perguntas relacionadas ao licenciamento.
 
     Recursos adicionais
 
