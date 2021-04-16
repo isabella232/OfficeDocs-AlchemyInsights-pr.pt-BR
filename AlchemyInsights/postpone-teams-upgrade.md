@@ -1,8 +1,8 @@
 ---
-title: Adiar a atualização do Microsoft Teams
+title: Adiar a atualização do Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: ae0611df247790200d0192e018ff5f0128f23cb4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: abbf696b1554743bda188704272bfd85fe6f94e2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741759"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51801219"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Como adiar a atualização do Microsoft Teams orientada
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Como adiar a atualização do Teams orientada pela Microsoft
 
-**Importante**: Podemos ajudar a corrigir isso para você usando um diagnóstico de suporte, mas parece que você não está usando o Novo Centro de Administração. Para usar o Novo Centro de Administração, deslize o botão de alternância no canto superior direito, que diz **Novo Centro de Administração** à direita. Usando o novo centro de administração, clique no widget **precisa de ajuda?** , digite "adiar a atualização do Microsoft Teams" e siga os prompts para executar o diagnóstico.
+**Importante**: Podemos ajudar a corrigir isso para você usando um diagnóstico de suporte, mas parece que você não está usando o Novo Centro de Administração. Para usar o Novo Centro de Administração, deslize o botão de alternância no canto superior direito, que diz **Novo Centro de Administração** à direita. Usando o Novo Centro de Administração, clique no widget Precisa de **Ajuda?** digite "Adiar a Atualização do Teams", em seguida, siga os prompts para executar o diagnóstico.
 
-Se você recebeu a comunicação sobre uma atualização automática orientada pela Microsoft do Skype for Business para o Microsoft Teams e deseja adiar a atualização automatizada para uma data posterior, seu administrador global pode fazer logon no [portal de administração do teams](https://admin.teams.microsoft.com/dashboard) e, depois de selecionar o botão **Atualizar status** sob atualização do Microsoft Teams, selecione o botão **adiar** . Para ver a nova data para a atualização automatizada do seu locatário para o Microsoft Teams, atualize a página do portal de administração do teams.
+Se você recebeu uma comunicação sobre uma atualização automatizada orientada pela Microsoft do Skype for Business para o Microsoft Teams e deseja adiar a atualização automatizada para uma data posterior, o administrador global pode fazer logoff no portal de administração do [Teams](https://admin.teams.microsoft.com/dashboard) e, depois de selecionar o botão **Atualizar Status** em Atualização do Microsoft Teams Upgrade, selecione o botão **Adiar.** Para ver a nova data para a atualização automatizada do seu locatário para o Microsoft Teams, atualize a página do portal de administração do Teams.
 
-**Observação:** O botão **adiar** só estará disponível se você tiver recebido a notificação do centro de mensagens sobre a atualização automatizada. 
+**Observação:** O **botão Adiar** só estará disponível se você tiver recebido a notificação do centro de mensagens em relação à atualização automatizada. 
 
-Os administradores globais também podem executar o [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) para saber mais sobre o status atual da atualização.
+Os Administradores Globais também podem [executar Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) para saber mais sobre o status atual da atualização.
