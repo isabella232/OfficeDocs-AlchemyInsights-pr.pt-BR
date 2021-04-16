@@ -2,7 +2,7 @@
 title: Redefina ou recupere seu PC
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002949"
 - "5646"
-ms.openlocfilehash: afadd93fb9ccf6a76a7fa7e6b860212756050c6c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62ca4dfffbc08040400400c384390c30a485865f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795700"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809535"
 ---
 # <a name="reset-or-recover-your-pc"></a>Redefina ou recupere seu PC
 
@@ -32,7 +32,7 @@ Você pode redefinir o seu PC a partir de **Configurações > Atualizar e Segura
 Se você não conseguir abrir Configurações, é possível redefinir o seu computador a partir da tela de entrada:
 
 1. Pressione **tecla de logotipo do Windows + L** para acessar a tela de entrada; m seguida, reinicie o PC pressionando a tecla **Shift** enquanto seleciona o botão **Liga/Desliga** > **Reiniciar** no canto inferior direito da tela. Seu PC será reiniciado no Ambiente de Recuperação do Windows (WinRE).
-2. Na tela **Escolha uma opção**, vá para **Solucionar problemas > Redefinir este PC**e, em seguida, escolha uma das opções.
+2. Na tela **Escolha uma opção**, vá para **Solucionar problemas > Redefinir este PC** e, em seguida, escolha uma das opções.
 
 **Mais opções de restauração ou recuperação**
 

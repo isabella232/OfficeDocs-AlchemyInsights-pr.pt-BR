@@ -2,7 +2,7 @@
 title: Transferir a propriedade do formulário para outro usuário
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2548"
 - "9000672"
-ms.openlocfilehash: 8b38b200c9ddd95245e2ded947a1eeee4262c88c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: db71635a5f925df85e6613c6cb4760406b4be3e8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700119"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809031"
 ---
-# <a name="transfer-ownership-of-a-microsoft-form"></a>Transferir a propriedade de um Microsoft Form
+# <a name="transfer-ownership-of-a-microsoft-form"></a>Transferir a propriedade de um Formulário da Microsoft
 
-Você pode mover uma pesquisa, um teste ou uma pesquisa no Microsoft Forms para um grupo para que todos em seu grupo se tornem proprietários desse formulário. Você também pode transferir a propriedade do formulário para outro usuário se o proprietário anterior tiver deixado a organização.
+Você pode mover uma pesquisa, um teste ou uma sondagem no Microsoft Forms para um grupo para que todos em seu grupo se torne proprietários desse formulário. Você também pode transferir a propriedade do formulário para outro usuário se o proprietário anterior tiver deixado a organização.
 
-Para obter mais informações, consulte [transfere a propriedade de um formulário](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).
+Para obter mais informações, [consulte Transfer ownership of a form](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).

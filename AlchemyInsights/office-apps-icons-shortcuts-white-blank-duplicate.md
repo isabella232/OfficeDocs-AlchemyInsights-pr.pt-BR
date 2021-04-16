@@ -1,8 +1,8 @@
 ---
-title: Ícones/atalhos de aplicativos da Microsoft 365 branco, em branco ou duplicados
+title: Ícones/atalhos de aplicativos do Microsoft 365 em branco, em branco ou duplicado
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2530"
 - "9000572"
-ms.openlocfilehash: 57112a1fe9e407d1f95c26fac86c0ae0b60d98d3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: df72f583d698cbcbe3e399a94763801935d55ee5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802909"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810112"
 ---
-# <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a>Ícones ou atalhos de aplicativos do Office são brancos, em branco ou duplicados
+# <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a>Ícones ou atalhos do aplicativo do Office são branco, em branco ou duplicado
 
-Se os ícones do aplicativo do Office aparecerem em branco ou brancos, tente [reparar um aplicativo do Office](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b). Para remover ícones duplicados de aplicativos do Office, consulte os [atalhos do Office permanecem após a desinstalação do Office](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).
+Se os ícones de aplicativo do Office aparecerem em branco ou em branco, tente [Reparar um aplicativo do Office](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b). Para remover ícones de aplicativos duplicados do Office, consulte [Atalhos do Office permanecem após a desinstalação do Office](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).
 
-Para obter mais informações, consulte [os ícones do Office estão em branco após instalar o Office na Microsoft Store](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).
+Para obter mais informações, consulte [Ícones do Office ficam](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59)em branco depois de instalar o Office na Microsoft Store .

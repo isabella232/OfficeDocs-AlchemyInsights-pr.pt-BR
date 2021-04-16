@@ -2,7 +2,7 @@
 title: Restaurar usuário excluído
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,23 +14,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: 9e7fc1b77f3ac71ca8c883de35f94e35bdadce56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2f8430b1a03e66cdbe0bf846464218f58578e252
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795628"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809355"
 ---
 # <a name="restore-a-deleted-user"></a>Restaurar um usuário excluído
 
 Restaure um usuário usando estas etapas:
   
-1. Vá para [usuários \> excluídos](https://admin.microsoft.com/adminportal/home#/deletedusers)usuários.
+1. Vá para [Usuários \> Excluídos usuários](https://admin.microsoft.com/adminportal/home#/deletedusers).
 
-2. Escolha o usuário e, em seguida, selecione **restaurar**.
+2. Escolha o usuário e selecione **Restaurar**.
 
 3. Siga as instruções para definir a senha.
 
-4. Clique em **Enviar email e fechar**, e você terminou!
+4. Clique **em Enviar email e** feche e pronto!
 
-Não era tão fácil assim? Para obter mais detalhes e etapas com capturas de tela, confira este artigo: [restaurar um usuário](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user). Se você perceber que precisa restaurar a caixa de correio do usuário, confira: [excluir ou restaurar caixas de correio do usuário no Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Não foi fácil? Para obter mais detalhes e etapas com capturas de tela, confira este artigo: [Restaurar um usuário](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user). Se você perceber que, em vez disso, precisa restaurar a caixa de correio do usuário, consulte: Excluir ou restaurar caixas de correio de usuário [no Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
