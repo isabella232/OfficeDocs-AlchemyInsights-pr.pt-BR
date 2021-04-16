@@ -2,7 +2,7 @@
 title: Precisa marcar um remetente de domínio ou e-mail como seguro?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002921"
 - "5673"
-ms.openlocfilehash: 0ea089b95ad7de25e77017196fb2db895d4d0178
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1c4c4d2fadaf75eda9b5b322aca35c32dfee8ea
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803233"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792120"
 ---
 # <a name="need-to-mark-a-domain-or-email-sender-safe"></a>Precisa marcar um remetente de domínio ou e-mail como seguro?
 

@@ -1,8 +1,8 @@
 ---
-title: Faltando-duplicata
+title: Ausente - duplicado
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3414"
 - "9001433"
-ms.openlocfilehash: 1267f80c1e4d632a3627a97fbfccf86b482adb5d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b17dd499accdbcc05fd50ffeaf275317148b255e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673738"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51793200"
 ---
-# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a>Solucionando problemas de itens de calendário ausentes e duplicados
+# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a>Solução de problemas de itens de calendário ausentes e duplicados
 
-Para obter informações sobre como solucionar problemas com compromissos perdidos e duplicados ao usar o Microsoft Outlook e o Microsoft Exchange Server, consulte [como solucionar problemas de compromissos perdidos e duplicados no Outlook](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook).
+Para obter informações sobre como solucionar problemas com compromissos ausentes e duplicados quando você usa o Microsoft Outlook e o Microsoft Exchange Server, consulte Como solucionar problemas de [compromissos ausentes](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook)e duplicados no Outlook .
