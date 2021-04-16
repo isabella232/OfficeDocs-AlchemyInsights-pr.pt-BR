@@ -1,8 +1,8 @@
 ---
-title: Problema de ativação – não é possível se conectar no momento
+title: Problema de ativação - Não podemos nos conectar agora
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 24fe9910d1715b4f5f7d8d06b1d1344d4b8675bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2dd3c97bb85254215b13ee8a1222941c0492b204
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725971"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806430"
 ---
-# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Corrigindo os aplicativos do Microsoft 365 "não é possível estabelecer uma conexão com o momento"
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Corrigindo a mensagem aplicativos do Microsoft 365 "Não podemos nos conectar agora"
 
 Se você receber essa mensagem, tente o seguinte:
 
-1. Verifique as configurações de firewall, software antivírus e proxy para confirmar que eles não estão bloqueando o acesso à Internet para os aplicativos do Microsoft 365. Confira [URLs e intervalos de endereços IP da Microsoft](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Verifique as configurações de firewall, software antivírus e proxy para confirmar se eles não estão bloqueando o acesso à Internet para aplicativos do Microsoft 365. Consulte [URLs da Microsoft e intervalos de endereços IP.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-2. Vá para **Iniciar**  >  **executar**e digite **Services. msc**. Certifique-se de que os seguintes serviços estejam em execução:
-    - Configuração automática de dispositivos conectados à rede
-    - Serviço de lista de rede
-    - Reconhecimento de local de rede
-    - Log de eventos do Windows
+2. Vá para **Iniciar**  >  **Executar** e digite **services.msc**. Certifique-se de que os seguintes serviços estão em execução:
+    - Instalação automática de dispositivos conectados à rede
+    - Serviço de Lista de Rede
+    - Reconhecimento de Localização de Rede
+    - Log de Eventos do Windows
 
-Se um desses serviços não estiver em execução, tente iniciá-lo. Se você tiver problemas para iniciar o serviço, execute o seguinte comando abrindo um prompt de comando com permissões elevadas:
+Se um desses serviços não estiver em execução, tente in inicie-lo. Se você tiver um problema ao iniciar o serviço, execute o seguinte comando abrindo um prompt de comando com permissões elevadas:
 
-**sfc/scannow**
+**sfc /scannow**
 
-Após a conclusão desse comando, reinicie o computador.
+Depois que esse comando terminar, reinicie o computador.
 
-Para obter informações detalhadas, consulte ["não é possível conectar-se à sua conta. Tente novamente mais tarde "quando você ativar o Office da Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Para obter informações detalhadas, [consulte "Desculpe, não podemos nos conectar à sua conta. Tente novamente mais tarde" erro ao ativar o Office a partir do Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
