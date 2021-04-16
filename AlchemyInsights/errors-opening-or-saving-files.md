@@ -2,7 +2,7 @@
 title: Erros ao abrir ou salvar arquivos
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: ce9e160272d96f40a6ba30b1527bde1aed1b8d88
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 827db0139d2793a5e4d850aeb5463dab272e4d64
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783575"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813604"
 ---
-# <a name="resolve-errors-opening-or-saving-word-files"></a>Resolver erros ao abrir ou salvar arquivos do Word
+# <a name="resolve-errors-opening-or-saving-word-files"></a>Resolver erros abrindo ou salvando arquivos do Word
 
-Se você estiver tendo problemas para abrir ou salvar documentos do Word, tente o seguinte:
+Se você estiver com problemas para abrir ou salvar documentos do Word, tente o seguinte:
 
-- [Instale as atualizações do Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Para obter uma lista das atualizações mais recentes do Office, consulte [atualizações mais recentes](https://docs.microsoft.com/officeupdates/office-updates-msi).
+- [Instalar atualizações do Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Para ver a lista das atualizações mais recentes do Office, consulte [Atualizações mais recentes.](https://docs.microsoft.com/officeupdates/office-updates-msi)
 - [Solucionar problemas de documentos danificados no Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 - [Reparar um aplicativo do Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
-- Se o documento contiver alterações controladas, use as sugestões no [Word para reduzir ou parar de responder se houver alterações controladas excessivas ou comentários](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) para resolver o problema.
+- Se o documento contiver alterações controladas, use as sugestões no [Word](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) com lentidão ou pare de responder se houver alterações ou comentários rastreados excessivos para resolver o problema.
 
-Se você recebeu um erro como um dos seguintes, use as sugestões em [mensagem de erro no Office quando um arquivo é bloqueado pelas configurações de política de registro](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
+Se você recebeu um erro como um dos seguintes, use as sugestões em Mensagem de erro no Office quando um arquivo for bloqueado pelas configurações de política [do Registro](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
 
 - Você está tentando abrir um tipo de arquivo que está bloqueado pela configuração de política do Registro.
 - Você está tentando abrir um tipo de arquivo **\<File Type\>** que foi bloqueado pelas configurações de Bloqueio de Arquivo na Central de Confiabilidade.
 - Você está tentando abrir um arquivo que foi criado em uma versão anterior do Microsoft Office. Esse tipo de arquivo foi bloqueado pela configuração de política do Registro e não pode ser aberto nesta versão.
 - Você está tentando salvar um tipo de arquivo que está bloqueado pela configuração de política do Registro.
-- Você está tentando salvar um tipo de arquivo que foi bloqueado pelas configurações de bloqueio de arquivo na central de confiabilidade.
+- Você está tentando salvar um tipo de arquivo que foi bloqueado pelas configurações do Bloco de Arquivos na Central de Confiações.
 
 Se você estiver tendo problemas para abrir arquivos do Office de bibliotecas de documentos do SharePoint ou do OneDrive, experimente o seguinte:
 

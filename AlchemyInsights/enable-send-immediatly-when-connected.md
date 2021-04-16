@@ -1,8 +1,8 @@
 ---
-title: Habilitar o envio imediatamente quando conectado
+title: Habilitar Enviar imediatamente quando conectado
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,21 +14,21 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 25f0573d40ae49c2a62f63c9d655118ba9eddee5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ebd318af82a4e57dc9e2f51a88301c1d9a6851c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709571"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813964"
 ---
-# <a name="enable-send-immediately-when-connected"></a>Habilitar o envio imediatamente quando conectado
+# <a name="enable-send-immediately-when-connected"></a>Habilitar Enviar imediatamente quando conectado
  
 1. Na guia Arquivo, clique em **Opções**.
 
 2. Na caixa de diálogo Opções do Outlook, clique em **Avançado**.
 
-3. Na seção enviar e receber, clique para habilitar o **envio imediatamente quando conectado**. Clique em **OK**.
+3. Na seção Enviar e receber, clique para habilitar **Enviar imediatamente quando conectado**. Clique em **OK**.
 
 Para obter detalhes completos, consulte:
-- [Vídeo: enviar ou excluir um email preso](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [O email permanece na pasta de saída até que você inicie manualmente uma operação de envio/recebimento no Outlook](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+- [Vídeo: Enviar ou excluir um email travado](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+- [O email permanece na pasta Caixa de Saída até iniciar manualmente uma operação de envio/recebimento no Outlook](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)

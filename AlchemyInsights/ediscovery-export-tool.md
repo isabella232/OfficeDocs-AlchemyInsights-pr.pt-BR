@@ -2,7 +2,7 @@
 title: Ferramenta de exportação de Descoberta Eletrônica
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,16 +15,16 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277949"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814576"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Não é possível instalar ou executar a ferramenta de exportação de descoberta eletrônica?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Não é possível instalar ou executar a Ferramenta de Exportação de Descoberta Digital?
 
-Se você não conseguir instalar ou executar a ferramenta de exportação de descoberta eletrônica para baixar os resultados da pesquisa, verifique as seguintes coisas:
+Se você não puder instalar ou executar a Ferramenta de Exportação de Descoberta Digital para baixar os resultados da pesquisa, verifique as seguintes coisas:
   
 - O computador que você está usando atende a esses pré-requisitos:
 
@@ -40,12 +40,12 @@ Se você não conseguir instalar ou executar a ferramenta de exportação de des
 
   - Internet Explorer 10 e versões posteriores
 
-    Outros navegadores, como Google Chrome e Mozilla Firefox, não são suportados.
+    Não há suporte para outros navegadores, como o Google Chrome e o Mozilla Firefox.
 
-- Sua organização pode se conectar ao ponto de extremidade no Azure, que é ** \* . blob.Core.Windows.net** (o caractere curinga representa um identificador exclusivo para seu trabalho de exportação).
+- Sua organização pode se conectar ao ponto de extremidade no Azure, que é **\* .blob.core.windows.net** (o curinga representa um identificador exclusivo para seu trabalho de exportação).
 
-- Você é atribuído à função exportar no centro de conformidade de segurança do Microsoft 365 &amp; . Por padrão, essa função só é atribuída ao grupo de função Gerenciador de descoberta eletrônica. Consulte [atribuir permissões de descoberta eletrônica](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
+- Você recebe a função Exportar no Centro de Conformidade de Segurança do Microsoft 365. &amp; Por padrão, essa função é atribuída apenas ao grupo de funções do Gerenciador de Descobertas. Consulte [Assign eDiscovery permissions](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
-Para obter mais informações, consulte [Exportar resultados de pesquisa de conteúdo](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Para obter mais informações, consulte [Exportar resultados da Pesquisa de Conteúdo](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
 
-Se você estiver exportando mais de 100.000 caixas de correio, será necessário usar o seguinte PowerShell para baixar os resultados da exportação:  [exportação de resultados de mais de 100.000 caixas de correio](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+Se você estiver exportando mais de 100.000 caixas de correio, você precisará usar o Powershell a seguir para baixar os resultados de Exportação: Exportando resultados de mais de  [100.000](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)caixas de correio .

@@ -1,8 +1,8 @@
 ---
-title: Inserir números de porta IMAP
+title: Insira números de porta IMAP
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001101"
 - "3062"
-ms.openlocfilehash: a38d01f41298ff3fde1927635c31e442a19012a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8479c4af8833fc4f1dbc66ef3c59a4e24290b83c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709427"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813820"
 ---
-# <a name="enter-imap-port-numbers"></a>Inserir números de porta IMAP
+# <a name="enter-imap-port-numbers"></a>Insira números de porta IMAP
 
-Faça logon por meio da tela Configuração avançada e adicione os detalhes de sua porta atrás de dois-pontos em linha com seus endereços de servidor de entrada e saída. (Você pode obter estes detalhes do provedor de serviços de email.) 
+Faça logoff por meio da tela de instalação antecipada e adicione os detalhes da porta atrás de dois pontos em linha com seus endereços de servidor de entrada e saída. (Você pode obter esses detalhes do provedor de serviços de email.) 
 
-Vá para **configurações**  >  **Adicionar > de conta**  >  **IMAP** e clique em **Mostrar configurações avançadas**; em seguida, insira seus detalhes. 
+Vá para **Configurações Adicionar**  >  **IMAP** da Conta > e clique em Mostrar configurações  >   **avançadas;** em seguida, insira seus detalhes. 
 
-*Servidor de email de entrada*: IMAP.ServerName.com:000 (geralmente 993 ou 143) 
+*Servidor de email de* entrada : imap.servername.com:000 (geralmente 993 ou 143) 
 
-*Servidor de email de saída*: SMTP.ServerName.com:000 (geralmente 465 ou 25) 
+*Servidor de email de saída*: smtp.servername.com:000 (geralmente 465 ou 25) 
 
-Tenha em mente que os dois pontos são importantes. 
+Lembre-se de que os dois pontos são importantes. 
