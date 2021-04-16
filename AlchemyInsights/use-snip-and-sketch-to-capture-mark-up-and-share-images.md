@@ -1,8 +1,8 @@
 ---
-title: Usar recorte & esboço para capturar, marcar e compartilhar imagens
+title: Use o rascunho & rascunho para capturar, marcar e compartilhar imagens
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 43558de713ff9a79eb7d514aa3e262d329377787
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1de3027260152dc14e33496af7cfb1dd239447d6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773187"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770799"
 ---
-# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Usar recorte & esboço para capturar, marcar e compartilhar imagens
+# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Use o rascunho & rascunho para capturar, marcar e compartilhar imagens
 
-O esboço da tela agora é chamado de **esboço de recorte &**. **Para fazer um recorte rapidamente**:
+O esboço de tela agora é **chamado de Snip & Sketch**. **Para fazer rapidamente um trecho**:
 
-1. Pressione a **tecla de logotipo do Windows + Shift + S**. Você verá a tela escurecer e o cursor exibido como Cruz. 
+1. Pressione a **tecla de logotipo do Windows + Shift + S.** Você verá sua tela escurecer e seu cursor exibido como uma cruz. 
 
-2. Escolha um ponto na borda da área que você deseja copiar e clique com o botão esquerdo do cursor. 
+2. Escolha um ponto na borda da área que você deseja copiar e clique com o botão esquerdo no cursor. 
 
-3. Mova o cursor para realçar a área que você deseja capturar. A área capturada aparecerá na tela.
+3. Mova o cursor para realçar a área que você deseja capturar. A área que você capturar aparecerá na tela.
 
    ![imagem da seleção realçada](media/snipone.png)
 
-A imagem que você recorte é salva na área de transferência, pronta para colar em um email ou em um documento. 
+A imagem que você recortou é salva na área de transferência, pronta para colar em um email ou documento. 
 
 **Se você quiser editar ou exibir a imagem**: 
 
-- Clique no ícone de notificações no lado direito da barra de tarefas; em seguida, clique na imagem que você acabou de capturar. O recorte é aberto no aplicativo recorte & esboço.
+- Clique no ícone de notificações no lado direito da barra de tarefas; em seguida, clique na imagem que você acabou de capturar. Seu trecho é aberto no aplicativo Snip & Sketch.
 
-   ![imagem de exibição de imagem no aplicativo de recorte](media/sniptwo.png)
+   ![imagem da imagem exibida no aplicativo de esnobamento](media/sniptwo.png)
