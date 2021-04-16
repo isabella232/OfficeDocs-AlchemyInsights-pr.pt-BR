@@ -2,7 +2,7 @@
 title: Ícone de energia ou bateria ausente no Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002953"
 - "5655"
-ms.openlocfilehash: 10213843f8ec5ceeaa191d3373406d767f2bea3c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 95b68cee58f88d04f02e29477b139f7f583dc0b1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771529"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790536"
 ---
 # <a name="power-or-battery-icon-missing-in-windows-10"></a>Ícone de energia ou bateria ausente no Windows 10
 
@@ -37,6 +37,6 @@ Se você não vir esse ícone, ela poderá estar oculto:
 
 **Solução de Problemas**
 
-Se você seguiu as instruções acima e o botão de alternância **Energia** fica esmaecido ou não está visível, na caixa de pesquisa da barra de tarefas, digite **gerenciador de dispositivo** e, em seguida, selecione **Gerenciador de Dispositivos** na lista de resultados. Em **Bateria**, clique com o botão direito do mouse na bateria do dispositivo, clique em **Desabilitar**e clique em **Sim**. Aguarde alguns segundos e, em seguida, clique com o botão direito do mouse na bateria e clique em **Habilitar**. Em seguida, reinicie o dispositivo.
+Se você seguiu as instruções acima e o botão de alternância **Energia** fica esmaecido ou não está visível, na caixa de pesquisa da barra de tarefas, digite **gerenciador de dispositivo** e, em seguida, selecione **Gerenciador de Dispositivos** na lista de resultados. Em **Bateria**, clique com o botão direito do mouse na bateria do dispositivo, clique em **Desabilitar** e clique em **Sim**. Aguarde alguns segundos e, em seguida, clique com o botão direito do mouse na bateria e clique em **Habilitar**. Em seguida, reinicie o dispositivo.
 
-Se você seguiu as instruções acima, mas o ícone de bateria não aparece na barra de tarefas, na caixa de pesquisa da barra de tarefas, digite **gerenciador de tarefas**e, em seguida, clique em **Gerenciador de Tarefas** na lista de resultados. Na guia **Processos**, em **Nome**, clique com o botão direito do mouse **Explorador** e clique em **Reiniciar**.
+Se você seguiu as instruções acima, mas o ícone de bateria não aparece na barra de tarefas, na caixa de pesquisa da barra de tarefas, digite **gerenciador de tarefas** e, em seguida, clique em **Gerenciador de Tarefas** na lista de resultados. Na guia **Processos**, em **Nome**, clique com o botão direito do mouse **Explorador** e clique em **Reiniciar**.
