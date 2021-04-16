@@ -1,8 +1,8 @@
 ---
-title: Como pesquisar um email?
+title: Como faço para pesquisar um email?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3054"
 - "9001093"
-ms.openlocfilehash: ca787699c55d377784d269651b19b39b4345acee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 070a264f6af068e09a4d1143b95dabcaf4aeae04
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781667"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811084"
 ---
-# <a name="how-do-i-search-for-an-email"></a><span data-ttu-id="c00fb-102">Como pesquisar um email?</span><span class="sxs-lookup"><span data-stu-id="c00fb-102">How do I search for an email?</span></span>
+# <a name="how-do-i-search-for-an-email"></a><span data-ttu-id="ce306-102">Como faço para pesquisar um email?</span><span class="sxs-lookup"><span data-stu-id="ce306-102">How do I search for an email?</span></span>
 
-<span data-ttu-id="c00fb-103">Você pode pesquisar por um email consultando o contato que enviou o email ou procurando por uma palavra-chave contida no email.</span><span class="sxs-lookup"><span data-stu-id="c00fb-103">You can search for an email by looking up the contact who sent you the email, or by searching for a keyword contained within the email.</span></span>
+<span data-ttu-id="ce306-103">Você pode pesquisar um email procurando o contato que enviou o email ou pesquisando uma palavra-chave contida no email.</span><span class="sxs-lookup"><span data-stu-id="ce306-103">You can search for an email by looking up the contact who sent you the email, or by searching for a keyword contained within the email.</span></span>
 
-<span data-ttu-id="c00fb-104">Toque na lupa na barra de navegação inferior.</span><span class="sxs-lookup"><span data-stu-id="c00fb-104">Tap the magnifying glass on the bottom navigation bar.</span></span> <span data-ttu-id="c00fb-105">Em seguida, digite sua solicitação de pesquisa na caixa na parte superior da tela.</span><span class="sxs-lookup"><span data-stu-id="c00fb-105">Then type your search request into the box at the top of your screen.</span></span> 
+<span data-ttu-id="ce306-104">Toque na lupa na barra de navegação inferior.</span><span class="sxs-lookup"><span data-stu-id="ce306-104">Tap the magnifying glass on the bottom navigation bar.</span></span> <span data-ttu-id="ce306-105">Em seguida, digite sua solicitação de pesquisa na caixa na parte superior da tela.</span><span class="sxs-lookup"><span data-stu-id="ce306-105">Then type your search request into the box at the top of your screen.</span></span> 
 
-<span data-ttu-id="c00fb-106">**Dica:** Você pode dar um toque duplo na lupa para colocar o foco na caixa de pesquisa.</span><span class="sxs-lookup"><span data-stu-id="c00fb-106">**Tip:** You can double-tap the magnifying glass to bring focus to the search box.</span></span> <span data-ttu-id="c00fb-107">Seus resultados aparecerão à medida que você digitar sua solicitação.</span><span class="sxs-lookup"><span data-stu-id="c00fb-107">Your results will appear as you type your request.</span></span> 
+<span data-ttu-id="ce306-106">**Dica:** Você pode tocar duas vezes na lupa para trazer o foco para a caixa de pesquisa.</span><span class="sxs-lookup"><span data-stu-id="ce306-106">**Tip:** You can double-tap the magnifying glass to bring focus to the search box.</span></span> <span data-ttu-id="ce306-107">Seus resultados serão exibidos conforme você digita sua solicitação.</span><span class="sxs-lookup"><span data-stu-id="ce306-107">Your results will appear as you type your request.</span></span> 

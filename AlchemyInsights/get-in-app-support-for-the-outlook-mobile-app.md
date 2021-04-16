@@ -1,8 +1,8 @@
 ---
-title: 1800014 obter suporte no aplicativo para o aplicativo móvel do Outlook
+title: 1800014 Obter suporte no aplicativo para o aplicativo móvel do Outlook
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "317"
 - "1800014"
 ms.assetid: ae8140e0-1802-4387-9fcc-3e4deda115d8
-ms.openlocfilehash: fe099b2cf0a596900c4e5a9b35d5d8f8b1ac5d07
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8912f52a968ce0d406479d4f1a403fd452b7126c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707699"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812272"
 ---
-# <a name="get-in-app-support-for-the-outlook-mobile-app"></a><span data-ttu-id="e3148-102">Obter suporte no aplicativo para o aplicativo móvel do Outlook</span><span class="sxs-lookup"><span data-stu-id="e3148-102">Get in-app support for the Outlook mobile app</span></span>
+# <a name="get-in-app-support-for-the-outlook-mobile-app"></a><span data-ttu-id="61bcd-102">Obter suporte no aplicativo para o aplicativo móvel do Outlook</span><span class="sxs-lookup"><span data-stu-id="61bcd-102">Get in-app support for the Outlook mobile app</span></span>
 
-1. <span data-ttu-id="e3148-103">No aplicativo móvel do Outlook, abra o **menu**.</span><span class="sxs-lookup"><span data-stu-id="e3148-103">In the Outlook mobile app, open the **Menu**.</span></span>
+1. <span data-ttu-id="61bcd-103">No aplicativo móvel do Outlook, abra o **Menu**.</span><span class="sxs-lookup"><span data-stu-id="61bcd-103">In the Outlook mobile app, open the **Menu**.</span></span>
 
-2. <span data-ttu-id="e3148-104">Selecione o ponto de interrogação para abrir a tela de \*\* &amp; comentários da ajuda\*\* .</span><span class="sxs-lookup"><span data-stu-id="e3148-104">Select the question mark to open the **Help &amp; Feedback** screen.</span></span>
+2. <span data-ttu-id="61bcd-104">Selecione o ponto de interrogação para abrir a **tela &amp; Comentários da** Ajuda.</span><span class="sxs-lookup"><span data-stu-id="61bcd-104">Select the question mark to open the **Help &amp; Feedback** screen.</span></span>
 
-3. <span data-ttu-id="e3148-105">Toque **em contatar o suporte** e explique o problema.</span><span class="sxs-lookup"><span data-stu-id="e3148-105">Tap **Contact Support** and explain your issue.</span></span>
+3. <span data-ttu-id="61bcd-105">Toque **em Contato com o Suporte** e explique seu problema.</span><span class="sxs-lookup"><span data-stu-id="61bcd-105">Tap **Contact Support** and explain your issue.</span></span>
 
-4. <span data-ttu-id="e3148-106">Toque em **Enviar** e você receberá uma notificação no aplicativo quando um agente de suporte entrar em contato com você.</span><span class="sxs-lookup"><span data-stu-id="e3148-106">Tap **Send** and you'll receive an in-app notification when a support agent contacts you.</span></span>
+4. <span data-ttu-id="61bcd-106">Toque **em Enviar** e você receberá uma notificação no aplicativo quando um agente de suporte entrar em contato com você.</span><span class="sxs-lookup"><span data-stu-id="61bcd-106">Tap **Send** and you'll receive an in-app notification when a support agent contacts you.</span></span>
 
-<span data-ttu-id="e3148-107">Para obter instruções detalhadas, consulte [obter ajuda no aplicativo para Outlook para IOS e Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).</span><span class="sxs-lookup"><span data-stu-id="e3148-107">For detailed instructions, see [Get in-app help for Outlook for iOS and Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).</span></span>
+<span data-ttu-id="61bcd-107">Para obter instruções detalhadas, consulte Obter ajuda no aplicativo [para Outlook para iOS e Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).</span><span class="sxs-lookup"><span data-stu-id="61bcd-107">For detailed instructions, see [Get in-app help for Outlook for iOS and Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).</span></span>

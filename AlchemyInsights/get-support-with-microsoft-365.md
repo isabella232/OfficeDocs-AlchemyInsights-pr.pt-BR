@@ -2,7 +2,7 @@
 title: Obter suporte com o Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,13 +14,13 @@ ms.custom:
 - "4503"
 - "9002471"
 - "4818"
-ms.openlocfilehash: c925d1dd6d11f1fbd31eaa05a2d876c84b3e23b7
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: f5b3f6aaaeef8931ef04c61baedde02ff35679b6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452252"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812092"
 ---
-# <a name="get-support-with-microsoft-365"></a><span data-ttu-id="68ec1-102">Obter suporte com o Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="68ec1-102">Get support with Microsoft 365</span></span>
+# <a name="get-support-with-microsoft-365"></a><span data-ttu-id="6fa98-102">Obter suporte com o Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="6fa98-102">Get support with Microsoft 365</span></span>
 
-<span data-ttu-id="68ec1-103">Para encontrar os recursos certos para o seu problema, precisamos de informações mais detalhadas.</span><span class="sxs-lookup"><span data-stu-id="68ec1-103">In order to find the right resources for your issue, we'll need more detailed information.</span></span> <span data-ttu-id="68ec1-104">Repita o problema e inclua nomes, recursos ou erros específicos de produtos e envie sua consulta de pesquisa novamente.</span><span class="sxs-lookup"><span data-stu-id="68ec1-104">Please restate your issue and include specific product names, features, or errors and submit your search query again.</span></span>
+<span data-ttu-id="6fa98-103">Para encontrar os recursos certos para o seu problema, precisamos de informações mais detalhadas.</span><span class="sxs-lookup"><span data-stu-id="6fa98-103">In order to find the right resources for your issue, we'll need more detailed information.</span></span> <span data-ttu-id="6fa98-104">Repita o problema e inclua nomes, recursos ou erros específicos de produtos e envie sua consulta de pesquisa novamente.</span><span class="sxs-lookup"><span data-stu-id="6fa98-104">Please restate your issue and include specific product names, features, or errors and submit your search query again.</span></span>
