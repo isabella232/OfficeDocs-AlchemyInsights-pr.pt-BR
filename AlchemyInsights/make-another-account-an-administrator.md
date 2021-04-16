@@ -2,7 +2,7 @@
 title: Tornar outra conta um administrador
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: b6de4097a23e18ac84f6afd5c9d2b3c4ff7bb856
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2f1ff8eb23a58fab0cbc3db557c92feab8c45a95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794682"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795000"
 ---
 # <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Alterar uma conta de usuário padrão para um administrador no Windows 10
 
-Confira aqui como alterar uma conta de usuário padrão para um administrador no Windows 10:
+Veja como alterar uma conta de usuário padrão para um administrador no Windows 10:
 
-1. Vá para **Iniciar**  >  família de contas de**configurações**  >  **Account**  >  **& outras pessoas** (ou **outras pessoas**, se você estiver usando o Windows 10 Enterprise).
-2. Selecione a conta que você deseja tornar um administrador e selecione **alterar conta**.
-3. Em **tipo de conta**, selecione **administrador**e, em seguida, selecione **OK**.
+1. Vá para **Iniciar**  >  **Configurações Família de Contas**& outras pessoas (ou Outras pessoas , se você estiver usando o Windows  >    >   10 Enterprise). 
+2. Selecione a conta que deseja tornar um administrador e selecione **Alterar conta**.
+3. Em **Tipo de conta**, selecione **Administrador** e, em seguida, selecione **OK**.
 
 **Observação:** Você só pode alterar contas para um administrador de uma conta de administrador existente.
