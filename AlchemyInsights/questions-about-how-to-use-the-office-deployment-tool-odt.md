@@ -1,8 +1,8 @@
 ---
-title: Perguntas sobre como usar a ferramenta de implantação do Office (ODT)
+title: Perguntas sobre como usar a Ferramenta de Implantação do Office (ODT)
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -10,22 +10,22 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: c5b055989014b464d3136895702c8ea40e8eb701
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 20e0b6aa3c298ee0a4291c3da6ae46978177e81f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086144"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790320"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a><span data-ttu-id="991bd-102">Perguntas sobre como usar a ferramenta de implantação do Office (ODT)</span><span class="sxs-lookup"><span data-stu-id="991bd-102">Questions about how to use the Office Deployment Tool (ODT)</span></span>
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a><span data-ttu-id="ddbfb-102">Perguntas sobre como usar a Ferramenta de Implantação do Office (ODT)</span><span class="sxs-lookup"><span data-stu-id="ddbfb-102">Questions about how to use the Office Deployment Tool (ODT)</span></span>
 
-<span data-ttu-id="991bd-103">Baixe a Ferramenta de Implantação de Office do [Centro de Download da Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span><span class="sxs-lookup"><span data-stu-id="991bd-103">Download the Office Deployment Tool from the [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span></span>
+<span data-ttu-id="ddbfb-103">Baixe a Ferramenta de Implantação de Office do [Centro de Download da Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span><span class="sxs-lookup"><span data-stu-id="ddbfb-103">Download the Office Deployment Tool from the [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span></span>
   
-<span data-ttu-id="991bd-104">Após baixar o arquivo, execute o arquivo executável de extração automática, que contém o executável da ferramenta de implantação do Office (setupodt.exe) e um arquivo de configuração de exemplo (configuration.xml).</span><span class="sxs-lookup"><span data-stu-id="991bd-104">After downloading the file, run the self-extracting executable file, which contains the Office Deployment Tool executable (setupodt.exe) and a sample configuration file (configuration.xml).</span></span>
+<span data-ttu-id="ddbfb-104">Após baixar o arquivo, execute o arquivo executável de extração automática, que contém o executável da Ferramenta de Implantação do Office (setup.exe) e um arquivo de configuração de exemplo (configuration.xml).</span><span class="sxs-lookup"><span data-stu-id="ddbfb-104">After downloading the file, run the self-extracting executable file, which contains the Office Deployment Tool executable (setup.exe) and a sample configuration file (configuration.xml).</span></span>
   
- <span data-ttu-id="991bd-105">**Para excluir ou remover aplicativos da Microsoft 365 para produtos corporativos de computadores cliente:**</span><span class="sxs-lookup"><span data-stu-id="991bd-105">**To exclude or remove Microsoft 365 Apps for enterprise products from client computers:**</span></span>
+ <span data-ttu-id="ddbfb-105">**Para excluir ou remover aplicativos do Microsoft 365 para produtos corporativos de computadores cliente:**</span><span class="sxs-lookup"><span data-stu-id="ddbfb-105">**To exclude or remove Microsoft 365 Apps for enterprise products from client computers:**</span></span>
   
-<span data-ttu-id="991bd-106">Ao instalar o Microsoft 365 aplicativos para empresas, você pode excluir produtos específicos.</span><span class="sxs-lookup"><span data-stu-id="991bd-106">When installing Microsoft 365 Apps for enterprise, you can exclude specific products.</span></span> <span data-ttu-id="991bd-107">Para fazer isso, siga as etapas para instalar o Office com a ODT, mas inclua o elemento ExcludeApp no arquivo de configuração.</span><span class="sxs-lookup"><span data-stu-id="991bd-107">To do so, follow the steps for installing Office with the ODT, but include the ExcludeApp element in your configuration file.</span></span> <span data-ttu-id="991bd-108">Por exemplo, esse arquivo de configuração instala todos os aplicativos do Microsoft 365 para produtos corporativos, exceto o Publisher:</span><span class="sxs-lookup"><span data-stu-id="991bd-108">For example, this configuration file installs all the Microsoft 365 Apps for enterprise products except Publisher:</span></span>
+<span data-ttu-id="ddbfb-106">Ao instalar o Microsoft 365 Apps para empresas, você pode excluir produtos específicos.</span><span class="sxs-lookup"><span data-stu-id="ddbfb-106">When installing Microsoft 365 Apps for enterprise, you can exclude specific products.</span></span> <span data-ttu-id="ddbfb-107">Para fazer isso, siga as etapas para instalar o Office com a ODT, mas inclua o elemento ExcludeApp no arquivo de configuração.</span><span class="sxs-lookup"><span data-stu-id="ddbfb-107">To do so, follow the steps for installing Office with the ODT, but include the ExcludeApp element in your configuration file.</span></span> <span data-ttu-id="ddbfb-108">Por exemplo, esse arquivo de configuração instala todos os Aplicativos do Microsoft 365 para produtos corporativos, exceto o Publisher:</span><span class="sxs-lookup"><span data-stu-id="ddbfb-108">For example, this configuration file installs all the Microsoft 365 Apps for enterprise products except Publisher:</span></span>
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -36,6 +36,6 @@ ms.locfileid: "49086144"
 </Add>
 ```
 
-[<span data-ttu-id="991bd-109">Visão geral da Ferramenta de Implantação do Office</span><span class="sxs-lookup"><span data-stu-id="991bd-109">Overview of the Office Deployment Tool</span></span>](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
+[<span data-ttu-id="ddbfb-109">Visão geral da Ferramenta de Implantação do Office</span><span class="sxs-lookup"><span data-stu-id="ddbfb-109">Overview of the Office Deployment Tool</span></span>](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
   
 
