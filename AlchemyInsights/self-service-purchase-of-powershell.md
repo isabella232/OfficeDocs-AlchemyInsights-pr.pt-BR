@@ -1,8 +1,8 @@
 ---
-title: Compra de autoatendimento do PowerShell
+title: Compra self-service do PowerShell
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: e6cc504ebef19cbe78f576d9b207fe2d951d0ef5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48b5b0a1be1bc03d45a531a1093f18a3f750c37d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739958"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797709"
 ---
-# <a name="self-service-purchase-of-powershell"></a>Compra de autoatendimento do PowerShell
+# <a name="self-service-purchase-of-powershell"></a>Compra self-service do PowerShell
 
-Para usar o módulo MSCommerce do PowerShell, você precisa instalá-lo em um dispositivo Windows 10 com TLS 1,2 (permissões de administrador local obrigatórias).  Importe e conecte-se ao módulo MSCommerce.  Quando solicitado a fazer logon, você precisará usar credenciais de função de administrador global ou de cobrança.  
+Para usar o módulo MSCommerce PowerShell, você precisa instalá-lo em um dispositivo Windows 10 com TLS 1.2 (permissões de administrador local necessárias).  Importe e conecte-se ao módulo MSCommerce.  Quando solicitado a fazer logoff, você precisará usar credenciais de função administrador global ou de cobrança.  
 
-Se você não tiver o TLS 1,2, você pode receber o seguinte erro ao tentar obter ou atualizar a política:
+Se você não tiver o TLS 1.2, poderá receber o seguinte erro ao tentar obter ou atualizar a política:
 
-*ErrorMessage-a conexão subjacente foi fechada: ocorreu um erro inesperado em um envio*.
+*ErrorMessage - A conexão subjacente foi fechada: Ocorreu* um erro inesperado em um envio .
 
 
 
