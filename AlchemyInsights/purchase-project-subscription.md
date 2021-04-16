@@ -2,7 +2,7 @@
 title: Comprar assinatura do Project
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "4708"
-ms.openlocfilehash: 7d2739006249ee64209ee2ad39f996daf25968d3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: db6ae70d77ed487314168aa14c91bc1c10262472
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693291"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800382"
 ---
 # <a name="purchase-project-subscription"></a>Comprar assinatura do Project
 
 Os administradores podem adquirir a assinatura do Project para a sua organização no **Centro de administração do Microsoft 365**.
 
-1. Vá para a página**Cobrança** > **[ Serviços de compra](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)** para visualizar as assinaturas disponíveis para compra para a sua organização.
+1. Vá para a página **Cobrança** > **[ Serviços de compra](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)** para visualizar as assinaturas disponíveis para compra para a sua organização.
 
 2. Localize os planos do projeto pesquisando em "Project".
 

@@ -1,8 +1,8 @@
 ---
-title: Remover uma senha do seu documento
+title: Remover uma senha do documento
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001455"
 - "3466"
-ms.openlocfilehash: 4763b0115d43b7f524d24ebb9875f7b8cba28d96
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7a8c0edcbd511e929bb618dfc51d79bb7b5b13e0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768199"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799401"
 ---
 # <a name="remove-a-password-from-a-word-document"></a>Remover uma senha de um documento do Word
 
-Contanto que você saiba a senha original, remover uma senha de um documento é um processo simples.
+Desde que você saiba a senha original, remover uma senha de um documento é um processo simples.
 
 1. Abra o documento e insira a senha.
-2. Vá para **arquivo**  >  **informações**  >  **proteger documento**  >  **criptografar com senha**.
-3. Limpe a senha na **caixa senha**e, em seguida, selecione **OK**.
+2. Vá para **Informações**  >  **de Arquivo** Proteger Criptografia de  >  **Documento** com  >  **Senha**.
+3. Limpe a senha na caixa **Senha e** selecione **OK**.
