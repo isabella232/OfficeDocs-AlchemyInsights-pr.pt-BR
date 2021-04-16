@@ -1,8 +1,8 @@
 ---
-title: Como identificar um encargo no seu cartão de crédito ou extrato bancário
+title: Como identificar uma cobrança em seu cartão de crédito ou extrato bancário
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,17 +15,17 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: b856c0ca1f02780d0828dc714a25273ed99569f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8bafbb57aae358df04332a6c5a6d00ce523c810
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780119"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810832"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a><span data-ttu-id="31a07-102">Como identificar um encargo no seu cartão de crédito ou extrato bancário</span><span class="sxs-lookup"><span data-stu-id="31a07-102">How to identify a charge on your credit card or bank statement</span></span>
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a><span data-ttu-id="0f55d-102">Como identificar uma cobrança em seu cartão de crédito ou extrato bancário</span><span class="sxs-lookup"><span data-stu-id="0f55d-102">How to identify a charge on your credit card or bank statement</span></span>
 
-<span data-ttu-id="31a07-103">A descrição do encargo para uma assinatura do Microsoft 365 tem a seguinte aparência:</span><span class="sxs-lookup"><span data-stu-id="31a07-103">The charge description for a Microsoft 365 subscription looks like this:</span></span>
+<span data-ttu-id="0f55d-103">A descrição da cobrança de uma assinatura do Microsoft 365 tem esta aparência:</span><span class="sxs-lookup"><span data-stu-id="0f55d-103">The charge description for a Microsoft 365 subscription looks like this:</span></span>
   
-<span data-ttu-id="31a07-104">MSFT \* E012345ABC 0000-MSBILL.info, WA</span><span class="sxs-lookup"><span data-stu-id="31a07-104">MSFT \* E012345ABC 0000 - MSBILL.INFO, WA</span></span>
+<span data-ttu-id="0f55d-104">MSFT \* E012345ABC 0000 - MSBILL.INFO, WA</span><span class="sxs-lookup"><span data-stu-id="0f55d-104">MSFT \* E012345ABC 0000 - MSBILL.INFO, WA</span></span>
   
-<span data-ttu-id="31a07-105">A cadeia de caracteres alfanuméricos de 10 caracteres após MSFT \* é o número da fatura à qual o encargo está relacionado.</span><span class="sxs-lookup"><span data-stu-id="31a07-105">The 10 character alpha-numeric string following MSFT \* is the Invoice Number the charge relates to.</span></span> <span data-ttu-id="31a07-106">Para localizar a fatura, vá para a página **cobrança** de \> [contas & pagamentos](https://go.microsoft.com/fwlink/p/?linkid=848039) para exibir suas faturas recentes.</span><span class="sxs-lookup"><span data-stu-id="31a07-106">To find the invoice, go to the **Billing** \> [Bills & payments](https://go.microsoft.com/fwlink/p/?linkid=848039) page to view your recent invoices.</span></span> <span data-ttu-id="31a07-107">O número da fatura é próximo do canto direito do documento da fatura.</span><span class="sxs-lookup"><span data-stu-id="31a07-107">The invoice number is near the right corner of the invoice document.</span></span>
+<span data-ttu-id="0f55d-105">A cadeia de caracteres alfanumérico de 10 caracteres a seguir MSFT é o Número da Fatura ao que a cobrança \* se relaciona.</span><span class="sxs-lookup"><span data-stu-id="0f55d-105">The 10 character alpha-numeric string following MSFT \* is the Invoice Number the charge relates to.</span></span> <span data-ttu-id="0f55d-106">Para encontrar a fatura, acesse a página **Contas de** Cobrança & \> [pagamentos](https://go.microsoft.com/fwlink/p/?linkid=848039) para exibir suas faturas recentes.</span><span class="sxs-lookup"><span data-stu-id="0f55d-106">To find the invoice, go to the **Billing** \> [Bills & payments](https://go.microsoft.com/fwlink/p/?linkid=848039) page to view your recent invoices.</span></span> <span data-ttu-id="0f55d-107">O número da fatura está próximo ao canto direito do documento da fatura.</span><span class="sxs-lookup"><span data-stu-id="0f55d-107">The invoice number is near the right corner of the invoice document.</span></span>

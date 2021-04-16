@@ -1,8 +1,8 @@
 ---
-title: Como adquirir planos de educação do Office 365
+title: Como comprar planos do Office 365 Education
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,13 +14,13 @@ ms.custom:
 - "332"
 - "1500009"
 ms.assetid: 09f40c86-05d7-45ef-a6d1-3292509353c2
-ms.openlocfilehash: 9d7d950c55f010d84707d51e3aa045afc4a11623
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 94e1a17639d69d7271ea9b222486432b998bdcfb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703576"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810796"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="03b33-102">Como adquirir planos de educação do Office 365</span><span class="sxs-lookup"><span data-stu-id="03b33-102">How to purchase Office 365 Education plans</span></span>
+# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="2884f-102">Como comprar planos do Office 365 Education</span><span class="sxs-lookup"><span data-stu-id="2884f-102">How to purchase Office 365 Education plans</span></span>
 
-<span data-ttu-id="03b33-103">Sua qualificação do Office 365 Education está em revisão.</span><span class="sxs-lookup"><span data-stu-id="03b33-103">Your Office 365 Education qualification is under review.</span></span> <span data-ttu-id="03b33-104">Você pode esperar receber uma notificação sobre a determinação de sua elegibilidade antes que a avaliação expire.</span><span class="sxs-lookup"><span data-stu-id="03b33-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span>
+<span data-ttu-id="2884f-103">Sua qualificação do Office 365 Education está sob revisão.</span><span class="sxs-lookup"><span data-stu-id="2884f-103">Your Office 365 Education qualification is under review.</span></span> <span data-ttu-id="2884f-104">Você pode esperar receber uma notificação sobre a determinação de sua qualificação antes que sua avaliação expire.</span><span class="sxs-lookup"><span data-stu-id="2884f-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span>
