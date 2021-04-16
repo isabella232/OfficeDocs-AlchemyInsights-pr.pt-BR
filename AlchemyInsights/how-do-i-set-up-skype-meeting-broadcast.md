@@ -1,8 +1,8 @@
 ---
-title: Como configurar a transmissão de reunião do Skype
+title: Como configurar a Transmissão de Reunião do Skype
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: 9dd605c11278a2e9cec79784c31f7868f5936d48
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e85368d8d3e69cd8f2f6d236240c9d65b869053d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781451"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811012"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Não é possível iniciar ou ingressar em uma transmissão de reunião do Skype?
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Não é possível iniciar ou ingressar em uma Transmissão de Reunião do Skype?
 
-Se você estiver tendo problemas para iniciar ou ingressar em uma transmissão de reunião do Skype como membro da equipe de eventos (produtor de reunião), certifique-se de verificar sua configuração novamente. A transmissão de reunião do Skype requer algumas etapas manuais de configuração. Siga as etapas neste artigo para garantir que sua rede e o portal do Skype for Business online estejam configurados corretamente e que o usuário afetado não seja bloqueado por uma licença conflitante:
+Se você estiver com problemas para iniciar ou ingressar em uma Transmissão de Reunião do Skype como membro da equipe de eventos (produtor de reunião), verifique sua configuração duas vezes. A Transmissão de Reunião do Skype requer algumas etapas de configuração manuais. Siga as etapas deste artigo para garantir que sua rede e o portal do Skype for Business Online sejam configurados corretamente e que o usuário afetado não seja bloqueado por uma licença conflitante:
 
 [Configurar a rede para a Transmissão de Reunião do Skype](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)

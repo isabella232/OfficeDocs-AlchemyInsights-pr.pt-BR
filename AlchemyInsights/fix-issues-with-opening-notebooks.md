@@ -2,7 +2,7 @@
 title: Corrigir erros com abrindo blocos de anotações
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002359"
 - "4718"
-ms.openlocfilehash: b7628cdbb7cd3bc60b97339cb59854fc73f0139e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0d31e84fbb4faaadc435f826c61860c69ba01744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744758"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812812"
 ---
 # <a name="fix-issues-with-opening-notebooks"></a>Corrigir erros com abrindo blocos de anotações
 
@@ -31,6 +31,6 @@ Aqui estão algumas soluções comuns para problemas com a abertura de blocos de
 
 1. Não é possível abrir o bloco de anotações porque você está conectado com sua conta pessoal, em vez de uma conta corporativa ou de estudante.
     - Se o bloco de anotações abrir no OneNote para a Web, certifique-se de fazer logon com as credenciais atuais no OneNote.
-    - No OneNote 2016, clique **Arquivo > Conta** e **Sair ** de todas as contas. Entre novamente usando uma conta de usuário com uma licença válida. Para informações detalhadas, consulte [Contas no Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9). 
+    - No OneNote 2016, clique **Arquivo > Conta** e **Sair** de todas as contas. Entre novamente usando uma conta de usuário com uma licença válida. Para informações detalhadas, consulte [Contas no Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9). 
     - No OneNote para Windows, clique nas reticências (**...**) na parte superior direita da tela, clique em **Configurações > Contas** e verifique se uma conta corporativa ou de estudante está listada. 
 2. Se o bloco de anotações que não abrir estiver armazenado no OneDrive ou no SharePoint Online, tente abrir o bloco de anotações no [OneNote para a Web](https://onenote.com). Se o bloco de anotações não estiver listado, você pode não ter permissões para ele. Se for um bloco de anotações compartilhado, peça ao proprietário para compartilhá-lo e confirme que você está usando a conta correta para entrar.

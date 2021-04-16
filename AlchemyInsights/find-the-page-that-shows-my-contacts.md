@@ -1,8 +1,8 @@
 ---
-title: Localizar a página que mostra meus contatos
+title: Encontre a página que mostra meus contatos
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001715"
 - "3799"
-ms.openlocfilehash: 4b25ae4adb7411d721c4749e9e696b2f0dbcca1f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff3fca5a12c08314388fdb494c598c3e03d5db8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745262"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812974"
 ---
-# <a name="find-the-page-that-shows-my-contacts"></a>Localizar a página que mostra meus contatos
+# <a name="find-the-page-that-shows-my-contacts"></a>Encontre a página que mostra meus contatos
 
-Você pode pesquisar seus contatos da mesma maneira que você pesquisa seus emails.
+Você pode pesquisar seus contatos da mesma maneira que pesquisa seus emails.
  
-Toque no ícone de pesquisa de lupa e, em seguida, digite sua solicitação de pesquisa de contato na caixa na parte superior da tela. (**Protip**: você pode dar um toque duplo na lupa para colocar o foco na caixa de pesquisa.) Os resultados aparecerão na seção contatos.
+Toque no ícone de pesquisa de lupa e digite sua solicitação de pesquisa de contato na caixa na parte superior da tela. (**Protip**: Você pode tocar duas vezes na lupa para trazer o foco para a caixa de pesquisa.) Seus resultados serão exibidos na seção Contatos.

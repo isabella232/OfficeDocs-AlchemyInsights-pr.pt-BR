@@ -1,8 +1,8 @@
 ---
-title: Como restaurar uma equipe ou um canal excluído
+title: Como restaurar uma equipe ou canal excluído
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,20 +13,20 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: c343c1157bcc1ec74faf909e1595ecfac00ece80
-ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
+ms.openlocfilehash: e1f858cc6d42db4c165bd406ca71fdfa6ad77199
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49726389"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811156"
 ---
-# <a name="how-to-restore-a-deleted-team-or-channel"></a>Como restaurar uma equipe ou um canal excluído
+# <a name="how-to-restore-a-deleted-team-or-channel"></a>Como restaurar uma equipe ou canal excluído
 
 Os canais excluídos em uma equipe podem ser restaurados por até 21 dias após a exclusão do canal.
 
 Para recuperar um canal excluído, o proprietário da equipe pode fazer o seguinte:
 
-1. Abra as configurações da equipe selecionando os 3 pontos à direita do nome da equipe.
-2. Selecione **gerenciar**  >  **canais** de equipe  >  **excluídos** e, em seguida, selecione **restaurar** à direita.
+1. Abra as configurações da equipe selecionando os três pontos à direita do nome da equipe.
+2. Selecione **Gerenciar canais de**  >  **equipe**  >  **excluídos** e, em seguida, selecione **Restaurar** à direita.
 
-Para obter mais informações sobre a restauração de uma equipe, consulte [arquivo morto ou excluir uma equipe no Microsoft Teams-Microsoft Teams | Microsoft docs](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
+Para obter mais informações sobre como restaurar uma equipe, consulte [Archive or delete a team in Microsoft Teams - Microsoft Teams | Microsoft Docs](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).

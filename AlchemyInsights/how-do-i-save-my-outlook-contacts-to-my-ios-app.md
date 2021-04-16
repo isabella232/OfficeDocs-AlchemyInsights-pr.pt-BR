@@ -1,8 +1,8 @@
 ---
-title: Como faço para salvar meus contatos do Outlook no meu aplicativo contatos do iOS?
+title: Como salvar meus contatos do Outlook no meu aplicativo de contatos do iOS?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3058"
 - "9001097"
-ms.openlocfilehash: 2c787d41bd0c9226d35665f9394226e089049eb2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34603d90799951a8b567f75036370aa25a33ab2e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781775"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811120"
 ---
-# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Como faço para salvar meus contatos do Outlook no meu aplicativo contatos do iOS?
+# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Como salvar meus contatos do Outlook no meu aplicativo de contatos do iOS?
 
-Para salvar os contatos do Outlook em seu catálogo de endereços nativo:
+Para salvar contatos do Outlook no seu livro de endereços nativo:
  
-1. Vá para contatos de **configurações de dispositivo**  >  **Contacts** e confirme se a **conta padrão** está definida como **icloud**. Observe que essa configuração só estará disponível se você tiver mais de uma conta adicionada ao dispositivo. Se não houver nenhuma conta conectada ao dispositivo, seus contatos do Outlook serão salvos localmente, mas não serão sincronizados com outros dispositivos.
+1. Vá para **Contatos de Configurações do** Dispositivo  >  **e** confirme se a **Conta Padrão** está definida como **iCloud**. Observe que essa configuração só estará disponível se você tiver mais de uma conta adicionada ao dispositivo. Se não houver nenhuma conta conectada ao dispositivo, seus contatos do Outlook serão salvos localmente, mas não serão sincronizados com outros dispositivos.
  
-2. Abra o Outlook para iOS e, no painel de navegação à esquerda, selecione o engrenagem de configurações, escolha **selecionar sua conta**e ative a opção **Salvar contatos** .
+2. Abra o Outlook para iOS e, na navegação à esquerda, selecione a engrenagem Configurações, escolha Selecionar sua conta **e** aciona a opção Salvar **Contatos.**
  
-Os contatos salvos serão adicionados aos contatos em sua conta do iCloud. Esses contatos serão sincronizados com todos os dispositivos que estão conectados com a mesma conta do iCloud. Observe que você só pode exportar contatos de um dispositivo de cada vez.
+Os contatos salvos serão adicionados sob os contatos em sua conta do iCloud. Esses contatos serão sincronizados com todos os dispositivos conectados com a mesma conta do iCloud. Observe que você só pode exportar contatos de um dispositivo por vez.
  
-Se um usuário tiver a exportação de contato ativada, o iPad e o iPhone precisam ser desabilitados para evitar conflitos. Duplicatas podem ocupar 24 horas para serem reconciliated.
+Se um usuário tiver a exportação de contatos activada, o iPad e o iPhone um precisarão ser desabilitados para evitar conflitos. Duplicatas podem levar até 24 horas para serem reconciliadas.
