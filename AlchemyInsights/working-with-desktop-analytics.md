@@ -1,8 +1,8 @@
 ---
-title: Como fechar sua conta de análise de desktop
+title: Como fechar sua conta do Desktop Analytics
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: 00a15b83c1bdb4b480b3e25d297b4e7afe58905b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a7550e651db1ea0b4e4a7c4f6fc43964b8d9bb09
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725611"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827060"
 ---
-# <a name="working-with-desktop-analytics"></a><span data-ttu-id="ceba2-102">Trabalhar com o desktop Analytics</span><span class="sxs-lookup"><span data-stu-id="ceba2-102">Working with Desktop Analytics</span></span>
+# <a name="working-with-desktop-analytics"></a><span data-ttu-id="e1f1a-102">Trabalhando com Análise de Área de Trabalho</span><span class="sxs-lookup"><span data-stu-id="e1f1a-102">Working with Desktop Analytics</span></span>
 
-<span data-ttu-id="ceba2-103">Parece que você está perguntando sobre a análise de desktop.</span><span class="sxs-lookup"><span data-stu-id="ceba2-103">It looks like you are asking about Desktop Analytics.</span></span> <span data-ttu-id="ceba2-104">Podemos ajudá-lo com uma resposta mais precisa se você reformular sua pergunta.</span><span class="sxs-lookup"><span data-stu-id="ceba2-104">We may be able to help with a more precise answer if you rephrase your question.</span></span>
+<span data-ttu-id="e1f1a-103">Parece que você está perguntando sobre o Desktop Analytics.</span><span class="sxs-lookup"><span data-stu-id="e1f1a-103">It looks like you are asking about Desktop Analytics.</span></span> <span data-ttu-id="e1f1a-104">Podemos ajudar com uma resposta mais precisa se você reformular sua pergunta.</span><span class="sxs-lookup"><span data-stu-id="e1f1a-104">We may be able to help with a more precise answer if you rephrase your question.</span></span>
 
-- [<span data-ttu-id="ceba2-105">O que é o desktop Analytics?</span><span class="sxs-lookup"><span data-stu-id="ceba2-105">What is Desktop Analytics?</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
-- [<span data-ttu-id="ceba2-106">Como configurar o desktop Analytics</span><span class="sxs-lookup"><span data-stu-id="ceba2-106">How to set up Desktop Analytics</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
-- [<span data-ttu-id="ceba2-107">Perguntas Frequentes</span><span class="sxs-lookup"><span data-stu-id="ceba2-107">Frequently Asked Questions</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
-- [<span data-ttu-id="ceba2-108">Solução de problemas de análise de desktop</span><span class="sxs-lookup"><span data-stu-id="ceba2-108">Troubleshoot Desktop Analytics</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
+- [<span data-ttu-id="e1f1a-105">O que é o Desktop Analytics?</span><span class="sxs-lookup"><span data-stu-id="e1f1a-105">What is Desktop Analytics?</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [<span data-ttu-id="e1f1a-106">Como configurar o Desktop Analytics</span><span class="sxs-lookup"><span data-stu-id="e1f1a-106">How to set up Desktop Analytics</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [<span data-ttu-id="e1f1a-107">Perguntas Frequentes</span><span class="sxs-lookup"><span data-stu-id="e1f1a-107">Frequently Asked Questions</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
+- [<span data-ttu-id="e1f1a-108">Solucionar problemas de análise de área de trabalho</span><span class="sxs-lookup"><span data-stu-id="e1f1a-108">Troubleshoot Desktop Analytics</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
