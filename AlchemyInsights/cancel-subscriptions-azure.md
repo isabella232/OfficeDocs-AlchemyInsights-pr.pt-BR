@@ -2,7 +2,7 @@
 title: Cancelar assinatura do Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: f85608446c8b230753dccd06ee5b5ea36aed7802
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: fcb767f5e981e8e208914a76f3b88f4433e42818
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791322"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819572"
 ---
 # <a name="cancel-subscription"></a>Cancelar Assinatura
 
@@ -25,7 +25,7 @@ Somente o Administrador ou Proprietário da Conta tem direito sobre a assinatura
 
 1. Selecione sua assinatura na [Página de assinaturas no portal do Azure](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
 2. Selecione a assinatura que você deseja alterar.
-3. Selecione **Visão geral** e, em seguida, selecione **Cancelar assinatura** .
+3. Selecione **Visão geral** e, em seguida, selecione **Cancelar assinatura**.
 
 **O que acontece depois que eu cancelo a minha assinatura?**
 

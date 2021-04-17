@@ -2,7 +2,7 @@
 title: Alterar o plano de fundo da tela de bloqueio
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: 44e7d38655c7087f0b95a80488aef2de1fcb36c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8c13ad21019ffa00067ea6be0af7f05210e264a8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714460"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818096"
 ---
 # <a name="change-your-lock-screen-background"></a>Alterar o plano de fundo da tela de bloqueio
 
-- Vá para **Settings**  >  **Personalization**  >  **tela bloqueio**de personalização de configurações. Ou clique ou toque [aqui](ms-settings:lockscreen?activationSource=GetHelp).
+- Vá para **Configurações**  >  **Tela de Bloqueio de**  >  **Personalização.** Ou clique ou toque [aqui](ms-settings:lockscreen?activationSource=GetHelp).
 
-- Para definir uma imagem de plano de fundo personalizada, selecione **imagem** na lista suspensa **plano de fundo** e escolha ou **navegue** até a imagem.
+- Para definir uma imagem de plano  de fundo personalizada, selecione **Imagem** na listada plano de fundo e escolha ou **Navegue** até a imagem.
 
-  ![Define uma imagem de plano de fundo personalizada.](media/set-custom-background-pic.png)
+  ![Definir uma imagem de plano de fundo personalizada.](media/set-custom-background-pic.png)
 
-- Para configurar uma apresentação de slides de imagens personalizadas, selecione **apresentação de slides** na lista suspensa plano de **fundo** e escolha um álbum ou adicione uma pasta que contenha as imagens da apresentação de slides.
+- Para configurar uma apresentação de slides de imagens  personalizadas, selecione Apresentação de **slides** na listada em segundo plano e escolha um álbum ou adicione uma pasta que contenha as imagens para a apresentação de slides.
 
   ![Configurar uma apresentação de slides de imagens personalizadas.](media/set-up-slideshow-background.png)
