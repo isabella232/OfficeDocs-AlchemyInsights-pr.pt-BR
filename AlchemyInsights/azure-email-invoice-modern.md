@@ -2,7 +2,7 @@
 title: Faturamento por email moderno do Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6866"
-ms.openlocfilehash: 65df6091a97d4937379ded384a78b5d07aa76e42
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
+ms.openlocfilehash: 4df8c49880fe638c1659f76edc0905532d091e45
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48840564"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820814"
 ---
 # <a name="email-invoicing-in-azure"></a>Faturamento por email no Azure
 
@@ -35,7 +35,7 @@ Você concede a outros acesso para exibir, baixar e pagar faturas atribuindo-lhe
 
 1. Entre no [portal do Azure](https://portal.azure.com/).
 2. Pesquise por **Gerenciamento de Custos + Cobrança**.
-3. Selecione **Perfis de Cobrança** do lado esquerdo. Na lista de perfis de cobrança, selecione um perfil de cobrança ao qual deseja atribuir uma função de gerente de fatura.
+3. Selecione **Perfis de cobrança** do lado esquerdo. Na lista de perfis de cobrança, selecione um perfil de cobrança ao qual deseja atribuir uma função de gerente de fatura.
 4. Selecione **Controle de acesso (IAM)** no lado esquerdo e selecione **Adicionar** no topo da página.
 
 Na lista suspensa de Função, selecione **Gerenciador de faturas**. Insira o endereço de email do usuário para conceder acesso. Selecione **Salvar** para atribuir a função.

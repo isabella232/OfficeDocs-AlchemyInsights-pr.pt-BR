@@ -2,7 +2,7 @@
 title: Tipos de assinatura com suporte
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6675"
-ms.openlocfilehash: 46bc60435c3f8477e9f274d90c39d0f1c6a523c6
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: dcf5855bff8725ea746196c1f07d689ce1797f8c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791325"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820670"
 ---
 # <a name="supported-subscription-types"></a>Tipos de assinatura com suporte
 
@@ -29,7 +29,7 @@ Examine os tipos de assinatura com suporte para prosseguir.
 
 Portal do Azure como a [Administrador da Conta](https://ms.portal.azure.com/) de cobrança que tem a assinatura que você deseja transferir
 
-- Pesquisar em **Custo de Gerenciamento + Faturamento** . Selecione **Assinaturas** no painel esquerdo. Dependendo do acesso, talvez seja necessário selecionar um escopo de cobrança e, em seguida, **Assinaturas** ou **Assinaturas do Azure** .
+- Pesquisar em **Custo de Gerenciamento + Faturamento**. Selecione **Assinaturas** no painel esquerdo. Dependendo do acesso, talvez seja necessário selecionar um escopo de cobrança e, em seguida, **Assinaturas** ou **Assinaturas do Azure**.
 - Selecione Transferir propriedade de cobrança para a assinatura que você deseja transferir
 - Insira o endereço de e-mail de um usuário que é administrador de cobrança da conta e será o novo proprietário da assinatura e selecione **enviar solicitação de transferência**
 - O usuário recebe um email com instruções para revisar sua solicitação de transferência. Para aprovar a solicitação de transferência, o usuário seleciona o link no email e segue as instruções.

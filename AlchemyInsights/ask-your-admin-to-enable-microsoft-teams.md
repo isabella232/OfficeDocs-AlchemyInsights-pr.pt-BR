@@ -2,7 +2,7 @@
 title: Peça ao administrador para habilitar o Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 62ec9b385b3827395a757150a75ac6bb4237941b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d401a0f29bdd808622cf8348ef1ae3770bb54c3a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716233"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821174"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Você está ausente! Peça ao administrador para habilitar o Microsoft Teams
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Você está perdendo! Peça ao administrador para habilitar o Microsoft Teams
 
-Caso tenha um locatário EDU, será necessário habilitar o Microsoft Teams manualmente. Para fazer isso, vá para o centro de administração do 365 > **serviços e suplementos do > Microsoft Teams**. Se você estiver usando o novo centro de administração do Microsoft Teams, será necessário desativar **o novo centro**   de administração para localizar **serviços e suplementos**. 
+Caso tenha um locatário EDU, será necessário habilitar o Microsoft Teams manualmente. Para fazer isso, vá para o Centro de administração do Microsoft 365 >Serviços e  **> Microsoft Teams**. Se você estiver usando o novo centro de administração do Teams, você terá que desativar **Experimente** o novo centro de administração para encontrar Serviços e    **complementos**. 
 
-**Importante**: Talvez seja necessário aguardar até 24 horas para que as alterações entrem em vigor.
+**IMPORTANTE**: Você pode ter que esperar até 24 horas para que suas alterações tenham efeito.

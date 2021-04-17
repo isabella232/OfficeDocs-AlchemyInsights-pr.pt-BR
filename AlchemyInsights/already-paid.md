@@ -1,8 +1,8 @@
 ---
-title: Já pago?
+title: Já pagou?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "466"
 - "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: 1e3915f2120b5ba017741dbb9bac42528db9cee2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9192eaeeb35a1adc00658f9248bc3bb5d26ae022
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717997"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821507"
 ---
-# <a name="already-paid"></a>Já pago?
+# <a name="already-paid"></a>Já pagou?
 
-Se você já enviou o pagamento, pode nos informar:
+Se você já enviou o pagamento, pode nos dizer:
   
 1. No centro de administração, vá para a página **Cobrança** \> [Assinaturas](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Escolha uma assinatura e, na seção **minha fatura** , escolha **Exibir cobrança**.
+2. Escolha uma assinatura e, na seção **Minha conta,** escolha **Exibir Projeto de Lei**.
 
-3. Na página **detalhes da lista** , escolha **já pago?** Você será solicitado a inserir informações relacionadas ao pagamento enviado.
+3. Na página **Detalhes da** conta, escolha **Já Pago?** Você será solicitado a inserir informações relacionadas ao pagamento que foi enviado.
 
-4. Quando todas as informações necessárias tiverem sido inseridas, escolha **Enviar**.
+4. Quando todas as informações necessárias foram inseridas, escolha **Enviar**.

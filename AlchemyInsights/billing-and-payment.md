@@ -2,7 +2,7 @@
 title: Cobrança e pagamento
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: e1f40da41eddc56c8086881a426bddb363c92446
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686018"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820382"
 ---
 # <a name="billing-and-payment"></a>Cobrança e pagamento
 
-Suas listas podem ser encontradas na guia **de faturas**  >  [& pagamentos](https://go.microsoft.com/fwlink/p/?linkid=848039) .  Por padrão, os últimos 3 meses de faturas são mostrados.  Para exibir faturas mais antigas, ajuste o filtro.  Clique no link **baixar PDF de fatura** para exibir a fatura.
+Suas contas podem ser encontradas na guia **Cobrança**  >  [& pagamentos.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Por padrão, os últimos três meses de faturas são mostrados.  Para exibir faturas mais antigas, ajuste o filtro.  Clique no **link Baixar fatura PDF** para exibir a fatura.
 
 **Receber faturas por email**
 
-Na página **Billing**  >  [notificações de cobrança](https://go.microsoft.com/fwlink/p/?linkid=853212) de cobrança, você pode ativar esse **on** recurso e gerenciar os usuários que receberão a fatura como um anexo de email. A fatura será enviada para os endereços de email dos usuários na lista de destinatários de notificações. A lista inclui todos os administradores de cobrança e global.  Você pode gerenciar quem recebe as notificações de fatura alterando a função.  A remoção da função de administrador global ou de cobrança remove esse usuário da lista de destinatários e a adição da função de administrador global ou de cobrança adicionará o usuário à lista de destinatários.
+Na página **Notificações de** Cobrança, você pode ativar esse recurso e gerenciar os usuários que receberão a fatura como anexo  >  [](https://go.microsoft.com/fwlink/p/?linkid=853212) de email.  A fatura será enviada para os endereços de email dos usuários na lista Destinatários de Notificação. A lista inclui todos os administradores globais e de cobrança.  Você pode gerenciar quem recebe as notificações de fatura alterando a função.  Remover a função de administrador global ou de cobrança remove esse usuário da lista de destinatários e adicionar a função de administrador global ou de cobrança adicionará o usuário à lista de destinatários.
 
-**Observação**: você receberá dois emails separados: um que permite saber que sua conta está pronta, com instruções para fazer logon no centro de administração para exibi-lo e um segundo email que contém a instrução de cobrança como um anexo.
+**Observação**: você receberá dois emails separados: um que permite que você saiba que sua conta está pronta, com instruções para fazer logoff no Centro de administração para exibi-la e um segundo email que contém a instrução de cobrança como um anexo.
 
-**Hipoteca**
+**Pagamento**
 
-Se estiver pagando por cartão de crédito ou conta bancária, o método de pagamento associado à sua (s) assinatura (s) será cobrado dentro de alguns dias após a criação da fatura. Se o pagamento falhar, atualize ou altere sua forma de pagamento.
+Se for pago por cartão de crédito ou conta bancária, a forma de pagamento associada à sua assinatura será cobrada dentro de alguns dias após a criação da conta. Se o pagamento falhar, atualize ou altere sua forma de pagamento.
 
-Se você tiver adicionado um novo cartão e ainda estiver recebendo um aviso de recusa no cartão de crédito antigo, talvez seja necessário associar esse novo cartão à assinatura.
+Se você adicionou um novo cartão e ainda está recebendo um aviso de recusa no cartão de crédito antigo, talvez seja necessário associar esse novo cartão à assinatura.
 
 1. No centro de administração, acesse a página **Cobrança** > **Cobranças e pagamentos** > [Formas de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
@@ -46,7 +46,7 @@ Se você tiver adicionado um novo cartão e ainda estiver recebendo um aviso de 
     > [!NOTE]
     > Se você tiver assinaturas associadas a um perfil de cobrança, só poderá usar um cartão de crédito ou débito para pagar por eles. Se você tiver contas bancárias listadas na página **Métodos de pagamento**, elas não estarão disponíveis para seleção na lista suspensa.
 
-5. Para adicionar um novo método de pagamento, marque**Adicionar método de pagamento**.
+5. Para adicionar um novo método de pagamento, marque **Adicionar método de pagamento**.
 
 6. No painel **Adicionar um método de pagamento**, insira as informações da conta e, em seguida, selecione **Salvar**. Você deve usar um método de pagamento do mesmo país do seu locatário.
 
@@ -56,6 +56,6 @@ Para saber mais, consulte [Gerenciar métodos de pagamento](https://docs.microso
 
 **Frequência de cobrança**
 
-As listas são geradas mensal ou anualmente, dependendo da frequência de cobrança escolhida no check-out.  
+As contas são geradas mensalmente ou anualmente, dependendo da frequência de cobrança escolhida no check-out.  
 
-**Observação**: pedidos com cobrança anual podem receber uma fatura de médio prazo se forem feitas alterações, como adicionar ou remover licenças. [Altere a frequência de cobrança](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Observação**: pedidos com cobrança anual podem receber uma fatura a médio prazo se alterações foram feitas, como adicionar ou remover licenças. [Altere a frequência de cobrança.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
