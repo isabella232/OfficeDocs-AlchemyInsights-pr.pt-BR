@@ -1,8 +1,8 @@
 ---
-title: Adicionar uma senha ao seu documento
+title: Adicionar uma senha ao documento
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001454"
 - "3464"
-ms.openlocfilehash: 439b18c025d4ef8defccece24557493fce4af8cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 171c1716012240bd79f77148086adfee2d324667
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688502"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822695"
 ---
 # <a name="add-a-password-to-a-word-document"></a>Adicionar uma senha a um documento do Word
 
-1. Vá para **arquivo**  >  **informações**  >  **proteger documento**  >  **criptografar com senha**.
-2. Insira a senha que você deseja usar e, em seguida, escolha **OK**.
-3. Insira novamente a senha e, em seguida, escolha **OK**.
+1. Vá para **Informações**  >  **de Arquivo** Proteger Criptografia de  >  **Documento** com  >  **Senha**.
+2. Insira a senha que você deseja usar e escolha **OK**.
+3. Insira a senha e escolha **OK**.

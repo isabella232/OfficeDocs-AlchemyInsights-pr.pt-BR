@@ -1,8 +1,8 @@
 ---
-title: Adicionar, alterar ou remover um relacionamento de parceiro
+title: Adicionar, alterar ou remover uma relação de parceiro
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "3748"
-ms.openlocfilehash: d8e5f6860a7aa40889722bd8b437bd60c1e77645
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad27f3ef8973fb9defe97343a4eda46cf96a4100
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688429"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822587"
 ---
-# <a name="add-change-or-remove-a-partner-relationship"></a>Adicionar, alterar ou remover um relacionamento de parceiro
+# <a name="add-change-or-remove-a-partner-relationship"></a>Adicionar, alterar ou remover uma relação de parceiro
 
-Como administrador, você pode trabalhar com um parceiro para adquirir, ativar e renovar assinaturas do Microsoft 365. 
+Como administrador, você pode trabalhar com um parceiro para comprar, ativar e renovar assinaturas do Microsoft 365. 
 
-- Se você estiver procurando editar sua relação de parceiro existente, confira [Adicionar, alterar ou excluir um parceiro de consultoria de assinatura](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide).
+- Se você estiver procurando editar seu relacionamento de parceiro existente, consulte Adicionar, alterar ou excluir um parceiro de [consultoria de assinatura.](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide)
 
-- Se você estiver procurando encontrar um parceiro da Microsoft, confira [encontrar seu parceiro ou revendedor microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).
+- Se você estiver procurando encontrar um parceiro da Microsoft, consulte [Find your Microsoft 365 partner or reseller](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).
 
-Se você é um parceiro da Microsoft existente ou deseja se tornar um, confira o [centro de parceria da Microsoft](https://support.microsoft.com/help/4499930/partner-center-overview) para obter mais informações sobre os benefícios ou como obter assistência do [suporte ao parceiro da Microsoft](https://aka.ms/partnersupport).
+Se você for um parceiro da Microsoft existente ou quiser se tornar um, consulte o [Microsoft Partner Center](https://support.microsoft.com/help/4499930/partner-center-overview) para obter mais informações sobre benefícios ou como obter assistência do suporte ao Microsoft [Partner.](https://aka.ms/partnersupport)
