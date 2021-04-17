@@ -2,7 +2,7 @@
 title: Ativar e atribuir licenças de aplicativo de software como serviço
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: 8e0742a528a8bf5beefb32e32c5139b35ecad38d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c31de2fd6e34ffb4d510bc3bb33525e58c1c6557
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698525"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823199"
 ---
 # <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Ativar e atribuir licenças de aplicativo de software como serviço 
 
 ## <a name="to-activate-apps"></a>Para ativar aplicativos
 
-1. No centro de administração, vá para a página **cobrança**  >  **[de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** e, em seguida, escolha a guia **aplicativos** .
+1. No centro de administração, vá para a página **Cobrança**  >  **[seus](https://go.microsoft.com/fwlink/p/?linkid=842054)** produtos e escolha a **guia Aplicativos.**
 
-2. Localize e selecione o aplicativo que você deseja gerenciar.
+2. Encontre e selecione o aplicativo que você deseja gerenciar.
 
-3. Em **licenças**, selecione **configurar conta**.  
+3. Em **Licenças,** selecione **Configurar conta**.  
 
 ## <a name="to-assign-app-licenses"></a>Para atribuir licenças de aplicativo
 
-1. No centro de administração, vá para a página **cobrança**  >  **[de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** e, em seguida, escolha a guia **aplicativos** .
+1. No centro de administração, vá para a página **Cobrança**  >  **[seus](https://go.microsoft.com/fwlink/p/?linkid=842054)** produtos e escolha a **guia Aplicativos.**
 
-2. Localize e selecione o aplicativo que você deseja gerenciar.  
+2. Encontre e selecione o aplicativo que você deseja gerenciar.  
 
-3. Em **configurações & ações**, selecione o link para **gerenciar no portal do Publisher**.
+3. Em **Configurações & ações**, selecione o link para Gerenciar no portal do **editor.**

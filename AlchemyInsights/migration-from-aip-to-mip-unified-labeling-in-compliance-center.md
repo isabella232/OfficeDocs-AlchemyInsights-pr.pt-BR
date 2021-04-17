@@ -2,7 +2,7 @@
 title: Migração do Proteção de Informações do Azure para rotular MIP/Unificado no Centro de Conformidade
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 7157eada10db2443f64fb7925f408359275d75eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674314"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825359"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Migração do Proteção de Informações do Azure para rotular MIP/Unificado no Centro de Conformidade
 
@@ -27,7 +27,7 @@ Para migrar de etiquetas do AIP para Rotulação Unificada no entro de Seguranç
 
 1. Se você ainda não tiver feito isso, abra uma nova janela do navegador e [entre no portal do Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). Navegue até a lâmina **Proteção de Informações do Azure**. Por exemplo, no menu Hub, clique em **Todos os serviços** e comece a digitar **Informações** na Caixa de filtro. Selecione **Proteção de Informações do Azure**. Se você ainda não tiver acessado a lâmina Proteção de Informações do Azure antes, confira [etapas adicionais](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) para adicionar essa lâmina ao Portal. Para abrir a lâmina Proteção de Informações do Azure, você deve ter um [plano Premium de Proteção de Informações do Azure](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) ou um plano do Office 365 que inclui o Gerenciamento de Direitos. Se você tem uma dessas assinaturas, mas vê uma mensagem informando que não foi possível encontrar uma assinatura válida, [contate o Suporte da Microsoft](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) ou usar seus canais de suporte padrão.
 
-2. Localize as opções de menu **Gerenciar** e selecione **Ativação da proteção**. Clique em **Ativar**e, em seguida, confirme a ação. Quando a ativação estiver concluída, a barra de informações exibirá **Ativação concluída com sucesso**.
+2. Localize as opções de menu **Gerenciar** e selecione **Ativação da proteção**. Clique em **Ativar** e, em seguida, confirme a ação. Quando a ativação estiver concluída, a barra de informações exibirá **Ativação concluída com sucesso**.
 
 **Migrar os rótulos de Proteção de Informações do Azure para o Centro de Conformidade e Segurança do Office 365**
 

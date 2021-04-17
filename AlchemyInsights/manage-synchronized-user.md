@@ -1,8 +1,8 @@
 ---
-title: Gerenciar usuário sincronizado
+title: Gerenciar Usuário Sincronizado
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: 7bf7d3f00308ff6bc973cd52e09ca51c5fd0f45b
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 0dc2ecfa0bb5703c619dc1b2d6b4d517f999da0d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451388"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823955"
 ---
-# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Não é possível definir o endereço de email principal, alterar os atributos do usuário ou remover/excluir um usuário sincronizado
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Não é possível definir o endereço de email principal, alterar atributos do usuário ou remover/excluir um usuário sincronizado
 
-Se a sincronização de diretórios estiver habilitada para seu ambiente, alguns atributos de usuário ou de objeto não poderão ser alterados usando o centro de administração do Microsoft 365.
+Se a sincronização de diretório estiver habilitada para seu ambiente, alguns atributos de usuário ou objeto não poderão ser alterados usando o Centro de administração do Microsoft 365.
 
-Para gerenciar totalmente os usuários sincronizados e todos os seus atributos, use o console de gerenciamento de usuários e grupos do Active Directory local (Adsiedit. msc).  
+Para gerenciar totalmente usuários sincronizados e todos os atributos, use o console de gerenciamento de grupos e usuários do active directory local (adsiedit.msc).  
 
-Como alternativa, você pode alterar usuários ou atributos individuais para usuários sincronizados usando o PowerShell, como mostrado nesses exemplos comuns:
+Como alternativa, você pode alterar usuários individuais ou atributos para usuários sincronizados usando o powershell, como mostrado nestes exemplos comuns:
 
 `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
 
