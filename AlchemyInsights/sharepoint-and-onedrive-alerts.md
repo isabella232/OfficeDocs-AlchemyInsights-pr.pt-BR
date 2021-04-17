@@ -2,7 +2,7 @@
 title: Atrasos no recebimento de alertas do SharePoint e do OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: e5476f4e8462f233ff2a46832742d5a1f6e14e73
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: fd00bd90de382e325a9b8c4ce5b21d535e630730
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599840"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831218"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a><span data-ttu-id="841a8-102">Atrasos no recebimento de alertas do SharePoint e do OneDrive</span><span class="sxs-lookup"><span data-stu-id="841a8-102">Delays in receiving SharePoint and OneDrive alerts</span></span>
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a><span data-ttu-id="fa1d7-102">Atrasos no recebimento de alertas do SharePoint e do OneDrive</span><span class="sxs-lookup"><span data-stu-id="fa1d7-102">Delays in receiving SharePoint and OneDrive alerts</span></span>
 
-- <span data-ttu-id="841a8-103">Se **todos os alertas de vários arquivos ou bibliotecas estiverem atrasados**, visite o [painel de integridade do serviço](https://portal.office.com/adminportal/home?ref=/servicehealth) para verificar se há avisos/incidentes que possam ocorrer com o SharePoint ou o Exchange.</span><span class="sxs-lookup"><span data-stu-id="841a8-103">If **all alerts from multiple files or libraries are delayed**, visit the [Service Health dashboard](https://portal.office.com/adminportal/home?ref=/servicehealth) to check for any advisories/incidents that may be occurring with SharePoint or Exchange.</span></span>
-- <span data-ttu-id="841a8-104">Se **um alerta individual de um arquivo ou biblioteca específico não for entregue**, tente excluí-lo e recriá-lo.</span><span class="sxs-lookup"><span data-stu-id="841a8-104">If **an individual alert from a specific file or library is not delivered**, attempt to delete and recreate it.</span></span> <span data-ttu-id="841a8-105">Consulte [gerenciar, exibir ou excluir alertas do SharePoint](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) para recriar o alerta.</span><span class="sxs-lookup"><span data-stu-id="841a8-105">See [Manage, view, or delete SharePoint alerts](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) to recreate the alert.</span></span>
-- <span data-ttu-id="841a8-106">Verifique a pasta de lixo eletrônico ou spam em seu email.</span><span class="sxs-lookup"><span data-stu-id="841a8-106">Check the Junk or Spam folder in your email.</span></span>
+- <span data-ttu-id="fa1d7-103">Se todos os alertas de vários arquivos ou [](https://portal.office.com/adminportal/home?ref=/servicehealth) bibliotecas se atrasarem, visite o painel de Saúde do Serviço para verificar se há **avisos/incidentes** que possam estar ocorrendo com o SharePoint ou o Exchange.</span><span class="sxs-lookup"><span data-stu-id="fa1d7-103">If **all alerts from multiple files or libraries are delayed**, visit the [Service Health dashboard](https://portal.office.com/adminportal/home?ref=/servicehealth) to check for any advisories/incidents that may be occurring with SharePoint or Exchange.</span></span>
+- <span data-ttu-id="fa1d7-104">Se um alerta individual de um arquivo ou biblioteca específico não **for entregue,** tente excluí-lo e recriá-lo.</span><span class="sxs-lookup"><span data-stu-id="fa1d7-104">If **an individual alert from a specific file or library is not delivered**, attempt to delete and recreate it.</span></span> <span data-ttu-id="fa1d7-105">Consulte [Gerenciar, exibir ou excluir alertas do SharePoint](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) para recriar o alerta.</span><span class="sxs-lookup"><span data-stu-id="fa1d7-105">See [Manage, view, or delete SharePoint alerts](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) to recreate the alert.</span></span>
+- <span data-ttu-id="fa1d7-106">Verifique a pasta Lixo Eletrônico ou Spam em seu email.</span><span class="sxs-lookup"><span data-stu-id="fa1d7-106">Check the Junk or Spam folder in your email.</span></span>
 
 > [!NOTE]
-> - <span data-ttu-id="841a8-107">Não é possível enviar alertas para um grupo de distribuição.</span><span class="sxs-lookup"><span data-stu-id="841a8-107">Alerts cannot be sent to a Distribution Group.</span></span> <span data-ttu-id="841a8-108">Só há suporte para grupos de segurança e O365.</span><span class="sxs-lookup"><span data-stu-id="841a8-108">Only Security and O365 groups are supported.</span></span>
-> - <span data-ttu-id="841a8-109">Você não pode personalizar modelos de email de alerta.</span><span class="sxs-lookup"><span data-stu-id="841a8-109">You cannot customize alert email templates.</span></span> <span data-ttu-id="841a8-110">Você deve usar o Microsoft Flow ou o fluxo de trabalho do SharePoint Designer para obtê-los.</span><span class="sxs-lookup"><span data-stu-id="841a8-110">You must use Microsoft Flow or SharePoint Designer Workflow to achieve those.</span></span>
+> - <span data-ttu-id="fa1d7-107">Os alertas não podem ser enviados a um Grupo de Distribuição.</span><span class="sxs-lookup"><span data-stu-id="fa1d7-107">Alerts cannot be sent to a Distribution Group.</span></span> <span data-ttu-id="fa1d7-108">Somente os grupos Security e O365 são suportados.</span><span class="sxs-lookup"><span data-stu-id="fa1d7-108">Only Security and O365 groups are supported.</span></span>
+> - <span data-ttu-id="fa1d7-109">Não é possível personalizar modelos de email de alerta.</span><span class="sxs-lookup"><span data-stu-id="fa1d7-109">You cannot customize alert email templates.</span></span> <span data-ttu-id="fa1d7-110">Você deve usar o Microsoft Flow ou o SharePoint Designer Workflow para conseguir isso.</span><span class="sxs-lookup"><span data-stu-id="fa1d7-110">You must use Microsoft Flow or SharePoint Designer Workflow to achieve those.</span></span>

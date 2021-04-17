@@ -2,7 +2,7 @@
 title: Solucionar problemas de impressão
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,63 +12,63 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: 9fd1dc7cfd9d866950a9252f760c2808dd8b5f55
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 37bc4c1a8f39084e06b6f291c1245fa163e7b638
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689870"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830462"
 ---
-# <a name="troubleshoot-your-printer"></a><span data-ttu-id="48e77-102">Solucionar problemas de impressão</span><span class="sxs-lookup"><span data-stu-id="48e77-102">Troubleshoot your printer</span></span>
+# <a name="troubleshoot-your-printer"></a><span data-ttu-id="16185-102">Solucionar problemas de impressão</span><span class="sxs-lookup"><span data-stu-id="16185-102">Troubleshoot your printer</span></span>
 
-<span data-ttu-id="48e77-103">Primeiro, experimente um **ciclo de alimentação da impressora**.</span><span class="sxs-lookup"><span data-stu-id="48e77-103">First try a **printer power cycle**.</span></span> <span data-ttu-id="48e77-104">Siga estas etapas:</span><span class="sxs-lookup"><span data-stu-id="48e77-104">Follow these steps:</span></span>
+<span data-ttu-id="16185-103">Primeiro, experimente um **ciclo de alimentação da impressora**.</span><span class="sxs-lookup"><span data-stu-id="16185-103">First try a **printer power cycle**.</span></span> <span data-ttu-id="16185-104">Siga estas etapas:</span><span class="sxs-lookup"><span data-stu-id="16185-104">Follow these steps:</span></span>
 
-1. <span data-ttu-id="48e77-105">Desligue a impressora e desconecte seu cabo de alimentação.</span><span class="sxs-lookup"><span data-stu-id="48e77-105">Turn off your printer and unplug its power cable.</span></span>
+1. <span data-ttu-id="16185-105">Desligue a impressora e desconecte seu cabo de alimentação.</span><span class="sxs-lookup"><span data-stu-id="16185-105">Turn off your printer and unplug its power cable.</span></span>
 
-2. <span data-ttu-id="48e77-106">Aguarde 30 segundos.</span><span class="sxs-lookup"><span data-stu-id="48e77-106">Wait 30 seconds.</span></span>
+2. <span data-ttu-id="16185-106">Aguarde 30 segundos.</span><span class="sxs-lookup"><span data-stu-id="16185-106">Wait 30 seconds.</span></span>
 
-3. <span data-ttu-id="48e77-107">Ligue novamente a impressora e ligue a impressora.</span><span class="sxs-lookup"><span data-stu-id="48e77-107">Plug your printer back in and turn the printer back on.</span></span>
+3. <span data-ttu-id="16185-107">Ligue novamente a impressora e ligue a impressora.</span><span class="sxs-lookup"><span data-stu-id="16185-107">Plug your printer back in and turn the printer back on.</span></span>
 
-<span data-ttu-id="48e77-108">Se isso não resolver o problema, execute a solução de problemas da impressora acessando **Iniciar > Configurações > Atualizar & Segurança > Solucionar problemas**.</span><span class="sxs-lookup"><span data-stu-id="48e77-108">If that did not solve your problem, run the Printer troubleshooter by going to **Start > Settings > Update & Security > Troubleshoot**.</span></span> <span data-ttu-id="48e77-109">Clique em **Impressora**, então clique em **Executar a solução de problemas**.</span><span class="sxs-lookup"><span data-stu-id="48e77-109">Click **Printer**, and then click **Run the troubleshooter**.</span></span>
+<span data-ttu-id="16185-108">Se isso não resolver o problema, execute a solução de problemas da impressora acessando **Iniciar > Configurações > Atualizar & Segurança > Solucionar problemas**.</span><span class="sxs-lookup"><span data-stu-id="16185-108">If that did not solve your problem, run the Printer troubleshooter by going to **Start > Settings > Update & Security > Troubleshoot**.</span></span> <span data-ttu-id="16185-109">Clique em **Impressora**, então clique em **Executar a solução de problemas**.</span><span class="sxs-lookup"><span data-stu-id="16185-109">Click **Printer**, and then click **Run the troubleshooter**.</span></span>
 
-<span data-ttu-id="48e77-110">**Se sua impressora estiver conectada ao seu computador por meio da conexão de rede** (se estiver com pressa, você pode colocar a impressora para trabalhar rapidamente usando um cabo USB para conectar a impressora diretamente ao seu computador):</span><span class="sxs-lookup"><span data-stu-id="48e77-110">**If your printer is connected to your PC via network connection** (if you're in a hurry, you may be able to get your printer working quickly by using a USB cable to plug your printer directly into your PC):</span></span>
+<span data-ttu-id="16185-110">**Se sua impressora estiver conectada ao seu computador por meio da conexão de rede** (se estiver com pressa, você pode colocar a impressora para trabalhar rapidamente usando um cabo USB para conectar a impressora diretamente ao seu computador):</span><span class="sxs-lookup"><span data-stu-id="16185-110">**If your printer is connected to your PC via network connection** (if you're in a hurry, you may be able to get your printer working quickly by using a USB cable to plug your printer directly into your PC):</span></span>
 
-1. <span data-ttu-id="48e77-111">**Verifique a conexão de rede da sua impressora**.</span><span class="sxs-lookup"><span data-stu-id="48e77-111">**Check your printer's network connection**.</span></span>
+1. <span data-ttu-id="16185-111">**Verifique a conexão de rede da sua impressora**.</span><span class="sxs-lookup"><span data-stu-id="16185-111">**Check your printer's network connection**.</span></span>
     
-    - <span data-ttu-id="48e77-112">Siga as instruções da impressora para verificar a conexão de rede.</span><span class="sxs-lookup"><span data-stu-id="48e77-112">Follow your printer's instructions to check the network connection.</span></span>
+    - <span data-ttu-id="16185-112">Siga as instruções da impressora para verificar a conexão de rede.</span><span class="sxs-lookup"><span data-stu-id="16185-112">Follow your printer's instructions to check the network connection.</span></span>
 
-    - <span data-ttu-id="48e77-113">Se sua impressora não estiver conectada a uma rede, siga as instruções do seu dispositivo para conectar-se à rede.</span><span class="sxs-lookup"><span data-stu-id="48e77-113">If your printer isn't connected to a network, follow your device's instructions to get connected to your network.</span></span>
+    - <span data-ttu-id="16185-113">Se sua impressora não estiver conectada a uma rede, siga as instruções do seu dispositivo para conectar-se à rede.</span><span class="sxs-lookup"><span data-stu-id="16185-113">If your printer isn't connected to a network, follow your device's instructions to get connected to your network.</span></span>
 
-2. <span data-ttu-id="48e77-114">**Compare a conexão de rede do computador com a conexão da sua impressora**.</span><span class="sxs-lookup"><span data-stu-id="48e77-114">**Match your PC's network connection to your printer's connection**.</span></span>
+2. <span data-ttu-id="16185-114">**Compare a conexão de rede do computador com a conexão da sua impressora**.</span><span class="sxs-lookup"><span data-stu-id="16185-114">**Match your PC's network connection to your printer's connection**.</span></span>
 
-    - <span data-ttu-id="48e77-115">Clique **Iniciar > Configurações > Rede & Internet**.</span><span class="sxs-lookup"><span data-stu-id="48e77-115">Click **Start > Settings > Network & Internet**.</span></span>
+    - <span data-ttu-id="16185-115">Clique **Iniciar > Configurações > Rede & Internet**.</span><span class="sxs-lookup"><span data-stu-id="16185-115">Click **Start > Settings > Network & Internet**.</span></span>
 
-    - <span data-ttu-id="48e77-116">Em **Status de Rede**, localize nome da sua rede.</span><span class="sxs-lookup"><span data-stu-id="48e77-116">Under **Networking status**, find your network name.</span></span> <span data-ttu-id="48e77-117">Isso precisa corresponder exatamente ao nome de conexão da impressora.</span><span class="sxs-lookup"><span data-stu-id="48e77-117">This needs to exactly match the printer's connection name.</span></span>
+    - <span data-ttu-id="16185-116">Em **Status de Rede**, localize nome da sua rede.</span><span class="sxs-lookup"><span data-stu-id="16185-116">Under **Networking status**, find your network name.</span></span> <span data-ttu-id="16185-117">Isso precisa corresponder exatamente ao nome de conexão da impressora.</span><span class="sxs-lookup"><span data-stu-id="16185-117">This needs to exactly match the printer's connection name.</span></span>
 
-    - <span data-ttu-id="48e77-118">Caso estas duas conexões sejam diferentes, altere a conexão do seu computador para corresponder à rede da impressora.</span><span class="sxs-lookup"><span data-stu-id="48e77-118">If these two connections are not the same, change your PC's connection to match the printer's network.</span></span>
+    - <span data-ttu-id="16185-118">Caso estas duas conexões sejam diferentes, altere a conexão do seu computador para corresponder à rede da impressora.</span><span class="sxs-lookup"><span data-stu-id="16185-118">If these two connections are not the same, change your PC's connection to match the printer's network.</span></span>
 
-<span data-ttu-id="48e77-119">Você também pode tentar **remover e reinstalar a impressora de rede**:</span><span class="sxs-lookup"><span data-stu-id="48e77-119">You may also try **removing and reinstalling your network printer**:</span></span>
+<span data-ttu-id="16185-119">Você também pode tentar **remover e reinstalar a impressora de rede**:</span><span class="sxs-lookup"><span data-stu-id="16185-119">You may also try **removing and reinstalling your network printer**:</span></span>
 
-1. <span data-ttu-id="48e77-120">**Remova a impressora nas configurações**.</span><span class="sxs-lookup"><span data-stu-id="48e77-120">**Remove the printer in Settings**.</span></span>
+1. <span data-ttu-id="16185-120">**Remova a impressora nas configurações**.</span><span class="sxs-lookup"><span data-stu-id="16185-120">**Remove the printer in Settings**.</span></span>
 
-    - <span data-ttu-id="48e77-121">Clique **Iniciar > Configurações > Dispositivos > Impressoras & scanners**.</span><span class="sxs-lookup"><span data-stu-id="48e77-121">Click **Start > Settings > Devices > Printers & scanners**.</span></span>
+    - <span data-ttu-id="16185-121">Clique **Iniciar > Configurações > Dispositivos > Impressoras & scanners**.</span><span class="sxs-lookup"><span data-stu-id="16185-121">Click **Start > Settings > Devices > Printers & scanners**.</span></span>
 
-    - <span data-ttu-id="48e77-122">Abaixo do cabeçalho Impressoras & scanners, clique na impressora que está com problemas.</span><span class="sxs-lookup"><span data-stu-id="48e77-122">Under the Printers & scanners header, click the printer you are troubleshooting.</span></span> <span data-ttu-id="48e77-123">Clique **Remover dispositivo**.</span><span class="sxs-lookup"><span data-stu-id="48e77-123">Click **Remove device**.</span></span> <span data-ttu-id="48e77-124">Siga as instruções para remover completamente a impressora.</span><span class="sxs-lookup"><span data-stu-id="48e77-124">Follow the instructions to fully remove the printer.</span></span>
+    - <span data-ttu-id="16185-122">Abaixo do cabeçalho Impressoras & scanners, clique na impressora que está com problemas.</span><span class="sxs-lookup"><span data-stu-id="16185-122">Under the Printers & scanners header, click the printer you are troubleshooting.</span></span> <span data-ttu-id="16185-123">Clique **Remover dispositivo**.</span><span class="sxs-lookup"><span data-stu-id="16185-123">Click **Remove device**.</span></span> <span data-ttu-id="16185-124">Siga as instruções para remover completamente a impressora.</span><span class="sxs-lookup"><span data-stu-id="16185-124">Follow the instructions to fully remove the printer.</span></span>
 
-2. <span data-ttu-id="48e77-125">**Remova qualquer software do fabricante da impressora**.</span><span class="sxs-lookup"><span data-stu-id="48e77-125">**Remove any 3rd party printer manufacturer software**.</span></span>
+2. <span data-ttu-id="16185-125">**Remova qualquer software do fabricante da impressora**.</span><span class="sxs-lookup"><span data-stu-id="16185-125">**Remove any 3rd party printer manufacturer software**.</span></span>
 
-    - <span data-ttu-id="48e77-126">Clique **Iniciar > Configurações > Aplicativos**.</span><span class="sxs-lookup"><span data-stu-id="48e77-126">Click **Start > Settings > Apps**.</span></span>
+    - <span data-ttu-id="16185-126">Clique **Iniciar > Configurações > Aplicativos**.</span><span class="sxs-lookup"><span data-stu-id="16185-126">Click **Start > Settings > Apps**.</span></span>
 
-    - <span data-ttu-id="48e77-127">No cabeçalho Aplicativos & recursos, role até encontrar o software do fabricante da sua impressora que está instalado (por exemplo, HP, Canon ou Epson).</span><span class="sxs-lookup"><span data-stu-id="48e77-127">Under the Apps & features header, scroll to find any software installed from your printer's manufacturer (such as HP, Canon, or Epson).</span></span>
+    - <span data-ttu-id="16185-127">No cabeçalho Aplicativos & recursos, role até encontrar o software do fabricante da sua impressora que está instalado (por exemplo, HP, Canon ou Epson).</span><span class="sxs-lookup"><span data-stu-id="16185-127">Under the Apps & features header, scroll to find any software installed from your printer's manufacturer (such as HP, Canon, or Epson).</span></span>
 
-    - <span data-ttu-id="48e77-128">Clique no software e clique em **Desinstalar**.</span><span class="sxs-lookup"><span data-stu-id="48e77-128">Click the software and click **Uninstall**.</span></span>
+    - <span data-ttu-id="16185-128">Clique no software e clique em **Desinstalar**.</span><span class="sxs-lookup"><span data-stu-id="16185-128">Click the software and click **Uninstall**.</span></span>
 
-3. <span data-ttu-id="48e77-129">**Desligue e reinicie a impressora**.</span><span class="sxs-lookup"><span data-stu-id="48e77-129">**Turn off and restart your printer**.</span></span>
+3. <span data-ttu-id="16185-129">**Desligue e reinicie a impressora**.</span><span class="sxs-lookup"><span data-stu-id="16185-129">**Turn off and restart your printer**.</span></span>
 
-    - <span data-ttu-id="48e77-130">Desligue a impressora e desconecte seu cabo de alimentação.</span><span class="sxs-lookup"><span data-stu-id="48e77-130">Turn off your printer and unplug its power cable.</span></span> <span data-ttu-id="48e77-131">Aguarde 30 segundos.</span><span class="sxs-lookup"><span data-stu-id="48e77-131">Wait 30 seconds.</span></span> <span data-ttu-id="48e77-132">Ligue novamente a impressora e ligue a impressora.</span><span class="sxs-lookup"><span data-stu-id="48e77-132">Plug your printer back in and turn the printer back on.</span></span>
+    - <span data-ttu-id="16185-130">Desligue a impressora e desconecte seu cabo de alimentação.</span><span class="sxs-lookup"><span data-stu-id="16185-130">Turn off your printer and unplug its power cable.</span></span> <span data-ttu-id="16185-131">Aguarde 30 segundos.</span><span class="sxs-lookup"><span data-stu-id="16185-131">Wait 30 seconds.</span></span> <span data-ttu-id="16185-132">Ligue novamente a impressora e ligue a impressora.</span><span class="sxs-lookup"><span data-stu-id="16185-132">Plug your printer back in and turn the printer back on.</span></span>
 
-4. <span data-ttu-id="48e77-133">**Reinstale a impressora em Configurações**.</span><span class="sxs-lookup"><span data-stu-id="48e77-133">**Reinstall your printer in Settings**.</span></span>
+4. <span data-ttu-id="16185-133">**Reinstale a impressora em Configurações**.</span><span class="sxs-lookup"><span data-stu-id="16185-133">**Reinstall your printer in Settings**.</span></span>
 
-    - <span data-ttu-id="48e77-134">Clique **Iniciar > Configurações > Dispositivos> Impressoras & scanners**.</span><span class="sxs-lookup"><span data-stu-id="48e77-134">Click **Start > Settings > Devices> Printers & scanners**.</span></span>
+    - <span data-ttu-id="16185-134">Clique **Iniciar > Configurações > Dispositivos> Impressoras & scanners**.</span><span class="sxs-lookup"><span data-stu-id="16185-134">Click **Start > Settings > Devices> Printers & scanners**.</span></span>
  
-    - <span data-ttu-id="48e77-135">Clique **Incluir impressora e scanner** no topo da tela e siga as instruções para a reinstalação da impressora.</span><span class="sxs-lookup"><span data-stu-id="48e77-135">Click **Add printer or scanner** at the top of the screen and follow the instructions to reinstall your printer.</span></span>
+    - <span data-ttu-id="16185-135">Clique **Incluir impressora e scanner** no topo da tela e siga as instruções para a reinstalação da impressora.</span><span class="sxs-lookup"><span data-stu-id="16185-135">Click **Add printer or scanner** at the top of the screen and follow the instructions to reinstall your printer.</span></span>

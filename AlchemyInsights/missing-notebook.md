@@ -2,7 +2,7 @@
 title: Bloco de anotações ausente
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2502"
-ms.openlocfilehash: e47ea1dbc69d686fc5a2624ec6ee06171ceaa508
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8fafb3377ce7b09a87f9cf5458db56f00e4387d9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667146"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831650"
 ---
-# <a name="recover-missing-notebook"></a><span data-ttu-id="3bd32-102">Recuperar o bloco de anotações ausente</span><span class="sxs-lookup"><span data-stu-id="3bd32-102">Recover Missing Notebook</span></span>
+# <a name="recover-missing-notebook"></a><span data-ttu-id="1aac3-102">Recuperar bloco de anotações ausente</span><span class="sxs-lookup"><span data-stu-id="1aac3-102">Recover Missing Notebook</span></span>
 
-<span data-ttu-id="3bd32-103">Se o bloco de anotações no OneDrive tiver sido excluído acidentalmente, você poderá recuperá-lo seguindo as etapas em [restaurar arquivos ou pastas excluídos no onedrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)</span><span class="sxs-lookup"><span data-stu-id="3bd32-103">If the notebook on OneDrive was accidentally deleted, you can recover it by following the steps in [Restore deleted files or folders in OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)</span></span>
+<span data-ttu-id="1aac3-103">Se o bloco de anotações no OneDrive foi excluído acidentalmente, você pode recuperá-lo seguindo as etapas em Restaurar arquivos ou pastas [excluídos no OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)</span><span class="sxs-lookup"><span data-stu-id="1aac3-103">If the notebook on OneDrive was accidentally deleted, you can recover it by following the steps in [Restore deleted files or folders in OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)</span></span>
 
-<span data-ttu-id="3bd32-104">Por padrão, você pode recuperar o bloco de anotações em um OneDrive excluído dentro de 30 dias, seguindo as etapas em [restaurar um onedrive excluído](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)</span><span class="sxs-lookup"><span data-stu-id="3bd32-104">You can recover notebook on a deleted OneDrive within 30 days by default by followings the steps in [Restore a deleted OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)</span></span>
+<span data-ttu-id="1aac3-104">Você pode recuperar o bloco de anotações em um OneDrive excluído dentro de 30 dias por padrão seguindo as etapas em Restaurar um [OneDrive excluído](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)</span><span class="sxs-lookup"><span data-stu-id="1aac3-104">You can recover notebook on a deleted OneDrive within 30 days by default by followings the steps in [Restore a deleted OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)</span></span>
 
-<span data-ttu-id="3bd32-105">O OneNote pode estar usando uma conta diferente da esperada.</span><span class="sxs-lookup"><span data-stu-id="3bd32-105">OneNote may be using a different account than you expect.</span></span> <span data-ttu-id="3bd32-106">Se você tiver uma conta do trabalho ou da escola fornecida, além de sua conta pessoal da Microsoft, será necessário adicionar sua outra conta para exibir todos os seus blocos de anotações (consulte instruções sobre como [adicionar conta no OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).</span><span class="sxs-lookup"><span data-stu-id="3bd32-106">If you have a work or school-provided account in addition to your personal Microsoft account, you'll need to add your other account to view all your notebooks (refer to instructions on how to [Add Account in OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).</span></span>
+<span data-ttu-id="1aac3-105">O OneNote pode estar usando uma conta diferente do esperado.</span><span class="sxs-lookup"><span data-stu-id="1aac3-105">OneNote may be using a different account than you expect.</span></span> <span data-ttu-id="1aac3-106">Se você tiver uma conta de trabalho ou de estudante, além de sua conta pessoal da Microsoft, você precisará adicionar sua outra conta para exibir todos os seus blocos de anotações (consulte instruções sobre como adicionar conta no [OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).</span><span class="sxs-lookup"><span data-stu-id="1aac3-106">If you have a work or school-provided account in addition to your personal Microsoft account, you'll need to add your other account to view all your notebooks (refer to instructions on how to [Add Account in OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).</span></span>
