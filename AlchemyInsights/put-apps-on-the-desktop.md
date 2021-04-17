@@ -2,7 +2,7 @@
 title: Colocar aplicativos na área de trabalho
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: 4d7ce305231b94ce37960ccc92cdc87395397cfa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e04a6c9d29df92d65d120e6f9907cb82661fc912
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768235"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835835"
 ---
-# <a name="put-apps-on-the-desktop"></a><span data-ttu-id="6a045-102">Colocar aplicativos na área de trabalho</span><span class="sxs-lookup"><span data-stu-id="6a045-102">Put apps on the desktop</span></span>
+# <a name="put-apps-on-the-desktop"></a><span data-ttu-id="a900b-102">Colocar aplicativos na área de trabalho</span><span class="sxs-lookup"><span data-stu-id="a900b-102">Put apps on the desktop</span></span>
 
-<span data-ttu-id="6a045-103">Procure o aplicativo no menu **Iniciar** e pegue o ícone do aplicativo mantendo o botão esquerdo do mouse pressionado e movendo o ícone para a área de trabalho.</span><span class="sxs-lookup"><span data-stu-id="6a045-103">Search for the app in the **Start** menu, and grab the app icon by holding down the left mouse button and moving the icon to the desktop.</span></span>
+<span data-ttu-id="a900b-103">Pesquise o aplicativo no **menu** Iniciar e pegue o ícone do aplicativo segurando o botão esquerdo do mouse e movendo o ícone para a área de trabalho.</span><span class="sxs-lookup"><span data-stu-id="a900b-103">Search for the app in the **Start** menu, and grab the app icon by holding down the left mouse button and moving the icon to the desktop.</span></span>
 
-<span data-ttu-id="6a045-104">Você também pode pressionar a **tecla Windows + R** e digitar o seguinte comando:</span><span class="sxs-lookup"><span data-stu-id="6a045-104">You may also press the **Windows key + R** and then type in this command:</span></span>
+<span data-ttu-id="a900b-104">Você também pode pressionar a tecla **do Windows + R** e digitar este comando:</span><span class="sxs-lookup"><span data-stu-id="a900b-104">You may also press the **Windows key + R** and then type in this command:</span></span>
 
 `shell:appsfolder`
 
-<span data-ttu-id="6a045-105">Isso abrirá a pasta **aplicativos** no **Explorador de arquivos**.</span><span class="sxs-lookup"><span data-stu-id="6a045-105">This will open the **Applications** folder in **File Explorer**.</span></span> <span data-ttu-id="6a045-106">Agora você pode arrastar e soltar o ícone do aplicativo na área de trabalho.</span><span class="sxs-lookup"><span data-stu-id="6a045-106">You may now drag and drop the app icon to the desktop.</span></span>
+<span data-ttu-id="a900b-105">Isso abrirá a **pasta Aplicativos** no **Explorador de Arquivos.**</span><span class="sxs-lookup"><span data-stu-id="a900b-105">This will open the **Applications** folder in **File Explorer**.</span></span> <span data-ttu-id="a900b-106">Agora você pode arrastar e soltar o ícone do aplicativo para a área de trabalho.</span><span class="sxs-lookup"><span data-stu-id="a900b-106">You may now drag and drop the app icon to the desktop.</span></span>
