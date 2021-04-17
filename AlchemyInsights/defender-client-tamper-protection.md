@@ -1,8 +1,8 @@
 ---
-title: 'Proteção de violação de cliente do defender '
+title: 'Proteção contra Adulteração de Cliente do Defender '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4873b026839b7cde8221bf8389cd33023056e605
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680492"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815567"
 ---
-# <a name="defender-tamper-protection"></a>Proteção contra violação do defender 
+# <a name="defender-tamper-protection"></a>Proteção contra Violações do Defender 
 
-Com a proteção contra violação, os aplicativos mal-intencionados são impedidos de executar ações como estas:
+Com a Proteção contra Adulteração, os aplicativos mal-intencionados são impedidos de tomar ações como estas:
 
 - Desabilitando a proteção contra vírus e ameaças
 - Desabilitando a proteção em tempo real
-- Desativando o monitoramento de comportamento
-- Desabilitando o antivírus (como o IOfficeAntivirus (IOAV))
-- Desabilitando a proteção oferecida pela nuvem
-- Removendo atualizações de inteligência de segurança
+- Desligar o monitoramento de comportamento
+- Desabilitando antivírus (como IOfficeAntivirus (IOAV))
+- Desabilitando a proteção entregue na nuvem
+- Remover atualizações de inteligência de segurança
 
-Para obter mais detalhes, consulte [proteger as configurações de segurança com a proteção contra violação](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).
+Para obter mais detalhes, consulte [Protect security settings with Tamper Protection](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).

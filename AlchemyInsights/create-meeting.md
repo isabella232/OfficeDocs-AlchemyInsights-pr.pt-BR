@@ -2,7 +2,7 @@
 title: Agendar uma reunião no Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: d75f3a1d83845609ff4a41788ce9dbf92fbfc3d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 76921d4111f8e5f268ea5a2196e0a209b5dbe16d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746891"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815963"
 ---
 # <a name="schedule-a-meeting-in-teams"></a>Agendar uma reunião no Teams
 
-**Importante** Se você tiver problemas para criar uma reunião ou não conseguir encontrar a opção de reunião no Teams, certifique-se de que os usuários afetados têm uma caixa de correio do Exchange habilitada em uma versão com suporte do Microsoft Teams. Embora o Exchange Online seja recomendado, as caixas de correio do Exchange no local são compatíveis com o Exchange Server 2016 CU3 ou posterior com o OAuth configurado com êxito entre online e no local. Para saber mais, confira [criar caixas de correio do usuário no Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) e [requisitos para caixas de correio hospedadas no local](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises). 
+**Importante** Se você tiver problemas para criar uma reunião ou não conseguir encontrar a opção de reunião no Teams, certifique-se de que os usuários afetados tenham uma caixa de correio do Exchange habilitada em uma versão com suporte para o Microsoft Teams. Embora o Exchange Online seja recomendado, as caixas de correio locais do Exchange são suportadas no Exchange Server 2016 CU3 ou posterior com o OAuth configurado com êxito entre Online e Local. Para obter mais informações, consulte [Create user mailboxes in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) and Requirements for [mailboxes hosted on-premises](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises). 
 
 1. Você pode agendar uma reunião selecionando:
 
-    - **Agende um** ícone de reunião em um chat abaixo da caixa de composição para marcar uma reunião com as pessoas no chat.
+    - **Agende um ícone** de reunião em um chat abaixo da caixa de redação para agendar uma reunião com as pessoas no chat.
 
-    - Ícone de **calendário** no lado esquerdo do aplicativo. Selecione **nova reunião** no canto superior direito ou selecione um intervalo de tempo no calendário para abrir um formulário de agendamento.
+    - **Ícone** de calendário no lado esquerdo do aplicativo. Selecione **Nova reunião** na parte superior direita ou selecione um intervalo de tempo em seu calendário para abrir um formulário de agendamento.
 
-2. Semelhante ao agendamento de uma reunião no Outlook, você dará à sua reunião um título, convidar pessoas e adicionar detalhes de reuniões.
+2. Semelhante ao agendamento de uma reunião no Outlook, você dará um título à reunião, convidará pessoas e adicionará detalhes de reuniões.
 
-3. No lado direito do formulário de agendamento, você pode adicionar um canal ou pessoas individuais ou deixar em branco para agendar um compromisso privado.
+3. No lado direito do formulário de agendamento, você pode adicionar um canal ou pessoas individuais ou deixar ambos em branco para agendar um compromisso particular.
 
-Para obter mais informações sobre como criar e agendar reuniões no Microsoft Teams, consulte [agendar uma reunião no Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+Para obter mais informações sobre como criar e agendar reuniões no Microsoft Teams, consulte [Agendar uma reunião no Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
 
-Para obter mais informações sobre limites e especificações de reuniões, consulte [Limits and Specifications for Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+Para obter mais informações sobre limites e especificações para reuniões, consulte [Limites e especificações do Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
 
-Para ajudar a solucionar problemas de equipes e interações do Exchange, especialmente para problemas de programação de representante, consulte [Troubleshoot Microsoft Teams and Exchange Server Interaction](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+Para ajudar a solucionar problemas de interações do Teams e do Exchange, especialmente para problemas de agendamento de representantes, consulte [Troubleshoot Microsoft Teams and Exchange Server interaction issues](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
