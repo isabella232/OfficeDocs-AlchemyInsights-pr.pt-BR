@@ -2,7 +2,7 @@
 title: Desconectar e reconectar câmera
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 8cd57e5df85717cb7814f7652f3a8cecaed2e031
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 9c733c69b1430c9a5439caf99cf8f6fddff60ef5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48334069"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827708"
 ---
 # <a name="unplug-and-reconnect-camera"></a>Desconectar e reconectar câmera
 
-Lamentamos que não funcionou. Se a câmera for externa, o desligamento do dispositivo e a reconexão pode ajudar.
+Desculpe por não ter funcionado. Se a câmera for uma câmera externa, desconectar o dispositivo e reconectar novamente pode ajudar.
 
-Se esta for uma câmera interna, a reinicialização do computador poderá ajudar.
+Se for uma câmera in-locar, reiniciar o computador pode ajudar.

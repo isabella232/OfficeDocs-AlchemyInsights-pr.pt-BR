@@ -2,7 +2,7 @@
 title: Compreendendo o valor da cobrança
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: f48ee1e36909515bf81df1ebeb367f91e9a1c9ca
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791342"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827852"
 ---
 # <a name="understand-billing-amount"></a>Compreendendo o valor da cobrança
 
@@ -28,7 +28,7 @@ ms.locfileid: "48791342"
 - Compreenda os termos dos encargos de uso do Azure: [Termos de uso explicados](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Para obter um PDF da sua fatura e uma cópia do arquivo de uso diário detalhado (.CSV): [Obter a fatura e dados de uso](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Observação** : se você cancelar sua assinatura/recurso no meio do ciclo de cobrança, ainda poderá ver um encargo referente a qualquer uso no mês anterior. Por exemplo, se o ciclo de cobrança era do dia 26 de cada mês ao dia 25 do mês seguinte e você suspendeu a assinatura no dia 23, totalizando 28 dias do ciclo de cobrança de junho, você pode ver um encargo referente aos 28 dias de uso. Se você vir um encargo, apesar de o cancelamento de uma assinatura, certifique-se de que você não tenha outros planos de suporte que estejam causando o encargo. Se fizer isso, vá em frente e cancele o plano.
+**Observação**: se você cancelar sua assinatura/recurso no meio do ciclo de cobrança, ainda poderá ver um encargo referente a qualquer uso no mês anterior. Por exemplo, se o ciclo de cobrança era do dia 26 de cada mês ao dia 25 do mês seguinte e você suspendeu a assinatura no dia 23, totalizando 28 dias do ciclo de cobrança de junho, você pode ver um encargo referente aos 28 dias de uso. Se você vir um encargo, apesar de o cancelamento de uma assinatura, certifique-se de que você não tenha outros planos de suporte que estejam causando o encargo. Se fizer isso, vá em frente e cancele o plano.
 
 **Contrato de Cliente da Microsoft (MCA):**
 
@@ -51,10 +51,10 @@ ms.locfileid: "48791342"
 
 Revisar a fatura do serviço acima:
 
-- Entre no **portal empresarial** . Selecione **Relatórios**
+- Entre no **portal empresarial**. Selecione **Relatórios**
 - No canto superior direito da guia, alterne o modo de exibição de **M** para **C** e corresponda com o período na fatura
 - O valor **Uso** Total deve corresponder ao valor Total **Estendido** em sua fatura de serviço excedente
-- Vá para **Baixar o Uso > Relatório de Uso Avançado** para obter mais informações sobre suas cobranças **Observação** : este relatório não inclui impostos, cobranças para reservas ou cobranças de marketplace
+- Vá para **Baixar o Uso > Relatório de Uso Avançado** para obter mais informações sobre suas cobranças **Observação**: este relatório não inclui impostos, cobranças para reservas ou cobranças de marketplace
 
 **Microsoft Azure Marketplace**
 
@@ -64,10 +64,10 @@ Revisar a fatura do Marketplace:
 
 Compare o total do Azure Marketplace em Relatórios > Resumo de Uso no portal Empresarial com a fatura do seu marketplace. A fatura do marketplace é somente para compras e uso do Microsoft Azure Marketplace. Os valores no Resumo de Uso não incluem o imposto.
 
-- Entre no **Portal empresarial** . Selecione **Relatórios**
+- Entre no **Portal empresarial**. Selecione **Relatórios**
 - No canto superior direito da guia, alterne o modo de exibição de **M** para **C** e corresponda com o período na fatura
 - O total do **Microsoft Azure Marketplace** deve corresponder ao **Total de venda** na sua fatura do marketplace
-- Vá para **Baixar uso** para obter mais informações sobre suas cobranças baseadas em uso. Em encargos **Cobranças do Marketplace** , selecione **Download** **Observação** : Este relatório não inclui impostos ou uma compra única
+- Vá para **Baixar uso** para obter mais informações sobre suas cobranças baseadas em uso. Em encargos **Cobranças do Marketplace**, selecione **Download** **Observação**: Este relatório não inclui impostos ou uma compra única
 
 **Provedor de Soluções na Nuvem (CSP)**
 
