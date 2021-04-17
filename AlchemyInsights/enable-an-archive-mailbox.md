@@ -2,7 +2,8 @@
 title: Habilitar uma caixa de correio de arquivo morto
 ms.author: markjjo
 author: markjjo
-ms.audience: ITPro
+manager: laurawi
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,49 +12,28 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 3e20eaf8dec85454ce5a67e1b21292b2a33ebb1d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0b7125cb25d739d553bf00054fb24c84eb4cae6
+ms.sourcegitcommit: 3e2a80d0db0111f203628e7232760b3e1e3a23a0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811693"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51857868"
 ---
 # <a name="enable-an-archive-mailbox"></a>Habilitar uma caixa de correio de arquivo morto
 
-Se quiser que possamos executar verificações automatizadas para garantir que uma caixa de correio de arquivo morto possa ser configurada, selecione o botão voltar <-no início dessa página e insira o endereço de email da conta.
+Para habilitar um Arquivo Morto no Centro de Conformidade do M365:
 
-As caixas de correio de arquivo morto no Microsoft 365 (também chamadas de *arquivos online* ou *arquivos mortos locais*) fornecem aos usuários um armazenamento de email adicional. Os usuários podem mover ou copiar itens para a caixa de correio de arquivo morto, e os administradores podem criar uma política de arquivamento que move automaticamente itens para caixas de correio de arquivo morto.
-  
-Confira aqui como criar uma caixa de correio de arquivo morto:
-  
-1. Acesse [https://protection.office.com](https://protection.office.com).
+1. Acesse [https://compliance.microsoft.com](https://compliance.microsoft.com).
+2. Selecione **Governança de Informações**.
+3. Em seguida, clique **na opção Arquivo** morto.
 
-2. Entre no Microsoft 365 usando sua conta de administrador.
+Ou siga [este link](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive).  
 
-3. No painel esquerdo do centro de conformidade de segurança &amp; , selecione **Information governance** \> **arquivamento**de governança de informações.
+Para caixas de correio compartilhadas:
 
-4. Selecione o usuário cuja caixa de correio de arquivo morto você deseja habilitar.
-
-5. No painel de detalhes à direita, clique em **habilitar** e, em seguida, clique em **Sim** na mensagem de aviso para habilitar a caixa de correio de arquivo morto.
-
-Você também pode habilitar as caixas de correio de arquivo morto em massa, selecionando vários usuários (usando as teclas **Shift** ou **Ctrl** ) e clicando em **habilitar** no painel de detalhes.
-  
-### <a name="shared-mailboxes"></a>Caixas de correio compartilhadas
-
-Para habilitar o arquivo morto para uma caixa de correio compartilhada, uma licença do Exchange Online Plan 2 ou uma licença do plano 1 do Exchange Online com uma licença de arquivamento do Exchange Online é necessária.  
-
-Para habilitar o arquivo morto para uma caixa de correio compartilhada:
-
-1. Vá para o [centro de administração do Exchange](https://outlook.office365.com/ecp) e entre usando sua conta de administrador.
-
-2. Vá para **destinatários**  >  **compartilhados**.
-
+1. Vá para o [Centro de administração do Exchange](https://outlook.office365.com/ecp) e entre usando sua conta de administrador.
+2. Vá para **Destinatários**  >  **Compartilhados**.
 3. Selecione a caixa de correio compartilhada.
+4. No painel de detalhes à direita, em Arquivo Morto **In-locar,** clique em Habilitar **e** clique em **Sim** para habilitar a caixa de correio de arquivo morto.
 
-4. No painel de detalhes à direita, em **arquivo in-loco**, clique em **habilitar**e, em seguida, clique em **Sim** para habilitar a caixa de correio de arquivo morto.
-
-Para saber mais, confira:
-  
-- [Habilitar caixas de correio de arquivo morto](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
-
-- [Configurar uma política de arquivo morto e exclusão](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+Para obter mais informações sobre como mover mensagem para a caixa de correio Arquivo morto, consulte Configurar uma política de arquivamento [e exclusão.](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

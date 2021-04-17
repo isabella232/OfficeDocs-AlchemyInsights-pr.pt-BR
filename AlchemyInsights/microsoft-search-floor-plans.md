@@ -1,8 +1,8 @@
 ---
-title: Plantas baixas
+title: Planos de Piso
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003034"
 - "5789"
-ms.openlocfilehash: 33711a2f0e7b8d5e26fe8ac5f9d7c5f704f76faf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 265db958b856bf06ac9344662070370e2be0a92c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724711"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836375"
 ---
-# <a name="floor-plans"></a>Plantas baixas
+# <a name="floor-plans"></a>Planos de Piso
 
-Para obter informações sobre os planos do **Microsoft Search**  Floor, revise os seguintes artigos de suporte:
-- [Práticas recomendadas para planos de piso de pesquisa da Microsoft](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
-- [Gerenciar plantas baixas](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
-- Para obter informações sobre como criar uma planta baixa no  **Visio**, revisar [criar uma planta baixa](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)
+Para obter informações sobre planos de piso da Pesquisa da **Microsoft,**  revise os seguintes artigos de suporte:
+- [Práticas recomendadas para planos de piso da Pesquisa da Microsoft](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
+- [Gerenciar planos de piso](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
+- Para obter informações sobre como criar um plano de piso no  **Visio**, revise [Criar um plano de piso](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)

@@ -2,7 +2,7 @@
 title: Excluir permanentemente um email no Outlook
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: 85a9f244c44af7695f3bbea76ad62877172ea53e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e9eee884a90d961a68f63aca73bce32da21fe1fd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771673"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836087"
 ---
 # <a name="permanently-delete-an-email-in-outlook"></a>Excluir permanentemente um email no Outlook
 
-- No modo de exibição caixa de entrada, pressione uma mensagem para ver o ícone lixeira. Toque neste ícone para excluir a mensagem.
+- Na exibição de caixa de entrada, pressione longamente uma mensagem e você verá o ícone da lixeira. Toque nesse ícone para excluir a mensagem.
 
-- Você também pode definir "excluir" como uma opção de passar o dedo (**configurações-> o toque opções**); em seguida, use o dedo para passar o dedo no email que deseja excluir. 
+- Você também pode definir "excluir" como uma opção de passar o dedo (**Configurações -> Opções de Passar o Dedo**); em seguida, use o dedo para passar o dedo no email que você deseja excluir. 
 
-- Para excluir uma mensagem de um modo de exibição de email aberto, toque no ícone lixeira na parte superior da tela. As mensagens excluídas serão movidas para a pasta lixeira. 
+- Para excluir uma mensagem de um exibição de email aberto, toque no ícone de lixeira na parte superior da tela. As mensagens excluídas serão movidas para sua pasta Lixo. 
 
 **Para excluir permanentemente um email**
 
-- Acesse a pasta lixeira do modo de exibição email, toque no ícone da conta (3 linhas) e toque na pasta lixeira.
+- Acesse a pasta de lixo na exibição de email, toque no ícone da conta (3 linhas) e toque na pasta de lixo.
 
-- Exclua emails individuais ou marque vários emails e exclua-os daqui; Eles serão excluídos permanentemente.
+- Excluir emails individuais ou marcar vários emails e excluí-los daqui; eles serão excluídos permanentemente.
