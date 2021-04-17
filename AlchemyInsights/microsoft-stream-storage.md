@@ -1,8 +1,8 @@
 ---
-title: Armazenamento do Microsoft Stream
+title: Microsoft Stream Storage
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001510"
 - "3570"
-ms.openlocfilehash: 448052dba14e42d21ec965c9b38d85a498ac4b82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ee4c331cf706574df5a52ed66c72b775e2eed1d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675286"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833927"
 ---
-# <a name="microsoft-stream-storage"></a>Armazenamento do Microsoft Stream
+# <a name="microsoft-stream-storage"></a>Microsoft Stream Storage
 
-Os locatários do Microsoft Stream recebem uma alocação fixa de 500 GB de armazenamento e um adicional de 0,5 GB de armazenamento por usuário licenciado.
+Os locatários do Microsoft Stream recebem uma alocação fixa de 500 GB de armazenamento e 0,5 GB de armazenamento adicional por usuário licenciado.
 Para obter mais detalhes sobre armazenamento, consulte:
 
 - [Visão geral do armazenamento do Microsoft Stream](https://docs.microsoft.com/stream/license-overview#storage)

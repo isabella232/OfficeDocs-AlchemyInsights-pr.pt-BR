@@ -2,7 +2,7 @@
 title: Configurar um monitor externo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 699219510d5c68884b4552599c95549decd435cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51d95ecdfd78fb501c23a5ad8b906eadad8b4bf2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773880"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835511"
 ---
 # <a name="set-up-one-monitor"></a>Configurar um monitor
 
-**Verificar as configurações de projeto do computador**
+**Verifique as configurações de projeto do seu computador**
 
-1. Abra as configurações do projeto pressionando as seguintes teclas ao mesmo tempo: tecla Windows (botão Iniciar do logotipo do Windows) + P.
-2. Escolha **duplicar**, **estender**ou **segunda tela apenas**, dependendo de suas preferências.
+1. Abra as configurações do projeto pressionando as seguintes teclas ao mesmo tempo: Tecla do Windows (botão Iniciar do logotipo do Windows) + P.
+2. Escolha **Duplicado,** **Estender** ou **Segunda tela somente**, dependendo de suas preferências.
 
-**Observação:** Se seu computador tiver apenas uma porta de exibição (como HDMI ou VGA), você precisará de uma estação de encaixe ou de um adaptador USB para configurar vários monitores.
+**Observação:** Se o computador tiver apenas uma porta de exibição (como HDMI ou VGA), você precisará de uma estação de encaixe ou um adaptador USB para configurar vários monitores.
 
-Além disso, se você pode configurar um monitor, mas não vários, seu computador pode não ser compatível com vários monitores. Confira mais informações nos documentos originais do seu computador.
+Além disso, se você puder configurar um monitor, mas não vários, seu computador pode não ser compatível com vários monitores. Verifique os documentos originais do computador para obter mais informações.

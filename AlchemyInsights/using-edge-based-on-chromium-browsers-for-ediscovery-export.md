@@ -1,8 +1,8 @@
 ---
-title: Usando o Microsoft Edge com base em navegadores do Chromium para exportação de descoberta eletrônica
+title: Usando o Microsoft Edge com base em navegadores Chromium para exportação de Descoberta E
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: 64aebb7f048dba37eef8cd1fa6286b36823d3f0f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ee724e5109effce8883be50e360948313c84b34
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734503"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834359"
 ---
-# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Usando o Microsoft Edge com base em navegadores do Chromium para exportação de descoberta eletrônica
+# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Usando o Microsoft Edge com base em navegadores Chromium para exportação de Descoberta E
 
-Devido a uma alteração recente, os navegadores do Microsoft Edge não terão mais suporte do ClickOnce habilitado por padrão. Para continuar usando a ferramenta de exportação de eDiscovery da Microsoft 365, será necessário usar o Microsoft Internet Explorer ou habilitar o suporte do ClickOnce no Microsoft Edge. 
+Devido a uma alteração recente, os navegadores do Microsoft Edge não terão mais ClickOnce suporte habilitado por padrão. Para continuar usando a Ferramenta de Exportação de Descoberta Digital do Microsoft 365, você precisará usar o Microsoft Internet Explorer ou habilitar o ClickOnce suporte no Microsoft Edge. 
 
-Para habilitar o suporte do ClickOnce no Microsoft Edge com base no Chromium: 
-1. No navegador Microsoft Edge, visite edge://flags/#edge-Once.
-2. Para a opção de suporte do ClickOnce, altere o valor de **Default** ou **Disabled** para **Enabled**. 
-3. Na parte inferior da janela do navegador, selecione **reiniciar**. <br>
- A alteração entrará em vigor depois que o Microsoft Edge for reiniciado. 
+Para habilitar ClickOnce suporte no Microsoft Edge com base no Chromium: 
+1. No navegador do Microsoft Edge, visite edge://flags/#edge-click-once.
+2. Para a opção de Suporte do ClickOnce, altere o valor de **Padrão** ou **Desabilitado** para **Habilitado**. 
+3. Na parte inferior da janela do navegador, selecione **Reiniciar**. <br>
+ A alteração terá efeito após a reinicialização do Microsoft Edge. 
 
-Para obter informações sobre isso e as etapas para instalar a ferramenta de exportação, consulte: [ Exportar resultados de pesquisa de conteúdo](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Para obter informações sobre isso e etapas para instalar a ferramenta de exportação, consulte: [ Exportar resultados da Pesquisa de Conteúdo](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
