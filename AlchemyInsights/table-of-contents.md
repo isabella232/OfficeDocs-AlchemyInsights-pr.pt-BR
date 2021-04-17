@@ -2,7 +2,7 @@
 title: Sumário
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3042"
 - "9000592"
-ms.openlocfilehash: b3e78ae5f7f6bc79b46993d7f67a57114282edd3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c44e18d349624d9fed172bc3ffecc59b41717dda
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758017"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831038"
 ---
 # <a name="table-of-contents"></a>Sumário
 
-Para obter informações sobre como criar um sumário no Word, consulte [Inserir um](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)Sumário ou baixar nosso [tutorial de](https://go.microsoft.com/fwlink/?linkid=2065106)Sumário.
+Para obter informações sobre como criar um índice de conteúdo no Word, consulte [Insert a table of contents](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0), or download our Table of Contents [tutorial](https://go.microsoft.com/fwlink/?linkid=2065106).
 
 **Soluções para problemas comuns**
 
-- O Sumário não contém o título que você acabou de adicionar ao documento.
-  1. Selecione o texto do título, vá para **Home**  >  **Styles**e verifique se um estilo é aplicado ao título.
-  2. Vá para **referências**  >  **Atualizar tabela** para atualizar o Sumário.
+- O índice de conteúdo não contém o título que você acabou de adicionar ao documento.
+  1. Selecione o texto do título, vá para **Home**  >  **Styles** e verifique se um estilo é aplicado ao título.
+  2. Vá para **a tabela Atualização** de  >  **Referências** para atualizar o índice de conteúdo.
 
-- O Sumário está exibindo muito texto. 
-  1. Selecione o texto do parágrafo e vá para a **página inicial**  >  **estilos**.
-  2. Selecione um estilo, como **normal**, que não está incluído no sumário.
+- O índice de conteúdo está exibindo muito texto. 
+  1. Selecione o texto do parágrafo e vá para **Home**  >  **Styles**.
+  2. Selecione um estilo, como **Normal**, que não está incluído no índice de conteúdo.

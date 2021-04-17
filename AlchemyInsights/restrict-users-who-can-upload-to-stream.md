@@ -2,7 +2,7 @@
 title: Restringir usuários que podem carregar no Stream
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5096"
-ms.openlocfilehash: ff84a15bb765021d7b6a2aec76cd917823669f0b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 964087efb30bda9f6f78786d92e8ffb9a8f5b8a9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740823"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831290"
 ---
 # <a name="restrict-users-who-can-upload-to-stream"></a>Restringir usuários que podem carregar no Stream
 
-Como uma organização, você pode querer limitar os funcionários que podem carregar vídeos. Por padrão, todas as pessoas em sua organização podem carregar vídeos.
+Como uma organização, você pode querer limitar os funcionários que podem carregar vídeos. Por padrão, todos em sua organização podem carregar vídeos.
 
-- [Restringir os funcionários que podem criar conteúdo no Microsoft Stream](https://docs.microsoft.com/stream/restrict-uploaders)
+- [Restringir funcionários que podem criar conteúdo no Microsoft Stream](https://docs.microsoft.com/stream/restrict-uploaders)

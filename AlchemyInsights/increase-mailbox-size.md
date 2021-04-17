@@ -1,8 +1,8 @@
 ---
-title: Aumentar tamanho da caixa de correio
+title: Aumentar o tamanho da caixa de correio
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,29 +13,29 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: fb5662363a385e2fbbae852df77d80b6317698fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10e069f3fcd6338705a01ab9dd15574c81f88572
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756162"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830201"
 ---
-# <a name="switch-subscriptions-to-increase-mailbox-size"></a>Mudar de assinatura para aumentar o tamanho da caixa de correio
+# <a name="switch-subscriptions-to-increase-mailbox-size"></a>Alternar assinaturas para aumentar o tamanho da caixa de correio
 
-Se o tamanho da sua caixa de correio já for 100 GB, não há uma maneira de aumentá-lo.
+Se o tamanho da sua caixa de correio já for de 100 GB, não há maneira de a aumentar.
   
-Se o tamanho da caixa de correio for de 50 GB, você poderá aumentá-lo para 100 GB alternando para o [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) ou o [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Aqui estão as etapas para mudar para uma assinatura diferente:
+Se o tamanho da caixa de correio for de 50 GB, você poderá aumentar para 100 GB alternando para [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) ou [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Aqui estão as etapas para mudar para uma assinatura diferente:
   
-1. No centro de administração do Microsoft 365, vá para a página **cobrança** \> **[de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. No Centro de administração do Microsoft 365, vá para a página **Cobrança** \> **[seus](https://go.microsoft.com/fwlink/p/?linkid=842054)** produtos.
 
 2. Selecione a assinatura que você deseja atualizar.
 
-3. Na página detalhes da assinatura, selecione **atualização**.
+3. Na página detalhes da assinatura, selecione **Atualizar**.
 
-4. Encontre o plano para o qual você deseja atualizar e, em seguida, selecione o botão **Atualizar** .
+4. Encontre o plano ao qual você deseja atualizar e selecione o **botão Atualizar.**
 
-5. Insira o número de licenças necessárias, escolha se deseja pagar a cada mês ou pelo ano inteiro e, em seguida, selecione **checkout**.
+5. Insira o número de licenças de que você precisa, escolha se deve pagar por mês ou por todo o ano e selecione **Checkout**.
 
-Para obter mais detalhes, consulte [atualizar para um plano diferente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+Para obter mais detalhes, [consulte upgrade to a different plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 
-Se você tiver uma [assinatura que ofereça suporte a um arquivo morto in-loco](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), também poderá obter o armazenamento de email adicional habilitando uma caixa de correio de arquivo morto. Uma caixa de correio de arquivo morto fornece armazenamento adicional e permite que você mova, copie e pesquise mensagens na caixa de correio principal e de arquivo morto. Para obter instruções sobre como habilitar uma caixa de correio de arquivo morto, consulte [habilitar uma caixa de correio de arquivo morto](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes).
+Se você tiver uma [Assinatura compatível](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)com um arquivo morto no local, você também poderá obter armazenamento de email adicional habilitando uma caixa de correio de arquivo morto. Uma caixa de correio de arquivo morto oferece armazenamento adicional e permite que você mova, copie e pesquise mensagens na caixa de correio principal e arquivada. Para saber mais sobre como habilitar uma caixa de correio de arquivo morto, consulte [Enable an Archive mailbox](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes).
