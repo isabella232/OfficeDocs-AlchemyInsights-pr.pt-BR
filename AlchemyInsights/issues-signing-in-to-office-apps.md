@@ -1,8 +1,8 @@
 ---
-title: Problemas para entrar nos aplicativos do Microsoft 365
+title: Problemas ao entrar em aplicativos do Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2560"
-ms.openlocfilehash: 7d2cfd437bb55804c3b9263428833c10d5caaa47
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8065a49c42953013ccfae9c5c1714d10ee0b4d49
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695311"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833063"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Correção dos aplicativos do Microsoft 365 "Desculpe, outra conta da sua organização já está conectada" "Message
+# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Corrigir os aplicativos do Microsoft 365 Mensagem "Desculpe, outra conta da sua organização já está assinada"
 
 Para corrigir esse erro, use as etapas a seguir:
 
-- Remover todas as contas de trabalho, exceto a conta afetada, usando as configurações do Windows > **acessar o trabalho ou a escola**.
-- [Limpe as credenciais do Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) usando o Gerenciador de credenciais do Windows.<br/>
-    **Observação:** Os caminhos do registro do Office 2016 foram alterados para 16,0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Abra um aplicativo do Office, escolha a conta de **arquivo**  >  **Account**  >  **sair**. Em seguida, entre usando uma conta de usuário com uma licença válida. Para informações detalhadas, consulte [Contas no Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Remova todas as contas de trabalho, exceto a conta afetada, usando Configurações do Windows > **Trabalho ou escola do Access.**
+- [Limpar credenciais do Office usando](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) o Gerenciador de Credenciais do Windows.<br/>
+    **Observação:** Os caminhos do Registro do Office 2016 foram alterados para 16,0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Abra um aplicativo do Office, escolha **Sair** da  >  **Conta**  >  **de Arquivo**. Em seguida, entre usando uma conta de usuário com uma licença válida. Para informações detalhadas, consulte [Contas no Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 - Para o Mac, consulte [Não é possível entrar em um aplicativo do Office 2016 para Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
 
-Para saber mais, confira ["a outra conta da sua organização já entrou neste computador" no Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).
+Para obter mais informações, consulte ["Sorry, another account from your organization is already signed in on this computer" in Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).
