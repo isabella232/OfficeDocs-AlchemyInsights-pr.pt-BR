@@ -2,7 +2,7 @@
 title: Verificar o status de sincronização de identidade do AAD
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,22 +14,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: e06eab76adcdb2b99b8aaa738f677950fa1af16b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27847ac62e418869cc5074808e6ccab02671ea05
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793890"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817844"
 ---
-# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="8d11d-102">Verificar o status de sincronização de identidade do AAD</span><span class="sxs-lookup"><span data-stu-id="8d11d-102">Check AAD Identity Sync status</span></span>
+# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="0c327-102">Verificar o status de sincronização de identidade do AAD</span><span class="sxs-lookup"><span data-stu-id="0c327-102">Check AAD Identity Sync status</span></span>
 
-<span data-ttu-id="8d11d-103">A verificação do status da sincronização é fácil:</span><span class="sxs-lookup"><span data-stu-id="8d11d-103">Checking sync status is easy:</span></span>
+<span data-ttu-id="0c327-103">Verificar o status da sincronização é fácil:</span><span class="sxs-lookup"><span data-stu-id="0c327-103">Checking sync status is easy:</span></span>
   
-- <span data-ttu-id="8d11d-104">Entre no centro de administração do Microsoft 365 e escolha **status DirSync** na página inicial.</span><span class="sxs-lookup"><span data-stu-id="8d11d-104">Sign in to the Microsoft 365 admin center and choose **DirSync Status** on the home page.</span></span>
+- <span data-ttu-id="0c327-104">Entre no Centro de administração do Microsoft 365 e escolha **Status dirSync** na home page.</span><span class="sxs-lookup"><span data-stu-id="0c327-104">Sign in to the Microsoft 365 admin center and choose **DirSync Status** on the home page.</span></span>
 
-- <span data-ttu-id="8d11d-105">Como alternativa, você pode ir para \> usuários ativos do usuário e, na página usuários ativos, escolha mais \> sincronização de diretórios.</span><span class="sxs-lookup"><span data-stu-id="8d11d-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
+- <span data-ttu-id="0c327-105">Como alternativa, você pode ir para Usuários Usuários ativos e, na página Usuários \> ativos, escolha Mais \> Sincronização de Diretórios.</span><span class="sxs-lookup"><span data-stu-id="0c327-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
 
-- <span data-ttu-id="8d11d-106">No painel de sincronização de diretórios, escolha ir para gerenciamento DirSync.</span><span class="sxs-lookup"><span data-stu-id="8d11d-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span>
+- <span data-ttu-id="0c327-106">No painel Sincronização de Diretórios, escolha Ir para gerenciamento dirSync.</span><span class="sxs-lookup"><span data-stu-id="0c327-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span>
 
-<span data-ttu-id="8d11d-107">Se houver um problema com a sincronização de diretório, os erros serão listados nesta página.</span><span class="sxs-lookup"><span data-stu-id="8d11d-107">If there is a problem with your directory synchronization, the errors are listed on this page.</span></span> <span data-ttu-id="8d11d-108">Para obter mais informações sobre diferentes erros que você pode encontrar, consulte [exibir erros de sincronização de diretório](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).</span><span class="sxs-lookup"><span data-stu-id="8d11d-108">For more information about different errors you might encounter, see [View directory synchronization errors](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).</span></span>
+<span data-ttu-id="0c327-107">Se houver um problema com a sincronização do diretório, os erros serão listados nesta página.</span><span class="sxs-lookup"><span data-stu-id="0c327-107">If there is a problem with your directory synchronization, the errors are listed on this page.</span></span> <span data-ttu-id="0c327-108">Para obter mais informações sobre diferentes erros que você pode encontrar, consulte [Exibir erros de sincronização de diretório.](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors)</span><span class="sxs-lookup"><span data-stu-id="0c327-108">For more information about different errors you might encounter, see [View directory synchronization errors](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).</span></span>
   
