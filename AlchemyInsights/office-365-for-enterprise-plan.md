@@ -1,8 +1,8 @@
 ---
-title: Office 365 para plano empresarial
+title: Plano do Office 365 para Empresas
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,13 +13,13 @@ ms.custom:
 - "474"
 - "1500026"
 ms.assetid: 5e423a8a-db05-4c46-804b-b8d9c54ba62b
-ms.openlocfilehash: 37fee31a4c2fa0dcf9661376533dfbf7b1035971
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c07782c97f527564a0d0e804a855e142fc40dac
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729427"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829544"
 ---
-# <a name="office-365-for-enterprise-plan"></a>Office 365 para plano empresarial
+# <a name="office-365-for-enterprise-plan"></a>Plano do Office 365 para Empresas
 
-Há vários planos diferentes disponíveis no Office 365 para empresas. [Compare o Office 365 para planos e preços corporativos](https://products.office.com/business/compare-more-office-365-for-business-plans).  
+Há vários planos diferentes disponíveis com o Office 365 para Empresas. [Compare os planos e preços do Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans)para Empresas.  

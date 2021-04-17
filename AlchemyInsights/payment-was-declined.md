@@ -2,7 +2,7 @@
 title: Seu pagamento foi recusado
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 9951ca12fab132a7720a12d8cc9ea4a5695db9cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5938b4f91d3459f5c41711566f8afd99f0dd28ea
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742011"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829040"
 ---
 # <a name="your-payment-was-declined"></a>Seu pagamento foi recusado
 
@@ -38,7 +38,7 @@ A Microsoft tentará cobrar o cartão várias vezes nas 3 - 4 semanas após a da
     > [!NOTE]
     > Se você tiver assinaturas associadas a um perfil de cobrança, só poderá usar um cartão de crédito ou débito para pagar por eles. Se você tiver contas bancárias listadas na página **Métodos de pagamento**, elas não estarão disponíveis para seleção na lista suspensa.
 
-5. Para adicionar um novo método de pagamento, marque**Adicionar método de pagamento**.
+5. Para adicionar um novo método de pagamento, marque **Adicionar método de pagamento**.
 
 6. No painel **Adicionar um método de pagamento**, insira as informações da conta e, em seguida, selecione **Salvar**. Você deve usar um método de pagamento do mesmo país do seu locatário.
 
