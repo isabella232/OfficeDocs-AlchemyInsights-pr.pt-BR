@@ -24,11 +24,11 @@ ms.locfileid: "51937811"
 
 1. Vá para o Centro de Segurança e Conformidade do Office 365 > **Classificação** > **Rótulos de confidencialidade**.
 
-1. Na página de rótulos de confidencialidade, selecione a guia **Políticas de rótulo** e, a seguir, selecione **Publicar rótulos**.
+1. Na página Rótulos de confidencialidade, selecione a guia **Políticas de rótulo** e, a seguir, selecione **Publicar rótulos**.
 
 1. Selecione **Escolher rótulos de confidencialidade para publicar**. Selecione os rótulos que você deseja disponibilizar nos aplicativos e serviços, e selecione **Adicionar**.
 
-    **Importante**: Se você selecionar um subrótulo, certifique-se de também selecionar o seu rótulo pai.
+    **Importante**: se você selecionar um subrótulo, certifique-se de também selecionar o seu rótulo pai.
 
 1. Revise as etiquetas selecionadas. Para fazer alterações, clique em **Editar**; caso contrário, clique **Próximo**.
 
