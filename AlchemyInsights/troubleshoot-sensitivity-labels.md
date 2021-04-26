@@ -1,6 +1,6 @@
 ---
 title: Solucionar problemas de rótulos de confidencialidade que não aparecem
-ms.author: pebuam
+ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/21/2021
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11017"
 - "9000181"
-ms.openlocfilehash: 5becf88bb70e24c830dd959329920e2f8ca41de9
-ms.sourcegitcommit: 69206a3d292d681c81f0ac74b1fcec3ae50912de
+ms.openlocfilehash: ae6829dbb16d5f76795325da939bf1591734c398
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51937810"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952170"
 ---
 # <a name="troubleshoot-sensitivity-labels-not-appearing"></a>Solucionar problemas de rótulos de confidencialidade que não aparecem
 
