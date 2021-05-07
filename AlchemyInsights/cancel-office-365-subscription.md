@@ -1,5 +1,5 @@
 ---
-title: Cancelar assinatura do Microsoft 365
+title: Cancelar Microsoft 365 assinatura
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: e45350b88728ef803dba14900746c86e7403693e
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: 0dc2436fa0e52b1b13348d0f79247fcb75423d95
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49348617"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261616"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Cancelar sua assinatura do Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Cancelando sua assinatura Microsoft 365 assinatura?
 
-Lamentamos ver você, mas se quiser cancelar sua assinatura, aqui estão as opções:
+Lamentamos que você vá, mas se você quiser cancelar sua assinatura, aqui estão suas opções:
   
-- Se você for um cliente de avaliação, não há nada para cancelar. As assinaturas de avaliação expiram automaticamente, a menos que você forneça um método de pagamento.
-- Se você tiver menos de 25 licenças atribuídas, poderá cancelar sua assinatura online. Vá para a página **cobrança** \> [de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054) e encontre a assinatura que você deseja cancelar. Selecione **Mais ações** (três pontos) e, em seguida, selecione **Cancelar assinatura**.
-- Se você tiver mais de 25 licenças atribuídas aos usuários, [ligue para o suporte para cancelar sua assinatura](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
+- Se você for um cliente de avaliação, não há nada a ser cancelado. As assinaturas de avaliação expiram automaticamente, a menos que você forneça um método de pagamento.
+- Se você tiver menos de 25 licenças atribuídas, poderá cancelar sua assinatura online. Vá até a **página Cobrança** \> [Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054) e encontre a assinatura que você deseja cancelar. Selecione **Mais ações** (três pontos) e, em seguida, selecione **Cancelar assinatura**.
+- Se você tiver mais de 25 licenças atribuídas aos usuários, chame o suporte [para cancelar sua assinatura](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
 
-**Reembolso: qualquer crédito rateado será retornado para você no próximo ciclo de cobrança.**
+**Reembolso: qualquer crédito prorrado será retornado para você no próximo ciclo de cobrança.**
 
 > [!NOTE]
-> Se você não vir a opção para cancelar, selecione a assinatura para exibir a página de detalhes. Na seção **configurações de assinatura e pagamento** , selecione **cancelar assinatura**.
+> Se você não vir a opção para cancelar, selecione a assinatura para exibir a página de detalhes. Na seção **Configurações de assinatura e pagamento,** selecione **Cancelar assinatura**.
 
-Para saber mais, confira [cancelar sua assinatura](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Para saber mais, confira [Cancelar sua assinatura](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
