@@ -1,5 +1,5 @@
 ---
-title: Diferenças de plano do Microsoft 365 Enterprise
+title: Microsoft 365 Enterprise diferenças de plano
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf35cee7bf3f1d6b761043be865dc35d80071c32
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 628c200d00f1d28d02a4efd560a4ca1e4f7eae0e
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735319"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539740"
 ---
-# <a name="microsoft-365-enterprise-plan-differences"></a>Diferenças de plano do Microsoft 365 Enterprise
+# <a name="microsoft-365-enterprise-plan-differences"></a>Microsoft 365 Enterprise diferenças de plano
 
-O Microsoft 365 Enterprise E5 inclui todos os recursos do Microsoft 365 Enterprise E3, além de medidas avançadas de segurança, como:
+Microsoft 365 Enterprise O E5 inclui todos os recursos do Microsoft 365 Enterprise E3, além de medidas avançadas de segurança, como:
 
-- Proteção Avançada contra Ameaças (ATP)
+- Proteção contra ameaças
 - Advanced Data Governance
-- Sistema de Proteção de Dados do Cliente
-- Segurança do Aplicativo na Nuvem do Microsoft 365
+- Sistema de Proteção de Dados do cliente
+- Microsoft 365 Cloud App Security
 - Descoberta Eletrônica Avançada
 - Serviços de Gerenciamento de Direitos
 - Azure Key Vault
 
-O Microsoft 365 Enterprise E5 também vem com recursos avançados de análise e voz, como:
+Microsoft 365 Enterprise O E5 também vem com recursos avançados de análise e voz, como:
 
 - Painéis ao vivo
-- Relatórios com o Power BI
+- Relatórios com Power BI
 - Modern Voice
 - Audioconferência
 - Online Meetings
 
-Para saber mais sobre o Microsoft 365 Enterprise E5 ou se inscrever em uma assinatura de [avaliação, consulte Try or buy a Microsoft 365 subscription](https://go.microsoft.com/fwlink/?linkid=2099673).
+Para saber mais sobre Microsoft 365 Enterprise E5 ou se inscrever em uma assinatura de [avaliação,](https://go.microsoft.com/fwlink/?linkid=2099673)consulte Try or buy a Microsoft 365 subscription .
 
-Para comparar recursos em planos Enterprise, consulte [Compare Enterprise plans](https://go.microsoft.com/fwlink/?linkid=2097200).
+Para comparar recursos entre Enterprise planos, consulte [Compare Enterprise planos](https://go.microsoft.com/fwlink/?linkid=2097200).
 
 Agradecemos seus comentários, portanto, selecione Sim/Não para a pergunta que aparece e, em seguida, a taxa de sua experiência.

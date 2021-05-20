@@ -14,21 +14,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: f0b1244204b082e8c8e2fc7581af600526b40ec4
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: bb9750e7a2357254485c938da447b8f3579a77f5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286838"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539956"
 ---
 # <a name="subscription-recurring-billing"></a>Cobrança recorrente de assinatura
 
-Se você deseja saber quando sua assinatura mensal ou anual é cobrada (se a **cobrança recorrente** estiver ativada) ou quando ela expirar (se a **cobrança recorrente** estiver desativada), use as seguintes etapas:
+Se você quiser saber quando sua assinatura mensal ou  anual é cobrada (se a cobrança recorrente  estiver ativas) ou quando ela expirar (se a cobrança recorrente estiver desligada), use as seguintes etapas:
   
 1. No centro de administração, vá para a página **Cobrança** \> [Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Na guia **produtos** , encontre a assinatura sobre a qual você deseja saber mais. A coluna **status da assinatura** mostra a data de renovação ou de expiração.
-3. Para fazer uma alteração, selecione **mais ações** (três pontos) e, em seguida, selecione **Editar cobrança recorrente**.
-4. No painel **Editar cobrança recorrente** , selecione **ativado**, **ativado, renovar uma vez**ou **desativado**.
+2. Na guia **Produtos,** encontre a assinatura que você deseja saber mais. A **coluna Status da** assinatura mostra a data de renovação ou expiração.
+3. Para fazer uma alteração, selecione os três pontos (mais ações) e selecione **Editar cobrança recorrente**.
+4. No painel **Editar cobrança recorrente,** selecione **On**, **On, renew once**, or **Off**.
 5. Selecione **Salvar**.
 
-Para obter mais informações, confira [Ativar ou desativar cobranças recorrentes](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+Para obter mais informações, confira [Ativar ou desativar cobranças recorrentes](/microsoft-365/commerce/subscriptions/renew-your-subscription).

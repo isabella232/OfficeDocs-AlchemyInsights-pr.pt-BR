@@ -1,5 +1,5 @@
 ---
-title: 975 deseja relatar um spam falso positivo para a Microsoft?
+title: 975 Você gostaria de relatar um falso positivo de spam para a Microsoft?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: 8225382e88184db1e2a8b76201946a4647a0f4d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f523ac9230e5fdc8aff35c90a9d0f8aadd35e66a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692319"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52540388"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Gostaria de relatar um spam falso positivo para a Microsoft?
+# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Você gostaria de relatar um falso positivo de spam para a Microsoft?
 
-Como administrador, a melhor maneira de determinar por que uma mensagem de phishing ou spam foi entregue é enviar o exemplo para a Microsoft no [Gerenciador de envios](https://protection.office.com/reportsubmission). Para facilitar, você pode permitir que os usuários reportem diretamente para a Microsoft por meio do [suplemento de mensagem de relatório](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Como administrador, a melhor maneira de determinar por que uma mensagem de phishing ou spam foi entregue é enviar o exemplo para a Microsoft no Explorador de [Envios.](https://protection.office.com/reportsubmission) Para facilitar, você pode permitir que seus usuários reportem diretamente à Microsoft por meio [do complemento Mensagem de Relatório.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 
-Aconselhamos cuidado se você decidir [ignorar os filtros de spam do Microsoft 365](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+Recomendamos cautela se você decidir ignorar [os filtros Microsoft 365 spam.](/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
 
-**Você sabia**: agora você pode enviar amostras diretamente do rastreamento de [mensagens](https://protection.office.com/messagetrace) e os clientes do plano de 2 de E5/ATP podem enviar amostras do [Explorador de ameaças](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+**Você sabia?**: Agora você pode [](https://protection.office.com/messagetrace) enviar amostras diretamente do rastreamento de mensagens e do E5/Microsoft Defender para Office 365 clientes do Plano 2 podem enviar amostras do [Explorador de Ameaças.](/microsoft-365/security/office-365-security/threat-explorer)
