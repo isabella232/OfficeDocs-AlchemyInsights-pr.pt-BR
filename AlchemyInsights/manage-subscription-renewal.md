@@ -13,21 +13,21 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: c5f81c51ed73c70d98a02a0907fa394ddd1134db
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: cefdc227b9a9c7151dc2ec9d5075db2f29134840
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451343"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545508"
 ---
 # <a name="manage-subscription-renewal"></a>Gerenciar a renovação da assinatura
 
 Para gerenciar o faturamento mensal ou anual, você pode ativar ou desativar o **faturamento recorrente**.
 
 1. No centro de administração, acesse a página **Cobrança** > **[Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Na guia **Produtos**, localize a assinatura que você deseja gerenciar, selecione **Mais ações** (três pontos) e selecione **Editar cobrança recorrentes**.
+2. Na guia **Produtos**, encontre a assinatura que você deseja gerenciar, selecione os três pontos (mais ações) e selecione **Editar cobrança recorrente**.
 3. No painel **Editar cobrança recorrente**, selecione **Ativado**, **Ativado, renova uma vez** ou **Desativado**.
 4. Selecione **Salvar**.
 
-Para obter mais informações, confira [Ativar ou desativar cobranças recorrentes](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Para obter mais informações, confira [Ativar ou desativar cobranças recorrentes](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
 
