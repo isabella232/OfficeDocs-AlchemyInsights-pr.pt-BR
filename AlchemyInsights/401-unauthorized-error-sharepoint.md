@@ -13,19 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "10935"
 - "9001435"
-ms.openlocfilehash: 6799b2112458a7ab3715c9b63e03c2c7ca3fe6be
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: ac2fe27a8e7b277bfaf18303bf5b792410a1ea6a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233486"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539920"
 ---
-# <a name="401-unauthorized-error-in-sharepoint"></a><span data-ttu-id="2535c-102">Erro 401 Não autorizado no SharePoint</span><span class="sxs-lookup"><span data-stu-id="2535c-102">401 Unauthorized error in SharePoint</span></span>
+# <a name="401-unauthorized-error-in-sharepoint"></a><span data-ttu-id="47380-102">Erro 401 Não autorizado no SharePoint</span><span class="sxs-lookup"><span data-stu-id="47380-102">401 Unauthorized error in SharePoint</span></span>
 
-<span data-ttu-id="2535c-p101">Se você estiver recebendo a mensagem de erro "(401) Não autorizado" no SharePoint, talvez isso esteja relacionado à substituição do TLS 1.0/1.1. Para saber mais, confira:</span><span class="sxs-lookup"><span data-stu-id="2535c-p101">If you receive the error "(401) Unauthorized" in SharePoint it might be related to the deprecation of TLS 1.0/1.1. For more info, see:</span></span>
+<span data-ttu-id="47380-p101">Se você estiver recebendo a mensagem de erro "(401) Não autorizado" no SharePoint, talvez isso esteja relacionado à substituição do TLS 1.0/1.1. Para saber mais, confira:</span><span class="sxs-lookup"><span data-stu-id="47380-p101">If you receive the error "(401) Unauthorized" in SharePoint it might be related to the deprecation of TLS 1.0/1.1. For more info, see:</span></span>
 
-[<span data-ttu-id="2535c-105">Preparação para o TLS 1.2 no Office 365 e no Office 365 GCC</span><span class="sxs-lookup"><span data-stu-id="2535c-105">Preparing for TLS 1.2 in Office 365 and Office 365 GCC</span></span>](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
+- [<span data-ttu-id="47380-105">Preparação para o TLS 1.2 no Office 365 e no Office 365 GCC</span><span class="sxs-lookup"><span data-stu-id="47380-105">Preparing for TLS 1.2 in Office 365 and Office 365 GCC</span></span>](/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
 
-[<span data-ttu-id="2535c-106">Erros de autenticação ocorrem se o cliente não tiver suporte a TLS 1.2</span><span class="sxs-lookup"><span data-stu-id="2535c-106">Authentication errors occur if client doesn't have TLS 1.2 support</span></span>](https://review.docs.microsoft.com/sharepoint/troubleshoot/administration/authentication-errors-tls12-support)
+- [<span data-ttu-id="47380-106">Erros de autenticação ocorrem se o cliente não tiver suporte a TLS 1.2</span><span class="sxs-lookup"><span data-stu-id="47380-106">Authentication errors occur if client doesn't have TLS 1.2 support</span></span>](/sharepoint/troubleshoot/administration/authentication-errors-tls12-support)
 
-<span data-ttu-id="2535c-107">Se os usuários estão no Windows 7, verifiquem o [TLS Suites Suites no Windows 7](https://docs.microsoft.com/windows/win32/secauthn/tls-cipher-suites-in-windows-7).</span><span class="sxs-lookup"><span data-stu-id="2535c-107">If users are on Windows 7, make sure they check [TLS Cipher Suites in Windows 7](https://docs.microsoft.com/windows/win32/secauthn/tls-cipher-suites-in-windows-7).</span></span>
+- [<span data-ttu-id="47380-107">Atualizar para habilitar TLS 1.1 e TLS 1.2 como protocolos seguros padrão em WinHTTP no Windows</span><span class="sxs-lookup"><span data-stu-id="47380-107">Update to enable TLS 1.1 and TLS 1.2 as default secure protocols in WinHTTP in Windows</span></span>](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)
+
+<span data-ttu-id="47380-108">Se os usuários estão no Windows 7, verifiquem o [TLS Cipher Suites no Windows 7](/windows/win32/secauthn/tls-cipher-suites-in-windows-7).</span><span class="sxs-lookup"><span data-stu-id="47380-108">If users are on Windows 7, make sure they check [TLS Cipher Suites in Windows 7](/windows/win32/secauthn/tls-cipher-suites-in-windows-7).</span></span>
