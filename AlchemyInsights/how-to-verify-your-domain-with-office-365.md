@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: b4a779e5816d5e74b9f2d2b2f7192d918a81686e
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683854"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569603"
 ---
-# <a name="how-to-verify-your-domain"></a><span data-ttu-id="72472-102">Como verificar seu domínio</span><span class="sxs-lookup"><span data-stu-id="72472-102">How to verify your domain</span></span>
+# <a name="how-to-verify-your-domain"></a><span data-ttu-id="c52df-102">Como verificar seu domínio</span><span class="sxs-lookup"><span data-stu-id="c52df-102">How to verify your domain</span></span>
 
-<span data-ttu-id="72472-103">Para verificar um domínio, siga o [Assistente para adicionar domínio](https://admin.microsoft.com/Adminportal#/Domains/Wizard)ou vá manualmente para a **instalação**  >    >  **Adicionar domínio**.</span><span class="sxs-lookup"><span data-stu-id="72472-103">To verify a domain, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains/Wizard), or manually go to **Setup** > **Domains** > **Add domain**.</span></span>
+<span data-ttu-id="c52df-103">Para verificar um domínio, siga o assistente [Adicionar Domínio](https://admin.microsoft.com/Adminportal#/Domains/Wizard)ou vá manualmente para **Configuração**  >  **de Domínios**  >  **Adicionar domínio**.</span><span class="sxs-lookup"><span data-stu-id="c52df-103">To verify a domain, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains/Wizard), or manually go to **Setting** > **Domains** > **Add domain**.</span></span>
 
-<span data-ttu-id="72472-104">Para obter mais informações sobre as alterações de DNS necessárias para verificar seu domínio, consulte as instruções em [Add DNS Records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="72472-104">For more information about DNS changes required to verify your domain, see the instructions in [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
+<span data-ttu-id="c52df-104">Para obter mais informações sobre as alterações de DNS necessárias para verificar seu domínio, consulte as instruções em Adicionar registros [DNS para conectar seu domínio](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="c52df-104">For more information about DNS changes required to verify your domain, see the instructions in [Add DNS records to connect your domain](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
 
-<span data-ttu-id="72472-105">Para saber mais, Confira as perguntas [frequentes sobre domínios](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="72472-105">For other domains questions, see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
+<span data-ttu-id="c52df-105">Para perguntas de outros domínios, consulte [o Perguntas frequentes sobre domínios.](/microsoft-365/admin/setup/domains-faq)</span><span class="sxs-lookup"><span data-stu-id="c52df-105">For other domains questions, see the [Domains FAQ](/microsoft-365/admin/setup/domains-faq).</span></span>
