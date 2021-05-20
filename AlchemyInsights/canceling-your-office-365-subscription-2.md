@@ -1,5 +1,5 @@
 ---
-title: Cancelar sua assinatura do Microsoft 365?
+title: Cancelando sua assinatura Microsoft 365 assinatura?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.openlocfilehash: 51832524d5acf6c761726d341e822796e532b950
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 43c70e34ea89f5579309bb831b2c20db0d9e7d7d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50231995"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543205"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Cancelar sua assinatura do Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Cancelando sua assinatura Microsoft 365 assinatura?
 
-Desculpe por vê-lo ir!
+Lamentamos vê-lo partir!
   
 Com base nos dados da sua organização, acreditamos que todas as assinaturas atuais têm mais de 25 licenças atribuídas. Antes de poder cancelar:
 
 1. Remova licenças de usuários até que você tenha menos de 25 usuários licenciados.
-2. Vá para a **página Cobrança** \> **[de seus](https://go.microsoft.com/fwlink/p/?linkid=842054)** produtos.
-3. Na guia **Produtos,** encontre a assinatura que você deseja cancelar, selecione **Mais ações** (três pontos) e selecione **Cancelar assinatura.**
+2. Vá para a **página Cobrança** \> **[seus](https://go.microsoft.com/fwlink/p/?linkid=842054)** produtos.
+3. Na guia **Produtos,** encontre a assinatura que você deseja cancelar, selecione os três pontos (mais ações) e selecione **Cancelar assinatura**.
 
-**Reembolso:** qualquer crédito rateado será devolvido a você no próximo ciclo de faturamento.
+**Reembolso:** qualquer crédito proporcional será devolvido a você no próximo ciclo de faturamento.
 
-Para saber mais, confira [Cancelar sua assinatura.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Para saber mais, confira [Cancelar sua assinatura](/microsoft-365/commerce/subscriptions/cancel-your-subscription).

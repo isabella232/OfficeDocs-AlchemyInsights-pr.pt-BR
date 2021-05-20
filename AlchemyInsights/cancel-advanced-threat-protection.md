@@ -1,5 +1,5 @@
 ---
-title: Cancelar proteção avançada contra ameaças
+title: Cancelar Proteção Avançada contra Ameaças
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 0919862f1954058d2d891abb35d91a19ee948933
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416262"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543493"
 ---
-# <a name="cancel-advanced-threat-protection"></a>Cancelar proteção avançada contra ameaças
+# <a name="cancel-advanced-threat-protection"></a>Cancelar Proteção Avançada contra Ameaças
 
-Os administradores podem cancelar a assinatura avançada de proteção contra ameaças de sua organização no centro de administração do Microsoft 365.
+Os administradores podem cancelar a assinatura da Proteção Avançada contra Ameaças para sua organização no Microsoft 365 de administração.
 
-1. Vá para a página **cobrança**  >  [de seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na guia **produtos** , encontre o plano de proteção avançada contra ameaças que você deseja cancelar. Selecione **mais ações** (três pontos) e, em seguida, selecione **cancelar assinatura**.
-3. No painel **cancelar assinatura** , escolha um motivo pelo qual você está cancelando. Opcionalmente, forneça comentários.
+1. Vá para a **página Cobrança**  >  [seus](https://go.microsoft.com/fwlink/p/?linkid=842054) produtos.
+2. Na guia **Produtos,** encontre o plano proteção avançada contra ameaças que você deseja cancelar. Selecione os três pontos (mais ações) e selecione **Cancelar assinatura**.
+3. No painel **Cancelar assinatura**, escolha um motivo pelo qual você está cancelando. Opcionalmente, forneça qualquer comentário.
 4. Selecione **Salvar**.
 
-**Reembolso:** Qualquer crédito rateado será retornado para você no próximo ciclo de cobrança.
+**Reembolso:** qualquer crédito rateado será devolvido a você no próximo ciclo de faturamento.
 
-Para saber mais, confira [cancelar sua assinatura](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Para saber mais, confira [Cancelar sua assinatura](/microsoft-365/commerce/subscriptions/cancel-your-subscription).

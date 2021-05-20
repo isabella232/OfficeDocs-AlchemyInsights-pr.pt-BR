@@ -1,5 +1,5 @@
 ---
-title: Proteção avançada contra ameaças no SharePoint e no OneDrive
+title: Proteção Avançada contra Ameaças SharePoint e OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,23 +13,23 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 2cf3455fb545ce2b89d9f4278bf9474db0b07ce8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc7ea11f9cd12f3459c5da4b0fd6fe124d133293
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663321"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542917"
 ---
-# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Proteção avançada contra ameaças (ATP) no SharePoint e no OneDrive
+# <a name="microsoft-defender-for-office-365-in-sharepoint-and-onedrive"></a>Microsoft Defender para Office 365 no SharePoint e OneDrive
 
 Veja o seguinte:
-- [ATP para SharePoint, OneDrive e Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
-- [Gerenciador de ameaças e detecções em tempo real](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
+- [Microsoft Defender para Office 365 para SharePoint, OneDrive e Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Detecções do Explorador de Ameaças e em Tempo Real](/microsoft-365/security/office-365-security/threat-explorer-views)
 
 
 Informações adicionais:
 
-- [Detecção de vírus no SPO](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
-- [Criptografia de dados no ODB e no SPO](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
-- [Proteger seus dados no SharePoint](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
-- [Detecção de ransomware e recuperação de arquivos](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+- [Detecção de vírus no SPO](/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [Criptografia de dados no ODB e no SPO](/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
+- [Proteger seus dados em SharePoint](/sharepoint/safeguarding-your-data)</br>
+- [Arquivos de detecção e recuperação de ransomware](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)

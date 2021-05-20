@@ -14,22 +14,22 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 40351bd7852b69e0ff2ae6f630749ecbc1e0f13b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: ea478cfbbbe96065608990770e0453d8f2613981
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801503"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542989"
 ---
-# <a name="advanced-hunting-custom-detections"></a>Detecções personalizadas de busca avançada
+# <a name="advanced-hunting-custom-detections"></a>Detecções Personalizadas de Busca Avançada
 
-Você pode aprender a criar e gerenciar regras de detecções personalizadas com base em consultas de busca avançada. Com detecções personalizadas, você pode monitorar e responder de forma proativa vários eventos e Estados do sistema, incluindo a suspeita de violação e dispositivos configurados incorretamente. Você pode fazer isso com regras de detecção personalizáveis que disparam alertas e ações de resposta automaticamente
+Você pode aprender a criar e gerenciar regras de detecções personalizadas com base em consultas de busca avançadas. Com detecções personalizadas, você pode monitorar e responder proativamente a vários eventos e estados do sistema, incluindo atividades suspeitas de violação e dispositivos configurados incorretamente. Você pode fazer isso com regras de detecção personalizáveis que disparam automaticamente alertas e ações de resposta
   
-Se você estiver usando o Microsoft defender ATP, consulte os tópicos a seguir para obter detalhes: 
-- [Visão geral de detecções personalizadas](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
-- [Criar regras de detecção personalizadas](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
-- [Exibir e gerenciar regras de detecção personalizadas](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
+Se você estiver usando Microsoft Defender ATP, confira os seguintes tópicos para obter detalhes: 
+- [Visão geral de detecções personalizadas](/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
+- [Criar regras de detecção personalizadas](/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
+- [Exibir e gerenciar regras de detecção personalizadas](/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-Se você estiver usando o Microsoft 365 defender, consulte os tópicos a seguir para obter detalhes: 
-- [Visão geral de detecções personalizadas](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
-- [Criar e gerenciar regras de detecções personalizadas](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)
+Se você estiver usando Microsoft 365 Defender, confira os tópicos a seguir para obter detalhes: 
+- [Visão geral de detecções personalizadas](/microsoft-365/security/mtp/custom-detections-overview)
+- [Criar e gerenciar regras de detecções personalizadas](/microsoft-365/security/mtp/custom-detection-rules)

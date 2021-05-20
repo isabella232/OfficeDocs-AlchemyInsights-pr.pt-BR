@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: d90645758100e3ff29d77dd09848b36f33c3f526
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 1f73d41abf9318943772c0e4f18d4dfd9f3869b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233378"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543637"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Como criar um rótulo de confidencialidade
 
@@ -30,8 +30,8 @@ ms.locfileid: "52233378"
 
     Para saber mais sobre a rotulagem automática, consulte [Aplicar um rótulo de confidencialidade automaticamente ao conteúdo](https://go.microsoft.com/fwlink/?linkid=2105837).
 
-1. Entretanto, se você deseja criar mais rótulos, selecione primeiro o rótulo pai, selecione **...** para **Mais ações** e, então, selecione **Adicionar subrótulo**.
+1. Repita estas etapas para criar mais rótulos. No entanto, se você quiser criar um subrótulo, primeiro selecione o rótulo pai, selecione os três pontos (mais ações) e, em seguida, selecione **Adicionar subrótulo**.
 
 1. Quando você tiver criado todos os rótulos necessários, revise a ordem deles e, se necessário, mova-os para cima ou para baixo. 
     
-    Para alterar a ordem de um rótulo, selecione **...** para **Mais ações** e depois selecione **Mover para cima** ou **Mover para baixo**.
+    Para alterar a ordem de um rótulo, selecione os três pontos (mais ações) e, em seguida, selecione **Mover para cima** ou **Mover para baixo**.

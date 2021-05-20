@@ -1,5 +1,5 @@
 ---
-title: Alchemy-alterar sua senha no Outlook.com
+title: Alchemy - Alterar sua senha em Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 0bd18328-35e4-4e4a-94c3-48430e8e2e77
-ms.openlocfilehash: 7f7713b53a6758713bc77f3f427fb36a97a2de6e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 717fe6aa486ed0a6fb0014338c13da9e122e2c8a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718861"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542845"
 ---
 # <a name="change-your-password"></a>Alterar sua senha
 
-Se você esqueceu sua senha do Outlook.com, vá para a [página de redefinição de senha da conta da Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909). Caso contrário, siga as instruções abaixo.
+Se você esqueceu sua senha Outlook.com, vá para a página redefinição de senha [da conta da Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909). Caso contrário, siga as instruções abaixo.
   
-1. Selecione seu nome ou imagem de perfil no canto superior direito e selecione **minha conta**. 
+1. Selecione seu nome ou imagem de perfil no canto superior direito e selecione **Minha conta**. 
     
-2. Em seu nome, selecione **mais ações**  >  **alterar senha**. 
+2. Em seu nome, selecione os três pontos (mais ações) > **Alterar senha**. 
     
 3. Siga as etapas para assinar e escolher uma nova senha. 
     
-Para saber mais, confira [alterar minha senha no Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).
+Para saber mais, confira [Alterar minha senha em Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).
   
 
