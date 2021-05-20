@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: c55550529aff28fd13c8329bc1f2303e04cf1316
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1869cff3a5ef80a90d36a7d40199c14011cd87a0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735270"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543745"
 ---
 # <a name="create-a-sensitivity-label"></a>Criar um rótulo de confidencialidade
 
 Para criar um rótulo de confidencialidade, execute as seguintes etapas:
 
 1. Vá para **[Centro de Segurança e Conformidade do Office 365](https://sip.protection.office.com/) > Classificação > Rótulos de confidencialidade**.
-2. Clique **+ Criar um rótulo** para iniciar o assistente **Novo rótulo de confidencialidade**. Para saber mais sobre as configurações de criptografia e o rótulo automático, confira [Restringir o acesso ao conteúdo usando criptografia com rótulos de confidencialidade](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels) e [Aplicar um rótulo de confidencialidade ao conteúdo automaticamente](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically), respectivamente.
-3. Repita essas etapas para criar mais rótulos. Entretanto, se você deseja criar um sub-rótulo, selecione primeiro o rótulo pai e clique em **...** para **Mais ações** e selecione **Adicionar sub-rótulo**.
-4. Quando você tiver criado todos os rótulos necessários, revise a ordem deles e, se necessário, mova-os para cima ou para baixo. Para alterar a ordem de um rótulo, clique em **...** para **Mais ações** e depois clique em **Mover para cima** ou **Mover para baixo**. 
+2. Clique em **+ Criar um rótulo** para iniciar o assistente de **Novo rótulo de confidencialidade**. Para obter mais informações sobre configurações de criptografia e de rotulagem automática, confira [Restringir o acesso ao conteúdo usando criptografia em rótulos de confidencialidade](/microsoft-365/compliance/encryption-sensitivity-labels) e [Aplicar um rótulo de confidencialidade ao conteúdo automaticamente](/microsoft-365/compliance/apply-sensitivity-label-automatically), respectivamente.
+3. Repita estas etapas para criar mais rótulos. No entanto, se você quiser criar um subrótulo, primeiro selecione o rótulo pai, selecione os três pontos (mais ações) e, em seguida, selecione **Adicionar subrótulo**.
+4. Quando você tiver criado todos os rótulos necessários, revise a ordem deles e, se necessário, mova-os para cima ou para baixo. Para alterar a ordem de um rótulo, selecione os três pontos (mais ações) e, em seguida, selecione **Mover para cima** ou **Mover para baixo**. 

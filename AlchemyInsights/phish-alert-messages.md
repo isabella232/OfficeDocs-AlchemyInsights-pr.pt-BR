@@ -1,5 +1,5 @@
 ---
-title: 2491 mensagens de email de alerta da política "phishing entregue devido ao locatário ou substituição do usuário"
+title: 2491 Alert email messages from the 'Phish Delivered due to tenant or user override' policy
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,29 +11,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 5b5faa08542cb5878107f10afb34427f636562ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b373423cf3e63b76a62465dd62076c023580e94
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728599"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544566"
 ---
-# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Mensagens de email de alerta da política "phishing entregue devido ao locatário ou substituição do usuário"
+# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Alertar mensagens de email da política 'Phish Delivered due to tenant or user override'
 
-Uma política de alerta padrão chamada "phishing entregue devido ao locatário ou substituição de usuário" foi distribuída aos locatários com as licenças do Office 365 ATP P1 e P2. Se você recebeu este alerta, veja a seguir as etapas para investigar:
+Uma política de alerta padrão chamada "Phish Delivered due to tenant or user override" has been rolled out to tenants with Microsoft Defender for Office 365 P1 and P2 licenses. Se você recebeu esse alerta, aqui estão as etapas para investigar:
 
-1. Na mensagem de alerta, clique em **exibir alerta** para ir para a página **alertas** no centro de conformidade & segurança.
+1. Na mensagem de alerta, clique em **Exibir Alerta** para ir até a página **Alertas** no Centro de Conformidade & Segurança.
 
-2. Selecione o alerta para ver a opção de **exibir a lista de mensagens** ou **Exibir mensagens no Explorer**. Ambas as opções levam você aos detalhes da mensagem, que inclui a ID da mensagem. Observe que o link do explorador de ameaças filtrará automaticamente as mensagens que correspondem aos critérios de alerta. Talvez seja necessário ajustar o filtro de data no Gerenciador de ameaças.
+2. Selecione o alerta para ver a opção Exibir lista **de mensagens** ou Exibir mensagens **no Explorer**. Ambas as opções levam você aos detalhes da mensagem, que inclui a ID da mensagem. Observe que o link do Explorador de Ameaças filtrará automaticamente as mensagens que corresponderem aos critérios de alerta. Talvez seja necessário ajustar o filtro de data no Explorador de Ameaças.
 
-A mensagem de phishing foi entregue por causa de uma substituição configurada manualmente:
+A mensagem de phishing foi entregue devido a uma substituição configurada manualmente:
 
 - Um remetente ou domínio permitido definido pelo usuário.
 
-- Um remetente ou domínio permitido definido pelo administrador em uma política antispam.
+- Um remetente ou domínio permitido definido pelo administrador em uma política anti-spam.
 
 - Um endereço IP permitido em uma política de filtro de conexão.
 
-- Uma regra de fluxo de emails (também conhecida como regra de transporte) configurada para permitir mensagens no.
+- Uma regra de fluxo de emails (também conhecida como regra de transporte) configurada para permitir mensagens.
 
-Se acreditar que a mensagem foi marcada incorretamente como Phish, use o suplemento de [mensagem de relatório](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) do Outlook para enviar amostras de mensagens à Microsoft.
+Se você acredita que a mensagem foi marcada incorretamente como phishing, use o Outlook [de](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) Mensagem de Relatório para enviar amostras de mensagem para a Microsoft.

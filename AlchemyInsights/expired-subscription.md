@@ -13,33 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "456"
 - "1500020"
-ms.openlocfilehash: 39ac3c49e6d065cef3d40f7dffeaa66027045b62
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: f8e317f5911105e495d17f1242da86fe590651f9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416169"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544170"
 ---
 # <a name="expired-subscription"></a>Assinatura expirada
 
-Parece que você tem uma ou mais assinaturas expiradas. Se quiser continuar o serviço, você deve reativar a assinatura ou fazer uma nova compra.
+Parece que você tem uma ou mais assinaturas expiradas. Se você quiser continuar o serviço, deverá reativar a assinatura ou fazer uma nova compra.
   
 **Reativar**
   
 1. No centro de administração, vá para a página **Cobrança** \> [Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Na página **Produtos**, encontre a assinatura que quer reativar. Selecione **Mais ações** (três pontos) e, em seguida, selecione **Reativar esta assinatura**.
+2. Na página **Produtos**, encontre a assinatura que quer reativar. Selecione os três pontos (mais ações) e selecione **Reativar essa assinatura**.
     > [!NOTE]
-    > Se você não vir **reativar esta assinatura**, ligue para o suporte.
+    > Se você não vir **Reativar essa assinatura,** chame o suporte.
 3. No painel **Reativar esta assinatura**, selecione um método de pagamento na lista suspensa ou selecione **Adicionar método de pagamento**.
 4. Selecione **Salvar**.
 
-Para saber mais, consulte [Reativar sua assinatura](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Para saber mais, consulte [Reativar sua assinatura](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
-**Criar uma nova compra**
+**Fazer uma nova compra**
   
-1. No centro de administração, vá para a **Billing** \> página [serviços de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) de cobrança.
-2. Escolha a assinatura que você deseja comprar e escolha **comprar**.
-3. Insira o número de licenças necessárias e escolha se deseja pagar a cada mês ou pelo ano inteiro. Escolha se você deseja atribuir licenças automaticamente a todos que não têm licença no momento. Em seguida, escolha **fazer check-out agora**.
+1. No centro de administração, vá para a página **Serviços de** Compra \> [de](https://go.microsoft.com/fwlink/p/?linkid=868433) Cobrança.
+2. Escolha a assinatura que você deseja comprar e escolha **Comprar**.
+3. Insira o número de licenças de que você precisa e escolha se deve pagar por mês ou por todo o ano. Escolha se deseja atribuir licenças automaticamente a todos os que não têm uma licença no momento. Em **seguida, escolha Check-out agora**.
 4. Siga as etapas restantes para concluir o check-out.
 
-Para saber mais, confira [comprar outra assinatura](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
+Para saber mais, confira [Comprar outra assinatura](/microsoft-365/commerce/buy-another-subscription).

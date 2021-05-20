@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 59db84b9068843333ee28f47b9e69cf8b805b184
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 8a85768fc419829f288bbc8dcf887c2d6b0044b4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489301"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544242"
 ---
 # <a name="subscription-no-longer-active"></a>A assinatura não está mais ativa
 
@@ -26,8 +26,8 @@ Se um [aviso de assinatura for exibido](https://support.microsoft.com/office/a-s
 **Reativar uma assinatura**
 
 1. No centro de administração, acesse a página **Cobrança de** > [seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Na página **Produtos**, encontre a assinatura que quer reativar. Selecione **Mais ações** (três pontos) e, em seguida, selecione **Reativar esta assinatura**.
+2. Na guia **Produtos**, localize a assinatura que você deseja reativar. Selecione os três pontos (mais ações), depois selecione **Reativar esta assinatura**.
 3. No painel **Reativar esta assinatura**, selecione um método de pagamento na lista suspensa ou selecione **Adicionar método de pagamento**.
 4. Selecione **Salvar**.
 
-Para saber mais, consulte [Reativar sua assinatura](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Para saber mais, consulte [Reativar sua assinatura](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

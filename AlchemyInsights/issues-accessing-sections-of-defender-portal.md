@@ -1,5 +1,5 @@
 ---
-title: Problemas para acessar seções do portal Microsoft Defender ATP
+title: Problemas ao acessar seções do Microsoft Defender para o portal do Office 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6031"
 - "9001222"
-ms.openlocfilehash: 3b6fe048713500aec1558d611b67c715b6b21317
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf460b45bfc6caf0b627265e9926c2794cd27179
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "49768314"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545220"
 ---
-# <a name="issues-accessing-sections-of-microsoft-defender-atp-portal"></a>Problemas para acessar seções do portal Microsoft Defender ATP
+# <a name="issues-accessing-sections-of-microsoft-defender-for-office-365-portal"></a>Problemas ao acessar seções do Microsoft Defender para o portal do Office 365
 
 Se o painel do portal e outras seções mostrarem uma mensagem de erro como "Os dados não estão disponíveis no momento", é provável que certos domínios de URL e todos os subdomínios sejam permitidos em sua organização e abertos para comunicação. 
 
-Para mais informações, consulte [Solucionar problemas de assinatura e acesso ao portal](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal).
+Para mais informações, consulte [Solucionar problemas de assinatura e acesso ao portal](/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal).

@@ -1,5 +1,5 @@
 ---
-title: Solucionando problemas do Microsoft defender para Office 365
+title: Solução de problemas do Microsoft Defender para Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801431"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545256"
 ---
-# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Solucionando problemas do Microsoft defender para Office 365
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Solução de problemas do Microsoft Defender para Office 365
 
-- Você percebe atrasos na entrega de mensagens? Use a opção de [entrega dinâmica](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) na política de anexos seguros de ATP. Isso ajudará a evitar atrasos de mensagem ao proteger destinatários de arquivos mal-intencionados.
+- **Você nota atrasos na entrega de mensagens?** Use a [opção Entrega Dinâmica](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) no Microsoft Defender para Office 365 Cofre De anexos. Isso ajudará a evitar atrasos de mensagens ao proteger destinatários de arquivos mal-intencionados.
 
-- Deseja relatar falsos positivos ou falsos negativos à Microsoft? Use este [link](https://www.microsoft.com/wdsi/filesubmission/) para enviar arquivos para análise.
+- **Deseja relatar falsos positivos ou falsos negativos à Microsoft?** Use [o Explorador de Envios.](https://protection.office.com/reportsubmission)
 
-- Você sabia que é possível habilitar a proteção de links seguros para emails internos enviados entre destinatários de sua organização? Siga estas etapas:
+-** Você sabia que pode habilitar a proteção de links Cofre para emails internos enviados entre destinatários em sua organização?** Siga estas etapas:
 
-  1. Acesse [https://protection.office.com](https://protection.office.com) e entre com uma conta de administrador global ou administrador de segurança.
+  1. Acesse e [https://protection.office.com](https://protection.office.com) entre com uma conta de administrador global ou administrador de segurança.
 
-  2. No painel de navegação esquerdo em **Gerenciamento de ameaças** , **Policy** escolha \> **links seguros** de política.
+  2. No painel de navegação esquerdo em **Gerenciamento de ameaças,** escolha **Política** \> **Cofre Links.**
 
-  3. Na seção **políticas que se aplicam a toda a organização** , selecione a política e clique em **Editar** .
+  3. Na seção **Políticas que se aplicam a toda a organização,** selecione a política e clique em **Editar**.
 
-  4. Em **configurações** , habilite **aplicar links seguros a mensagens enviadas dentro da organização** .
+  4. Em **Configurações**, habilita **aplicar links seguros a mensagens enviadas dentro da organização**.

@@ -12,20 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-- commerce
-ms.openlocfilehash: 1eec8f54e7fcc779dfcae73bda39efbabf533c43
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 1a4c9016335bc045569ac6a17627b8cce4e78dc5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469074"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544494"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Suspender ou pausar uma assinatura
 
 Para suspender ou pausar a assinatura temporariamente, cancele a assinatura no Centro de administração do Microsoft 365.
 
 1. No centro de administração, acesse a página **Cobrança** > **[Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Na guia **Produtos**, encontre a assinatura que deseja cancelar. Selecione **Mais ações** (três pontos) e, em seguida, selecione **Cancelar assinatura**.
-3. O status da assinatura é exibido como **Desabilitado** e mostra a data de cancelamento da assinatura. A assinatura permanecerá no estado desabilitado por 90 dias e terá funcionalidade reduzida até ser excluída ou [reativada](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+2. Na guia **Produtos**, encontre a assinatura que deseja cancelar. Selecione os três pontos (mais ações) e selecione **Cancelar assinatura**.
+3. O status da assinatura é exibido como **Desabilitado** e mostra a data de cancelamento da assinatura. A assinatura permanecerá no estado desabilitado por 90 dias e terá funcionalidade reduzida até ser excluída ou [reativada](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
-Para obter mas informações, consulte [O que acontece quando você cancela uma assinatura](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) e [Salvar seus dados](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).
+Para obter mas informações, consulte [O que acontece quando você cancela uma assinatura](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) e [Salvar seus dados](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).
