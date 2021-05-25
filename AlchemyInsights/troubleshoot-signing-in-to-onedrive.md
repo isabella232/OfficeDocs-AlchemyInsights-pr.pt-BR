@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8283"
 - "9004614"
-ms.openlocfilehash: a3ad6d9769dab948cb83c04232bb3d8e937a5dc2
-ms.sourcegitcommit: 6900c2b7208ca51a9873dfc2e00be6f66cb25e3c
+ms.openlocfilehash: 2c9a390f38ecbba94698a352348e2e533a50ee17
+ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50243890"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626101"
 ---
 # <a name="troubleshoot-signing-in-to-onedrive"></a>Solução de problemas ao entrar no OneDrive
 
@@ -29,6 +29,7 @@ Este artigo descreve os seguintes cenários:
 
 **Solucionar problemas ao entrar no cliente de sincronização do OneDrive**
 
+- Para obter as etapas para resolver o código de erro 0x004de40, confira [Código de erro 0x8004de40 ao entrar no OneDrive](/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive).
 - Entre no site do OneDrive ou no do SharePoint, e clique no botão **Sincronizar** na parte superior da barra de menu do site.
 - Certifique-se de entrar no OneDrive for Business, e não no OneDrive.com. Se a URL visitada começar com onedrive.live.com, esse não será o local do seu OneDrive for Business. Uma maneira fácil de garantir que você está entrando no OneDrive for Business é usando este link: https://portal.office.com/onedrive, em seguida, use sua conta corporativa ou de estudante para entrar.
 - Se você ainda estiver com problemas, considere [redefinir o OneDrive](https://support.microsoft.com/office/reset-onedrive-34701e00-bf7b-42db-b960-84905399050c).
@@ -47,5 +48,5 @@ Se você receber uma mensagem de erro dizendo **Carregamento bloqueado**, **Entr
 
 **Mais dicas para solução de problemas**
 
-Se você é um administrador global, de licenças ou de usuários, [atribua a licença correta ao usuário afetado](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+Se você é um administrador global, de licenças ou de usuários, [atribua a licença correta ao usuário afetado](/microsoft-365/admin/manage/assign-licenses-to-users).
 
