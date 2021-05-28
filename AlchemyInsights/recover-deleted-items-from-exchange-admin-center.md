@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5719"
-ms.openlocfilehash: d6699e08a33a72b0c726c149829667cd57afb0a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bf44c6f283a52fdcef2f231143177dc880b06d8a
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809715"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694728"
 ---
 # <a name="recover-deleted-items-from-exchange-admin-center"></a>Recuperar itens excluídos do Centro de Administração do Exchange
 
@@ -28,3 +28,5 @@ Dentro da experiência [de gerenciamento de caixa de correio simplificada e atua
 3. Selecione **recuperar itens excluídos**.
     - Talvez seja necessário pesquisar em **... mais** suspenso para ver **recuperar itens excluídos**.
 4. Use as opções de filtro para localizar os itens que você precisa recuperar.
+
+For more information, see [Use new EAC for recovering deleted messages](/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages#use-new-eac-for-recovering-deleted-messages).
