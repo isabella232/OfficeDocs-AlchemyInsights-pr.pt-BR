@@ -1,5 +1,5 @@
 ---
-title: Problemas durante a migração de dados para o SharePoint Online
+title: Problemas ao migrar dados para SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62664cc6a5ae57b45cd3edbd99db19f6c376f3f9
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700875"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694764"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemas durante a migração de dados para o SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemas ao migrar dados para SharePoint Online
 
-**Migrando sobre 100 TB de dados**
+**Migrando mais de 100 TB de dados**
 
-Parece que você está migrando sobre 100 TB de dados para o SharePoint Online. Siga as etapas abaixo para que possamos ajudá-lo assim que possível. 
+Parece que você está migrando mais de 100 TB de dados para SharePoint Online. Siga as etapas abaixo para que possa ajudá-lo assim que possível. 
 
-1. Selecione **nova solicitação de serviço**e **nova solicitação de serviço**. 
-2. Deixe o título e a descrição como a **migração do SharePoint sobre o 100 TB**.
-3. Depois que o tíquete for enviado, atualize-o com as seguintes informações: 
+1. Selecione **Suporte de Contato** e, em **seguida, Nova Solicitação de Serviço.** 
+2. Deixe o título e a descrição **como SharePoint migração acima de 100 TB**.
+3. Depois que o tíquete tiver sido enviado, atualize-o com as seguintes informações: 
 
     - O tamanho estimado da migração.
     - Uma estimativa de quando você deseja iniciar e concluir a migração.
-    - Descrever de onde você está migrando seu conteúdo, como o SharePoint Server, Box, GDrive, compartilhamentos de arquivos, etc..
+    - Descreva de onde você está migrando seu conteúdo, como SharePoint Server, Box, GDrive, compartilhamentos de arquivos, etc..

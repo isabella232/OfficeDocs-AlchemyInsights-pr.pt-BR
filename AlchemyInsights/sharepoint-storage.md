@@ -1,5 +1,5 @@
 ---
-title: Armazenamento do SharePoint
+title: Gerenciar seu armazenamento SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 876b2fccc192de9ef9934932b874e57fbc8e4812
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96136c9d59ef43890a63db3a18157744bc08f9c
+ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773727"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52689846"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>Gerenciar o armazenamento do SharePoint Online
+# <a name="manage-your-sharepoint-online-storage"></a>Gerenciar seu armazenamento SharePoint Online
 
-Saiba como o [armazenamento de locatários é calculado](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) com base no seu plano.
+Para a maioria das organizações, SharePoint armazenamento é gerenciado automaticamente, portanto, você não precisa definir limites por conjunto de sites. Para obter mais informações sobre como o armazenamento de locatários é calculado com base em seu plano, consulte [Limites por plano](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan).
 
-Para a maioria das organizações, o armazenamento do SharePoint é gerenciado automaticamente, portanto, você não precisa definir limites por conjunto de sites.
+Para mais informações, confira:
 
-Saiba como [Exibir o espaço de armazenamento total e disponível para sua organização](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+- [Gerenciar limites de armazenamento de sites](/sharepoint/manage-site-collection-storage-limits)
 
-Saiba como [gerenciar limites de armazenamento individuais de conjunto de sites](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+- [Gerenciar limites de armazenamento de sites individuais](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)
 
-Se o seu site está sem espaço ou você deseja saber qual biblioteca ou lista está utilizando o espaço, vá para configurações do **site as**  >  **métricas de armazenamento** (permissões de administrador do conjunto de sites são necessárias).
+Se o seu site estiver sem espaço ou você quiser saber qual biblioteca ou lista está utilizando o espaço, vá para **Site Configurações**  >  **Armazenamento Metrics** (permissões de administrador do Conjunto de Sites são necessárias).
 
-Saiba como [monitorar os limites de armazenamento do site usando o PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
+Para mais informações, confira:
 
-Saiba como [comprar armazenamento adicional](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space). 
+- [Monitore os limites de armazenamento do site usando o Windows PowerShell](/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)
+
+- [Espaço de armazenamento adicionar para sua assinatura](/microsoft-365/commerce/add-storage-space) 
   
