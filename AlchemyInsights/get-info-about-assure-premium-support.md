@@ -13,22 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "10136"
 - "9005723"
-ms.openlocfilehash: 5a796eb736c995eac9be390593096a4a6c006f7f
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: 56a5b3a452a353044807792a86a76b7e6e33c1b0
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51426763"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52702042"
 ---
-# <a name="get-info-about-assure-and-premium-assisted-software-support"></a>Obtenha informações sobre o suporte de software assistido Premium e Garantido 
+# <a name="get-info-about-premium-assisted-software-support"></a>Obtenha informações sobre o suporte de software assistido Premium
 
 A Microsoft oferece várias opções para suporte assistido com o Windows e o software do Office:
 
-- **Garantia de suporte de software**: Um ano de suporte de software do Office e do Windows
-- **Suporte Técnico Premium do Windows**: Suporte de software do Windows avulso
-- **Suporte Técnico Premium do Office**: Suporte de software do Office avulso
+- **Suporte Técnico Premium do Windows**: suporte de software do Windows avulso
 
-Para mais informações, consulte [Opções de suporte de software assistido: Garantido e Premium](https://support.microsoft.com/help/4467230/assisted-software-support-options-assure-premium).
+- **Suporte Técnico Premium do Office**: suporte de software do Office avulso
 
-Se você já adquiriu uma assinatura Garantida e precisa de ajuda, digite **conversar com um agente** na caixa de bate-papo abaixo e diga ao representante que você é um assinante Garantido.
+**Observação:** se você não tiver uma assinatura existente do Assure, lembre-se de que o Assure não é mais oferecido como uma opção de suporte. Sua assinatura atual permanecerá válida durante o período adquirido mas não poderá ser renovada.
 
