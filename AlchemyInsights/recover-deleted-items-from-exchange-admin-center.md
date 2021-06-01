@@ -29,4 +29,4 @@ Dentro da experiência [de gerenciamento de caixa de correio simplificada e atua
     - Talvez seja necessário pesquisar em **... mais** suspenso para ver **recuperar itens excluídos**.
 4. Use as opções de filtro para localizar os itens que você precisa recuperar.
 
-For more information, see [Use new EAC for recovering deleted messages](/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages#use-new-eac-for-recovering-deleted-messages).
+Para obter mais informações, consulte [Usar o novo EAC para recuperar mensagens excluídas](/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages#use-new-eac-for-recovering-deleted-messages).

@@ -24,4 +24,4 @@ ms.locfileid: "52689922"
 
 Mantenha-me conectado (KMSI) exibe um prompt **Continuar conectado?** depois que um usuário faz login com sucesso. Se um usuário responder **Sim** para este prompt, o serviço KMSI fornecerá a ele um token de atualização persistente. 
 
-Para mais informações sobre como configurar KMSI, consulte [Configurar a opção 'Permanecer conectado?' prompt para contas do Azure AD](/azure/active-directory/fundamentals/keep-me-signed-in).
+Para obter mais informações sobre como configurar o KMSI, consulte [Configurar o prompt 'Permanecer conectado?' para contas do Azure AD](/azure/active-directory/fundamentals/keep-me-signed-in).
