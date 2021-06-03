@@ -14,27 +14,28 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
+ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470229"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721624"
 ---
-# <a name="microsoft-365-import-service"></a><span data-ttu-id="39b66-102">Microsoft 365 Importar serviço</span><span class="sxs-lookup"><span data-stu-id="39b66-102">Microsoft 365 Import service</span></span>
+# <a name="microsoft-365-import-service"></a><span data-ttu-id="e44cc-102">Microsoft 365 Importar serviço</span><span class="sxs-lookup"><span data-stu-id="e44cc-102">Microsoft 365 Import service</span></span>
 
-<span data-ttu-id="39b66-103">O Microsoft 365 de importação permite importar em massa vários arquivos PST para Exchange Online caixas de correio.</span><span class="sxs-lookup"><span data-stu-id="39b66-103">The Microsoft 365 Import service lets you to bulk-import multiple PST files to Exchange Online mailboxes.</span></span>
+<span data-ttu-id="e44cc-103">Para acessar o serviço importar e iniciar o processo de importação:</span><span class="sxs-lookup"><span data-stu-id="e44cc-103">To access the Import service and start the import process:</span></span>
 
-<span data-ttu-id="39b66-104">Para acessar o serviço importar e iniciar o processo de importação:</span><span class="sxs-lookup"><span data-stu-id="39b66-104">To access the Import service and start the import process:</span></span>
+1. <span data-ttu-id="e44cc-104">Vá para o Centro de [Conformidade do M365](https://compliance.microsoft.com/)e entre usando as credenciais de uma conta de administrador em sua organização.</span><span class="sxs-lookup"><span data-stu-id="e44cc-104">Go to the [M365 Compliance Center](https://compliance.microsoft.com/), and sign in using the credentials for an administrator account in your organization.</span></span>
 
-1. <span data-ttu-id="39b66-105">Acesse o [Centro de Conformidade &](https://protection.office.com) segurança e entre usando as credenciais de uma conta de administrador em sua organização.</span><span class="sxs-lookup"><span data-stu-id="39b66-105">Go to the [Security & Compliance Center](https://protection.office.com) and sign in using the credentials for an administrator account in your organization.</span></span>
+1. <span data-ttu-id="e44cc-105">No painel esquerdo do Centro de Conformidade do M365 em **Soluções,** selecione **Importar governança de**  >  **informações.**</span><span class="sxs-lookup"><span data-stu-id="e44cc-105">In the left pane of the M365 Compliance Center under **Solutions**, select **Information governance** > **Import**.</span></span>
 
-2. <span data-ttu-id="39b66-106">No painel esquerdo do Centro de Conformidade & **segurança,** clique em **Governança de informações > Importar**.</span><span class="sxs-lookup"><span data-stu-id="39b66-106">In the left pane of the **Security & Compliance Center**, click **Information governance > Import**.</span></span>
+1. <span data-ttu-id="e44cc-106">Na página **Importar,** selecione **Novo trabalho de importação.**</span><span class="sxs-lookup"><span data-stu-id="e44cc-106">On the **Import** page, select **New import job**.</span></span>
 
-3. <span data-ttu-id="39b66-107">Na página **Importar,** clique em **Novo trabalho de importação.**</span><span class="sxs-lookup"><span data-stu-id="39b66-107">On the **Import** page, click **New import job**.</span></span>
+1. <span data-ttu-id="e44cc-107">Para concluir as etapas no assistente, consulte [Use network upload to import your organization's PST files to Microsoft 365](/compliance/use-network-upload-to-import-pst-files).</span><span class="sxs-lookup"><span data-stu-id="e44cc-107">To complete the steps in the wizard, see [Use network upload to import your organization's PST files to Microsoft 365](/compliance/use-network-upload-to-import-pst-files).</span></span>
 
-4. <span data-ttu-id="39b66-108">Para concluir as etapas no assistente, siga estas instruções passo [a passo.](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)</span><span class="sxs-lookup"><span data-stu-id="39b66-108">To complete the steps in the wizard, follow these [step-by-step instructions](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md).</span></span>
+<span data-ttu-id="e44cc-108">Para acessar a **página Importar,** certifique-se de que você tenha sido atribuído as permissões apropriadas.</span><span class="sxs-lookup"><span data-stu-id="e44cc-108">To access the **Import** page, make sure you have been assigned the appropriate permissions.</span></span> <span data-ttu-id="e44cc-109">Para obter mais informações, consulte [Using network upload to import PST files](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).</span><span class="sxs-lookup"><span data-stu-id="e44cc-109">For more info, see [Using network upload to import PST files](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).</span></span>
 
-<span data-ttu-id="39b66-109">**Importante**: Para acessar a página **Importar** no Centro de Conformidade & segurança, você recebe as [permissões apropriadas.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)</span><span class="sxs-lookup"><span data-stu-id="39b66-109">**Important**: To access the **Import** page in the Security & Compliance Center, you have be assigned  [the appropriate permissions](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md).</span></span>
+<span data-ttu-id="e44cc-110">Se você quiser importar um PST para sua caixa de correio, consulte [Import email, contacts, and calendar from an Outlook .pst file](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span><span class="sxs-lookup"><span data-stu-id="e44cc-110">If you want to import a PST to your mailbox, see [Import email, contacts, and calendar from an Outlook .pst file](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span></span>
 
-<span data-ttu-id="39b66-110">Se você deseja apenas importar um PST para sua caixa de correio, consulte [este artigo](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span><span class="sxs-lookup"><span data-stu-id="39b66-110">If you just want to import a PST to your mailbox, see [this article](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span></span>
+<span data-ttu-id="e44cc-111">Se você estiver tendo um problema com uma importação, consulte [Problemas que afetam trabalhos de importação PST.](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)</span><span class="sxs-lookup"><span data-stu-id="e44cc-111">If you're having a problem with an import, see [Issues that affect PST import jobs](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).</span></span>
+
