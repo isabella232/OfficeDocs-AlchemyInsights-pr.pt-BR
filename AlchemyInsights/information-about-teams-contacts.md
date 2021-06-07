@@ -13,26 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "8263"
 - "9004610"
-ms.openlocfilehash: 49f813e7ae4942c11033260d5abd62827a92da1b
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: c855ce4df75cd169719d51f380de2e3f0a348394
+ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897468"
+ms.lasthandoff: 06/06/2021
+ms.locfileid: "52783101"
 ---
 # <a name="information-about-teams-contacts"></a>Informações sobre contatos do Teams
-
-Se os contatos não estão sincronizando para um ou vários usuários, faça o seguinte:
-- Verifique se a caixa de correio do Exchange do usuário está hospedada online (não local). Para saber mais, confira [Como o Exchange e o Microsoft Teams interagem](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
-- Verifique se o número de telefone do contato foi adicionado às informações de contato.
 
 O Teams usa estes contatos:
 
 - Contatos no Active Directory da sua organização
 - Contatos adicionados à pasta padrão do Outlook do usuário
 
-Os usuários do Teams podem se comunicar com qualquer pessoa no Active Directory da sua organização e podem adicionar qualquer pessoa ao Active Directory da sua organização como um contato e às suas listas de contatos acessando **Chat > Contatos ou Chamadas > Contatos**.
+Se os contatos não estiverem completos ou não forem sincronizados para um ou vários usuários, siga este procedimento:
 
-Os usuários do Teams também podem adicionar uma pessoa que não esteja no Active Directory da sua organização como um contato, acessando **Chamadas > Contatos**.
+- Verifique se a caixa de correio do Exchange do usuário está hospedada online (não local). Para saber mais, confira [Como o Exchange e o Microsoft Teams interagem](/microsoftteams/exchange-teams-interact).
+- Verifique se o número de telefone do contato foi adicionado às informações de contato.
+- Pesquise o email do contato na barra **Pesquisar**. Os contatos que você pode recuperar podem ser sincronizados com a Lista de Contatos.
 
 
