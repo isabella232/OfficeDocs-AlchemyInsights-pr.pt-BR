@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 46a9be285ec7e0eb491ec73651f81ea5a33654d2
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823019"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798596"
 ---
 # <a name="activating-microsoft-365-apps"></a>Ativar aplicativos do Microsoft 365
+
+**Observação**: se você estiver usando uma versão mais antiga do Windows (por exemplo, Windows 7), certifique-se de que o TLS 1.2 esteja habilitado como padrão. Para obter mais informações, confira [Atualizar para habilitar o TLS 1.1 e o TLS 1.2 como os protocolos seguros padrão em WinHTTP no Windows.](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392).
 
 Para ativar o Office, consulte:
 
@@ -27,7 +29,7 @@ Para ativar o Office, consulte:
 
 - [Ativar o Office em um Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Observação:** Verifique se você tem uma assinatura do Office 365 ou do Microsoft 365 que [inclui aplicativos de cliente do Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), como o Microsoft 365 Business Standard, o Microsoft 365 Apps para Pequenos e Médios Negócios ou o Microsoft 365 Apps para Grandes Empresas. Além disso, certifique-se de que a conta de usuário que você está usando para entrar nos aplicativos do Office tem [uma licença atribuída](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+**Observação:** Verifique se você tem uma assinatura do Office 365 ou do Microsoft 365 que [inclui aplicativos de cliente do Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), como o Microsoft 365 Business Standard, o Microsoft 365 Apps para Pequenos e Médios Negócios ou o Microsoft 365 Apps para Grandes Empresas. Além disso, certifique-se de que a conta de usuário que você está usando para entrar nos aplicativos do Office tem [uma licença atribuída](/microsoft-365/admin/manage/assign-licenses-to-users).
 
 Para corrigir problemas de ativação do Office, consulte:
 
@@ -46,6 +48,6 @@ Siga as etapas a seguir, se não for possível entrar no Microsoft 365:
 
 3. Usando **Configurações do Windows > Contas > Acessar trabalho ou escola**, desconecte as contas de trabalho antigas ou não utilizadas
 
-4. [Redefina o estado de ativação do Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) e [Entre nos aplicativos do Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) usando a nova conta.
+4. [Redefina o estado de ativação do Office](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) e [Entre nos aplicativos do Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) usando a nova conta.
 
 Para obter mais ações de solução de problemas, consulte [Um aviso de assinatura é exibido quando abro um aplicativo do Office 365](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).
