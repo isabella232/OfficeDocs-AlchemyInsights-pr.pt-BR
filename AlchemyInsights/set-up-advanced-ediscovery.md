@@ -2,6 +2,7 @@
 title: Configurar a Descoberta Eletrônica Avançada
 ms.author: pebaum
 author: pebaum
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: f3a74bf74fb0786227e3f6c9bd53af1c8bebe098
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 928eac7dc5455a96d8f49f60a368f098f8e322bb
+ms.sourcegitcommit: 29019d042be8283d24048f96f1a16ec865c74ca6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795520"
+ms.lasthandoff: 06/10/2021
+ms.locfileid: "52882677"
 ---
 # <a name="set-up-advanced-ediscovery"></a>Configurar a Descoberta Eletrônica Avançada
 
-A Descoberta Eletrônica Avançada permite que você analise os dados não estruturados para ajudar a reduzir o custo da Descoberta Eletrônica. Você pode aplicar análise de texto, aprendizagem de máquina e codificação de relevância/preditiva.  O recurso de Descoberta Eletrônica Avançada exige uma das seguintes opções:
+Com a Descoberta Eletrônica Avançada, você pode aplicar análise de texto, aprendizagem de máquina e codificação de relevância/preditiva. O recurso de Descoberta Eletrônica Avançada exige uma destas opções:
 
 - Assinatura do Microsoft 365 E5 ou do Office 365 E5
 
@@ -39,4 +40,6 @@ Veja a seguir uma visão geral detalhada das etapas para configurar e gerenciar 
 
 **4. Criar uma ocorrência de Descoberta Eletrônica Avançada**
 
-Para obter informações sobre as etapas necessárias para configurar a Descoberta Eletrônica Avançada, confira [Introdução à Descoberta Eletrônica Avançada](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery?view=o365-worldwide).
+Para obter informações sobre as etapas necessárias para configurar a Descoberta Eletrônica Avançada, consulte [Introdução à Descoberta Avançada](/microsoft-365/compliance/get-started-with-advanced-ediscovery).
+
+Para obter informações sobre como criar e gerenciar casos, consulte [Criar e gerenciar casos de Descoberta Eletrônica Avançada no Microsoft 365](/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case).
