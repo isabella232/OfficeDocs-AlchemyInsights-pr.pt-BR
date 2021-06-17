@@ -11,13 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001688"
+- "1300023"
 - "3754"
-ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+- "4531"
+ms.openlocfilehash: 0da512379e5a2f6ccb773e18c465e545c0660560
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822839"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52930963"
 ---
 # <a name="active-directory-not-syncing"></a>Não sincronização do Active Directory
 
@@ -27,6 +29,8 @@ Reinstalar o AADConnect usando configurações expressas pode resolver o problem
 
 1. [Baixe a versão mais recente do AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).
 
-2. [Siga as instruções para instalação expressa](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+2. [Siga as instruções para instalação expressa](/azure/active-directory/hybrid/how-to-connect-install-express).
 
-Para mais informações sobre contas de serviço do AADConnect, confira [Azure AD Connect: Contas e permissões](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).
+O Azure AD Connect deve ser instalado no Windows Server 2012 ou versão mais recente. Esse servidor deve ser integrado ao domínio e pode ser um controlador de domínio ou um servidor membro. Para uma lista completa de requisitos e pré-requisitos do Azure AD Conexão, revise Os pré-requisitos do [Azure AD Conexão](/azure/active-directory/hybrid/how-to-connect-install-prerequisites).
+
+Para mais informações sobre contas de serviço do AADConnect, confira [Azure AD Connect: Contas e permissões](/azure/active-directory/hybrid/reference-connect-accounts-permissions).
