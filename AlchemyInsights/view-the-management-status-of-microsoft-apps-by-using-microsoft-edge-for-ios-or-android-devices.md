@@ -1,5 +1,5 @@
 ---
-title: Exibir o status de gerenciamento de aplicativos da Microsoft usando o Microsoft Edge para dispositivos iOS ou Android
+title: Exibir o status de gerenciamento dos aplicativos Microsoft usando o Microsoft Edge para dispositivos iOS ou Android
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,18 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003896"
+- "9006502"
 - "6950"
-ms.openlocfilehash: e670981d2cb9a918ad33cc9e6ce15663c112df1d
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+- "11143"
+ms.openlocfilehash: 321dac91dfbfea560b6b488b003940518637e642
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49608817"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989885"
 ---
-# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a><span data-ttu-id="534e6-102">Exibir o status de gerenciamento de aplicativos da Microsoft usando o Microsoft Edge para dispositivos iOS ou Android</span><span class="sxs-lookup"><span data-stu-id="534e6-102">View the management status of Microsoft apps by using Microsoft Edge for iOS or Android devices</span></span>
+# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a><span data-ttu-id="e7a13-102">Exibir o status de gerenciamento dos aplicativos Microsoft usando o Microsoft Edge para dispositivos iOS ou Android</span><span class="sxs-lookup"><span data-stu-id="e7a13-102">View the management status of Microsoft apps by using Microsoft Edge for iOS or Android devices</span></span>
 
-<span data-ttu-id="534e6-103">Para acessar os logs de aplicativos para uso na solução de problemas com seus aplicativos do iOS ou Android gerenciados, abra o Microsoft Edge e digite **about: intunehelp** na caixa endereço.</span><span class="sxs-lookup"><span data-stu-id="534e6-103">To access app logs for use in troubleshooting your managed iOS or Android apps, open Microsoft Edge and type **about:intunehelp** in the address box.</span></span> <span data-ttu-id="534e6-104">O Microsoft Edge é iniciado no modo de solução de problemas.</span><span class="sxs-lookup"><span data-stu-id="534e6-104">Microsoft Edge launches in troubleshooting mode.</span></span>
+<span data-ttu-id="e7a13-103">Para acessar logs de aplicativos para uso na solução de problemas de seus aplicativos gerenciados para iOS ou Android, abra Microsoft Edge e digite **about:intunehelp** na caixa de endereços.</span><span class="sxs-lookup"><span data-stu-id="e7a13-103">To access app logs for use in troubleshooting your managed iOS or Android apps, open Microsoft Edge and type **about:intunehelp** in the address box.</span></span> <span data-ttu-id="e7a13-104">Microsoft Edge inicia no modo de solução de problemas.</span><span class="sxs-lookup"><span data-stu-id="e7a13-104">Microsoft Edge launches in troubleshooting mode.</span></span>
 
-<span data-ttu-id="534e6-105">Para obter uma lista das configurações armazenadas nos logs de aplicativos, consulte [revisar logs de proteção de aplicativo do cliente](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log).</span><span class="sxs-lookup"><span data-stu-id="534e6-105">For a list of the settings stored in the app logs, see [Review client app protection logs](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log).</span></span>
+<span data-ttu-id="e7a13-105">Para ver uma lista das configurações armazenadas nos logs do aplicativo, consulte [Review client app protection logs](/mem/intune/apps/app-protection-policy-settings-log).</span><span class="sxs-lookup"><span data-stu-id="e7a13-105">For a list of the settings stored in the app logs, see [Review client app protection logs](/mem/intune/apps/app-protection-policy-settings-log).</span></span>
 
-<span data-ttu-id="534e6-106">Para saber como exibir logs de aplicativos em dispositivos Android, confira [upload e logs de email](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android).</span><span class="sxs-lookup"><span data-stu-id="534e6-106">To learn how to view app logs on Android devices, see [Upload and email logs](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android).</span></span>
+<span data-ttu-id="e7a13-106">Para saber como exibir logs de aplicativos em dispositivos Android, consulte [Upload e logs de email.](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)</span><span class="sxs-lookup"><span data-stu-id="e7a13-106">To learn how to view app logs on Android devices, see [Upload and email logs](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android).</span></span>
