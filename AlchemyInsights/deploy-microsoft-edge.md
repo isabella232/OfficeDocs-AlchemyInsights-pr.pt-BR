@@ -12,13 +12,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9139"
+- "11088"
 - "9005291"
-ms.openlocfilehash: ad2c42ad77cd4a4606365bc616547846ae3c2c65
-ms.sourcegitcommit: 475a9eaa095812091991857df6cf6490a8bbe179
+- "9006490"
+ms.openlocfilehash: 9a51b0cbf6ccb0254ea2ef162530067bbfb5f215
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50529173"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989741"
 ---
 # <a name="deploy-microsoft-edge"></a>Implantar o Microsoft Edge
 
@@ -26,18 +28,18 @@ Depois de definir suas políticas e terminar o teste inicial de compatibilidade 
 
 As seguintes ferramentas estão disponíveis para implantar o Microsoft Edge:
 
-- [Microsoft Intune para Windows](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge) ou [Microsoft Intune para macOS](https://docs.microsoft.com/mem/intune/apps/apps-edge-macos)
-- [Gerenciador de configuração](https://docs.microsoft.com/DeployEdge/deploy-edge-with-configuration-manager)
+- [Microsoft Intune para Windows](/mem/intune/apps/apps-windows-edge) ou [Microsoft Intune para macOS](/mem/intune/apps/apps-edge-macos)
+- [Gerenciador de configuração](/DeployEdge/deploy-edge-with-configuration-manager)
 - Outra ferramenta usando o [Arquivo MSI para Microsoft Edge](https://www.microsoft.com/edge/business/download)
 
 **Valide a sua implantação**
 
-Depois de implantar seu piloto, obtenha feedback dos usuários. Considere o seguinte:
+Depois de implantar seu piloto, obtenha os comentários dos usuários. Considere o seguinte:
 - **Compatibilidade**: Identifique os sites que pertencem à Enterprise Site List que não foram identificados durante a descoberta do site.
 - **Configuração de política**: Certifique-se de que os usuários possam usar os principais recursos e fazer seu trabalho, seguindo as diretrizes de segurança.
 - **Facilidade de uso e novos recursos**: Identifique todas as áreas onde o treinamento deve ser desenvolvido e entregue com base nas perguntas do usuário.
 
 **Ampla implantação do Microsoft Edge**
 
-Depois de implantar o piloto e atualizar seu plano de implantação com as lições aprendidas, você está pronto para fazer uma implantação completa do Microsoft Edge para todos os seus usuários. Parabéns!
+Uma vez implantado o piloto e atualizado seu plano de implantação com as lições aprendidas, você está pronto para fazer uma implantação completa do Microsoft Edge para todos os seus usuários. Parabéns!
 

@@ -1,5 +1,5 @@
 ---
-title: Usar o Microsoft Intune para gerenciar o acesso à Web no Microsoft Edge para iOS e Android
+title: Usar Microsoft Intune para gerenciar o acesso à Web no Microsoft Edge para iOS e Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,35 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003846"
 - "6895"
-ms.openlocfilehash: 4d6ab4df4ff9588ce5052421602e347c76c91c3f
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+- "9006502"
+- "11144"
+ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617210"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989642"
 ---
-# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Usar o Microsoft Intune para gerenciar o acesso à Web no Microsoft Edge para iOS e Android
+# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Usar Microsoft Intune para gerenciar o acesso à Web no Microsoft Edge para iOS e Android
 
-O Microsoft Edge para iOS e Android permite que um usuário navegue pela Web de vários perfis completamente separados.
+Microsoft Edge para iOS e Android permite que um usuário navegue pela Web de vários perfis completamente separados.
 
-Os recursos de proteção mais abrangentes para os dados do Microsoft 365 ficam disponíveis quando você assina o Enterprise Mobility + Security Suite, que inclui os recursos do Microsoft Intune e do Azure Active Directory Premium, como acesso condicional. No mínimo, convém implantar uma política de acesso condicional que (1) permite que os usuários se conectem de dispositivos móveis ao Microsoft Edge para iOS e Android e que (2) implemente uma política de proteção de aplicativos do Microsoft Intune que forneça uma experiência de navegação protegida.
+Os recursos de proteção mais amplos para Microsoft 365 dados ficam disponíveis quando você se inscreve no pacote Enterprise Mobility + Security, que inclui recursos de Microsoft Intune e Azure Active Directory Premium, como acesso condicional. No mínimo, você vai querer implantar uma política de acesso condicional que (1) permite que os usuários se conectem de dispositivos móveis ao Microsoft Edge para iOS e Android e que (2) implemente uma política de proteção de aplicativos Microsoft Intune que fornece uma experiência de navegação protegida.
 
-Para entender como você pode usar as políticas e o acesso condicional, confira:
+Para entender como você pode usar o acesso condicional e as políticas, consulte:
 
-[Aplicar políticas de acesso condicional do Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2132481)
+[Aplicar Active Directory do Azure políticas de acesso condicional](https://go.microsoft.com/fwlink/?linkid=2132481)
 
-[Criar políticas de proteção de aplicativos do Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2132651)
+[Criar Microsoft Intune de proteção de aplicativos](https://go.microsoft.com/fwlink/?linkid=2132651)
 
-[Usar o logon único para os aplicativos Web conectados ao Azure Active Directory em navegadores protegidos por política](https://go.microsoft.com/fwlink/?linkid=2132482)
+[Usar o login único para Active Directory do Azure web conectados em navegadores protegidos por política](https://go.microsoft.com/fwlink/?linkid=2132482)
 
 [Usar a configuração do aplicativo para gerenciar a experiência de navegação](https://go.microsoft.com/fwlink/?linkid=2132483)
 
-[Permitir o uso apenas de contas corporativas e de estudante](https://go.microsoft.com/fwlink/?linkid=2132652)
+[Permitir o uso de apenas contas de trabalho e de estudante](https://go.microsoft.com/fwlink/?linkid=2132652)
 
-[Implantar políticas gerais de configuração de aplicativos](https://go.microsoft.com/fwlink/?linkid=2132653)
+[Implantar políticas gerais de configuração de aplicativo](https://go.microsoft.com/fwlink/?linkid=2132653)
 
-[Implantar políticas de configuração de aplicativo para proteção de dados](https://go.microsoft.com/fwlink/?linkid=2132654)
+[Implantar políticas de configuração de aplicativos para proteção de dados](https://go.microsoft.com/fwlink/?linkid=2132654)
 
-[Usar o Microsoft Endpoint Manager para implantar políticas de configuração de aplicativos](https://go.microsoft.com/fwlink/?linkid=2132707)
+[Usar Microsoft Endpoint Manager para implantar políticas de configuração de aplicativos](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-Para saber como acessar logs de aplicativos gerenciados, consulte [usar o Microsoft Edge para IOS e Android para acessar logs de aplicativos gerenciados](https://go.microsoft.com/fwlink/?linkid=2132578).
+Para saber como acessar logs de aplicativos gerenciados, consulte Use Microsoft Edge para iOS e Android para acessar logs [de aplicativos gerenciados.](https://go.microsoft.com/fwlink/?linkid=2132578)
