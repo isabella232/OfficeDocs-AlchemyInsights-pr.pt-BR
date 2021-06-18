@@ -1,5 +1,5 @@
 ---
-title: Renomear seu SharePoint domínio
+title: Renomear seu domínio do Microsoft Office SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,15 +14,15 @@ ms.custom:
 - "5300028"
 ms.openlocfilehash: fc80a6ac234f2998e0620ac79e43a3d46aeee9c9
 ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 06/17/2021
 ms.locfileid: "52990201"
 ---
-# <a name="rename-your-sharepoint-domain"></a>Renomear seu SharePoint domínio
+# <a name="rename-your-sharepoint-domain"></a>Renomear seu domínio do Microsoft Office SharePoint Online
 
-Atualmente, há uma Visualização Privada para a capacidade de renomear seu SharePoint domínio.
+Atualmente, existe uma Prévia Privada para a capacidade de renomear seu domínio do Microsoft Office SharePoint Online.
 
-Para obter mais informações sobre o processo de renomeação e limitações, visite [https://aka.ms/SPOTenantRename](https://aka.ms/SPOTenantRename) .
+Para mais informações sobre o processo de renomeação e limitações, visite [https://aka.ms/SPOTenantRename](https://aka.ms/SPOTenantRename).
 
-Se você quiser nomear a si mesmo na Visualização Privada, você pode fazer isso em [https://aka.ms/SPOTenantRenameNomination](https://aka.ms/SPOTenantRenameNomination) . Observe que a nomeação não significa necessariamente que você será aceito. Estamos revendo-os caso a caso e só entraremos em contato se você for aceito.
+Se desejar se nomear para a Prévia Privada, você pode fazê-lo em [https://aka.ms/SPOTenantRenameNomination](https://aka.ms/SPOTenantRenameNomination). Observe que a nomeação não significa necessariamente que você será aceito. Estamos revisando caso a caso e só entraremos em contato se você for aceito.
