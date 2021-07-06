@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003880"
 - "6933"
-ms.openlocfilehash: 920b052f1d4d5c84a01bfc72173e6c52a2e3764d
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+- "11940"
+- "9007101"
+ms.openlocfilehash: a1d127003cb0332600b09fce9e640c2050b3d1d3
+ms.sourcegitcommit: a9eb1cb42da49898cc211557193ca61a00499084
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49606513"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53255879"
 ---
 # <a name="pdf-reader-in-microsoft-edge"></a>Leitor de PDF no Microsoft Edge
 
-A popularidade dos arquivos PDF realça a necessidade de um leitor de PDF confiável, seguro e poderoso que possa ser adotado por empresas corporativas. O leitor de PDF rico em recursos incorporado ao Microsoft Edge (versões 77 e posteriores) é apenas um aplicativo. Ele funciona no Windows e no macOS, e pode ser usado para abrir e anotar arquivos PDF que sejam locais, online ou incorporados em páginas da Web.
+A popularidade dos arquivos PDF destaca a necessidade de um leitor de PDF confiável, seguro e poderoso que possa ser adotado por empresas. O leitor de PDF rico em recursos integrado Microsoft Edge (versões 77 e posteriores) é apenas um aplicativo. Ele funciona no Windows e no macOS e pode ser usado para abrir e fazer anotações em arquivos PDF locais, online ou incorporados em páginas da web.
 
-Para saber mais, confira [leitor de PDF no Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2140005).
+Para saber mais, confira [Leitor de PDF em Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2140005).
