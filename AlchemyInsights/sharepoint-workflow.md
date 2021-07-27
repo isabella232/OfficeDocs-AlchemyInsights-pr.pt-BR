@@ -1,5 +1,5 @@
 ---
-title: Solucionar problemas de fluxos de trabalho no SharePoint
+title: Solucionar problemas de fluxos de trabalho SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -15,21 +15,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: eedfb806100c479e0e20acbeefdda7c3c81f99e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0d05285539d498aa27b1f54880da9c5110acf98
+ms.sourcegitcommit: e2f1c3a8adcce7e7e545ec13d5aeae3cf2f67db7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800236"
+ms.lasthandoff: 07/26/2021
+ms.locfileid: "53586922"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a>Solucionar problemas de fluxos de trabalho no SharePoint
+# <a name="troubleshoot-workflows-in-sharepoint"></a>Solucionar problemas de fluxos de trabalho SharePoint
 
-**Solucionar problemas e depurar fluxos de trabalho no SharePoint**
+**Solucionar problemas e depurar fluxos de trabalho SharePoint**
 
-Consulte [solução de problemas de validação de fluxo de trabalho do SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) e [depuração de fluxos de trabalho do SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
+Para mais informações, confira:
+
+- [Solucionar SharePoint erros de validação de fluxo de trabalho](/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
+- [Depuração SharePoint fluxos de trabalho](/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+- [Reunir SharePoint solução de problemas de fluxo de trabalho 2013 com ShowScopeDebugInfo](/sharepoint/troubleshoot/workflows/gather-workflow-data)
 
 **Power Automate**
 
-Se você estiver apenas começando a usar fluxos de trabalho, considere o uso do [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) em vez das soluções clássicas de fluxo de trabalho do SharePoint.
+Se você estiver apenas começando a usar fluxos de trabalho, considere usar o Power Automate [em](/power-automate/modern-approvals) vez das soluções de fluxo de trabalho SharePoint de fluxo de trabalho clássicos.
 
-Para saber mais, confira [fluxos de trabalho do SharePoint aposentando](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).
+Para obter mais informações, [consulte SharePoint fluxos de](/alchemyinsights/sharepoint-workflows-retiring)trabalho se retirando .
