@@ -1,5 +1,5 @@
 ---
-title: 1488-perform-eDiscovery-and-Content-Searches
+title: 1488-perform-eDiscovery-and-content-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,30 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
-ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
+ms.openlocfilehash: 938e9f2d7ee43e3a2b8c3356afb90f8cd6507a65
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49668502"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630201"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Como realizar pesquisas de conteúdo e pesquisas de descoberta eletrônica
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Como executar pesquisas de Descoberta De Conteúdo e Descobertas
 
 **Para executar uma pesquisa de conteúdo**:
 
-1. Vá para o [centro de conformidade & segurança](https://protection.office.com) e entre.
-2. Clique em **pesquisar > pesquisa de conteúdo**.
-3. Clique em **nova pesquisa** para criar uma nova pesquisa.
+1. Vá para o Microsoft 365 de Conformidade e entre.
+2. Selecione **Pesquisar > Pesquisa de Conteúdo**.
+3. Selecione **Nova pesquisa** para criar uma nova pesquisa.
 4. Insira as condições de pesquisa necessárias, incluindo palavras-chave e locais de conteúdo.
-5. Clique em **salvar & executar** para nomear a pesquisa, iniciá-la e visualizar os resultados.
+5. Selecione **Salvar & executar** para nomear a pesquisa, inicie-a e visualize os resultados.
 
 > [!NOTE]
-> No **centro de conformidade do M365**, em **soluções**, escolha expandir **descoberta eletrônica** e selecione a ferramenta de descoberta eletrônica desejada.
+> Em **Microsoft 365 Soluções do Centro** de  >  **Conformidade,** **expanda a Descoberta EDiscovery** e selecione a ferramenta de Descoberta Digital desejada.
 
-Para obter instruções detalhadas sobre pesquisas de conteúdo, exportação de resultados e criação de ocorrências de descoberta eletrônica para manter dados, consulte [pesquisa de conteúdo](https://docs.microsoft.com/microsoft-365/compliance/content-search) e [ocorrências de descoberta eletrônica](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
+Para obter instruções detalhadas sobre pesquisas de conteúdo, exportação de resultados e criação de casos de Descoberta eDiscovery para manter dados, consulte [Content Search](/microsoft-365/compliance/content-search) and [eDiscovery cases](/microsoft-365/compliance/ediscovery-cases).
 
 **Mais informações**:
 
-- Para obter mais informações sobre as ferramentas de descoberta eletrônica no Microsoft 365, consulte [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
-- Saiba mais sobre as permissões, os requisitos e os limites necessários para executar pesquisas de descoberta eletrônica a partir de [permissões necessárias para pesquisas](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) e [limites](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)de descoberta eletrônica.
-- Se você estiver solucionando problemas de descoberta eletrônica, consulte [descoberta eletrônica Solucionando problemas comuns](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) e [investigando itens parcialmente indexados](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).
+- Para obter mais informações sobre ferramentas de Descoberta Microsoft 365, consulte [eDiscovery](/microsoft-365/compliance/ediscovery).
+- Saiba mais sobre as permissões, requisitos e limites necessários para a execução de pesquisas de Descoberta e Descrição a partir de Permissões necessárias para pesquisas e requisitos e limites de [Descobertas EDiscovery.](/microsoft-365/compliance/assign-ediscovery-permissions) [](/microsoft-365/compliance/limits-for-content-search)
+- Se você estiver solucionando problemas de Descoberta [eDiscovery, consulte eDiscovery Troubleshooting](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) common issues and [investigating partially indexed items](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).

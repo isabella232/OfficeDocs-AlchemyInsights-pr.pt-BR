@@ -1,5 +1,5 @@
 ---
-title: Identificar a atividade da regra de caixa de entrada nos logs de auditoria
+title: Identificar atividade de regra de caixa de entrada em logs de auditoria
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3de6fcde6dc649cb77077d469cc66d4003e0c890
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bda32b55be9c2fa671376e73b06aadfbe976363
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779039"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630165"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identificar a atividade da regra de caixa de entrada nos logs de auditoria
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identificar atividade de regra de caixa de entrada em logs de auditoria
 
-Você pode usar a pesquisa de log de auditoria no centro de conformidade & segurança da Microsoft 365 para exibir eventos de regra de caixa de entrada (criando, modificando e excluindo regras de caixa de entrada).
+Você pode usar a pesquisa de log de auditoria no Centro de Conformidade Microsoft 365 Segurança & para exibir eventos de regra de caixa de entrada (criação, modificação e exclusão de regras de caixa de entrada).
 
-1. Faça logon no [centro de conformidade & segurança da Microsoft 365](https://protection.office.com/).
+1. Faça logoff no [Centro de Conformidade Microsoft 365 .](https://protection.office.com/)
 
-2. Vá para a **Search**  >  página**pesquisa de log de auditoria** de pesquisa.
+2. Vá para a **página de pesquisa** de log de Auditoria  >  **de** Pesquisa.
 
-3. Selecione o intervalo de datas nos campos **data de início** e data de **término** .
+3. Selecione o intervalo de datas nos campos **Data de** início e **Data de** término.
 
-4. Em **atividades de caixa de correio do Exchange**, verifique se o campo **atividades** está definido como **New-InboxRule criar/modificar/habilitar/desabilitar regra de caixa de entrada**.
+4. Em **Exchange Atividades** de Caixa de Correio, verifique se o campo **Atividades** está definido como **New-InboxRule Create/modify/enable/disable inbox rule**.
 
 5. Clique em **Pesquisar**.
 
-Nos resultados, selecione um registro de auditoria. No submenu detalhes, clique em **mais informações**. As informações sobre as configurações da regra de caixa de entrada são exibidas no campo **parâmetros** .
+Nos resultados, selecione um registro de auditoria. No sobremenu de detalhes, clique **em Mais Informações.** As informações sobre as configurações de regra de caixa de entrada são exibidas no **campo Parâmetros.**
 
-Para obter mais informações, consulte [determinando se um usuário criou uma regra de caixa de entrada](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Para obter mais informações, [consulte Determining if a user created an inbox rule](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
