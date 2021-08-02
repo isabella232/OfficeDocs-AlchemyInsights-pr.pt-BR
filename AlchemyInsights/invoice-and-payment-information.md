@@ -3,6 +3,8 @@ title: Informações de fatura e pagamento
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,27 +13,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
+- commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 4328ced877e65de542226232e3335dd7c8046d1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1f7c6cc7003165140f519b51ac0cc40636e71a3e
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696033"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687198"
 ---
 # <a name="invoice-and-payment-information"></a>Informações de fatura e pagamento
 
-**Hipoteca**
+**Pagamento**
 
-Ao comprar uma assinatura do Microsoft 365 for Business diretamente da Microsoft, você pode pagar com um cartão de crédito ou débito.  Em alguns países/regiões, você também pode pagar com uma conta bancária.  Você pode aprender a gerenciar e solucionar problemas desses métodos de pagamento em [gerenciar métodos de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods). Isso inclui resolver problemas quando o cartão de crédito é recusado e atualiza as informações de pagamento.
+Ao comprar uma assinatura Microsoft 365 para empresas diretamente da Microsoft, você pode pagar com um cartão de crédito ou débito.  Em alguns países/regiões, você também pode pagar com uma conta bancária.  Você pode aprender a gerenciar e solucionar problemas desses métodos de pagamento a partir [de Gerenciar métodos de pagamento.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods) Isso inclui a resolução de problemas quando seu cartão de crédito é recusado e a atualização de informações de pagamento.
 
-**Fatura/cobrança**
+**Fatura/Fatura**
 
-Você pode encontrar e baixar suas faturas na **Billing**  >  página[pagamento de títulos &](https://go.microsoft.com/fwlink/p/?linkid=848039) de cobrança.  
+Você pode encontrar e baixar suas faturas na página **Cobrança**  >  [& pagamento.](https://go.microsoft.com/fwlink/p/?linkid=848039)  
 
-**Observação**: se nenhuma fatura estiver visível, talvez seja necessário ajustar o filtro de intervalo de datas.  Por padrão, os últimos 3 meses de faturas são mostrados.
+**Observação**: se nenhuma fatura estiver visível, talvez seja necessário ajustar o filtro de intervalo de datas.  Por padrão, os últimos três meses de faturas são mostrados.
 
-As faturas são criadas mensalmente ou anualmente, dependendo da frequência de cobrança escolhida durante a compra.  Se estiver pagando anualmente, você poderá obter uma cobrança de médio prazo ao adicionar ou remover licenças em uma assinatura.
+As faturas são criadas mensalmente ou anualmente, dependendo da frequência de cobrança escolhida durante a compra.  Se pagar anualmente, você poderá receber uma fatura a médio prazo ao adicionar ou remover licenças em uma assinatura.
 
-- Para saber mais, confira [entenda sua fatura para o Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+- Para obter mais informações, consulte [Understand your invoice for Microsoft 365 for business](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).

@@ -1,5 +1,5 @@
 ---
-title: Você precisa mover um número de telefone de um provedor para a Microsoft?
+title: Você precisa mover um número Telefone de um provedor para a Microsoft?
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,19 +11,21 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: 3dd6c0179e7858713026baf6539f09b3cf1ad95b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c1e5837034130f7d03220d28c1da1fa619b6fe64
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712136"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689394"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Transferir números existentes para o Teams
 
-Se você atualmente possui um provedor ou operadora de serviços telefônicos e já possui números de telefone para seus usuários ou serviços, precisa criar um "pedido de portabilidade" para transferir esses números de telefone para o Microsoft Teams.
+Se você atualmente possui um provedor ou operadora de serviços telefônicos e já possui números de telefone para seus usuários ou serviços, precisa criar um "pedido de portabilidade" para transferir esses números de telefone para o Microsoft Teams.  
 
-- Confira [Transferir números de telefone para o Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams) para saber como a concluir a portabilidade. 
+Para criar uma nova ordem de porta ou verificar uma existente, siga estas etapas: 
 
-- Confira [Gerenciar números de telefone da sua organização](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) para obter orientações sobre o gerenciamento de números de telefone. 
+1. Vá para o Teams [de administração](https://admin.teams.microsoft.com/phone-numbers) para abrir a página Telefone números. 
 
-Para saber mais, confira o artigo [Visão geral do pedido de portabilidade](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).  
+1. Selecione **Obter o link de suporte de número de telefone**. 
+
+Para acessar diretamente o suporte ao número de telefone, [consulte Telefone Central de Serviços de Número.](https://pstnsd.powerappsportals.com/)  

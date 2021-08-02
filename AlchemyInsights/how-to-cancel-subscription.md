@@ -3,6 +3,7 @@ title: Como cancelar uma assinatura
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,18 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9003797"
 - "6836"
-ms.openlocfilehash: af5b16a55afd7e26601e8ffa6288a72c94b9b1fb
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: e8aa177477c1f87de6ce87cecd5f015d1a03756c
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086186"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689106"
 ---
 # <a name="how-to-cancel-a-subscription"></a>Como cancelar uma assinatura
 
-Você pode cancelar uma assinatura do Azure no portal do Azure somente se você for o administrador da conta ou a assinatura. Siga as etapas abaixo.
+Você só poderá cancelar uma assinatura do Azure no portal do Azure se você for o Administrador de Conta ou a assinatura. Siga as etapas abaixo.
 
 1. Selecione sua assinatura na [Página de assinaturas no portal do Azure](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
 2. Selecione a assinatura que você deseja alterar.
@@ -29,9 +31,9 @@ Você pode cancelar uma assinatura do Azure no portal do Azure somente se você 
 
 **O que acontece depois que eu cancelo a minha assinatura?**
 
-Após cancelar sua assinatura, a cobrança é interrompida imediatamente. No entanto, pode levar até 10 minutos para que o cancelamento apareça no portal. Se você cancelar sua assinatura no meio de um período de cobrança, enviaremos a fatura final em sua data de fatura típica após o término do período.
+Depois de cancelar sua assinatura, a cobrança será interrompida imediatamente. No entanto, pode levar até 10 minutos para que o cancelamento apareça no portal. Se você cancelar sua assinatura no meio de um período de cobrança, enviaremos a fatura final em sua data de fatura típica após o final do período.
 
 Seus serviços serão desabilitados após o cancelamento. Isso significa que suas máquinas virtuais serão desalocadas, os endereços IP temporários serão liberados e o armazenamento será somente leitura.
 
-Após a cancelamento da assinatura, a Microsoft espera por 30-90 dias antes de excluir permanentemente seus dados caso você precise acessá-lo ou mudar de ideia. Não cobramos para manter os dados. Para obter mais informações, consulte [centro de confiança da Microsoft-como gerenciamos seus dados](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Após a assinatura ser cancelada, a Microsoft aguarda de 30 a 90 dias antes de excluir permanentemente seus dados, caso você precise acessá-los ou mude de ideia. Não cobramos para manter os dados. Para obter mais informações, consulte [Microsoft Trust Center - How we manage your data](https://www.microsoft.com/trust-center/privacy/data-management#leave).
 

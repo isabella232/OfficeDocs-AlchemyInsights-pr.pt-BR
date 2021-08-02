@@ -3,6 +3,7 @@ title: Assinatura expirada
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: f8e317f5911105e495d17f1242da86fe590651f9
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 23deea0e03b1d9a2208de38d16018a3679e8add3
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544170"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686766"
 ---
 # <a name="expired-subscription"></a>Assinatura expirada
 
@@ -27,7 +29,7 @@ Parece que você tem uma ou mais assinaturas expiradas. Se você quiser continua
 **Reativar**
   
 1. No centro de administração, vá para a página **Cobrança** \> [Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Na página **Produtos**, encontre a assinatura que quer reativar. Selecione os três pontos (mais ações) e selecione **Reativar essa assinatura**.
+2. Na guia **Produtos**, localize a assinatura que você deseja reativar. Selecione os três pontos (mais ações), depois selecione **Reativar esta assinatura**.
     > [!NOTE]
     > Se você não vir **Reativar essa assinatura,** chame o suporte.
 3. No painel **Reativar esta assinatura**, selecione um método de pagamento na lista suspensa ou selecione **Adicionar método de pagamento**.

@@ -3,26 +3,29 @@ title: Alterar a forma de pagamento
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
+- commerce_billing
 - "9002612"
 - "5073"
-ms.openlocfilehash: 7651ca75cc954e222b45fe1172554de0174fb4e0
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: b32e4e99e576a2aa118fa6a5f5b968c30709ea8b
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601370"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685326"
 ---
 # <a name="change-payment-method-fromto"></a>Alterar a forma de pagamento de/para
 
 1. **Mudar de fatura para cartão de crédito ou conta bancária**
 
-    - Não é possível alterar automaticamente de pagamento por fatura para um método de pagamento diferente. Em vez disso, você precisa [comprar uma assinatura diferente](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) paga com um cartão de crédito ou débito ou conta bancária, [mover todos os usuários para a nova assinatura](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription) e, em seguida, [cancelar a assinatura antiga](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+    - Não é possível alterar automaticamente de pagamento por fatura para um método de pagamento diferente. Em vez disso, você precisa [comprar uma assinatura diferente](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) paga com um cartão de crédito ou débito ou conta bancária, [mover todos os usuários para a nova assinatura](/microsoft-365/commerce/subscriptions/move-users-different-subscription) e, em seguida, [cancelar a assinatura antiga](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Mudar de cartão de crédito ou conta bancária para fatura**
 
@@ -32,4 +35,4 @@ ms.locfileid: "50601370"
 
     - Siga as etapas em [Como alterar a forma de pagamento com cartão de crédito para fatura?](how-do-i-change-from-credit-card-payments-to-invoice.md) para concluir a alteração manual.
 
-Para obter mais informações, confira [Como pagar uma assinatura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+Para obter mais informações, confira [Como pagar uma assinatura](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
