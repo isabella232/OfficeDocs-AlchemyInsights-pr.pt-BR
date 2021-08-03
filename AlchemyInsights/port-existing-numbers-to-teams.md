@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4365"
-ms.openlocfilehash: 8da057d33e6b733e3aeb899a5da97f83b96ea893
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 127a7f8f00843e5e6d6a833a7f3e39d8b73da7f2
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51801435"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688314"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Transferir números existentes para o Teams
 
-Se você atualmente possui um provedor ou operadora de serviços telefônicos e já possui números de telefone para seus usuários ou serviços, precisa criar um "pedido de portabilidade" para transferir esses números de telefone para o Microsoft Teams.
+Se você atualmente possui um provedor ou operadora de serviços telefônicos e já possui números de telefone para seus usuários ou serviços, precisa criar um "pedido de portabilidade" para transferir esses números de telefone para o Microsoft Teams.  
 
-- Confira [Transferir números de telefone para o Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams) para saber como a concluir a portabilidade. 
+Para criar uma novo pedido de portabilidade ou para verificar uma existente, siga estas etapas: 
 
-- Confira [Gerenciar números de telefone da sua organização](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) para obter orientações sobre o gerenciamento de números de telefone. 
+1. Vá para o [Centro de administração do Teams](https://admin.teams.microsoft.com/phone-numbers) para abrir a página de números de telefone. 
 
-Para saber mais, confira o artigo [Visão geral do pedido de portabilidade](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview). 
+1. Selecionar **Obter link de suporte de número de telefone**. 
+
+Para ir diretamente ao suporte telefônico, veja [Centro de Serviço de Números de Telefone](https://pstnsd.powerappsportals.com/).  

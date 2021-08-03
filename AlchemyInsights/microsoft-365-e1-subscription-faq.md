@@ -3,6 +3,7 @@ title: Perguntas frequentes sobre a assinatura do Microsoft 365 E1
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: ?, ?
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002870"
 - "5407"
-ms.openlocfilehash: 08d4fc4672a6202cb61e90f9e7027b1189fc06f8
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 07aaccb4442afd2eea09b7220676eb586d25e4db
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602496"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689574"
 ---
 # <a name="microsoft-365-e1-subscription-and-license-management-faq"></a>Perguntas frequentes sobre gerenciamento de assinaturas e licenças do Microsoft 365 E1
 
@@ -26,7 +28,7 @@ ms.locfileid: "50602496"
 - Para **alterar os planos**, consulte [Atualizar para um plano diferente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 - Para **atribuir** licenças E1 aos usuários, vá para **Cobrança > [Licenças](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Para obter mais informações, consulte [Atribuir licenças a usuários](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Para **comprar ou remover** licenças E1, vá para **Cobrança > [Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Para mais informações, consulte [Comprar ou remover licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
-- Para **cancelar** uma assinatura E1, vá para **Cobrança >[Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)**, selecione a assinatura, e na seção **Configurações de assinatura e pagamento**, selecione **Cancelar assinatura**. Para obter mais informações, consulte [Cancelar sua assinatura](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Para **cancelar** uma assinatura E1, vá para **Cobrança >[Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054)**, selecionar a assinatura, e na seção **Configurações de assinatura e pagamento**, selecionar **Cancelar assinatura**. Para mais informações, veja [Cancelar sua assinatura](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Para **ativar** uma assinatura E1, confira [Ativar sua assinatura](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Para **reativar** uma assinatura E1, confira [Reativar sua assinatura](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
 - Para **prorrogar** uma avaliação E1, confira [Prorrogar sua avaliação](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
