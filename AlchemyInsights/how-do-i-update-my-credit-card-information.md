@@ -4,6 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,15 +12,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: be4d2c8959421b13c00a049cf4cc6b5b1a22ca3c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8d5f9cfd3a22a08ec3db784f79622b883e967faa
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810940"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685866"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Como atualizar minhas informações de cartão de crédito?
 
@@ -27,6 +29,6 @@ ms.locfileid: "51810940"
 2. Selecione a linha do método de pagamento a ser atualizado. No painel direito, selecione **Editar**.
 3. Atualize suas informações de método de pagamento, inclusive o nome no cartão de crédito ou de débito, no endereço de cobrança ou na data de vencimento e selecione **Salvar**.
 
-Para saber mais, consulte [Gerenciar métodos de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Para saber mais, consulte [Gerenciar métodos de pagamento](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-**Observação**: se outro administrador comprou a assinatura, não será possível atualizar as informações do cartão de crédito ou da conta bancária. Se esse cartão estiver prestes a expirar e o outro administrador não puder atualizar as informações, adicione outro cartão de crédito ou uma nova conta bancária à assinatura para evitar a interrupção do serviço.
+**Nota**: Se outro administrador adquiriu a assinatura, você não poderá atualizar as informações do cartão de crédito ou da conta bancária para ela. Se o cartão de crédito estiver prestes a expirar e o outro administrador não for capaz de atualizá-lo, você pode evitar a interrupção do serviço, adicionando um cartão de crédito diferente ou uma nova conta bancária para a assinatura.
