@@ -1,5 +1,5 @@
 ---
-title: Alchemy-criar e adicionar assinatura a mensagens no Outlook
+title: Alquimia - Criar e adicionar assinatura a mensagens em Outlook
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: 933533b2c1065a96786522eee481abf859186342
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c676c03834f5d1b1740addd6ad108ee1176faa19e4b0a5b8927ac1e600810d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718804"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934147"
 ---
-# <a name="creating-email-signatures"></a>Criar assinaturas de email
+# <a name="creating-email-signatures"></a>Criando assinaturas de email
 
-Estes artigos devem ajudá-lo a criar assinaturas de email no Outlook.
+Esses artigos devem ajudá-lo a criar assinaturas de email Outlook.
   
-- Desejo criar uma assinatura de email usando o Outlook no Windows: [criar e adicionar uma assinatura a mensagens](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
+- Quero criar uma assinatura de email usando Outlook no Windows: [Criar e adicionar uma assinatura a mensagens](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
   
-- Desejo criar uma assinatura de email usando o Outlook na Web: [criar e adicionar uma assinatura de email no Outlook na Web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
+- Quero criar uma assinatura de email usando Outlook na Web: [Criar e adicionar uma](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx) assinatura de email Outlook na Web
 
-- Desejo criar uma assinatura de email usando Outlook.com: [criar e adicionar uma assinatura de email no Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
+- Quero criar uma assinatura de email usando Outlook.com: Criar e adicionar uma assinatura de [email em Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 
-- Desejo criar uma assinatura de email global para todos os emails enviados da minha empresa: [criar assinaturas e avisos para toda a organização](https://docs.microsoft.com/microsoft-365/admin/setup/create-signatures-and-disclaimers)
+- Quero criar uma assinatura de email global para todos os emails enviados da minha empresa: [Criar assinaturas](https://docs.microsoft.com/microsoft-365/admin/setup/create-signatures-and-disclaimers) e avisos de isenção de responsabilidade em toda a organização
 
- **Dica:** As assinaturas de toda a organização são chamadas de "isenções de responsabilidade".
+ **Dica:** As assinaturas em toda a organização são conhecidas como "avisos de isenção de ônus".
   

@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: e69f3e529e4a2202f641cb62f42b1a20d774a398
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 77a3c022a9a3a82041b4a4a70c72c2e0940c0fba27f296f07881e3abebf1e464
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907726"
 ---
 # <a name="workflow-is-not-starting"></a>O fluxo de trabalho não está iniciando
 
-- Os fluxos de trabalho do SharePoint 2010 e do SharePoint 2013 não estão iniciando.
+- SharePoint 2010 e SharePoint fluxos de trabalho 2013 não estão iniciando.
 
     - Se o fluxo de trabalho não estiver iniciando, pode haver um problema de serviço temporário em que os usuários possam ter atrasos intermitentes com o andamento do fluxo de trabalho. Verifique o [Painel de Saúde do Serviço](https://admin.microsoft.com/AdminPortal/Home/servicehealth) para ver se sua organização está impactada.
 
     - Se mais de 24 horas se passaram desde que você viu esse problema pela primeira vez, registre um tíquete de suporte. Em muitos casos, já estamos trabalhando em uma solução. Dê-nos pelo menos 24 horas para concluir uma solução.
 
-- Fluxos de trabalho do SharePoint 2010 atrasados no início.
+- SharePoint fluxos de trabalho de 2010 atrasados no início.
 
     - Isso ocorrerá se o fluxo de trabalho for disparado em lotes grandes. (por exemplo, quando vários itens são adicionados ao mesmo tempo).
 
@@ -44,6 +44,6 @@ ms.locfileid: "51403731"
 
 
 ## <a name="related-topics"></a>Tópicos relacionados
-Deseja experimentar o Microsoft Flow no SharePoint Online?
-- [Criar Fluxo](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+Quer tentar Microsoft Flow no SharePoint Online?
+- [Criar Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint e Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

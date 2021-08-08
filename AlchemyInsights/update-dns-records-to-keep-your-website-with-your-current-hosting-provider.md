@@ -14,16 +14,16 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: f7871bb0f6ff289a4c20ef290b391579511233db
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7b9115f1a37de44eb5212f5bfc41b750d80200852b9982fe683b90af6a22a7df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834467"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060268"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Atualizar registros DNS para manter seu site com seu provedor de hospedagem atual
 
-Como parte do processo de mover seu Site Público do Microsoft 365 para outro provedor de hospedagem, você provavelmente precisará fazer alterações nos registros de domínio.
+Como parte do processo de mover seu site público Microsoft 365 para outro provedor de hospedagem, você provavelmente precisará fazer alterações nos registros de domínio.
   
 1. No centro de administração, vá para **Configurar** \> **Domínios** e escolha o nome de domínio que você deseja alterar.
 
@@ -31,4 +31,4 @@ Como parte do processo de mover seu Site Público do Microsoft 365 para outro pr
 
 Para saber mais, confira [Atualizar registros DNS para manter seu site com seu provedor de hospedagem atual.](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide)
   
-Para saber mais sobre a descontinuação do site público, consulte Sites Públicos do [SharePoint Online a serem descontinuados.](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)
+Para saber mais sobre a descontinuação do site público, consulte SharePoint Sites Públicos Online [a serem descontinuados.](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)

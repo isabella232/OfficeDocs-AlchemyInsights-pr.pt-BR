@@ -1,5 +1,5 @@
 ---
-title: Os arquivos estão bloqueados para edição
+title: Os arquivos são bloqueados para edição
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,24 +14,24 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3020837e8e8dd3b9ff4ada33f23c6118e83c3806
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 819aada39cdb819cb7a4fe30e14e88239c6352ab451eb77ee135307d5dd1cfcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664482"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907798"
 ---
-# <a name="why-cant-i-edit-files"></a>Por que não consigo editar arquivos?
+# <a name="why-cant-i-edit-files"></a>Por que não posso editar arquivos?
 
 Veja rapidamente alguns dos motivos [pelos quais você pode não conseguir editar o arquivo](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Se você tiver bibliotecas com as colunas de **check-out, obrigatórias** ou de **validação** ou metadados, ou quando a **segurança de item de rascunho** estiver definida como **somente usuários que podem editar** ou **apenas usuários que podem aprovar itens** nas configurações de versão da biblioteca:
+Se você tiver bibliotecas com **check-out,** colunas ou metadados obrigatórios  ou validação ou  quando a Segurança de **Item** de Rascunho estiver definida como Somente usuários que podem editar ou Somente usuários que podem aprovar itens na versão Configurações da biblioteca: 
 
-- Para bibliotecas de documentos do SharePoint, esses itens serão sincronizados como somente leitura.
+- Para SharePoint de documentos, esses itens serão sincronizados como somente leitura.
 
-- Para as bibliotecas do OneDrive, o OneDrive mostrará um ícone de cadeado (ícone de arquivo bloqueado do OneDrive) ao lado do status de sincronização e o usuário não poderá sincronizar a biblioteca até que as configurações mencionadas tenham sido removidas. 
+- Para OneDrive bibliotecas, o OneDrive mostrará um ícone de bloqueio ( ícone bloqueado de arquivo OneDrive ) ao lado do status de sincronização e o usuário não poderá sincronizar a biblioteca até que as configurações mencionadas tenham sido removidas. 
 
-Para obter mais informações sobre arquivos bloqueados para o Word ou Excel, consulte os artigos a seguir.
+Para obter mais informações sobre arquivos bloqueados para Word ou Excel, consulte os artigos abaixo.
 
 - [Recebi o erro "Falha ao carregar" ou "Não foi possível salvar automaticamente" ao editar um arquivo do Office](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
 

@@ -1,5 +1,5 @@
 ---
-title: Atualizar imposto/ID de IVA
+title: Atualizar iD de imposto/IVA
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7323"
-ms.openlocfilehash: 086b91c3247214d33e9b71b53ea6ba4d001936e3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 378ad1434f80d31c9649cecee363a448fb6dc342d36dc06123a59bacfd9d73f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617211"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908428"
 ---
-# <a name="update-taxvat-id"></a>Atualizar imposto/ID de IVA
+# <a name="update-taxvat-id"></a>Atualizar iD de imposto/IVA
 
-Se você tiver problemas relacionados à ID de impostos/IVA, entre em contato com seu parceiro de licenciamento da Microsoft (consultor de parceiro ou software). Eles entrarão em contato com o centro de operações regionais (ROC) para perguntas sobre sua ID de imposto/IVA. 
+Se você tiver algum problema relacionado à ID DE IMPOSTO/IVA, entre em contato com seu Parceiro de Licenciamento da Microsoft (Parceiro ou Consultor de Software). Eles entrarão em contato com o Centro de Operações Regionais (ROC) para saber mais sobre sua ID DE IMPOSTO/IVA. 

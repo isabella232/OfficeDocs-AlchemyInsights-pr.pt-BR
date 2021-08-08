@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000053
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: dd014f9e5f4a126720614a2d92df3cfbc223bb17
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4be0f4a06100205083834763e39552a1daf008488232fbe681c3ab71e549f764
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735223"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060556"
 ---
 # <a name="unable-to-send-group-emails"></a>Não é possível enviar emails de grupo
 
-Se você não conseguir enviar emails para listas de contatos ou grupos de contatos no Outlook.com, tente o seguinte:
+Se você não puder enviar emails para listas de contatos ou grupos de contatos em Outlook.com, tente o seguinte:
   
-1. Use o Outlook.com beta. Para obter mais informações, [saiba mais sobre o Outlook.com beta](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
+1. Use Outlook.com beta. Para obter mais informações, [saiba mais sobre o Outlook.com beta](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
     
-2. Se você ainda estiver tendo problemas para compor um email para o seu grupo, vá para [pessoas](https://outlook.live.com/people/), selecione o grupo ou a lista de contatos e, em seguida, escolha **Enviar email**.
+2. Se você ainda estiver com problemas para compor um email para seu grupo, vá para [Pessoas](https://outlook.live.com/people/), selecione a lista de contatos ou grupo e escolha **Enviar email**.
     
  **Observações:**
   
-1. Certifique-se de que não haja pop-ups bloqueados: o envio de email da página de lista de contatos abre uma nova janela.
+1. Certifique-se de não ter pop-ups bloqueados: o envio de emails da página de lista de contatos abre uma nova janela.
     
-2. Enviar email da lista de contatos coloca automaticamente a lista na linha **para** . Se você deseja ocultar os detalhes da lista de contatos, clique em **Cco** no canto superior direito e copie e cole a lista de contatos em **Cco** e exclua a entrada **para** . 
+2. Enviar emails da lista de contatos coloca automaticamente a lista na **linha TO.** Se você quiser ocultar os detalhes da lista de contatos, clique em **CC** no canto superior direito e copie e colar a lista de contatos em **CC** e exclua a **entrada TO.** 
     
-3. Ao usar **Cco**, é uma boa prática sempre ter algo na linha **para** , por exemplo seu próprio endereço "de". 
+3. Ao usar **a CC**, é uma boa prática sempre ter algo na linha **TO,** por exemplo, seu próprio endereço "de". 
     
 
