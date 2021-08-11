@@ -1,5 +1,5 @@
 ---
-title: Atualizar para o Visio 2019
+title: Atualizar para Visio 2019
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1798"
 - "9000201"
-ms.openlocfilehash: 90ba95281df41b4e715778a95a0e15a4a5b50f98
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a2c424f696d0f078962804b54da35579d079e5052e8e76ad7803b093e0f6d7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734935"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007094"
 ---
-# <a name="upgrade-to-visio-2019"></a>Atualizar para o Visio 2019
+# <a name="upgrade-to-visio-2019"></a>Atualizar para Visio 2019
 
-Os usuários que instalaram o aplicativo da área de trabalho do Visio como parte de uma assinatura do Visio online já têm a versão mais recente. 
+Os usuários que instalaram o Visio da área de trabalho como parte de uma assinatura Visio Online já têm a versão mais recente. 
 
-Para atualizar uma versão que não seja de assinatura, como o Visio 2016, você precisa comprar uma assinatura do Visio online ou uma compra única do Visio Standard ou do Vision Professional 2019. Confira [comparar opções do Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).
+Para atualizar uma versão que não seja de assinatura, como o Visio 2016, você precisa comprar uma assinatura do Visio Online ou uma compra única do Visio Standard ou do Vision Professional 2019. Consulte [Comparar Visio opções](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).
 
-Se você já comprou uma versão mais recente e está pronto para instalá-la, confira [instalar o Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) e siga as etapas para sua versão. 
+Se você já comprou uma versão mais recente e está pronto para instalá-la, consulte [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) and follow the steps for your version. 
 
-Para instalar o Visio lado a lado com o Office, confira [cenários com suporte para a instalação de diferentes versões do Office, do Project e do Visio no mesmo computador](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
+Para instalar Visio lado a lado com o Office, consulte Cenários com suporte para instalar diferentes versões do [Office, Project](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)e Visio no mesmo computador .
 
 Para saber mais, confira:<br>
-[Guia de implantação do Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[O número de versão principal do Visio 2019 permanece em 16,0](https://docs.microsoft.com/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
-[Designação de ano no Office 2016 e os aplicativos cliente serão removidos das entradas do menu iniciar](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
-[Office 2019 comercial para Windows e perguntas frequentes sobre o Mac](https://support.microsoft.com/help/4133312) 
+[Guia de implantação para Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[O número de versão principal do Visio 2019 está em 16,0](https://docs.microsoft.com/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
+[Designação de ano Office 2016 e aplicativos cliente serão removidos de menu Iniciar entradas](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
+[Office 2019 Comercial para Windows e Mac perguntas frequentes](https://support.microsoft.com/help/4133312) 

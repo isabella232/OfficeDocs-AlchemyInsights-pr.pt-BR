@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3ad25cd49fb37a34afe4d65106d0f881fb051224ed0a7e2a27a1fd2f52645433
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824171"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970715"
 ---
 # <a name="what-version-of-android-does-your-app-support"></a>Qual versão do Android dá suporte ao seu aplicativo?
 
@@ -27,13 +27,13 @@ Se você estiver atualizado em seu sistema operacional Android, mas ainda estive
 
 Para fazer isso: 
 
-1. Em seu telefone ou tablet Android, abra **Configurações** e aplicativos **ou** **aplicativos.**
+1. Em seu telefone ou tablet Android, **abra** Configurações **aplicativos** ou **aplicativos.**
 
 2. Na parte superior da tela, toque em **Mais** (isso também pode ser uma reellipse ou três pontos verticais) e, em seguida, **Mostrar sistema**. 
 
 3. Role para baixo e toque **em Serviços do Google Play.** 
 
-4. Toque **em Armazenamento** e em Limpar **Cache**. 
+4. Toque **Armazenamento** e limpe **Cache**. 
 
 5. Toque **em Gerenciar Espaço** e limpar todos os **dados.** 
 

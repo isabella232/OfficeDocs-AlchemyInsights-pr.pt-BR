@@ -1,5 +1,5 @@
 ---
-title: O que há de novo no Windows 10, versão 1903
+title: Novidades no Windows 10 versão 1903
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003945"
 - "7003"
-ms.openlocfilehash: 582af6dd48460869998ff41c9e2cc4230fc82b4b
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: f7b88788ae74f967f112e67d3fc80b80d3d93fc2e4af9efa3a977d16d1d70350
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49681447"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970643"
 ---
-# <a name="whats-new-in-windows-10-version-1903"></a>O que há de novo no Windows 10, versão 1903
+# <a name="whats-new-in-windows-10-version-1903"></a>Novidades no Windows 10 versão 1903
 
-Aqui estão os recursos e o conteúdo novos e atualizados para o Windows 10 versão 1903, também conhecido como atualização do Windows 10 de maio de 2019. Esta atualização também contém todos os recursos e correções incluídos nas atualizações cumulativas anteriores para o Windows 10, versão 1809:
+Aqui estão os recursos e conteúdo novos e atualizados para Windows 10 versão 1903, também conhecido como o Atualização de maio de 2019 para o Windows 10. Essa atualização também contém todos os recursos e correções incluídos nas atualizações cumulativas anteriores para Windows 10, versão 1809:
 
 1. [Implantação](https://go.microsoft.com/fwlink/?linkid=2114296)
-1. [Operações](https://go.microsoft.com/fwlink/?linkid=2114493)
+1. [Manutenção](https://go.microsoft.com/fwlink/?linkid=2114493)
 1. [Segurança](https://go.microsoft.com/fwlink/?linkid=2114297)
 1. [Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2114298)

@@ -1,5 +1,5 @@
 ---
-title: 764 adicionar/configurar contas de email
+title: 764 Adicionar/Configurar contas de email
 ms.author: pdigia
 author: pebaum
 ms.date: 04/21/2020
@@ -12,22 +12,22 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: b33bbb346fdbfe3a27512b3dfaf6e3c07e5a7b04
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d7e015bd79addc9a1abe1a9a7973fe923c934bf60c2891f4454c13622a2b8a9f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663573"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935505"
 ---
 # <a name="set-up-email-accounts"></a>Configurar contas de email
 
-1. No Outlook, clique em informações de **arquivo**  >  **Info**  >  **adicionar conta**.
+1. Em Outlook, clique em **Adicionar**  >  **Conta de Informações de**  >  **Arquivo.**
 
-2. Insira seu endereço de email e clique em **conectar**.
+2. Insira seu endereço de email e clique **em Conexão**.
 
 3. Insira sua senha e clique em **OK**.
 
 4. Você pode repetir essas etapas para adicionar várias contas.
 
-**Observação**: algumas contas de email, como Gmail, Yahoo e iCloud, exigem que você configure a autenticação de dois fatores para usar o Outlook para enviar e receber emails. Consulte [Adicionar uma conta de email ao Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) para obter mais informações.
+**Observação**: Algumas contas de email, como Gmail, Yahoo e iCloud, exigem que você configurar a autenticação de dois fatores para usar Outlook enviar e receber emails. Consulte [Adicionar uma conta de email Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) para obter mais informações.
   
