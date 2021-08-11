@@ -14,23 +14,23 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: a025ff3684fdd453130e73c0f023a6b321d4209c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4f899b44fd3e2daf7291c95bb72779eb7d4940f21894dae50e7f3a82c6b3ab5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770215"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909922"
 ---
 # <a name="solutions-for-error-30016-4"></a>Soluções para o erro 30016-4
 
-Ao tentar desinstalar o Microsoft 365 aplicativos para empresas de um computador, e você receber a mensagem de erro, **algo deu errado 30016-4**, significa que a unidade **% Temp%** é mapeada para uma unidade diferente de **% ProgramFiles%**.
+Quando você tenta desinstalar Microsoft 365 Apps para Grandes Empresas de um computador e recebe a mensagem de erro, Algo deu errado **30016-4**, isso significa que a **unidade %temp%** é mapeada para uma unidade diferente **de %ProgramFiles%**.
   
-Para corrigir, baixe e instale o [Assistente de recuperação e suporte](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+Para corrigir, baixe e instale o [Assistente de Recuperação e Suporte](https://aka.ms/SARA-OfficeUninstall-Alchemy)
   
-1. Ao abrir, de **desinstalar produtos do Office** , selecione a versão que você deseja desinstalar e selecione **Avançar**.
+1. Quando ele for aberto, **desinstale** Office os produtos selecione a versão que você deseja desinstalar e selecione **Próximo**.
 
 2. Continue passando pelas telas e reinicie o computador quando solicitado.
 
-    Após a reinicialização, o assistente de recuperação e suporte será reaberto automaticamente para concluir o processo de desinstalação.
+    Depois de reiniciar, o Assistente de Recuperação e Suporte abre automaticamente para concluir o processo de desinstalação.
 
-3. Siga as solicitações restantes e [reinstale o Office](https://portal.office.com/OLS/MySoftware.aspx) ou feche o assistente.
+3. Siga os prompts restantes e [reinstale Office](https://portal.office.com/OLS/MySoftware.aspx) ou feche o assistente.

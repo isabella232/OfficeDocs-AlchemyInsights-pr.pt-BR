@@ -1,5 +1,5 @@
 ---
-title: 1575-PowerApps e extensão de plano de fluxo da Microsoft
+title: 1575-PowerApps e Microsoft Flow plano de extensão
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728383"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960427"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps e extensão de plano de fluxo da Microsoft
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps e Microsoft Flow plano de extensão
 
-Se você pretende solicitar uma extensão de plano para o **Microsoft Flow** ou **PowerApps** e seu locatário já tem usuários ativos de um dos seguintes recursos, não há necessidade de arquivar uma solicitação de suporte.
+Se você pretende solicitar uma  extensão de plano para Microsoft Flow ou **PowerApps** e seu locatário já tiver usuários ativos de um dos seguintes recursos, não será necessário arquivar uma solicitação de suporte.
 
-- Criação e publicação de conectores personalizados no PowerApps e no Microsoft Flow
-- Ações personalizadas HTTP integradas ao fluxo fora do SharePoint e do OneDrive
-- Integração de dados locais através do gateway de dados local
+- Criação e publicação de conectores personalizados no PowerApps e Microsoft Flow
+- Ações personalizadas HTTP integradas a Flow fora SharePoint e OneDrive
+- Integração de dados locais por meio do gateway de dados local
 
-Os clientes com usuários ativos desses recursos receberão uma extensão automática até 31 de janeiro de 2020 ou a expiração do prazo de assinatura do Microsoft 365 existente, o que for maior.
+Os clientes com usuários ativos desses recursos receberão uma extensão automática até 31 de janeiro de 2020 ou a expiração do termo de assinatura Microsoft 365 existente, o que for mais longo.
