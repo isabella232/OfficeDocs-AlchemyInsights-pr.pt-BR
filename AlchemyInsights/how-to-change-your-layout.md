@@ -1,5 +1,5 @@
 ---
-title: 8000059 como alterar o layout
+title: 8000059 Como alterar seu layout
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "993"
 - "8000059"
 ms.assetid: 8ea65090-8e05-4ab8-a30c-3bb6db6b75dd
-ms.openlocfilehash: a74b6f938f3059c307f35e94e4abfbb590282a3f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 153d908298e5fcfe8417f45ac89c911993f98d16ffe5c27abda4b6f3959002c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963739"
 ---
-# <a name="how-to-change-your-layout"></a>Como alterar o layout
+# <a name="how-to-change-your-layout"></a>Como alterar seu layout
 
-É fácil alterar as configurações no Outlook.com para que ele pareça e se comporta da maneira desejada. Selecione **configurações** na barra de ferramentas para as opções mais populares.
+É fácil alterar as configurações em Outlook.com para que ele pareça e se comporte da maneira que você deseja. Selecione **Configurações** na barra de ferramentas para as opções mais populares.
 
-Para ver todas as opções de layout, selecione **configurações**  >  **Mail**  >  [**layout**](https://outlook.live.com/mail/options/mail/layout)de email.
+Para ver todas as opções de layout, Selecione **Configurações**  >  **Layout de**  >  [**Email.**](https://outlook.live.com/mail/options/mail/layout)
   

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9800"
 - "9005744"
-ms.openlocfilehash: 14555dfcb1406fd3a3977012393714a713ff80dc
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: ac25548b0110834c877ae53be097d6b6c0f13c4091040a901abd56fb2a3cbba3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897467"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939943"
 ---
 # <a name="troubleshoot-azure-ad-authentication-and-authorization-aadsts-error-codes"></a>Solucionar problemas de Autenticação do Microsoft Azure AD e códigos de erro de autorização (AADSTS)
 
@@ -48,7 +48,7 @@ valid. The scope https://example.contoso.com/activity.read is not valid.\r\nTrac
 ```
 2. **Procurar informações de código de erro atual**
 
-- Os códigos de erro e as mensagens estão sujeitas a alterações. Para obter as informações mais atuais, consulte a página https://login.microsoftonline.com/error para encontrar descrições de erro AADSTS, correções e algumas soluções alternativas sugeridas.
+- Códigos de erro e mensagens estão sujeitos a alterações. Para obter as informações mais atuais, consulte a página https://login.microsoftonline.com/error para encontrar descrições de erros, correções e algumas soluções alternativas sugeridas do AADSTS.
 - Você também pode pesquisar e solucionar problemas de códigos de erro [ de erro AADSTS](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes#aadsts-error-codes) listados no artigo [Autenticação do Microsoft Azure AD e códigos de erro de autorização](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes#handling-error-codes-in-your-application).
 
 3. **Obter Ajuda**
