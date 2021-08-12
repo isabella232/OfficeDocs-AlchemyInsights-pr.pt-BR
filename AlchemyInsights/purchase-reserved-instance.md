@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6816"
-ms.openlocfilehash: 4e42d4a3d7c3cb3a08264fac768606319ffe0043
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc8972d56ad63ac1d0bc16910ed74c7121aefb05f786fdd60a77ba89867d1741
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809895"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973037"
 ---
 # <a name="questions-before-purchase"></a>Perguntas antes da compra
 
@@ -34,7 +34,7 @@ Leia este artigo: [Comprar a capacidade reservada do Banco de Dados SQL](https:/
 Não, você pode comprar a RI se for proprietário de uma assinatura EA.
 
 **As compras de RI são deduzidas do compromisso monetário?**  
-Sim. Caso não tenha compromisso monetário suficiente, você receberá uma fatura com o valor excedente do compromisso monetário disponível.
+Sim. Se você não tiver compromisso monetário suficiente, receberá uma fatura excedente para o valor que excede o compromisso monetário disponível.
 
 **Como a instância reservada se aplica a VMs do Windows ou a meus custos de IP do SQL?**  
 O desconto de instância reservada só se aplica ao uso de computação. Os custos de IP do Windows ou do SQL serão cobrados separadamente e não recebem desconto de RI. [Custos de software não incluídos nas Instâncias de VM Reservadas do Azure](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  

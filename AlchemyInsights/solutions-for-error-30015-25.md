@@ -14,25 +14,25 @@ ms.custom:
 - "830"
 - "2000020"
 ms.assetid: 1f16f2c7-9593-4ef3-a4d4-e22b59814497
-ms.openlocfilehash: cb5836189a011ce67941329cbdbcf8fc2a6c4734
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e7d0ede8f78d7c32e11241194c5df8c22bdac398ca095d65691d30b4e93f3f8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691311"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957268"
 ---
 # <a name="solutions-for-error-30015-25"></a>Soluções para o erro 30015-25
 
-Tente estas soluções para corrigir o erro [30015-25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):
+Experimente essas soluções para corrigir o erro [30015-25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):
   
-- Reinicie o computador e tente [instalar o Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Reinicie o computador e [tente instalar Office](https://portal.office.com/OLS/MySoftware.aspx).
 
 - Baixe e instale o [Assistente de Recuperação e Suporte da Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Ao abrir, de **desinstalar produtos do Office** , selecione a versão que você deseja desinstalar e selecione **Avançar**.
+1. Quando ele for aberto, **desinstale** Office os produtos selecione a versão que você deseja desinstalar e selecione **Próximo**.
 
 2. Continue passando pelas telas e reinicie o computador quando solicitado.
 
-    Após a reinicialização, o assistente de recuperação e suporte será reaberto automaticamente para concluir o processo de desinstalação.
+    Depois de reiniciar, o Assistente de Recuperação e Suporte abre automaticamente para concluir o processo de desinstalação.
 
-3. Siga as solicitações restantes e [reinstale o Office](https://portal.office.com/OLS/MySoftware.aspx) ou feche o assistente.
+3. Siga os prompts restantes e [reinstale Office](https://portal.office.com/OLS/MySoftware.aspx) ou feche o assistente.

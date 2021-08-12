@@ -1,5 +1,5 @@
 ---
-title: Gerenciar grupos de aplicativos usando o portal do Azure para a área de trabalho virtual do Windows
+title: Gerenciar grupos de aplicativos usando o portal do Azure para Windows Área de Trabalho Virtual
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003956"
 - "7013"
-ms.openlocfilehash: 0dd08d04ad6328e7afa158b36517839fc31a8566
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 260a0b2b8d3f8fcc1fd6096373a8a8ecd90585adc5865ff1fb832870cb62102e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49715657"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912046"
 ---
-# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Gerenciar grupos de aplicativos usando o portal do Azure para a área de trabalho virtual do Windows
+# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Gerenciar grupos de aplicativos usando o portal do Azure para Windows Área de Trabalho Virtual
 
-O grupo de aplicativos padrão criado para um novo pool de hosts de área de trabalho virtual do Windows também publica a área de trabalho completa. Além disso, o uso do portal do Azure permite que você crie um ou mais grupos de aplicativos RemoteApp para o pool de hosts.
+O grupo de aplicativos padrão criado para um novo Windows host da Área de Trabalho Virtual também publica a área de trabalho completa. Além disso, usar o portal do Azure permite criar um ou mais grupos de aplicativos RemoteApp para o pool de host.
 
 O processo de implantação fará o seguinte:
 
-1. Crie o grupo de aplicativos do RemoteApp.
+1. Crie o grupo de aplicativos RemoteApp.
 2. Adicione seus aplicativos selecionados ao grupo de aplicativos.
 3. Publique usuários individuais ou grupos de usuários no grupo de aplicativos.
 4. Registre o grupo de aplicativos, se você optar por fazer isso.
-5. Crie um link para um modelo do Azure Resource Manager de acordo com sua configuração, que você pode baixar e salvar.
+5. Crie um link para um modelo do Gerenciador de Recursos do Azure de acordo com sua configuração, que você pode baixar e salvar.
 
-Para criar um grupo RemoteApp para a área de trabalho virtual do Windows, siga as instruções em [Manage app groups with the Azure portal](https://go.microsoft.com/fwlink/?linkid=2129550).
+Para criar um grupo RemoteApp para Windows Área de Trabalho Virtual, siga as instruções em Gerenciar grupos de aplicativos [com o portal do Azure.](https://go.microsoft.com/fwlink/?linkid=2129550)

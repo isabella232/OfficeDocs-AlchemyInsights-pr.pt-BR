@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 4695a2f111823739c4d87fa2b262a5e64e080955
-ms.sourcegitcommit: 2103d706492ad7ee9596344714c0520569ebd6af
+ms.openlocfilehash: f6f0228f6cdf7e07c9f439c54a7a2bd5364381c0e47dc80117bd964c5eafea61
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53077639"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957196"
 ---
 # <a name="enable-smtp-authentication-and-troubleshooting"></a>Habilitar autenticação SMTP e solução de problemas
 
@@ -25,7 +25,7 @@ Se quiser habilitar a autenticação SMTP para uma caixa de correio ou estiver r
 
 1. Desabilite o [padrão de segurança do Azure](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) alternando **Habilitar padrões de segurança** para **Não**.
 
-    a. Entre no portal do Azure como administrador de segurança, administrador de acesso condicional ou administrador global.<BR/>
+    Entre no portal do Azure como administrador de segurança, administrador de acesso condicional ou administrador global.<BR/>
     b. Navegue até Azure Active Directory > **Propriedades**.<BR/>
     c. Selecione **Gerenciar padrões de segurança**.<BR/>
     d. Defina **Habilitar padrões de segurança** para **Não**.<BR/>

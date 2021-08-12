@@ -1,5 +1,5 @@
 ---
-title: O domínio expira em breve
+title: Expiração do registro de domínio
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,20 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "10933"
+- "9006437"
 - "5300030"
-ms.openlocfilehash: 277285bfd0d52f3bcdbb7b0d0702f8032f6b9dce
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 633665db4b68d84105c23dbb8140ef2222c728322d8d6dfc8e5488c603eea669
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814900"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965161"
 ---
-# <a name="domain-expiring-soon"></a>O domínio expira em breve
+# <a name="domain-registration-expiration"></a>Expiração do registro de domínio
 
-A mensagem de aviso de expiração de domínio do Office 365 pode estar incorreta. Estamos trabalhando para corrigir esse problema.
+Expiração do domínio: 
 
-- Para verificar a expiração do domínio com o registrador de domínios.
+- Para verificar a data de expiração do domínio, verifique com o registrador de domínios.
 
 - Se você comprou seu domínio da Microsoft, vá para [Cobrança > Seus produtos](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions) verificar a assinatura do domínio.
 
