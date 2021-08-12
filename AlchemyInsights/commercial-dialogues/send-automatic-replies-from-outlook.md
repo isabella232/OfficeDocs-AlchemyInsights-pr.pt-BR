@@ -1,5 +1,5 @@
 ---
-title: Enviar respostas automáticas do Outlook
+title: Enviar respostas automáticas de Outlook
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: 6ad7b36b281f267b6db32ea5acbc9418ac91812a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8bd5170c164431d2b48e872f30f5a9a4bdee99ee867c5cd4c290f4abf1bc35ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735256"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966853"
 ---
-# <a name="send-automatic-replies-from-outlook"></a>Enviar respostas automáticas do Outlook
+# <a name="send-automatic-replies-from-outlook"></a>Enviar respostas automáticas de Outlook
 
 Veja o que você faz:
 
