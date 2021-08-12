@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4fad0a513f7c6d2f0337019488a4055c25e1650d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 96579b28923e392a0fa05c56833fed1b45eb118437ac7e8333c610ed69126f8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735375"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916403"
 ---
 # <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>Configurar e validar exclusões para MDATP em uma máquina Linux
 
@@ -26,4 +26,4 @@ Você pode excluir determinados arquivos, pastas, processos e arquivos abertos p
 Para saber mais, consulte [Configure and validate exclusions for MDATP for Linux](https://go.microsoft.com/fwlink/?linkid=2144517).
 
 > [!IMPORTANT]
-> As exclusões descritas neste artigo não se aplicam a outros recursos do MDATP para Linux, incluindo a detecção e a resposta do ponto de extremidade (EDR). Os arquivos excluídos usando os métodos descritos neste artigo ainda podem disparar alertas de EDR e outros recursos de detecção.
+> As exclusões descritas neste artigo não se aplicam a outros recursos do MDATP para Linux, incluindo detecção e resposta de ponto de extremidade (EDR). Os arquivos excluídos usando os métodos descritos neste artigo ainda podem disparar EDR alertas e outros recursos de detecção.
