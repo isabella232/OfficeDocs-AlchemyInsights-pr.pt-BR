@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1790"
 - "9000214"
-ms.openlocfilehash: 10b37b2ffda50dc77396039a9e0e443ad81aef72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9310e8685a922207be8d5672d7929e19313cbb57e0fa6d25de149106692e811f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728275"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944119"
 ---
 # <a name="problems-using-the-intune-admin-console"></a>Problemas utilizando o console de administração do Intune
 
@@ -27,11 +27,11 @@ ms.locfileid: "47728275"
 - Se você for um membro de uma função personalizada do Intune, certifique-se de que uma licença do Intune ou Enterprise Mobility Suite (EMS) está atribuída à sua conta.
 - Se você estiver usando o Gerenciador de Configurações para gerenciar os dispositivos, certifique-se de que não faça parte da coleção de usuários do Intune para o Configuration Manager MDM.
 - Verifique se você recebeu as permissões apropriadas do controle de administração baseado em função (RBAC) na lâmina funções do Intune.
-- Verifique se o grupo usado não é uma lista de distribuição. O Intune no portal do Azure é compatível apenas com as contas de usuário que pertencem aos grupos de segurança do Azure Active Directory. Examine seus grupos no portal do Azure > **Intune** > **Grupos**ou no portal do Azure > **Azure Active Directory**.
+- Verifique se o grupo usado não é uma lista de distribuição. O Intune no portal do Azure é compatível apenas com as contas de usuário que pertencem aos grupos de segurança do Azure Active Directory. Examine seus grupos no portal do Azure > **Intune** > **Grupos** ou no portal do Azure > **Azure Active Directory**.
 
 **O usuário tem muitas permissões para a função atribuída do Intune**
 
-Peça para o usuário acessar **Intune** > **funções do Intune** > **Minhas permissões** > **Exportar**para revisar as permissões concedidas.
+Peça para o usuário acessar **Intune** > **funções do Intune** > **Minhas permissões** > **Exportar** para revisar as permissões concedidas.
 
 **Adicionei um grupo de escopo a uma função, mas os usuários desse papel ainda poderão ver outros usuários ou dispositivos.**
 

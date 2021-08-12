@@ -1,5 +1,5 @@
 ---
-title: Tornar o Microsoft Bing seu mecanismo de pesquisa padrão
+title: Tornar a Microsoft Bing seu mecanismo de pesquisa padrão
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9289"
-ms.openlocfilehash: 96cf8e223921ef175a31cf0a55e7390d313a5478
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: e8d4e46da4dfb6b742452371cfd1b0054eb2a9118092821bcd7b66ef4121d02f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51379761"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925477"
 ---
-# <a name="make-microsoft-bing-your-default-search-engine"></a>Tornar o Microsoft Bing seu mecanismo de pesquisa padrão
+# <a name="make-microsoft-bing-your-default-search-engine"></a>Tornar a Microsoft Bing seu mecanismo de pesquisa padrão
 
-Para tornar o Bing seu mecanismo de pesquisa padrão para Microsoft Edge, Google Chrome ou Internet Explorer, siga as instruções em [Make Bing the default search engine](https://go.microsoft.com/fwlink/?linkid=2148834).
+Para tornar Bing mecanismo de pesquisa padrão para Microsoft Edge, Google Chrome ou Internet Explorer, siga as instruções em [Make Bing o mecanismo de pesquisa padrão](https://go.microsoft.com/fwlink/?linkid=2148834).
