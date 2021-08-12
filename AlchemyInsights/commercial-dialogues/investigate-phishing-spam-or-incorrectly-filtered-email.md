@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 2646a80ebcec959375c8fa938d420b5e11b0fdb8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735676"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948943"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Investigar phishing, spam ou email filtrado incorretamente
 
 Use o Explorador de Envio para enviar a mensagem para a Microsoft. Você obterá comentários imediatos sobre a filtragem de mensagens e o motivo pelo qual o problema ocorreu. Veja um resumo das etapas:
 
-1. Vá para o Centro de Conformidade do [Office 365 Security &,](https://go.microsoft.com/fwlink/p/?linkid=2077143) **selecione** Envios de gerenciamento de ameaças e selecione  >   **+Novo envio.**
+1. Vá para o [Centro Office 365 Segurança & Conformidade,](https://go.microsoft.com/fwlink/p/?linkid=2077143)selecione Envios de Gerenciamento de Ameaças e selecione   >   **+Novo envio.**
 2. Especifique os detalhes no **submenu** Novo envio.
 3. Informe aos usuários que eles devem relatar emails suspeitos à Microsoft e que o complemento [Mensagem](https://go.microsoft.com/fwlink/?linkid=2092385) de Relatório é a ferramenta que eles devem usar para essa finalidade.

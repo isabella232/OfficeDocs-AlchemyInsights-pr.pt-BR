@@ -1,5 +1,5 @@
 ---
-title: Problemas de desempenho-SharePoint ou OneDrive
+title: Problemas de desempenho SharePoint ou OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -13,22 +13,22 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 28867b71df5353dcee5cc3361742f10357a0efe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 921aae7eba8487c5600f290fd671ef2675372e6af0478b913e38354856cbaa22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771889"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911830"
 ---
 # <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint ou OneDrive lento, inacessível ou indisponível para vários usuários
 
-O SharePoint ou o OneDrive podem ser lentos, inacessíveis ou indisponíveis, ou podem exibir serviços indisponíveis ou 503 erros, por vários motivos:
+SharePoint ou OneDrive podem ser lentos, inacessíveis ou indisponíveis ou podem exibir erros de serviço indisponíveis ou 503, por vários motivos:
   
-- Se seu site do SharePoint ou do OneDrive estiver lento ou atrasado para vários usuários, pode haver um problema de serviço temporário onde os usuários experimentam atrasos intermitentes ou erros de navegação ao acessar sites do SharePoint ou conteúdo do OneDrive. Marque o [Painel de integridade do serviço](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) para ver se sua organização é afetada.
+- Se o site SharePoint ou OneDrive estiver lento ou atrasado para vários usuários, pode haver um problema de serviço temporário em que os usuários experimentam atrasos intermitentes ou erros de navegação ao acessar sites SharePoint ou OneDrive conteúdo. Marque o [Painel de integridade do serviço](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) para ver se sua organização é afetada.
   
-- Os usuários podem receber um erro de *servidor 503 está ocupado* ao tentar navegar até sites do SharePoint ou do onedrive. Esse erro pode ser causado pela limitação no serviço do SharePoint. SharePoint Online usa a limitação para manter o melhor desempenho e confiabilidade do serviço SharePoint Online. A limitação limita o número de ações do usuário ou de chamadas simultâneas (por script ou código) a fim de impedir o uso excessivo de recursos. Para obter mais informações sobre limitação, confira o artigo sobre [como ficar limitado ou bloqueado no SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+- Os usuários podem receber um erro de ocupado do *servidor 503* ao tentar navegar para SharePoint ou OneDrive sites. Esse erro pode ser causado pela 3ª vez no serviço de SharePoint. SharePoint Online usa a limitação para manter o melhor desempenho e confiabilidade do serviço SharePoint Online. A limitação limita o número de ações do usuário ou de chamadas simultâneas (por script ou código) a fim de impedir o uso excessivo de recursos. Para obter mais informações sobre a aceleração, consulte Evite [ser barrado](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)ou bloqueado no SharePoint Online .
 
-- Se você experimentar um desempenho lento com um **site ou uma** página do SharePoint moderno ou **moderna** , use a ferramenta de [diagnóstico de página](https://aka.ms/perftool) para analisar as páginas.
+- Se você tiver um desempenho lento com **SharePoint** **um** site ou página clássico ou moderno, utilize a ferramenta [Diagnóstico](https://aka.ms/perftool) de Página para analisar as páginas.
   
-- Se você ainda tiver um desempenho mais lento, revise os recursos na parte inferior deste artigo: [introdução ao ajuste de desempenho para o SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
+- Se você ainda tiver um desempenho lento geral, revise os recursos na parte inferior deste artigo: Introdução ao ajuste de desempenho para SharePoint [Online](https://go.microsoft.com/fwlink/?linkid=2024334)
   
