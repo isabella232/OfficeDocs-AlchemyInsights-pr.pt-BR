@@ -1,5 +1,5 @@
 ---
-title: Criar regras de caixa de entrada para caixas de correio compartilhadas
+title: Criando regras de caixa de entrada para caixas de correio compartilhadas
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -13,16 +13,16 @@ ms.custom:
 - "1800021"
 - "3500003"
 ms.assetid: fd97c1c7-fc0a-466d-87d4-cbdaf6310ca1
-ms.openlocfilehash: 6398367ac94a1d3cf4f03165c4d4decb7ff9beb2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e5e4a0aabb76123ea98b91f84a76d56132695c2361f125b769a6f7fff7bdbaa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732202"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929257"
 ---
-# <a name="creating-inbox-rules-for-shared-mailboxes"></a>Criar regras de caixa de entrada para caixas de correio compartilhadas
+# <a name="creating-inbox-rules-for-shared-mailboxes"></a>Criando regras de caixa de entrada para caixas de correio compartilhadas
 
-Você pode adicionar regras em uma caixa de correio compartilhada à qual você tem acesso de forma semelhante à de adicionar regras à sua própria conta.
+Você pode adicionar regras em uma caixa de correio compartilhada à qual você tem acesso de maneira semelhante à forma como adiciona regras à sua própria conta.
   
-Verifique se você é membro da caixa de correio compartilhada em questão e siga as etapas descritas neste artigo: [adicionar regras a uma caixa de correio compartilhada](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)
+Certifique-se de ser membro da caixa de correio compartilhada em questão e siga as etapas deste artigo: [Adicionar regras a uma caixa](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164) de correio compartilhada
   

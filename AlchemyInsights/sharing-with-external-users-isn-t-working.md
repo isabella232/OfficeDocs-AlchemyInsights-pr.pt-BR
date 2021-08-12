@@ -12,30 +12,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: bd3a6c0d7206801ff76be121c4878b8343cc9886
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53f6fd009d3dab3cd66d33d9cd248201219caa1605c7a4e7758a5a8d720f68c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691563"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910354"
 ---
-# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Corrigir problemas de compartilhamento de conteúdo do SharePoint com usuários externos
+# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Corrigir problemas de compartilhamento SharePoint conteúdo com usuários externos
 
-Certifique-se de que o compartilhamento externo está ativado para sua organização:
+Certifique-se de que o compartilhamento externo está ligado para sua organização:
   
-1. Vá até a [ &amp; página suplementos de serviços no centro de administração do Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)e clique em **sites**.
+1. Vá para a [página &amp; de complementos de serviços](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)no Centro de administração do Microsoft 365 , e clique em **Sites**.
     
-2. Certifique-se de que a configuração está ativada para "ativado". Se "somente usuários externos existentes" estiver selecionado, certifique-se de que o usuário externo está listado no centro de administração do Microsoft 365.
+2. Certifique-se de que a configuração está virada para "Ligado". Se "Somente usuários externos existentes" estiver selecionado, certifique-se de que o usuário externo está listado no Centro de administração do Microsoft 365.
     
-Verifique se o compartilhamento externo está ativado para o site. Para um conjunto de sites clássico:
+Certifique-se de que o compartilhamento externo está ligado para o site. Para um conjunto de sites clássico:
   
-1. No novo centro de administração do SharePoint, no painel esquerdo, clique em **sites**.
+1. No novo SharePoint de administração, no painel esquerdo, clique em **sites**.
     
-2. Selecione o site ou sites e, na faixa de opções, clique em **compartilhamento**.
+2. Selecione o site ou sites e, na faixa de opções, clique em **Compartilhar**.
     
-Para um site de equipe que pertença a um grupo do Microsoft 365 ou um site de comunicação:
+Para um site de equipe que pertence a um grupo Microsoft 365, ou a um site de comunicação:
   
-- Esses novos tipos de site têm a mesma configuração de compartilhamento que a configuração em toda a organização, a menos que a configuração em toda a organização permita o compartilhamento de arquivos usando links que não exigem logon. Nesse caso, os sites permitem o compartilhamento com usuários externos novos e existentes que entram. Para alterar a configuração de sites específicos, use o novo centro de administração do SharePoint ou o PowerShell. [Saiba mais](https://go.microsoft.com/fwlink/?linkid=871863).
+- Esses novos tipos de site têm a mesma configuração de compartilhamento que a configuração de toda a organização, a menos que a configuração em toda a organização permita o compartilhamento de arquivos usando links que não exigem entrar. Nesse caso, os sites permitem o compartilhamento com usuários externos novos e existentes que entrarem. Para alterar a configuração de sites específicos, use o novo centro de administração SharePoint ou o PowerShell. [Saiba mais](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
 > A configuração de compartilhamento externo para qualquer site pode ser mais restritiva do que a configuração em toda a organização, mas não mais permissiva do que a configuração em toda a organização. 
