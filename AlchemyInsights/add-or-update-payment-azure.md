@@ -1,5 +1,5 @@
 ---
-title: Atualizar informações de cobrança no contrato corporativo do Azure
+title: Atualizar informações de cobrança em contrato empresarial do Azure
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,15 +12,15 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9003546"
 - "6861"
-ms.openlocfilehash: 9e944edb22fe7c14757617c5e335d0a0428d30be
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 2ea154ef1ef0b5c5a2a489ebeaf74b1dc6e8b04b7c05e1064869cc99262c9823
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791318"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953929"
 ---
-# <a name="update-billing-info-under-azure-enterprise-agreement"></a>Atualizar informações de cobrança no contrato corporativo do Azure
+# <a name="update-billing-info-under-azure-enterprise-agreement"></a>Atualizar informações de cobrança em contrato empresarial do Azure
 
-Não há suporte para a alteração de suas informações de pagamento para a assinatura do Azure Enterprise.
+Não há suporte para alterar suas informações de pagamento para a assinatura corporativa do Azure.
 
-Se você quiser alterar o endereço na fatura existente, entre em contato com seu representante da Microsoft.
+Se você quiser alterar o endereço em sua fatura existente, entre em contato com seu representante da Microsoft.
