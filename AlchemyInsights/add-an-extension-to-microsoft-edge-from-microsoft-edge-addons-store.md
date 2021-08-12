@@ -1,5 +1,5 @@
 ---
-title: Adicionar uma extensão ao Microsoft Edge no Microsoft Edge Add-ons Store
+title: Adicionar uma extensão ao Microsoft Edge do Microsoft Edge de complementos
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "6919"
 - "8310"
 - "9004621"
-ms.openlocfilehash: eacc0feca236f1d25e79aa55a56645c0b290c631
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 0533c92d17fe39325f0067cebf96c3f63b0dcc9a7ed58557e2557ef75aad55e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51504984"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936405"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>Adicionar uma extensão ao Microsoft Edge no Microsoft Edge Add-ons Store
+# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>Adicionar uma extensão ao Microsoft Edge do Microsoft Edge de complementos
 
-Para adicionar uma extensão ao Microsoft Edge no armazenamento de complementos do Microsoft Edge:
+Para adicionar uma extensão ao Microsoft Edge do Microsoft Edge de complementos:
 
 - Abra o Microsoft Edge.
-- Selecione **... > Extensões > Obter [extensões para o Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.
+- Selecione **... > Extensões > [Obter extensões para Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.
 - Selecione a extensão que você gostaria de adicionar e selecione **Obter**.
 - Na caixa de diálogo de confirmação, revise cuidadosamente as modificações que a extensão pode fazer e selecione **Adicionar extensão**.
 

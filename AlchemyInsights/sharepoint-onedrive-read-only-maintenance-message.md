@@ -1,5 +1,5 @@
 ---
-title: Somente leitura para mensagem de manutenção ao tentar usar o SharePoint ou o OneDrive
+title: Read-Only mensagem de Manutenção ao tentar usar SharePoint ou OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,33 +13,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670820"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910532"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Somente leitura para mensagem de manutenção ao tentar usar o SharePoint ou o OneDrive
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only mensagem de Manutenção ao tentar usar SharePoint ou OneDrive
 
-Os usuários podem receber uma mensagem **somente leitura para manutenção** ao tentar usar o SharePoint ou o onedrive para um dos cenários a seguir. 
+Os usuários podem receber uma **mensagem Somente** leitura para Manutenção ao tentar usar SharePoint ou OneDrive para um dos seguintes cenários. 
 
--   Uma atividade de manutenção planejada ou ativa.  Verifique se eles navegam para o [centro de mensagens](https://portal.office.com/adminportal/home#/messagecenter).
--   Um incidente de serviço ativo de alta prioridade que pode ocorrer. Verifique se há avisos/incidentes navegando até a [integridade do serviço](https://portal.office.com/adminportal/home#/servicehealth).
--   Um cenário de recuperação de reparo automático secundário que pode ocorrer devido a qualquer evento inesperado nos servidores que podem durar menos de 30 min. 
+-   Uma atividade de manutenção planejada ou ativa.  Verifique se eles estão navegando até o Centro [de Mensagens](https://portal.office.com/adminportal/home#/messagecenter).
+-   Um incidente de serviço ativo de alta prioridade que pode estar ocorrendo. Verifique se há avisos/incidentes navegando para a [Saúde do Serviço.](https://portal.office.com/adminportal/home#/servicehealth)
+-   Um cenário de recuperação automática secundária que pode estar acontecendo devido a eventos inesperados nos servidores que podem durar menos de 30 minutos. 
     
-    Não há postagens do centro de mensagens ou da integridade do serviço para essas pequenas recuperações, mas você deve voltar para o normal em breve.
+    Não há nenhuma central de mensagens ou postagens de Saúde do Serviço para essas pequenas recuperações, mas você deve voltar ao normal muito em breve.
 
-Em muito poucas ocasiões observamos que um dos três cenários listados acima tem sido a causa, e o serviço foi restaurado, mas o cache do navegador do usuário não foi apagado.
+Em poucas ocasiões, observamos que um dos três cenários listados acima foi a causa e o serviço foi restaurado, mas o cache do navegador dos usuários não foi limpo.
 
-Tente limpar o cache do navegador antes de navegar até o site.
+Tente limpar o cache do navegador antes de navegar para o site.
 
-1. No navegador Microsoft Edge, selecione **configurações**e, em seguida, selecione **privacidade e segurança**.
-2. Em **limpar navegação**, selecione **escolher o que limpar**.
-3. Selecione **cookies e dados de sites salvos**e selecione **limpar**.
-
->[!Note] 
-> Essas etapas podem diferir ao usar outros navegadores, como Mozilla Firefox ou Google Chrome.
+1. No navegador Microsoft Edge, selecione **Configurações** e, em seguida, **selecione Privacidade e Segurança.**
+2. Em **Limpar navegação,** selecione **Escolher o que limpar**.
+3. Selecione **Cookies e dados de site salvos** e selecione **Limpar**.
 
 >[!Note] 
-> Outra opção seria abrir seu site do SharePoint ou o OneDrive em uma nova janela InPrivate.
+> Essas etapas podem ser diferentes ao usar outros navegadores, como o Mozilla Firefox ou o Google Chrome.
+
+>[!Note] 
+> Outra opção seria abrir seu site SharePoint ou OneDrive em uma nova janela InPrivate.
