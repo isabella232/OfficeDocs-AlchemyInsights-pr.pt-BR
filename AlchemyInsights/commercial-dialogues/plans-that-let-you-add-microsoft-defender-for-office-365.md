@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 48e6f55c35a1a0af04453c17bb8dfe9cce194b5c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 890f55e87048d62121aaa07db24a518faddfe89db9c7162c593ef240de83f1b2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735451"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916115"
 ---
 # <a name="plans-that-let-you-add-microsoft-defender-for-office-365"></a>Planos que permitem adicionar o Microsoft Defender para Office 365
 
-Se você tiver um dos seguintes planos, adicione o Microsoft Defender para Office 365 a ele:
+Se você tiver um dos seguintes planos, poderá adicionar o Microsoft Defender para Office 365 a ele:
 
-- Plano 1 ou 2 do Exchange Online
+- Exchange Online Plano 1 ou 2
 - Quiosque do Exchange Online
 - Proteção do Exchange Online
 - Office 365 Business Essentials ou Business Premium

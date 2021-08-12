@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "9655"
-ms.openlocfilehash: 9dc3b1d54bb263d5e53e02a4e4dadc8cf3c1e400
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: cd7533f09ed8361e134b81979532cdebbf49971c54553a0172c7527f30e319bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51123032"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951121"
 ---
 # <a name="app-registration-owner-issues"></a>Problemas do Proprietário do Registro de Aplicativos
 
@@ -40,4 +40,4 @@ A seguir estão os métodos disponíveis para adicionar entidades como propriet�
 
 **Não é possível exibir seu aplicativo na folha Registros de Aplicativos, mesmo que você seja o proprietário desse aplicativo?**
 
-O proprietário de um aplicativo não é uma função administrativa. Se a configuração Restringir o acesso ao portal de administração do [Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions) estiver habilitada, somente o administrador poderá exibir os aplicativos no portal de Registro de Aplicativos. Para que um proprietário possa exibir os aplicativos, desabilite essa configuração (De definir isso como NÃO) ou atribua a função de administrador ao proprietário apenas para o aplicativo específico. No entanto, para isso, você exigirá uma licença do Azure AD Premium P2 e permitirá [o Gerenciamento de Identidade Privilegiada.](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)
+O proprietário de um aplicativo não é uma função administrativa. Se a configuração Restringir o acesso ao portal de administração do [Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions) estiver habilitada, somente o administrador poderá exibir os aplicativos no portal de Registro de Aplicativos. Para que um proprietário possa exibir os aplicativos, desabilite essa configuração (De definir isso como NÃO) ou atribua a função de administrador ao proprietário apenas para o aplicativo específico. No entanto, para isso, você exigirá uma licença Azure AD Premium P2 e habilitará [Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure).

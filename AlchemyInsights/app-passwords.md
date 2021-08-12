@@ -15,25 +15,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 13d83b4d97a2bab2251acb8eaf08cf80a769b639
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a384ea0de9b4f6ed58215fd988f9520ba0031af041eb326fda467b80d28406ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717025"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931941"
 ---
 # <a name="app-passwords"></a>Senhas de aplicativo
 
-Uma senha de aplicativo é um código que oferece permissão a um aplicativo ou dispositivo para acessar sua conta corporativa ou de estudante da Microsoft. Se sua conta requer autenticação multifator (MFA) e o aplicativo se conecta à sua conta, você precisa gerar uma senha de aplicativo para que o aplicativo possa se conectar à Microsoft. Por exemplo, o Outlook 2016 e versões anteriores do Outlook precisam de uma senha de aplicativo.
+Uma senha de aplicativo é um código que dá permissão a um aplicativo ou dispositivo para acessar sua conta de estudante ou trabalho da Microsoft. Se sua conta exigir a autenticação multifa factor (MFA) e o aplicativo se conectar à sua conta, você precisará gerar uma senha de aplicativo para que o aplicativo possa se conectar à Microsoft. Por exemplo, Outlook 2016 e versões anteriores Outlook de exigir uma senha de aplicativo.
 
- **Observação**: antes de tentar as etapas a seguir, verifique com seu administrador do Microsoft 365 se a MFA é necessária para a sua conta. Se não for, as opções descritas nas etapas não estarão disponíveis para você.
+ **Observação**: antes de tentar as etapas a seguir, verifique com seu administrador Microsoft 365 que o MFA é necessário para sua conta. Se não estiver, as opções descritas nas etapas não estarão disponíveis para você.
 
-1. Entre com sua conta corporativa ou de estudante e sua senha.
+1. Entre com sua conta de trabalho ou de estudante e sua senha.
 
 2. Escolha **Configurar agora**.
 
-3. Selecione o método de autenticação e siga os prompts.
+3. Selecione seu método de autenticação e siga os prompts.
 
-4. Após verificar seu método de contato alternativo, escolha **Avançar**.
+4. Depois de verificar seu método de contato alternativo, escolha **Next**.
 
-5. Você receberá uma senha de aplicativo que pode ser usada com o Outlook, o Apple mail e outros aplicativos que a exigem. Escolha **copiar** para copiar a senha para que você possa colá-la em outro lugar (você não precisará memorizar).
+5. Você obterá uma senha de aplicativo que pode ser usada com Outlook, Apple Mail e outros aplicativos que a exigem. Escolha **Copiar** para copiar a senha para que você possa colar em outro lugar (você não precisa memorizá-la).
