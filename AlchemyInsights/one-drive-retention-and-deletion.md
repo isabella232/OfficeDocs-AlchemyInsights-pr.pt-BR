@@ -1,5 +1,5 @@
 ---
-title: Retenção e exclusão do OneDrive
+title: Retenção e exclusão no OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,25 +13,25 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: c5fd94b91d0938f6adbfa10848d875a02ba23f00
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ed62445ffbac108bba6e7b8b8f4d8fcbcb3777d199e2a183fa457949cfe830a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673449"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985349"
 ---
-# <a name="onedrive-retention-and-deletion"></a>Retenção e exclusão do OneDrive
+# <a name="onedrive-retention-and-deletion"></a>Retenção e exclusão no OneDrive
 
-- Você pode [restaurar sozinho um usuário excluído do onedrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) . Eles estão na lixeira por 93 dias.
+- Você pode [restaurar um usuário excluído OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) si mesmo. Eles estão na lixeira há 93 dias.
 
-- Confira [Este artigo](https://docs.microsoft.com/onedrive/retention-and-deletion) para saber:
-    - Como fornecer acesso a outro usuário para o OneDrive de um usuário excluído.
-    - O que acontece com o OneDrive de um usuário quando você exclui a conta do usuário do Microsoft 365 para sua organização.
+- Confira [este artigo para](https://docs.microsoft.com/onedrive/retention-and-deletion) saber:
+    - Como dar a outro usuário acesso a um usuário excluído OneDrive.
+    - O que acontece com o usuário OneDrive quando você exclui a conta de Microsoft 365 do usuário para sua organização.
     - Como configurar a delegação de acesso automático.
-    - Como funciona o processo de exclusão do OneDrive.
+    - Como OneDrive processo de exclusão funciona.
 
-- Para obter informações sobre a restauração de itens da lixeira no OneDrive, consulte [restaurar arquivos ou pastas excluídos](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
+- Para obter informações sobre como restaurar itens da lixeira no OneDrive, consulte [Restore deleted files or folders](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
 
-- Interessado em retenção e retenção do centro de conformidade e segurança?
-    - [Políticas de retenção para os sites do OneDrive e do SharePoint](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-    - [bloqueio de descoberta eletrônica para sites do OneDrive e do SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- Interessado em retenção e retenção do Centro de Conformidade e Segurança?
+    - [Políticas de retenção para OneDrive e SharePoint sites](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+    - [Responsabilidade de Descoberta OneDrive e SharePoint sites](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)

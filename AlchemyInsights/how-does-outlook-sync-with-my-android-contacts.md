@@ -1,5 +1,5 @@
 ---
-title: Como o Outlook sincroniza com meus contatos androides?
+title: Como é Outlook sincronizar com meus contatos Android?
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001115"
 - "3076"
-ms.openlocfilehash: 917bea163c3a85f6e1ab193db44a1e1aefd80e19
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f6f33ee5b131b6c0bf0aa1f07c6da9ada4f9c69eea949d55858f549b43ebd29a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810904"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926953"
 ---
-# <a name="how-does-outlook-sync-with-my-android-contacts"></a>Como o Outlook sincroniza com meus contatos androides?
+# <a name="how-does-outlook-sync-with-my-android-contacts"></a>Como é Outlook sincronizar com meus contatos Android?
 
-Quando você compõe um email no Outlook, pesquisamos destinatários do seu livro de endereços Android e do seu livro de endereços do Outlook. Além disso, damos a você a opção de sincronizar contatos de suas contas de email com seu livro de endereços Android para uso em outros aplicativos. 
+Quando você compõe um email no Outlook, pesquisamos destinatários do seu livro de endereços Android e seu Outlook de endereços. Além disso, damos a você a opção de sincronizar contatos de suas contas de email com seu livro de endereços Android para uso em outros aplicativos. 
  
 **Para habilitar esse recurso**:
  
@@ -31,4 +31,4 @@ Quando você compõe um email no Outlook, pesquisamos destinatários do seu livr
 
 3. Alternar o controle deslizante **Sincronizar Contatos** ON.
  
-**Observação:** ao tentar habilitar a sincronização de contatos no  Microsoft Outlook para Android, se a opção de alternância para contatos de sincronização estiver desabilitada, você poderá ver uma mensagem exibida com o *texto,* a sincronização de contatos não será ativada nas configurações do sistema. Isso pode ser devido à **opção De sincronização** automática de dados ser desabilitada nas configurações do sistema. Para corrigir esse problema, habilita  **os dados de** sincronização automática no menu  **Contas** no sistema Android  **Configurações**. Essa opção geralmente é encontrada em uma reellipse vertical (⋮) ou barra tríplice (⫼). O menu  **Contas** pode estar em locais diferentes, dependendo da forma do dispositivo e da versão do Android. Na maioria dos modelos mais recentes, **contas** podem ser pesquisadas em **Configurações**.
+**Observação:** ao tentar habilitar a sincronização de contatos no Microsoft Outlook  para Android, se a opção de alternância para contatos de sincronização estiver desabilitada, você poderá ver uma mensagem exibida com o *texto,* a sincronização de contatos não será ativada nas configurações do sistema. Isso pode ser devido à **opção De sincronização** automática de dados ser desabilitada nas configurações do sistema. Para corrigir esse problema, habilita **os dados de** sincronização automática no menu **Contas** no sistema Android **Configurações**. Essa opção geralmente é encontrada em uma reellipse vertical (⋮) ou barra tríplice (⫼). O menu  **Contas** pode estar em locais diferentes, dependendo da forma do dispositivo e da versão do Android. Na maioria dos modelos mais recentes, **contas** podem ser pesquisadas **em** Configurações .

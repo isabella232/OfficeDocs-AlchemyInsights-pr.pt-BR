@@ -12,19 +12,19 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 94249c294c095fe14c8193451275de44d21ff90e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb507bedd059b6baf23b471b0fc2d75234cfab4e41eba655a83a645c65669680
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808335"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919591"
 ---
 # <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Atualizar para a versão completa do Microsoft Teams
 
-Precisa atualizar da versão gratuita para a completa do Microsoft Teams? Consulte [atualizar o Microsoft Teams gratuitamente para a versão de assinatura do microsoft 365](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
+Precisa atualizar da versão gratuita para a versão completa do Microsoft Teams? Consulte [Atualizar Microsoft Teams versão de assinatura gratuita Microsoft 365 assinatura](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
 
-Você precisará atender a estes requisitos:
+Você precisará atender a esses requisitos:
 
-- Você é a pessoa que se inscreveu para a versão gratuita do teams.
-- Se você tiver seu próprio domínio, ele já não poderá ser associado ao Azure Active Directory.
-- Para transferir dados ao atualizar, você deve inscrever-se durante o processo de atualização. Se você comprou uma assinatura fora do processo de atualização, não é possível transferir dados.
+- Você é a pessoa que se inscreveu para a versão gratuita atual do Teams.
+- Se você tiver seu próprio domínio, ele não poderá ser associado ao Azure Active Directory.
+- Para transferir dados ao atualizar, você deve se inscrever durante o processo de atualização. Se você comprou uma assinatura fora do processo de atualização, não poderá transferir dados.
