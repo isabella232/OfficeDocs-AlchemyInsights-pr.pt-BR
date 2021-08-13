@@ -1,5 +1,5 @@
 ---
-title: Solucionar problemas com o registro de dispositivos Windows no Microsoft Intune
+title: Solucionar problemas com o registro Windows dispositivos Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: a456cc8f2336e6b902de0b7873cb233f4b846140
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a2abb4d0ef5504c496afefe62a80f3fa21c7ec85536e822e402be33b3617b59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808959"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981029"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Solucionar problemas com o registro de dispositivos Windows no Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Solucionar problemas com o registro Windows dispositivos Microsoft Intune
 
 Revise os recursos listados abaixo para resolver seu problema agora.
   
@@ -35,7 +35,7 @@ Algumas mensagens de erro comuns e etapas de resolução:
 
 -  O dispositivo já está inscrito por outro usuário. Se esse for o caso, remova o dispositivo do console do Azure Intune ou desemrolle manualmente o dispositivo antes de tentar novamente.
 
--  O dispositivo é o Windows 10 Home. Somente os SKUs Do Windows 10 Pro, Education e Enterprise podem ingressar no Azure Active Directory.
+-  O dispositivo é Windows 10 Home. Somente Windows 10 Pro, Educação e Enterprise SKUs podem ingressar Azure Active Directory.
 
 Recursos adicionais para ajudar a resolver o problema:
   
@@ -43,4 +43,4 @@ Recursos adicionais para ajudar a resolver o problema:
 
 -  Veja estes documentos para obter uma lista de erros comuns que impedem o registro e as resoluções de cada um deles: [Guia de Solução de Problemas](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) e [Documento de Solução de Problemas](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune).
 
-[Saiba como registrar dispositivos Windows no Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).
+[Saiba como registrar Windows dispositivos em Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).

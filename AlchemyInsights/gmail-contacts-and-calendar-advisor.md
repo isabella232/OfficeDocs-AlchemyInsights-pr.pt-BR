@@ -1,5 +1,5 @@
 ---
-title: Migrar contatos do Gmail ou Google calendários para o Office 365 ou Outlook
+title: Migrar contatos do Gmail ou Calendários do Google para Office 365 ou Outlook
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - 9004197/7378
 - 9003961/7017
-ms.openlocfilehash: 33b8e22dcea254abf1854292b9d6a16e7ef5a155
-ms.sourcegitcommit: e29887ce455fbe5896d57b07992e6eb3fc0888ce
+ms.openlocfilehash: e72fd346f8d05e55a0844e03524d82931b20016ca3c19684dc4cd12f3df621a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/24/2020
-ms.locfileid: "49731726"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964288"
 ---
-# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Migrar contatos do Gmail ou Google calendários para o Office 365 ou Outlook
+# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Migrar contatos do Gmail ou Calendários do Google para Office 365 ou Outlook
 
-A maneira mais fácil de importar contatos e calendário do Gmail para o Office é usar os contatos do Gmail e o supervisor de calendário.
+A maneira mais fácil de importar contatos do Gmail e calendário para Office é usar os contatos do Gmail e o consultor de calendário.
 
-O [supervisor de contatos e calendário do Gmail](https://go.microsoft.com/fwlink/?linkid=2134386) mostra como sincronizar seus contatos e itens de calendário do Gmail para o Office 365, usando vários métodos de importação e exportação.
+O consultor de calendário e contatos do [Gmail](https://go.microsoft.com/fwlink/?linkid=2134386) mostra como sincronizar seus contatos do Gmail e itens de calendário com Office 365, usando vários métodos de importação e exportação.
 
-Se você ainda não migrou seu email, o [supervisor de configuração de email](https://go.microsoft.com/fwlink/?linkid=2133951) fornece instruções passo a passo para concluir sua migração de caixa de correio.
+Se você ainda não tiver migrado seu email, o consultor de configuração de [email](https://go.microsoft.com/fwlink/?linkid=2133951) fornece instruções passo a passo para concluir a migração da caixa de correio.
 
-Para saber como exibir o Google Calendar no Outlook, confira [ver o Google Calendar no Outlook](https://go.microsoft.com/fwlink/?linkid=2083939).
+Para saber como exibir seu calendário do Google Outlook, confira [Consulte Seu Google Calendar em Outlook](https://go.microsoft.com/fwlink/?linkid=2083939).

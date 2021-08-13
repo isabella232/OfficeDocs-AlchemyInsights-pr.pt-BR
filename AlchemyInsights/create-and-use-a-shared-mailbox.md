@@ -12,18 +12,18 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: e132171e6ee89fdfa011992000332ccbbbcde7b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4c03a4285ecc837c0fc7657bd6eb893586bf4aca0733ea306d6f6c783ff402d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712649"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914891"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>Criar e usar uma caixa de correio compartilhada
 
-Uma caixa de correio compartilhada permite que mais de uma pessoa envie e receba emails para um alias, como o sales@contoso.com, sem atribuir outra licença.
+Uma caixa de correio compartilhada permite que mais de uma pessoa envie e receba emails para um alias, como sales@contoso.com, sem atribuir outra licença.
   
-- [Siga estas etapas](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) no centro de administração do Microsoft 365 para começar. 
+- [Siga estas etapas](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) no Centro de administração do Microsoft 365 para começar. 
 
-Você também pode ler o artigo [criar uma caixa de correio compartilhada](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) , que lhe dirá tudo o que você precisa saber sobre caixas de correio compartilhadas, incluindo como usá-las.
+Você também pode ler o artigo [Criar uma](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) caixa de correio compartilhada, que lhe dirá tudo o que precisa saber sobre caixas de correio compartilhadas, incluindo como usá-las.
   

@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: 8d3cc3121786abc891237a6807719802dc72adee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 574a83a97a58d44f2bef66c9caaa16479b085269fc2f9dbf729a23ca8d37bba6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667614"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925909"
 ---
 # <a name="intune-insider-bug-filing"></a>Arquivamento de bugs do Intune Insider
 
-Agradecemos seu interesse no programa de insiders do Intune. Se você já estiver integrado ao programa de insiders do Intune e precisar arquivar uma solicitação de suporte, então:
+Obrigado por seu interesse no programa Intune Insiders. Se você já estiver integrando o programa Intune Insiders e precisar arquivar uma solicitação de suporte, em seguida:
 
 1. Descreva seu problema no campo acima.
 2. Crie uma nova solicitação de serviço usando as opções abaixo.
 
 Um engenheiro de suporte do Intune entrará em contato com você.
 
-Se você não estiver no programa de insiders do Intune, agradecemos seu interesse. No momento, não estamos recrutando novos participantes.
+Se você não estiver no programa Insiders do Intune, obrigado por seu interesse. No momento, não estamos recrutando novos participantes.
