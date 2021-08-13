@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: 1f5db1349d2029715e9994f2872bf85cac14646b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 458cba655675f9c1f06814a71fa97128786d1d9676c29aefdfd752c2d26917d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795592"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958717"
 ---
-# <a name="restore-a-deleted-sharepoint-subsite"></a>Restaurar um subsite do SharePoint excluído
+# <a name="restore-a-deleted-sharepoint-subsite"></a>Restaurar um subsite SharePoint excluído
 
-Subsites excluídos são enviados para a lixeira do conjunto de sites, onde são mantidos por 93 dias. Para restaurar um subsite excluído:
+Os subsites excluídos são enviados para a Lixeira do conjunto de sites, onde são mantidos por 93 dias. Para restaurar um subsite excluído:
   
-1. No novo centro de administração do SharePoint, encontre o site do qual o subsite foi excluído e verifique se você é um administrador do conjunto de sites. 
+1. No novo SharePoint de administração, localite o site do qual o subsite foi excluído e certifique-se de que você é um administrador do conjunto de sites. 
     
-2. Vá para o site. Clique em **Lixeira** no painel esquerdo. (Se você não vir a lixeira, clique no ícone configurações e, em seguida, clique em **conteúdo do site**. A lixeira fica na extrema direita da barra de comandos na parte superior.
+2. Vá para o site. Clique **em Lixeira** no painel esquerdo. (Se você não vir a Lixeira, clique no ícone Configurações e clique em **Conteúdo do site.** A Lixeira está na extrema direita da barra de comandos na parte superior.
     
-3. Na parte inferior da página, clique em **Lixeira de segundo estágio**.
+3. Na parte inferior da página, clique em Lixeira de segundo **estágio.**
     
-4. Clique à esquerda do subsite e clique em **restaurar**.
+4. Clique à esquerda do subsite e clique em **Restaurar**.
     
 
