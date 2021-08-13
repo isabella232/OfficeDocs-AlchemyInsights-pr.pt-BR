@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000694"
 - "2597"
-ms.openlocfilehash: aa0d233209827b387a9ee23aaf828794ed3cfc90
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 141aafa8cb2287dfad44276505bba9639a16973436cc6853a026f9cc5ee44863
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51804261"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917771"
 ---
-# <a name="delete-the-office-document-cache"></a>Excluir o Cache de Documentos do Office
+# <a name="delete-the-office-document-cache"></a>Excluir o Office cache de documentos
 
-Se você recebeu um prompt do Excel de que uma versão mais recente do arquivo está disponível **,** tente excluir o Cache de Documentos do Office seguindo as instruções em Excluir seu Cache de Documento do [Office](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d). Em seguida, tente reabrir o arquivo.
+Se você recebeu um aviso Excel de que uma versão mais recente do arquivo está **disponível,** tente excluir o cache de documento Office seguindo as instruções em [Excluir](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d)seu cache de documento Office . Em seguida, tente reabrir o arquivo.

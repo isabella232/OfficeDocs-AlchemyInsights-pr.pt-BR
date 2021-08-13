@@ -1,5 +1,5 @@
 ---
-title: Como permitir que os usuários do Skype for Business se comuniquem com usuários do Skype
+title: Como permitir que os Skype for Business se comuniquem com Skype usuários
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000726"
 - "2649"
-ms.openlocfilehash: e43ecf3af5311c6361b058918a4260c2cf8ef1be
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7f7eea73c49fec268c2bf2a44d0001cc4603fcd6331e5de0626862389f7cc04d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811300"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927709"
 ---
 # <a name="let-skype-for-business-users-add-skype-contacts"></a>Permita que os usuários do Skype for Business adicionem contatos do Skype
 
-Com o Skype for Business, seus usuários podem pesquisar e mensagens de IM com todos que usam o Skype, o aplicativo gratuito! Este artigo explica o que você precisa fazer para que eles possam adicionar contatos do Skype.
+Com Skype for Business, os usuários podem pesquisar e IM com todos que usam Skype, o aplicativo gratuito! Este artigo explica o que você precisa fazer para que eles possam adicionar Skype contatos.
 
 [Permitir que os usuários do Skype for Business adicionem contatos do Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
