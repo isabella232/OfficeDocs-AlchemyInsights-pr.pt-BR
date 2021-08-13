@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "87"
 - "1400001"
-ms.openlocfilehash: 23f136bdadcb892356c6faf8fd8ae8481aa8ff83
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 1fbde50cc77b4ef05c19c8557e3a41b561d1a73043c239eadb0f18a34af5d639
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686910"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950248"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Cancelando sua assinatura Microsoft 365 assinatura?
 
@@ -31,6 +31,6 @@ Com base nos dados da sua organização, acreditamos que todas as assinaturas at
 2. Vá para a **página Cobrança** \> **[seus](https://go.microsoft.com/fwlink/p/?linkid=842054)** produtos.
 3. Na guia **Produtos,** encontre a assinatura que você deseja cancelar, selecione os três pontos (mais ações) e selecione **Cancelar assinatura**.
 
-**Reembolso:** qualquer crédito proporcional será devolvido a você no próximo ciclo de faturamento.
+**Reembolso:** qualquer crédito rateado será devolvido a você no próximo ciclo de faturamento.
 
 Para saber mais, confira [Cancelar sua assinatura](/microsoft-365/commerce/subscriptions/cancel-your-subscription).

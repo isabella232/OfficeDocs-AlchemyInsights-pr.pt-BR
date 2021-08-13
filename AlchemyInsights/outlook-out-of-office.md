@@ -1,5 +1,5 @@
 ---
-title: Configurando respostas automáticas de ausência temporária no Outlook
+title: Configuração de respostas automáticas fora do escritório em Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "3514"
 - "9000761"
-ms.openlocfilehash: 4ac8c5c4eac5ae9c1ea1b14595e69d983ee4b007
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb378f0a51ff4cdd16227bbeca4aeceac0002c27e5982d1a2bb25579dc2cd21b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671540"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924685"
 ---
-# <a name="set-up-out-of-office-automatic-replies"></a>Configurar respostas automáticas de ausência temporária
+# <a name="set-up-out-of-office-automatic-replies"></a>Configurar respostas automáticas fora do escritório
 
-- [Como configurar respostas automáticas na caixa de correio de um usuário no Microsoft 365](https://docs.microsoft.com/exchange/troubleshoot/configure-mailboxes/set-automatic-replies)
+- [Como definir respostas automáticas na caixa de correio de um usuário no Microsoft 365](https://docs.microsoft.com/exchange/troubleshoot/configure-mailboxes/set-automatic-replies)
 - [Enviar respostas automáticas de ausência temporária no Outlook](https://support.office.com/article/9742f476-5348-4f9f-997f-5e208513bd67)
 - [Enviar respostas automáticas (ausência temporária) no Outlook na Web](https://support.office.com/article/0c193ab0-b9e1-4058-84be-a5b014242290)
 - [Enviar respostas automáticas de Ausência Temporária no Outlook para Mac](https://support.office.com/article/4e07ab75-beda-4f9e-bcdc-44471ebacdee)
