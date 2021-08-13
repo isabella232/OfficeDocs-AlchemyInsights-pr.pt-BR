@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
-ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
+ms.openlocfilehash: d72e3de6da9f51ebd5dd8a4eb06e94d7bc5cca81f86bd61902a9587b00f7b7b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49724142"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995465"
 ---
 # <a name="comments-on-list-items"></a>Comentários sobre itens de lista
 
-Os usuários podem exibir todos os comentários em um item de lista e filtrar entre modos de exibição que mostram comentários ou atividades relacionadas a um item.
+Os usuários podem exibir todos os comentários em um item de lista e filtrar entre exibições que mostram comentários ou atividades relacionadas a um item.
 
-Os usuários precisam observar o seguinte antes de poderem adicionar e excluir comentários:
+Os usuários precisam observar o seguinte antes de adicionar e excluir comentários:
 
-- Os comentários seguem as configurações de permissão inerentes no SharePoint.
-- Listas clássicas que ainda não foram criadas para exibição em interfaces de usuário modernas, como listas de tarefas, não terão este recurso de comentários.
-- O comentário em listas no Microsoft Teams não está disponível nesta versão.
-- Os comentários não são indexados pela pesquisa.
+- Os comentários seguem as configurações de permissão inerentes SharePoint.
+- Listas clássicas que ainda não foram criadas para aparecer em interfaces de usuário modernas, como listas de tarefas, não terão esse recurso de comentário.
+- Comentar as listas no Teams não está disponível com esta versão.
+- Os comentários não são indexados pela Pesquisa.
 
-Os administradores podem desabilitar esse recurso no nível da organização alterando o parâmetro **CommentsOnListItemsDisabled** no cmdlet do PowerShell **set-SPOTenant** .
+Os administradores podem desabilitar esse recurso no nível da organização alterando o **parâmetro CommentsOnListItemsDisabled** no cmdlet **Set-SPOTenant** PowerShell.
 
 No momento, não é possível desabilitar o comentário no nível do site ou da lista. Esperamos ter esses controles em uma atualização posterior, provavelmente no primeiro trimestre de 2021.

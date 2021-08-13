@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: 6f15e028b33212b8dbedb4e319f9bcdc34d27e87
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5bf8d952441ff5fe1e6fae5b517aa0ad83b8bb79f5e49256e8ebcedbc086c3d1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827348"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919657"
 ---
 # <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Atualizar do Skype for Business local para o Teams
 
-Se você implantou o Skype for Business ou o Microsoft Lync no local e sua organização deseja atualizar para o Teams, siga as diretrizes no artigo a seguir. Você precisará configurar a conectividade híbrida com seu locatário e, em seguida, mover seus usuários para o Teams e atribuir a eles o modo de coexistência e atualização apropriado. 
+Se você tiver implantado o Skype for Business ou o Microsoft Lync no local e sua organização quiser atualizar para Teams, siga as diretrizes no artigo abaixo. Você precisará configurar a conectividade híbrida com seu locatário e, em seguida, mover seus usuários para Teams e atribuí-los o modo de coexistência e atualização apropriados. 
 
 [Atualizar do Skype for Business local para o Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
 
