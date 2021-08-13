@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 0f74627ff414e8050d60d40dd6299a2cb02c981d
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: be0086b8c2e1907d28e81227b82ade09fc46c1ed4749a50ac0c776eb431ece56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52542701"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937737"
 ---
 # <a name="activate-your-subscription"></a>Ativar a assinatura
 
@@ -32,7 +32,7 @@ ms.locfileid: "52542701"
 Se sua assinatura expirou ou foi desabilitada pela Microsoft, ou se você a cancelou durante o período da assinatura, é possível reativá-la no centro de administração do Microsoft 365.
 
 1. No centro de administração, acesse a página **Cobrança de** > [seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Na guia **Produtos**, localize a assinatura que você deseja reativar. Selecione os três pontos (mais ações) e selecione **Reativar esta assinatura**.
+2. Na guia **Produtos**, localize a assinatura que você deseja reativar. Selecione os três pontos (mais ações), depois selecione **Reativar esta assinatura**.
 3. No painel **Reativar esta assinatura**, selecione um método de pagamento na lista suspensa ou selecione **Adicionar método de pagamento**.
 4. Selecione **Salvar**.
 
