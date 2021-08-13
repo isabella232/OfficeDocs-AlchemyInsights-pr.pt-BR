@@ -1,5 +1,5 @@
 ---
-title: Compartilhamento externo com um site de equipe
+title: Compartilhamento Externo com um Site de Equipe
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 0f5d72493c219ebc007d33d48246e0fd009c6644
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fac10d862611cab95933576fde59bdaf1eb58e572d6781b087c48d2c332e205d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708455"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977681"
 ---
-# <a name="external-sharing-with-a-team-site"></a>Compartilhamento externo com um site de equipe
+# <a name="external-sharing-with-a-team-site"></a>Compartilhamento Externo com um Site de Equipe
 
-Para ativar o compartilhamento de usuário externo para sites de equipe, siga estas etapas: 
+Para ativar o compartilhamento de usuários externos para Sites de Equipe, siga estas etapas: 
   
-1. No novo centro de administração do SharePoint, clique em **sites ativos**.
+1. No novo centro de SharePoint de administração, clique em **Sites ativos.**
   
-2. Selecione um site que tenha um modelo de **site de equipe** . 
+2. Selecione um site que tenha um modelo **de Site de** Equipe. 
   
-3. Selecione o botão **compartilhamento** no menu superior. 
+3. Selecione o **botão Compartilhamento** no menu superior. 
   
- **Observação**: por padrão, quando um site de equipe moderno é criado, a opção de compartilhamento externo será definida para usuários externos novos e existentes. 
+ **Observação**: Por padrão, quando um Site de Equipe Moderno é criado, a opção compartilhamento externo será definida como Usuários externos novos e existentes. 
   
- **Observação:** Se você tiver mais de um site selecionado, o botão **compartilhamento** será exibido desabilitado. Selecione apenas um site. 
+ **Observação:** Se você tiver mais de um site selecionado, o botão **Compartilhamento** aparecerá desabilitado. Selecione apenas um site. 
   
 

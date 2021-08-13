@@ -1,5 +1,5 @@
 ---
-title: Sincronização de perfil de usuário do SharePoint Online
+title: SharePoint Sincronização de Perfil de Usuário Online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003095"
 - "5848"
-ms.openlocfilehash: abb4b671091fee60fcf836acb15bc3dbdaac7b54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb2c3a2c43a59882dab3f8035dd20e69579a46a7c8bde7badc80310a1ab57f6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665346"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957457"
 ---
-# <a name="sharepoint-online-user-profile-synchronization"></a>Sincronização de perfil de usuário do SharePoint Online
+# <a name="sharepoint-online-user-profile-synchronization"></a>SharePoint Sincronização de Perfil de Usuário Online
 
-O Microsoft SharePoint usa o trabalho de sincronização do Active Directory para importar informações de atributo de usuário e de grupo para o aplicativo de perfil de usuário (UPA).Para obter mais informações, confira o artigo abaixo.
+O Microsoft SharePoint usa o trabalho de sincronização do Active Directory para importar informações de atributo de usuário e grupo para o Aplicativo de Perfil de Usuário (UPA).Para obter mais informações, consulte o artigo abaixo.
 
-- [Sincronização de perfil de usuário do SharePoint Online](https://docs.microsoft.com/sharepoint/user-profile-sync)
+- [SharePoint Sincronização de Perfil de Usuário Online](https://docs.microsoft.com/sharepoint/user-profile-sync)
