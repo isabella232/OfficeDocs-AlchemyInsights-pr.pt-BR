@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: e56a4d4ae22c51d9e80892bcc0b5478a879cebab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba562c2a31fd39c86debc36c7520f1c3d27ac0c370894929b566147d965f3ad7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732415"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965377"
 ---
-# <a name="create-or-edit-an-outlook-profile"></a>Criar ou editar um perfil do Outlook
+# <a name="create-or-edit-an-outlook-profile"></a>Criar ou editar um perfil Outlook perfil
 
-Para criar um novo perfil do Outlook, editar um perfil ou renomear um perfil, use as etapas a seguir.
+Para criar um novo perfil Outlook, editar um perfil ou renomear um perfil, use as etapas a seguir.
   
-1. No Outlook, selecione configurações de conta de **arquivo** \> **Account Settings** \> **gerenciar perfis**.
+1. Em Outlook, selecione **Conta** \> **de Arquivo Configurações** Gerenciar \> **Perfis**.
     
-2. Na caixa de diálogo **Configurar email** , selecione **Mostrar perfis**.
+2. Na caixa **de diálogo Configuração de** Email, selecione Mostrar **Perfis**.
     
-3. Siga um destes procedimentos:
+3. Faça um dos seguintes:
     
   - Para criar um novo perfil, selecione **Adicionar**.
     
   - Para editar ou renomear um perfil, selecione **Propriedades**.
     
-Se você estiver tendo problemas para criar ou editar um perfil do Outlook, poderá executar a [ferramenta de perfil do Outlook](https://aka.ms/SaRA-OutlookSetupProfile) na máquina afetada. Ele executará algumas verificações e, quando você estiver pronto, criará um perfil do Outlook com seu endereço de email. 
+Se você estiver com problemas para criar ou editar um perfil Outlook, você pode executar a ferramenta de perfil Outlook [no](https://aka.ms/SaRA-OutlookSetupProfile) computador afetado. Ele executará algumas verificações e, quando você estiver pronto, criará um perfil Outlook com seu endereço de email. 
   
 

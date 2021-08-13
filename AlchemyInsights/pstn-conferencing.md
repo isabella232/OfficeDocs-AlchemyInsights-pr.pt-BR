@@ -13,18 +13,18 @@ ms.custom:
 - "9000698"
 - "2645"
 - "2593"
-ms.openlocfilehash: e1461582b8aa88116c600559855d32e6115cdf03
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 028e4623b7db7c0ee7a8eaab2e8971587d8cf0318c7c918ba6621f0d57b116be
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828896"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943615"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>Chamada PSTN com o Skype for Business Online
+# <a name="pstn-calling-with-skype-for-business-online"></a>Chamada PSTN com Skype for Business Online
 
-Para fazer chamadas PSTN no Microsoft 365, você precisa de um Plano de Chamadas do [Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) ou uma conexão com sua infraestrutura de telefonia PSTN local. Para obter mais informações, consulte os seguintes recursos: 
+Para fazer chamadas PSTN em Microsoft 365, [](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) você precisa de um plano de chamada Microsoft 365 ou uma conexão com sua infraestrutura de telefonia PSTN local. Para obter mais informações, consulte os seguintes recursos: 
 
-- [Disponibilidade de país e região para Audioconferência e Planos de Chamada do Microsoft Teams](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
-- [Perguntas comuns sobre a Audioconferência](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
+- [Disponibilidade de país e região para Audioconferência e Microsoft Teams de Chamada](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
+- [Perguntas comuns sobre a audioconferência](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
 - [Adicionar fundos e gerenciar Créditos de Comunicação](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [Os chamadores PSTN não podem ingressar em uma chamada de conferência discada do Skype for Business](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [Os chamadores PSTN não podem ingressar em uma chamada Skype for Business de conferência discado](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

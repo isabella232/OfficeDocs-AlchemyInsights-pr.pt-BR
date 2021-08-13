@@ -1,5 +1,5 @@
 ---
-title: Configurações POP, IMAP e SMTP para o Outlook.com
+title: Configurações POP, IMAP e SMTP para Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,25 +14,25 @@ ms.custom:
 - "1415"
 - "8000043"
 ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
-ms.openlocfilehash: 1885297a578b433e5c74a4fc72557a1e0807cf40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a1ec9cf117d39ba293c4b6e2759472d892db11d86c7415e1689027aa8a728ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798148"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983801"
 ---
-# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>Configurações POP, IMAP e SMTP para o Outlook.com
+# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>Configurações POP, IMAP e SMTP para Outlook.com
 
-Se você quiser adicionar sua conta do Outlook.com a um aplicativo de email que ofereça suporte a POP ou IMAP, aqui estão as configurações de servidor que você precisará:
+Se você quiser adicionar sua conta Outlook.com a um aplicativo de email compatível com POP ou IMAP, aqui estão as configurações de servidor de que você precisará:
   
-- **Nome do servidor IMAP:** Outlook.office365.com
+- **Nome do servidor IMAP:** outlook.office365.com
 - **Porta IMAP:** 993
 - **Método de criptografia IMAP:** TLS
-- **Nome do servidor pop:** Outlook.office365.com  
-- **Porta do pop:** 995  
-- **Método de criptografia do pop:** TLS  
-- **Nome do servidor SMTP:** SMTP.office365.com
+- **Nome do servidor POP:** outlook.office365.com  
+- **Porta POP:** 995  
+- **Método de criptografia POP:** TLS  
+- **Nome do servidor SMTP:** smtp.office365.com
 - **Porta SMTP:** 587
 - **Método de criptografia SMTP:** STARTTLS
 
-Saiba mais sobre como [adicionar sua conta do Outlook.com a outro aplicativo de email ou dispositivo inteligente](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy).
+Saiba mais sobre [como adicionar sua conta Outlook.com a outro aplicativo de email ou dispositivo inteligente.](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy)

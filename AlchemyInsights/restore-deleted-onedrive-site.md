@@ -1,5 +1,5 @@
 ---
-title: Restaurar um site do OneDrive excluído
+title: Restaurar um site OneDrive excluído
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3174"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: ee48271ac3325881c2c2d8623be98c6d4cf3d09f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b5043c1b3aadf4e2554f3a469e5e1a53d7d038602300447599ff1c13cf31271
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728023"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991271"
 ---
-# <a name="restore-a-deleted-onedrive-site"></a>Restaurar um site do OneDrive excluído
+# <a name="restore-a-deleted-onedrive-site"></a>Restaurar um site OneDrive excluído
 
-Quando você exclui um usuário no centro de administração do Microsoft 365 (ou quando um usuário é removido por meio da sincronização do Active Directory), o OneDrive do usuário será retido pelo número de dias especificado no centro de administração do OneDrive. (Para saber mais, confira [definir a retenção de arquivo padrão para usuários do onedrive excluídos](https://docs.microsoft.com/onedrive/set-retention).)
+Quando você exclui um usuário no Centro de administração do Microsoft 365 (ou quando um usuário é removido por meio da sincronização do Active Directory), o OneDrive do usuário será mantido pelo número de dias especificados no centro de administração do OneDrive. (Para obter informações, consulte Definir a retenção de arquivo padrão [para usuários OneDrive excluídos](https://docs.microsoft.com/onedrive/set-retention).)
 
-* [Restaurar um site do OneDrive excluído](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+* [Restaurar um site OneDrive excluído](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-Se vários arquivos do OneDrive forem excluídos, substituídos, corrompidos ou infectados por malware, você poderá restaurar todo o OneDrive para um horário anterior.
+Se muitos dos seus arquivos OneDrive são excluídos, substituídos, corrompidos ou infectados por malware, você pode restaurar todo o OneDrive para uma hora anterior.
 
-* [Restaurar o OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+* [Restaure sua OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
