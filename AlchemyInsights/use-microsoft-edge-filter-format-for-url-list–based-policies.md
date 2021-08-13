@@ -1,5 +1,5 @@
 ---
-title: Usar o formato de filtro do Microsoft Edge para políticas baseadas em lista de URL
+title: Use Microsoft Edge de filtro do Microsoft Edge para políticas baseadas em lista de URL
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004031"
 - "7101"
-ms.openlocfilehash: 285864ccc74d40e3bf1472a1bf2e120827f85fc6
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 440e27e066cb8b2e8ca7d1c9e907a8c9bbd2a8cb23592c231f343442ff9e06d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571766"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919447"
 ---
-# <a name="use-microsoft-edges-filter-format-for-url-list-based-policies"></a>Usar o formato de filtro do Microsoft Edge para políticas baseadas em lista de URL
+# <a name="use-microsoft-edges-filter-format-for-url-list-based-policies"></a>Use Microsoft Edge de filtro do Microsoft Edge para políticas baseadas em lista de URL
 
-No Microsoft Edge versões 77 e posteriores, o formato de filtro pode ser usado para [políticas baseadas na lista de URLs](https://go.microsoft.com/fwlink/?linkid=2135179).
+Nas Microsoft Edge versões 77 e posteriores, o formato de filtro pode ser usado para políticas baseadas em lista [de URL.](https://go.microsoft.com/fwlink/?linkid=2135179)

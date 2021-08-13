@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: 827db0139d2793a5e4d850aeb5463dab272e4d64
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 13a75338e3784d3df2ec93e8096380f85494317b7161040c7ad60ad830f9211d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813604"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978077"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Resolver erros abrindo ou salvando arquivos do Word
 
 Se você estiver com problemas para abrir ou salvar documentos do Word, tente o seguinte:
 
-- [Instalar atualizações do Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Para ver a lista das atualizações mais recentes do Office, consulte [Atualizações mais recentes.](https://docs.microsoft.com/officeupdates/office-updates-msi)
+- [Instalar Office atualizações](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Para ver a lista das atualizações Office mais recentes, consulte [Atualizações mais recentes.](https://docs.microsoft.com/officeupdates/office-updates-msi)
 - [Solucionar problemas de documentos danificados no Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
-- [Reparar um aplicativo do Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
+- [Reparar um Office aplicativo](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 - Se o documento contiver alterações controladas, use as sugestões no [Word](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) com lentidão ou pare de responder se houver alterações ou comentários rastreados excessivos para resolver o problema.
 
 Se você recebeu um erro como um dos seguintes, use as sugestões em Mensagem de erro no Office quando um arquivo for bloqueado pelas configurações de política [do Registro](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
