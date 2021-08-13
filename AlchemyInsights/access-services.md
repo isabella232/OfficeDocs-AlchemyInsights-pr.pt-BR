@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
-ms.openlocfilehash: c5edb5d3e1cc19b2286adc50cc1a5b1d9cf3649f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67d95687db675b05fa9580aec4d444ab916e26ff73221ca289791b80807ca62f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668479"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938647"
 ---
 # <a name="access-services"></a>Serviços do Access
 
-O recurso serviços do Access no SharePoint Online está sendo desativado. Novos aplicativos Web baseados em acesso e bancos de dados Web não podem mais ser criados, e os aplicativos Web e bancos de dados Web existentes serão encerrados em abril de 2018. Os bancos de dados de área de trabalho do Access (. accdb) não são afetados por essa alteração. Recomendamos que o Microsoft PowerApps seja uma alternativa para acessar aplicativos Web e bancos de dados da Web. 
+O Serviços do Access do SharePoint Online está sendo retirado. Os novos aplicativos Web baseados no Access e bancos de dados da Web não podem mais ser criados, e os aplicativos Web e bancos de dados web existentes serão desligados até abril de 2018. Os bancos de dados da Área de Trabalho do Access (.accdb) não são afetados por essa alteração. Recomendamos Microsoft PowerApps como alternativa aos aplicativos Web do Access e bancos de dados da Web. 
   
-[Saiba mais sobre o Microsoft PowerApps](https://powerapps.microsoft.com/)
+[Saiba mais sobre Microsoft PowerApps](https://powerapps.microsoft.com/)
   
