@@ -1,5 +1,5 @@
 ---
-title: 2419-não é possível habilitar a auditoria
+title: 2419-unable-to-enable-auditing
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 2419
 ms.assetid: ''
-ms.openlocfilehash: 81fd8e33feb2f2b10b04cc7cdc746a8603aa366b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0566a8d002b1bd9e38f3184824193394e49d56494d347338f96cfcdfdb758f4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767587"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007778"
 ---
 # <a name="unable-to-enable-unified-auditing"></a>Não é possível habilitar a auditoria unificada
 
@@ -29,7 +29,7 @@ Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 50
 
 Para resolver esse problema, siga estas etapas:
 
-1. [Conecte-se ao PowerShell do Exchange Online](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
+1. [Conexão para Exchange Online Powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
 
 2. Execute o seguinte cmdlet:
 
@@ -39,7 +39,7 @@ Para resolver esse problema, siga estas etapas:
 
 3. Aguarde 60 minutos para que a configuração anterior entre em vigor.
 
-4. Execute o seguinte comando no PowerShell do Exchange Online:
+4. Execute o seguinte comando no Exchange Online PowerShell:
 
    ```
    Set-AdminAuditLogConfig -UnifiedAuditLogIngestionEnabled $true

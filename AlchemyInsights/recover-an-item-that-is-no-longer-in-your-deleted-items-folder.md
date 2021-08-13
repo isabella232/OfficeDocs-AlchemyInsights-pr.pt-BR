@@ -1,5 +1,5 @@
 ---
-title: Recuperar um item que não está mais na pasta itens excluídos
+title: Recuperar um item que não está mais na pasta Itens Excluídos
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,38 +13,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: b6ac084ead88b090d6caab1405d5d96f24890ea7
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 81a7a2e9623c788743fad99e15c4d771bb12a6c1c81f35a9d2a6a0729ecf8db7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560555"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062321"
 ---
-# <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a>Recuperar um item que não está mais na pasta itens excluídos
+# <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a>Recuperar um item que não está mais na pasta Itens Excluídos
 
-Se você não conseguir localizar um item na pasta itens excluídos, o próximo local para procurar é a pasta itens recuperáveis. Esta é uma pasta oculta para a qual os itens são movidos quando:
-- Eles são excluídos da pasta itens excluídos.
-- A pasta itens excluídos é esvaziada por você ou por uma política definida pelo administrador de ti.
-- Você exclui um item selecionando-o e pressionando **Shift + Delete**.
+Se você não conseguir encontrar um item na pasta Itens Excluídos, o próximo local a ser olhado é a pasta Itens Recuperáveis. Esta é uma pasta oculta para a onde os itens são movidos quando:
+- Eles são excluídos da pasta Itens Excluídos.
+- A pasta Itens Excluídos é esvaziada, por você ou por uma política definida pelo administrador de TI.
+- Exclua um item selecionando-o e pressionando **Shift+Delete.**
 
-Para exibir e recuperar itens que foram movidos para a pasta itens recuperáveis:
-1. Em um navegador da Web, entre no Outlook Web App usando a URL fornecida pela pessoa que gerencia o email da sua organização. Insira seu nome de usuário e senha e selecione **entrar**.
-1. Na lista de pastas de email, clique com o botão direito do mouse em **itens excluídos** e selecione **recuperar itens excluídos..**..
-1. Se necessário, use a caixa Pesquisar para localizar o item que você deseja recuperar.
-1. Quando encontrar o item, selecione-o e clique em **recuperar**.
+Para exibir e recuperar itens que foram movidos para a pasta Itens Recuperáveis:
+1. Em um navegador da Web, entre no Outlook Web App usando a URL fornecida pela pessoa que gerencia o email da sua organização. Insira seu nome de usuário e senha e selecione **Entrar**.
+1. Na sua lista de pastas de email, clique com o botão direito do mouse em **Itens Excluídos** e, em seguida, **selecione recuperar itens excluídos...**.
+1. Se necessário, use a caixa de pesquisa para encontrar o item que você deseja recuperar.
+1. Quando você encontrar o item, selecione-o e clique em **recuperar**.
    Os itens recuperados são movidos para o local padrão para cada tipo de item.
-    - As mensagens vão para a caixa de entrada.
-    - Os itens de calendário vão para o seu calendário.
-    - Os contatos vão para a pasta contatos.
-    - As tarefas vão para a pasta tarefas.
+    - As mensagens vão para sua Caixa de Entrada.
+    - Os itens de calendário vão para o calendário.
+    - Os contatos vão para a pasta Contatos.
+    - As tarefas vão para a pasta Tarefas.
 
-**Dicas para recuperar itens na pasta itens recuperáveis**
+**Dicas para recuperar itens na pasta Itens Recuperáveis**
 
-- A data de exclusão de um item da pasta itens recuperáveis é quando o item foi movido para a pasta itens excluídos. Não é a data em que o item foi movido para a pasta itens recuperáveis.
-- Os itens na pasta itens recuperáveis não têm ícones, portanto, todos eles parecem muito semelhantes.
-    - Se você estiver procurando um contato, procure um item que tenha o nome da pessoa, mas sem linha de assunto.
+- A data excluída de um item na pasta Itens Recuperáveis é quando o item foi movido para a pasta Itens Excluídos. Não é a data em que o item foi movido para a pasta Itens Recuperáveis.
+- Os itens na pasta Itens Recuperáveis não têm ícones, portanto, todos eles são muito semelhantes.
+    - Se você estiver procurando um contato, procure um item que tenha o nome da pessoa, mas nenhuma linha de assunto.
     - Se você estiver procurando um compromisso de calendário, procure um item que não tenha o nome de uma pessoa ou uma linha de assunto.
-    - Se você estiver procurando um contato, compromisso de calendário ou a aparência de uma tarefa para o texto desse item.
-- Para recuperar vários itens, passe o mouse sobre cada item e marque a caixa de seleção ao lado dele, clique em **recuperar**. Você também pode recuperar vários itens adjacentes marcando a caixa de seleção para o primeiro item, mantendo pressionada a tecla **Shift** e, em seguida, selecionando a caixa de seleção para o último item. Quando todos os itens estiverem selecionados, selecione **recuperar**.
-- Você pode limpar itens da lista **recuperar itens excluídos** . Basta selecionar o item e, em seguida, selecionar **limpar**. Se você limpar um item, não poderá usar recuperar itens excluídos para obtê-lo novamente. A limpeza de uma mensagem não a removerá de nenhum backup feito antes da limpeza.
-- Sua organização pode ter especificado por quanto tempo os itens na pasta itens recuperáveis estão disponíveis para recuperação. Por exemplo, pode haver uma política que exclua tudo o que está na pasta itens excluídos por 30 dias e outra política que permite recuperar itens na pasta itens recuperáveis por até mais 14 dias.
+    - Se você estiver procurando um contato, um compromisso de calendário ou uma tarefa procure o texto desse item.
+- Para recuperar vários itens, passe o mouse sobre cada item e selecione a caixa de seleção ao lado dele, clique em **recuperar**. Você também pode recuperar vários itens adjacentes selecionando a caixa de seleção do primeiro item, segurando a tecla **Shift** e selecionando a caixa de seleção do último item. Quando todos os itens forem selecionados, selecione **recuperar**.
+- Você pode limpar itens da lista **Recuperar itens excluídos.** Basta selecionar o item e, em seguida, selecione **limpar**. Se você limpar um item, não poderá usar Recuperar itens excluídos para recuperá-lo. Limpar uma mensagem não a removerá de quaisquer backups que foram feitos antes de você removê-la.
+- Sua organização pode ter especificado por quanto tempo os itens na pasta Itens Recuperáveis estão disponíveis para recuperação. Por exemplo, pode haver uma política que exclua tudo o que está na pasta Itens Excluídos há 30 dias e outra política que permite recuperar itens na pasta Itens Recuperáveis por até mais 14 dias.
