@@ -1,5 +1,5 @@
 ---
-title: Provisionamento de usuário
+title: Provisionamento do usuário
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004348"
 - "8428"
-ms.openlocfilehash: bd415b2d44bccf0c2b3eccb4e38452498b748b3a
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.openlocfilehash: 12490df735ca8c524058404df92db79c6c5682fe2ecafe2b42baed70fa3ab142
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430709"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971327"
 ---
-# <a name="user-provisioning"></a>Provisionamento de usuário
+# <a name="user-provisioning"></a>Provisionamento do usuário
 
 - Use o [recurso de provisionamento](https://docs.microsoft.com/azure/active-directory/app-provisioning/provision-on-demand) sob demanda para provisionar um usuário e obter diagnósticos detalhados sobre as etapas realizadas.
 - Para solucionar problemas encontrados durante o provisionamento de usuários e grupos, consulte o guia de solução de problemas [Nenhum usuário está sendo provisionado para](https://docs.microsoft.com/azure/active-directory/app-provisioning/application-provisioning-config-problem-no-users-provisioned).

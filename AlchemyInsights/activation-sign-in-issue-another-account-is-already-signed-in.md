@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3407"
 - "9001422"
-ms.openlocfilehash: 76eef6f89cc1cb4c26e9022c7048d23937e5af59
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 72af15ab8481a5661a0ec201c64d5ad21687744f949d0e555da21baf269a780f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822911"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937197"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Corrigir os aplicativos do Microsoft 365 Mensagem "Desculpe, outra conta da sua organização já está assinada"
+# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Corrigir os Microsoft 365 aplicativos "Desculpe, outra conta da sua organização já está assinada" mensagem
 
 Para corrigir esse erro, use as etapas a seguir:
 
 1. Abra um aplicativo do Office e [saia](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) das contas de usuários existentes.   
-2. Usando contas **de configurações do** Windows  >    >  **Email & contas**, remova todas as contas de trabalho, exceto a conta afetada. 
-3. Usando **Configurações do** Windows  >  **Contas Acessar** trabalho ou  >  **escola**, desconecte todas as contas de trabalho, exceto a conta afetada. 
+2. Usando Windows **Configurações** contas de email & contas, remova todas as contas de  >    >  trabalho, exceto a conta afetada. 
+3. Usando Windows **Configurações**  >  **Contas Acesse** trabalho ou  >  **escola,** desconecte todas as contas de trabalho, exceto a conta afetada. 
 4. Reinicie o estado de ativação do Office. [Saiba como](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
 ).
 5. [Entre usando](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) a conta de usuário afetada. 

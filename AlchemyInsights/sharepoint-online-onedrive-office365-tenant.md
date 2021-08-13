@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online ou OneDrive ' setting up '
+title: SharePoint Online ou OneDrive "Configurando"
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,17 +11,17 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 94e9a69fbc8b3d8f8814a260d29b17c11f76b099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 885be92b0a6f4156e61a2ca79be4cd9bb99bf56e18cea3aa17ef1c7d34246058
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770980"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093586"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online ou OneDrive "Configurando"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online ou OneDrive "Configuração"
 
-Quando um usuário é adicionado a um locatário existente, ele pode ver os ícones do SharePoint Online ou do OneDrive for Business listados como "configuração" ou "ainda estamos trabalhando para obter a configuração dos arquivos" até que o processo de provisionamento tenha sido concluído. Siga este [Guia de solução de problemas](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) para obter ajuda.
+Quando um usuário é adicionado a um locatário existente, ele pode ver os ícones do SharePoint Online ou OneDrive for Business listados como "Configurando" ou "Ainda estamos trabalhando na instalação de arquivos" até que o processo de provisionamento seja concluído. Siga este [Guia de Solução de Problemas](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) para ajudar.
 
-Se passar mais de 24 horas desde que você viu o problema pela primeira vez, registre um caso de suporte.
+Se mais de 24 horas se passaram desde que você viu esse problema pela primeira vez, registre um caso de suporte.
 
-Entendemos que 24 horas podem parecer muito tempo. Em muitos casos, já estamos trabalhando em uma solução. Aguarde pelo menos 24 horas para concluir uma solução.
+Entendemos que 24 horas podem parecer muito tempo. Em muitos casos, já estamos trabalhando em uma solução. Dê-nos pelo menos 24 horas para concluir uma solução.
