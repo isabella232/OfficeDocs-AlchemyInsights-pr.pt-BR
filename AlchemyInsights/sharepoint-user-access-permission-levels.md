@@ -9,16 +9,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 7db5e4c84f16e58b69be88f93e01aa57c75c52e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7dc21b2ae82809e02fe46d3f2410498b0ef3b6c6d75baaae1361b29a4d387d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795376"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022754"
 ---
-# <a name="user-permissions-in-sharepoint"></a>Permissões de usuário no SharePoint
+# <a name="user-permissions-in-sharepoint"></a>Permissões de usuário em SharePoint
 
-Depois que você criar um site do SharePoint, talvez queira fornecer ou restringir o acesso do usuário ao site ou ao conteúdo dele. A maneira mais fácil de trabalhar com permissões é usar os níveis de grupos e permissões [padrão](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) fornecidos, que abrangem os cenários mais comuns. Entretanto, se for necessário, você pode definir permissões mais refinadas do que os níveis padrão. Para obter mais informações, consulte [Understanding Permission Levels in SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Depois que você criar um site do SharePoint, talvez queira fornecer ou restringir o acesso do usuário ao site ou ao conteúdo dele. A maneira mais fácil de trabalhar [](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) com permissões é usar os grupos padrão e os níveis de permissões fornecidos, que abrangem os cenários mais comuns. Entretanto, se for necessário, você pode definir permissões mais refinadas do que os níveis padrão. Para obter mais informações, consulte [Understanding permission levels in SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
 Para obter mais informações sobre como gerenciar níveis de permissão específicos, visite os links abaixo:
 
@@ -32,6 +32,6 @@ Para obter mais informações sobre como gerenciar níveis de permissão especí
 
 - [Alterar as permissões em uma subpasta](https://support.office.com/article/change-the-permissions-on-a-subfolder-5427bd7c-f20a-4f75-8cf2-5359dd45a1a6)
 
-- [Compartilhar arquivos ou pastas do SharePoint no Microsoft 365](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Compartilhar SharePoint arquivos ou pastas em Microsoft 365](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
 - [Compartilhar um site](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)

@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "12451"
 - "9000181"
-ms.openlocfilehash: c3a0695dc2aa5f6e56be2235f08c81dbbe7fcea2
-ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
+ms.openlocfilehash: e197c43712c0ead9508a1cfdf48b51d01d2ae957649f73703f9c33733e332bf5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53532844"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986761"
 ---
 # <a name="limitations-for-sensitivity-labels-for-office-files-in-sharepoint-and-onedrive"></a>Limitações para rótulos de confidencialidade para arquivos do Office no SharePoint e no OneDrive
 
 Ao habilitar rótulos de confidencialidade para arquivos do Office no SharePoint e no OneDrive, esteja ciente dos requisitos e limitações, que incluem:
 
 - O SharePoint e o OneDrive não podem processar alguns arquivos rotulados e criptografados de aplicativos da área de trabalho do Office quando os arquivos contêm dados do PowerQuery, dados armazenados por suplementos personalizados ou partes XML personalizadas.
-- O SharePoint e o OneDrive não aplicam rótulos de confidencialidade automaticamente aos arquivos existentes que você já criptografou usando os rótulos Proteção de Informações do Azure (AIP). Para aplicar rótulos de confidencialidade a arquivos criptografados: 
+- O SharePoint e o OneDrive não aplicam rótulos de confidencialidade automaticamente aos arquivos existentes que você já criptografou usando os rótulos Proteção de Informações do Azure (AIP). Para aplicar os rótulos de confidencialidade a arquivos criptografados: 
     - Verifique se os rótulos da AIP foram migrados e publicados no Centro de conformidade do Microsoft 365.
     - Baixe os arquivos rotulados e carregue-os no local original do SharePoint ou do OneDrive.
 - Para documentos criptografados, não há suporte para impressão.

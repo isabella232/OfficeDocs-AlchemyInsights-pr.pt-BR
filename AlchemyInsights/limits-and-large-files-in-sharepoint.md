@@ -1,5 +1,5 @@
 ---
-title: Limites e arquivos grandes no SharePoint
+title: Limites e arquivos grandes em SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: f4900811e23bf8cb515bd22faed015d92fa34b64
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: c78095a5d5aac4015e4826c78136db3b7ffda95872024a0058a7e8f8b2ccef4b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709166"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986690"
 ---
 # <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Arquivos que não podem ser carregados no SharePoint Online
 
@@ -29,6 +29,6 @@ Se um arquivo não carregar no SharePoint Online, certifique-se:
     
 - O nome do arquivo não contém os caracteres " \* : \< \> ? / \ | e não está na lista de [nomes inválidos](https://go.microsoft.com/fwlink/?linkid=866430).
     
-Se você estiver tentando carregar o arquivo usando o aplicativo da área de trabalho do OneDrive, consulte [Restrições](https://go.microsoft.com/fwlink/p/?LinkID=717734) e limitações ao sincronizar arquivos e pastas ou Corrigir problemas de sincronização [do OneDrive.](https://go.microsoft.com/fwlink/?linkid=866431)
+Se você estiver tentando carregar o arquivo usando o aplicativo [](https://go.microsoft.com/fwlink/p/?LinkID=717734) de área de trabalho OneDrive, consulte Restrições e limitações ao sincronizar arquivos e pastas ou Corrigir [Sincronização do OneDrive problemas](https://go.microsoft.com/fwlink/?linkid=866431).
   
 
