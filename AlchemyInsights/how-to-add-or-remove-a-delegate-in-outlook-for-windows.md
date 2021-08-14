@@ -1,5 +1,5 @@
 ---
-title: Como adicionar ou remover um representante no Outlook para Windows
+title: Como adicionar ou remover um Representante no Outlook para Windows
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,46 +12,46 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7334"
-ms.openlocfilehash: fcbd6082c104f0e1bca022a23cbbeb6e3363a6c5
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: ee54e2bcca4f4591b33ee805290192311f6cde09a9e453a813e9db328d19634d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571769"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945325"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-for-windows"></a>Como adicionar ou remover um representante no Outlook para Windows
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-for-windows"></a>Como adicionar ou remover um Representante no Outlook para Windows
 
-Para adicionar um representante no Outlook para Windows: 
+Para adicionar um Representante no Outlook para Windows: 
 
-1. Clique na guia **arquivo** seguida por **configurações de conta** e escolha acesso de **Representante**.
-2. Clique em **Adicionar**. Se **Add** não aparecer, uma conexão ativa pode não existir entre o Outlook e o Exchange. A barra de status do Outlook exibe o status da conexão.
-3. Digite o nome da pessoa que você deseja designar como seu representante ou pesquise e escolha o nome na lista de resultados da pesquisa.
+1. Clique na guia **Arquivo** seguido por **Conta Configurações** e escolha **Delegar Acesso**.
+2. Clique em **Adicionar**. Se **Add** não aparecer, uma conexão ativa pode não existir entre Outlook e Exchange. A Outlook de status exibe o status da conexão.
+3. Digite o nome da pessoa que você deseja designar como representante ou pesquise e escolha o nome na lista de resultados da pesquisa.
 
     > [!NOTE]
-    > O representante deve ser uma pessoa na GAL (lista de endereços global) do Exchange da sua organização.
+    > O representante deve ser uma pessoa na Exchange gal (lista de endereços global) da sua organização.
 4. Clique em **Adicionar** seguido por **OK**.
-5. Na caixa de diálogo **permissões de representante** , aceite as configurações de permissão padrão ou selecione níveis de acesso personalizados para pastas do Exchange.
+5. Na caixa **de diálogo Permissões** de Representante, aceite as configurações de permissão padrão ou selecione níveis de acesso personalizados para Exchange pastas.
 
-    - Se um representante precisar de permissão para trabalhar apenas com solicitações de reunião e respostas, as configurações de permissão padrão, como **Representante, receberá cópias de mensagens relacionadas à reunião enviadas para mim** são suficientes. Você pode deixar a configuração de permissão de **caixa de entrada** como **nenhum**. As solicitações e respostas de reunião vão diretamente para a caixa de entrada do representante.
+    - Se um representante precisar de permissão para trabalhar somente com solicitações e respostas de reunião, as configurações de permissão padrão, como Delegate, receberão cópias de mensagens **relacionadas** à reunião enviadas a mim são suficientes. Você pode deixar a **configuração de permissão Caixa** de Entrada em **Nenhum**. As solicitações e respostas de reunião irão diretamente para a caixa de entrada do representante.
 
     > [!NOTE]
-    > Por padrão, o representante tem a permissão **Editor (pode ler, criar e modificar itens)** na pasta **calendário** . Quando o representante responde a uma reunião em seu nome, ele é automaticamente adicionado à pasta **calendário** .
+    > Por padrão, o representante tem permissão **editor (pode ler,** criar e modificar itens) para sua **pasta Calendário.** Quando o representante responde a uma reunião em seu nome, ela é automaticamente adicionada à **pasta Calendário.**
 
-5. Para enviar uma mensagem para notificar o representante das permissões alteradas, marque a caixa de seleção **Enviar automaticamente uma mensagem para o representante Resumindo estas permissões** .
-6. Se desejar, marque a caixa de seleção **Representante pode ver meus itens particulares** .
+5. Para enviar uma mensagem para notificar o representante das permissões alteradas, marque a caixa de seleção Enviar automaticamente uma mensagem para delegar resumindo **essas** permissões.
+6. Se quiser, selecione a caixa de seleção **Delegar pode ver meus itens** particulares.
 
     > [!IMPORTANT]
-    > Essa configuração afeta todas as pastas do Exchange. Isso inclui todos os emails, contatos, calendário, tarefas, anotações e pastas de diário. Não há como conceder acesso a itens privados em apenas pastas especificadas.
+    > Essa configuração afeta todas as Exchange pastas. Isso inclui todas as pastas Mail, Contacts, Calendar, Tasks, Notes e Journal. Não há como conceder acesso a itens particulares apenas em pastas especificadas.
 
 7. Escolha **OK**.
 
     > [!NOTE]
     >
-    > - As mensagens enviadas com as permissões Enviar em nome de incluem o representante **de**. Quando uma mensagem é enviada com permissões Enviar como, apenas seu nome é exibido.
-    > - Depois que você adicionar alguém como representante, poderá adicionar sua caixa de correio do Exchange ao seu perfil do Outlook. Para obter instruções, consulte [gerenciar itens de email e calendário de outra pessoa](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5).
+    > - As mensagens enviadas com permissões Enviar em Nome incluem os nomes do representante e seus ao lado de **From**. Quando uma mensagem é enviada com permissões Enviar como, apenas seu nome é exibido.
+    > - Depois de adicionar alguém como representante, ele poderá adicionar sua caixa de correio Exchange seu perfil Outlook pessoal. Para obter instruções, [consulte Manage another person's mail and calendar items](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5).
 
-Para remover um representante no Outlook para Windows:
+Para remover um Representante no Outlook para Windows:
 
-1. Clique na guia **arquivo** .
-2. Clique em **configurações de conta** seguidas por **acesso de representante**.
-3. Escolha o nome do representante para o qual você deseja alterar as permissões e clique em **remover** seguido por **OK**.
+1. Clique na guia **Arquivo.**
+2. Clique em **Conta Configurações** seguido por **Delegate Access**.
+3. Escolha o nome do representante para o qual você deseja alterar as permissões e clique em **Remover** seguido por **OK**.

@@ -1,5 +1,5 @@
 ---
-title: Como adicionar ou remover um representante no Mac
+title: Como adicionar ou remover um Representante no Mac
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7336"
-ms.openlocfilehash: 631a1202eca985db93c31dbedca520674b06095e
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 90f9083d65a93cb6fc4f5ea3b8c1b378e209dc3a4500a29dbab04ef958ea93c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576330"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945361"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-mac"></a>Como adicionar ou remover um representante no Mac
+# <a name="how-to-add-or-remove-a-delegate-in-mac"></a>Como adicionar ou remover um Representante no Mac
 
-Faça o seguinte para adicionar ou remover um representante no Mac:
+Faça o seguinte para adicionar ou remover um Representante no Mac:
 
-**Como adicionar um representante ao Mac**:
+**Como adicionar um Representante no Mac**:
 
-1. No menu **ferramentas** , selecione **contas**.
-1. Selecione a conta do Exchange que você usará para acessar os itens delegados, clique em **avançado** e, em seguida, clique em **representantes**.
-1. Em **pessoas para as quais eu sou representante**, clique em **Adicionar**. .
-1. Digite o nome da pessoa que adicionou você como um representante.
+1. No menu **Ferramentas,** selecione **Contas**.
+1. Selecione a Exchange que você usará para acessar os itens **delegados,** clique em **Avançado** e clique em Representantes .
+1. Em **Pessoas para quem sou representante,** clique em **Adicionar**. .
+1. Digite o nome da pessoa que adicionou você como representante.
 1. Selecione o nome da pessoa nos resultados da pesquisa e clique em **Adicionar**.
  
-**Como remover um representante no Mac**:
+**Como remover um Representante no Mac**:
 
-1. No menu **ferramentas** , selecione **contas**.
-1. Selecione a conta do Exchange que você deseja alterar, clique em **avançado** e, em seguida, clique em * * * * guia representantes.
-1. Em **pessoas para as quais eu sou representante**, selecione a pessoa para quem você deseja parar de ser um representante e clique em **remover**.
+1. No menu **Ferramentas,** selecione **Contas**.
+1. Selecione a Exchange que você deseja alterar, clique em **Avançado** e clique em *****Guia Representantes.
+1. Em **Pessoas para quem sou representante,** selecione a pessoa para a qual você deseja parar de ser representante e clique em **Remover**.

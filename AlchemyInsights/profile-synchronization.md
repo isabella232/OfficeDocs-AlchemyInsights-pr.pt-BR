@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: eee1080a95955332e205db3852381e39aaf5ae0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b223bad66fb7cc6d1d7c0a2b3ccc7a081c061b4974060dbcafec84dfb24eb782
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801757"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923632"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Quando o meu perfil é alterado, sincronizar com o aplicativo de perfil de usuário do SharePoint?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Quando minhas alterações de perfil são sincronizadas com o aplicativo SharePoint Perfil de Usuário?
 
-O SharePoint Online usa o trabalho de timer de importação do Active Directory (AD Import) para importar usuários e grupos para o aplicativo de perfil de usuário. 
+SharePoint Online usa o trabalho de timer de Importação do Active Directory (Importação de AD) para importar usuários e grupos para o Aplicativo de Perfil de Usuário. 
   
-1. A importação do AD sincroniza as alterações do repositório de diretórios do SharePoint Online para o aplicativo de perfil de usuário. Essas alterações são processadas em lotes.
+1. A Importação do AD sincroniza as alterações do SharePoint De diretório online para o Aplicativo de Perfil de Usuário. Essas alterações são processadas em lotes.
     
 2. O trabalho de timer é executado até que as alterações sejam sincronizadas.
     
 > [!NOTE]
-> O tempo necessário para a execução do trabalho depende do número de alterações a serem processadas. Um grande número de alterações demora mais. O contrato de nível de serviço (SLA) informa que uma alteração em um usuário no diretório do SharePoint Online será refletida no aplicativo de perfil de usuário em 24 horas. 
+> O tempo necessário para executar o trabalho depende do número de alterações no processo. Um grande número de alterações leva mais tempo. O Contrato de Nível de Serviço (SLA) afirma que uma alteração para um usuário no diretório SharePoint Online será refletida no Aplicativo de Perfil de Usuário em 24 horas. 
   
 [Mais informações sobre a sincronização de perfil de usuário no SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
   

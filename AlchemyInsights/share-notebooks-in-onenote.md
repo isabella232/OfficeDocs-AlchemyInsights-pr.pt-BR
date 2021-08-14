@@ -1,5 +1,5 @@
 ---
-title: Como compartilhar blocos de anotações no OneNote para a Web ou o OneNote 2016
+title: Como compartilhar blocos de anotações OneNote para a Web ou OneNote 2016
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000556"
 - "2406"
-ms.openlocfilehash: 524141e55f72e96d69bca407a941ab694326aaaa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f66f55325f52ed89b077923615de03d7818c50cab0043dca98aadca3e725bc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739093"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958033"
 ---
-# <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a>Compartilhar blocos de anotações no OneNote para a Web ou o OneNote 2016
+# <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a>Compartilhar Blocos de Anotações em OneNote para a Web ou OneNote 2016
 
-No OneNote para a Web, você pode compartilhar anotações convidando outras pessoas para exibir e fazer alterações no bloco de anotações ou criar um link para uma página de anotações que você pode colar em um email, blog ou página da Web. Confira mais informações em [usar o OneNote para a Web para compartilhar anotações com outras pessoas](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)
+No OneNote para a Web, você pode compartilhar anotações convidando outras pessoas para exibir e fazer alterações em seu bloco de anotações ou criando um link para uma página de anotações que você pode colar em um email, blog ou página da Web. Para obter mais informações, consulte [Use OneNote para a Web para compartilhar anotações com outras pessoas](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)
 
-No OneNote 2016, verifique se o bloco de anotações do OneNote 2016 está no OneDrive para que outros possam acessá-lo. Para compartilhar o, você pode convidar pessoas no email ou obter um link de compartilhamento. Para obter mais informações, consulte [compartilhar um bloco de anotações do OneNote 2016 para Windows com outras pessoas](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)
+Em OneNote 2016, certifique-se de OneNote 2016 bloco de anotações está OneDrive para que outras pessoas possam chegar a ele. Para compartilhar, você pode convidar pessoas no email ou obter um link de compartilhamento. Para obter mais informações, consulte [Share a OneNote 2016 for Windows bloco de anotações com outras pessoas](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)

@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5ddaaed361f6ec934cfffb00cc62a9df2d1a04e8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 74f9733196004fd7a78eeb290c948a9f35ac2a31b3c5b00bf82e44081aac8637
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735391"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988823"
 ---
 # <a name="automatically-encrypt-certain-email-messages-from-office-365"></a>Criptografar automaticamente determinadas mensagens de email do office 365
 
-1. No Centro [de administração do Exchange,](https://outlook.office365.com/ecp/)escolha **fluxo de emails > regras.** 
-2. Clique no **ícone Novo (+)** e, em seguida, clique em Aplicar a Criptografia de Mensagens do **Office 365 e proteção de** direitos às mensagens .
+1. No centro [de Exchange de administração,](https://outlook.office365.com/ecp/)escolha **fluxo de emails > regras.** 
+2. Clique no **ícone Novo (+)** e clique em **Aplicar Criptografia de Mensagens do Office 365 proteção** de direitos e direitos às mensagens .
 3. Em **Nome**, insira um nome para a regra, como *Criptografar todas as mensagens*.
 4. Em **Aplicar essa regra se**, escolha **[Aplicar a todas as mensagens]**. 
 5. Ao lado do **campo Fazer o seguinte,** clique **em Selecionar um**. 
@@ -36,5 +36,5 @@ ms.locfileid: "50735391"
 > [!IMPORTANT]
 > Você sempre pode voltar e editar essa regra mais tarde.
 
-Para obter mais informações sobre como criar regras para criptografia, consulte Definir regras de fluxo de emails [para criptografar mensagens de email no Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
+Para obter mais informações sobre como criar regras para criptografia, consulte [Define mail flow rules to encrypt email messages in Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
 
