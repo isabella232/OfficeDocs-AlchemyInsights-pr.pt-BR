@@ -1,5 +1,5 @@
 ---
-title: O endereço de email personalizado do Outlook.com não está enviando ou recebendo
+title: Outlook.com endereço de email personalizado não está enviando ou recebendo
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,19 +10,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
-ms.openlocfilehash: cf35047c58e9b41359a5b1a92f3be494eefde455
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59ffadb8ef79594c1e0a1933038cc8c923594a30a67678aed36aa62cf174c3aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772267"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095998"
 ---
-# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Meu endereço de email personalizado do Outlook.com não está enviando ou recebendo
+# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Meu endereço de email Outlook.com personalizado não está enviando ou recebendo
 
-Selecione o ícone de losango na barra de ferramentas para abrir o painel Premium.
+Selecione o ícone de diamante na barra de ferramentas para abrir o painel premium.
 
-Se você não vir um ícone de losango em sua caixa de entrada (e você vir ADS), significa que sua assinatura do Microsoft 365 expirou. Vá para  [https://account.microsoft.com/services](https://account.microsoft.com/services) para reativar sua assinatura e, em seguida, reconecte o domínio usando as etapas em "introdução".
+Se você não vir um ícone de diamante na caixa de entrada (e vir anúncios), isso significa que sua assinatura Microsoft 365 expirou. Vá para para ativar novamente sua assinatura e reconecte seu domínio usando as [https://account.microsoft.com/services](https://account.microsoft.com/services) etapas em "Começar".
 
-Se a guia "endereço de email personalizado" tiver uma barra de status vermelha, seu domínio pode ter expirado.
+Se a guia "Endereço de email personalizado" tiver uma barra de status vermelha, seu domínio poderá ter expirado.
 
-Leia mais etapas de solução de problemas em [endereços de email personalizados no Microsoft 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).
+Leia mais etapas de solução de problemas [em endereços de email personalizados Microsoft 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).
