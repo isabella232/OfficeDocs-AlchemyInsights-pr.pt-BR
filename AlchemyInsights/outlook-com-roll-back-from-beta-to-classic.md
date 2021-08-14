@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000035"
-ms.openlocfilehash: 0668e330897698481ce00ca331e183b0c1d44885
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53fe28be4f02087eba1ba096f165801d23e244ab95135564801f6e9dec231c9c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723127"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961717"
 ---
 # <a name="the-new-outlookcom"></a>O novo Outlook.com
 
-Não é mais possível sair da nova experiência do Outlook.com e retornar à versão clássica do Outlook.com.
+Não é mais possível deixar a nova experiência Outlook.com e retornar à versão clássica do Outlook.com.
 
-Se quiser fornecer comentários sobre o novo Outlook.com, vá para o [Fórum UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Você pode votar em ideias ou problemas que gostaria de ver abordados, e responderemos diretamente aos principais comentários e sugestões.
+Se você quiser dar comentários sobre o novo Outlook.com, vá para o [fórum UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Você pode votar nas ideias ou problemas que gostaria de ver abordados e responderemos diretamente aos principais comentários e sugestões.
 
-[Obter ajuda com o Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Obter ajuda com Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

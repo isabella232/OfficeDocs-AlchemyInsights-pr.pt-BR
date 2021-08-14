@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6817"
-ms.openlocfilehash: 6b27344b43aa5c20d64d148ff164be805f3b5ef8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8d0a6a37a244e817472c3949109481a30d80328b7353806905e05c547e196ea0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819680"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931221"
 ---
 # <a name="cancelling-reservation"></a>Cancelar Reserva
 
@@ -61,7 +61,7 @@ Exemplo de reserva antecipada:
 
 - Você compra um RI com prazo de um ano por US$ 10 mensais
 - Em 7 de abril você deseja reembolsar ou trocar essa reserva
-- Como o último pagamento ocorreu há sete dias, você receberá (1-7/31) * US$ 10 de volta. (por exemplo, US$ 7,74)
+- Como o último pagamento ocorreu por sete dias, você receberá (1 a 31/7) * US$ 10 de volta. (ou seja, US$ 7,74)
 - Os pagamentos futuros cancelados são de US$ 80. No momento, não há nenhuma multa em reembolsos
 - Esse cancelamento deduzirá US$ 87,74 do seu limite de reembolso US$ 50.000
 - Se você trocar, o valor total da nova compra deverá ser maior do que US$ 87,74

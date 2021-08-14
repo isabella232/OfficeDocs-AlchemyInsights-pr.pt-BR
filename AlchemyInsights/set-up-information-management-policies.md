@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
-ms.openlocfilehash: 862dc76f71828ac727efcfe10656c218754ce25a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0e3de5591c064f7e121c206180b34ee34e985f872a5ee6209889ecad6eaa32c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800992"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921643"
 ---
 # <a name="set-up-information-management-policies"></a>Configurar políticas de gerenciamento de informações
 
-1. Se o site do SharePoint tiver subsites, navegue até o site de nível superior.
+1. Se o site SharePoint tiver subsites, navegue até o site de nível superior.
     
-2. Clique em **Configurações** e então clique em **Configurações do Site**. Se o site for um site conectado ao grupo Microsoft 365, clique em **configurações**, em **conteúdo do site**e em **configurações do site**.
+2. Clique em **Configurações** e então clique em **Configurações do Site**. Se o site for um site Microsoft 365 conectado a um grupo, clique em **Configurações,** clique em Conteúdo do Site e clique em **Site Configurações**.
     
 3. Em **Administração do Conjunto de Sites**, clique em **Recursos do conjunto de sites**.
     
-4. Em **Gerenciamento de registros no local**, clique em **Ativar**.
+4. Em **Gerenciamento de Registros In-in-place,** clique em **Ativar**.
     
-Para saber mais, confira [introdução às políticas de gerenciamento de informações](https://go.microsoft.com/fwlink/?linkid=404239) e [criar e aplicar políticas de gerenciamento de informações](https://go.microsoft.com/fwlink/?linkid=2003916).
+Para obter mais informações, consulte [Introdução às políticas de gerenciamento de informações](https://go.microsoft.com/fwlink/?linkid=404239) e Criar e aplicar políticas de gerenciamento de [informações.](https://go.microsoft.com/fwlink/?linkid=2003916)
   
 

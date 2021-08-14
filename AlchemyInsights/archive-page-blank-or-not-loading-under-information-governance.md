@@ -1,5 +1,5 @@
 ---
-title: Página de arquivamento em branco ou não carregando em Governança de Informações
+title: Página de arquivo morto em branco ou não carregando em Governança de Informações
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "8262"
-ms.openlocfilehash: eae42c31b7faf024e16ec5eb132abe30bd228b7a
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: d484d7a0cb5d4556a08639513071a9211875479a223e1da3228c7074fadcf4c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232656"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997338"
 ---
-# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Página de arquivamento em branco ou não carregando em Governança de Informações
+# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Página de arquivo morto em branco ou não carregando em Governança de Informações
 
-Se **a** página Arquivo Morto em Governança de Informações no Centro  de Conformidade e Segurança estiver em branco ou não carregar, use a opção Arquivo Morto no novo Centro de Conformidade do M365.
+Se a página **Arquivo** morto em Governança de Informações no Centro  de Conformidade e Segurança estiver em branco ou não for carregada, use a opção Arquivo morto no novo Centro de Conformidade do M365.
 
-1. Vá para [https://compliance.microsoft.com](https://compliance.microsoft.com/)
+1. Ir para [https://compliance.microsoft.com](https://compliance.microsoft.com/)
 1. Selecione Governança de Informações.
-1. Em seguida, clique **na opção Arquivar.**
+1. Em seguida, clique **na opção Arquivo** morto.
 
-Ou siga esta URL: [https://compliance.microsoft.com/informationgovernance?viewid=archive](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive)
+Ou siga esta URL : [https://compliance.microsoft.com/informationgovernance?viewid=archive](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive)
