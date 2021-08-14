@@ -1,5 +1,5 @@
 ---
-title: Sincronizar meus contatos do Outlook com meu livro de endereços
+title: Sincronizar meus Outlook contatos com meu livro de endereços
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: b6a2f381eefcaf4b09713749035f390f65c53727
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e5cac0c469fc3086144cb0445f76216728c61b7a9d6939153b36aacfde095b08
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51797529"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009011"
 ---
-# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Sincronizar meus contatos do Outlook com meu livro de endereços
+# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Sincronizar meus Outlook contatos com meu livro de endereços
 
-O Outlook permite que você exporte seus contatos para o aplicativo de Contatos padrão no Android. Isso permite que você veja o nome de um contato quando receber uma chamada ou mensagem de texto e exibir todas as informações de contato diretamente no aplicativo de Contatos padrão.
+Outlook permite exportar seus contatos para o aplicativo de Contatos padrão no Android. Isso permite que você veja o nome de um contato quando receber uma chamada ou mensagem de texto e exibir todas as informações de contato diretamente no aplicativo de Contatos padrão.
  
 **Para habilitar esse recurso**:
  
@@ -31,9 +31,9 @@ O Outlook permite que você exporte seus contatos para o aplicativo de Contatos 
 
 3. Alternar o controle deslizante **Sincronizar Contatos** ON.
  
-A exportação de contatos de duas vias é suportada para o Microsoft 365, Outlook.com e autenticação moderna híbrida para caixas de correio locais. O suporte de duas vias garante que todos os novos contatos que você adicionar ou os contatos existentes que você editar serão sincronizados entre seu dispositivo e suas contas do Outlook.
+A exportação de contatos de duas vias é suportada para Microsoft 365, Outlook.com e autenticação moderna híbrida para caixas de correio locais. O suporte de duas vias garante que quaisquer novos contatos que você adicionar ou os contatos existentes que você editar serão sincronizados entre seu dispositivo e suas contas de Outlook.
  
-Para contas herdada do Exchange, você pode exportar seus contatos para serem salvos no dispositivo. Quando **Os Contatos de** Sincronização estão habilitados, os contatos recém-adicionados e as edições feitas aos seus contatos no Outlook serão salvos no aplicativo Contatos em seu dispositivo. No entanto, as edições feitas diretamente no aplicativo Contatos do dispositivo não serão salvas no Outlook. Observe que não há suporte para a adição/edição de contatos do Outlook para Android para contas de exchange locais, portanto, você precisará gerenciar seus contatos de um cliente do Outlook diferente.
+Para contas Exchange herdada, você pode exportar seus contatos para serem salvos no dispositivo. Quando Os Contatos de Sincronização estão **habilitados,** os contatos recém-adicionados e as edições feitas aos seus contatos no Outlook serão salvos no aplicativo Contatos em seu dispositivo. No entanto, as edições feitas diretamente no aplicativo Contatos do seu dispositivo não serão salvas no Outlook. Observe que não há suporte para adicionar/editar contatos do Outlook para Android para contas de exchange locais, portanto, você precisará gerenciar seus contatos de um cliente Outlook local.
  
 Por enquanto, não há suporte para a sincronização de contatos do GMAIL e do iCloud.
  
