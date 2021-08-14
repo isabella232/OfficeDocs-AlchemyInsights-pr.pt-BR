@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - commerce_billing
 - "1639"
 - "9000134"
-ms.openlocfilehash: ee2de4b53729bb4dccc16352f612f15ecba5aa2b
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 18a95f5d98961b9450718ee97b81d97ca14967d1b703b2b7f034d15e46f1a1bd
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687918"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54500940"
 ---
 # <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Opções de pagamento para assinaturas do Microsoft 365 para empresas.
   
@@ -35,7 +35,7 @@ Se o seu cartão de crédito foi recusado ou tem um saldo devedor, e você adici
   
 Se sua assinatura custa mais de uma certa quantia de dinheiro (esta quantia varia de acordo com o local do serviço), você terá a opção de pagar por fatura, usando um cheque ou EFT. Uma verificação de crédito pode ser necessário para pagamentos de faturas maiores. Se for necessário uma verificação de crédito, você será notificado ao comprar sua assinatura. Se você concordar em ser contatado, você receberá um email que inclui mais informações sobre como solicitar a aprovação de crédito. As verificações de crédito são geralmente concluídas dentro de dois dias úteis.
 
-Se você paga sua assinatura por fatura, receberá um email quando o extrato da fatura estiver pronto para exibição. Esse email não apresentará uma cópia do extrato da sua fatura. No entanto, é possível optar por [receber uma cópia do extrato da sua fatura por email](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email). O extrato da sua fatura inclui detalhes sobre as opções de pagamento e para onde enviá-lo. Se você inserir um número de OC (ordem de compra) ao adquirir uma assinatura, esse número aparecerá no seu demonstrativo de cobrança. Para obter informações sobre como acessar extratos de cobrança, consulte [Visualizar sua cobrança ou fatura](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
+Se você pagar por fatura pela sua assinatura, receberá um email quando seu extrato de cobrança estiver pronto para exibição. Este email não contém uma cópia do seu demonstrativo de cobrança. No entanto, você pode optar por [receber uma cópia do seu demonstrativo de cobrança no email](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email). Seu demonstrativo de cobrança inclui detalhes sobre suas opções de pagamento e para onde enviá-lo. Se você inserir um número de pedido de compra (OC) ao comprar uma assinatura, o número aparecerá no demonstrativo de cobrança. Para obter informações sobre como acessar demonstrativos de cobrança, consulte [Exibir sua cobrança ou fatura](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
   
 **Informações adicionais**
   

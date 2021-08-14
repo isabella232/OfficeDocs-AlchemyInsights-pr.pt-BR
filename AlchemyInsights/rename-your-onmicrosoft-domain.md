@@ -13,16 +13,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 1e966aab4d24b47f3672dcb3c84eb6961b8966f1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7748763d8eb9ea18494d1cbf45ad727f97d2d4067bc19ab7a8e60eeb738b668f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810220"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094460"
 ---
 # <a name="rename-your-onmicrosoftcom-domain"></a>Renomear seu onmicrosoft.com domínio
 
- **Não é possível renomear o domínio onmicrosoft após a assinatura.** Por exemplo, se o domínio inicial que você escolheu foi  *fourthcoffee.onmicrosoft.com*, você não pode alterá-lo para ser  *fabrikam.onmicrosoft.com*. Para usar um domínio onmicrosoft.com, você teria que iniciar uma nova assinatura com o Microsoft 365.
+ **Você não pode renomear o domínio onmicrosoft após a inscrição.** Por exemplo, se o domínio inicial que você escolheu foi  *fourthcoffee.onmicrosoft.com*, você não pode alterá-lo para ser  *fabrikam.onmicrosoft.com*. Para usar um domínio onmicrosoft.com diferente, você teria que iniciar uma nova assinatura com o Microsoft 365.
   
 Se você quiser usar um domínio personalizado como  *contoso.com*  , você pode adicionar um que você possui [ou](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) comprar um da [Microsoft](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).
   

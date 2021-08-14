@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: 5a6ce5805ec23a28011c5d1edc977804ef15aefc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e994388f685f1f9980c10daac48ca4facb0ca542ea352e8fbd31bf451cff305
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835763"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094594"
 ---
 # <a name="remove-an-account-in-windows-10"></a>Remover uma conta no Windows 10
 
 Veja como remover uma conta do Windows 10:
 
-1. Vá para **Iniciar**  >  **Configurações Família de Contas**& outras pessoas (ou Outras pessoas , se você estiver usando o Windows  >    >   10 Enterprise). 
+1. Vá para **Iniciar Configurações** Família de Contas & outras pessoas (ou Outras pessoas , se você  >    >    >   estiver usando Windows 10 Enterprise). 
 2. Selecione a conta que você deseja remover, selecione **Remover** e, em seguida, selecione **Excluir conta e dados**.
  
 **Observação:** Não é possível excluir uma conta à que você está atualmente se inscreveu.  Se você precisar substituir a conta na sua assinatura:
