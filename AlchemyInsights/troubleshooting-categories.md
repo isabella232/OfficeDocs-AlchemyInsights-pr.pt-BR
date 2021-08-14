@@ -1,5 +1,5 @@
 ---
-title: 604 categorias de solução de problemas
+title: Categorias de solução de problemas 604
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,15 +14,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: 4c06a6e1ddd333fff147912ac37a339574da4c9a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e2ca842df04a7d4b702606d57757192ffe328cad79f3f5a07abc450f8ff92288
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689978"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972515"
 ---
-# <a name="outlook-categories"></a>Categorias do Outlook
+# <a name="outlook-categories"></a>Outlook categorias
 
-As categorias só se aplicam a itens em seu calendário. Se você aplicar uma categoria de cores a uma solicitação de reunião ou a uma reunião que você recebeu de outra pessoa, essa categoria de cores só será mostrada no seu calendário.  Se você aplicar uma categoria de cores em uma caixa de correio compartilhada, em delegar caixa de correio, caixa de correio de grupo, caixa de correio de sala, etc. a categoria de cores afetará apenas sua exibição
+As categorias só se aplicam a itens em seu calendário. Se você aplicar uma categoria de cor a uma solicitação de reunião ou a uma reunião que você recebeu de outra pessoa, essa categoria de cores só será mostrar em seu calendário.  Se você aplicar uma categoria de cor em uma caixa de correio compartilhada, delegar caixa de correio, caixa de correio de grupo, caixa de correio de sala, etc. A categoria de cor afeta apenas o seu exibição.
 
-Para obter mais informações: [atribuir uma categoria de cor a um compromisso, reunião ou evento do calendário](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
+Para obter mais informações: [Atribuir uma categoria de cor a um compromisso, reunião ou evento do calendário](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)

@@ -1,5 +1,5 @@
 ---
-title: Restaurar um grupo excluído do Microsoft 365
+title: Restaurar um grupo Microsoft 365 excluído
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,22 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: b72b7c93ce9fe1b90d1608811b0eeabc8aec1363
-ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
+ms.openlocfilehash: 6262ca04335c355fb4de41a9e1d854b666f47e10321a843717d6eb951c46cafd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "51645119"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959014"
 ---
-# <a name="restore-a-deleted-microsoft-365-group"></a>Restaurar um grupo excluído do Microsoft 365
+# <a name="restore-a-deleted-microsoft-365-group"></a>Restaurar um grupo Microsoft 365 excluído
 
-Você pode restaurar um grupo excluído do Microsoft 365 ou o Microsoft Teams dentro de 30 dias a partir da exclusão.
+Você pode restaurar um grupo de Microsoft 365 excluído ou Microsoft Teams dentro de 30 dias a partir da exclusão.
 
-1. Vá para o Centro de administração do [Microsoft 365](https://aka.ms/RestoreDeletedGroup) para fazer logoff em uma lista de grupos e equipes excluídos.
+1. Vá para a [Centro de administração do Microsoft 365](https://aka.ms/RestoreDeletedGroup) para fazer logoff em uma lista de grupos e equipes excluídos.
 
     **Observação:** Faça logoff usando a conta atribuída ao administrador do locatário ou à função de administrador de grupos.
 
-1. Selecione o grupo/Teams excluído do Microsoft 365 a ser restaurado e clique em **restaurar o grupo**.
+1. Selecione o grupo de Microsoft 365/Teams a ser restaurado e clique em **restaurar o grupo**.
 
     Se o grupo não puder ser restaurado devido a um endereço SMTP conflitante, use o seguinte comando para encontrar o objeto que está causando conflito e remover o endereço SMTP:
 
