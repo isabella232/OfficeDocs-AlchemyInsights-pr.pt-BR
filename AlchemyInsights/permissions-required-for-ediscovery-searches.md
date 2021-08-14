@@ -1,5 +1,5 @@
 ---
-title: 1489-Permissions-Required-for-eDiscovery-Searches
+title: 1489-permissions-required-for-ediscovery-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: bc384a948bab5ba93b00f9401cc42e4fda71ec3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795808"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973829"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>Permissões necessárias para pesquisas de descoberta eletrônica
+# <a name="permissions-required-for-ediscovery-searches"></a>Permissões necessárias para pesquisas de Descoberta Desdiscovery
 
-Para executar pesquisas de conteúdo no centro de conformidade de & de segurança, um usuário deve ser um membro do grupo de função Gerenciador de descoberta eletrônica, que permite realizar pesquisas e armazenar isenções em caixas de correio, sites do SharePoint e locais do OneDrive. Os membros também podem criar e gerenciar ocorrências de descoberta eletrônica, adicionar e remover membros a uma ocorrência, criar e editar pesquisas de conteúdo e acessar dados de caso na descoberta eletrônica avançada.
+Para executar Pesquisas de Conteúdo no Centro de Conformidade e Segurança, um usuário deve ser pelo menos um membro do grupo de funções do Gerenciador de Descobertas Eletrônicos, o que permite que eles executem pesquisas e coloque regiões em caixas de correio, sites SharePoint e OneDrive locais. & Os membros também podem criar e gerenciar casos de Descoberta eDiscovery, adicionar e remover membros a uma ocorrência, criar e editar Pesquisas de Conteúdo e acessar dados de caso em Advanced eDiscovery.
 
-Para realizar pesquisas de descoberta eletrônica in-loco no centro de administração do Exchange (Eat), o usuário deve ser membro do grupo de função de gerenciamento de descoberta no Exchange Online.
+Para executar In-Place pesquisas de Descoberta Exchange no Centro de administração do Exchange (EAC), o usuário deve ser membro do grupo de função Gerenciamento de Descoberta no Exchange Online.
 
-Para obter mais informações sobre permissões de descoberta eletrônica, consulte: 
+Para obter mais informações sobre permissões de Descoberta eDiscovery, consulte: 
 
-- [Atribuir permissões de descoberta eletrônica no centro de conformidade & segurança](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
+- [Atribuir permissões de Descoberta Eletrônica no Centro de Conformidade e Segurança](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
 - [Atribuir permissões de descoberta eletrônica no Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Observação**: depois de atribuir permissões de descoberta eletrônica, talvez seja necessário aguardar alguns minutos para que as permissões se propaguem.
+**Observação:** depois de atribuir permissões de Descoberta eDiscovery, talvez seja necessário aguardar alguns minutos para que as permissões se propaguem.

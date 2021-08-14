@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 3abd45230360c61ecb62e4b7a39d1b0b547271fc
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: a67305ed92e181f0ddfc5a929e8fe9631ceefdc99dea34118bc99975461f3868
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403299"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005798"
 ---
 # <a name="check-for-forwarding-addresses-on-mailboxes"></a>Verifique se há endereços de encaminhamento em caixas de correio
 
@@ -26,5 +26,5 @@ ms.locfileid: "51403299"
 
 1. Selecione **Usuários**  >  **Usuários ativos**.
 1. Selecione o usuário cuja conta foi comprometida.
-1. No sobrevoo exibido, expanda **Configurações de Email** e clique em **Editar** para Encaminhamento **de Email.**
+1. No sobrevoo exibido, expanda **Mail Configurações** e clique em **Editar** para Encaminhamento **de email.**
 1. Remova os endereços de encaminhamento que você não reconhece.

@@ -1,5 +1,5 @@
 ---
-title: Seletor de formulários do Dynamics 365
+title: Seletor de Formulário do Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.custom:
 - "1469"
 - "6200014"
-ms.openlocfilehash: d8160ba67ea87e112c377fcd1501a2fda44815fa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c79de9c4b70f96389fcb5c75f93c0418d08dadc0fbcbf40d8d0dc13143853087
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711992"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947323"
 ---
-# <a name="dynamics-365-form-selector"></a>Seletor de formulários do Dynamics 365
+# <a name="dynamics-365-form-selector"></a>Seletor de formulário do Dynamics 365
 
-* [Controle de acesso de formulário explicado](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
+* [Controle de Acesso para Formulário Explicado](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)

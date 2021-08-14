@@ -10,18 +10,18 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: acce676ebb9f4000794669ffb268e7b4fe057f77
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 800e0a30bb41302f484acb92210527bfd0a325dc699eea191e6eb0a3d1d4419f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771268"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959469"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Etapas recomendadas a serem tomadas se uma conta for comprometida
 
 [VÍDEO: como corrigir uma conta comprometida](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
-1. [Redefina a senha do usuário](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords) imediatamente. Não comunique a nova senha por email ao usuário final.
+1. [Redefina a senha do usuário](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords) imediatamente. Não comunique a nova senha por e-mail para o usuário final.
 
 2. Remova todos os [endereços de encaminhamento](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding) suspeitos definidos no nível da caixa de correio.
 

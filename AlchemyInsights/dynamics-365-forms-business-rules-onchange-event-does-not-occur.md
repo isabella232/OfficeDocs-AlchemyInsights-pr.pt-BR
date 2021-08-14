@@ -1,5 +1,5 @@
 ---
-title: Regras comerciais de formulários do Dynamics 365-regra de negócios não está sendo acionada para um formulário
+title: Regras de negócios do Dynamics 365 Forms - Regra de Negócios Não Disparar para um Formulário
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1926"
 - "6200018"
-ms.openlocfilehash: 7422b67973f93ce10c1639209cc50206a1016c10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8425918950e1ef6c44f2866e6fa8987fe165536ae21e08ea6a1da880f761d512
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711479"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947287"
 ---
-# <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a>O evento onchange não ocorrerá se o campo for alterado programaticamente
+# <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a>O evento OnChange não ocorrerá se o campo for alterado programaticamente
 
-O evento *onChange* não ocorrerá se o campo for alterado programaticamente usando o *atributo.* método [SetValue](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) . Se você deseja que manipuladores de eventos para o evento *onChange* sejam executados depois de definir o valor, você deve usar o método *formContext. Data. Entity atributo* [fireOnchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) no seu código.
+O *evento OnChange* não ocorrerá se o campo for alterado programaticamente usando o *atributo.* [método setValue.](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) Se você quiser que os manipuladores de eventos para o *evento OnChange* executem depois de definir o valor, use o método [fireOnchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) do atributo *formContext.data.entity* em seu código.
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange)

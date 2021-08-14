@@ -1,5 +1,5 @@
 ---
-title: Regras comerciais de formulários do Dynamics 365-regra de negócios não está sendo acionada para um formulário
+title: Regras de negócios do Dynamics 365 Forms - Regra de Negócios Não Disparar para um Formulário
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 2b42b007d8eecc65f098f71b5af7decd19aab505
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 085656b40cab5c918e58a821db9ad8399aa37cda871c00a7ed51411c4b733576
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711443"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947215"
 ---
-# <a name="business-rule-not-firing-for-a-form"></a>Regra de negócios não está sendo acionada para um formulário
+# <a name="business-rule-not-firing-for-a-form"></a>Regra de negócios não disparar para um formulário
 
-Uma regra de negócios pode não ser executada porque o campo mencionado na regra de negócios não está incluído no formulário. Para obter mais informações, veja [se a regra comercial não está sendo acionada para um formulário?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).
+Uma regra de negócios pode não ser executada porque o campo referenciado na regra de negócios não está incluído no formulário. Para obter mais informações, consulte [Sua regra de negócios não está disparando para um formulário?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).

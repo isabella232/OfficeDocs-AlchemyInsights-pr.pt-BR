@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "7521"
-ms.openlocfilehash: f6211b4bb295e87cbdf0441491d87cf0081d6342
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: d944c9d6d362861b43afca0f8dcdcb2294da48fb3d7e31da54e2f3b2dae18e42
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49600075"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945991"
 ---
 # <a name="external-users-receive-permission-errors-when-accessing-a-site"></a>Usuários externos recebem erros de permissão ao acessar um site
 
-Há muitos cenários que podem solicitar mensagens de erro ao compartilhar. 
+Há muitos cenários que podem solicitar mensagens de erro durante o compartilhamento. 
 
-Confira mais informações em [erros de permissão ao acessar o SharePoint Online ou o onedrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).
+Para obter mais informações, consulte Erros de permissão ao [acessar SharePoint Online ou OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).

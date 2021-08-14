@@ -1,5 +1,5 @@
 ---
-title: Há problemas de redefinição de senha de autoatendimento (SSPR)?
+title: Tendo problemas de redefinição de senha de autoatendados (SSPR)?
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "7663"
-ms.openlocfilehash: 4f1f94be299c980a6a359d727fb24f411f98b785
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: bd76ae6b2ce140fd8feb490a5fffe1baa36598e7650107f176baec30d71b8628
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49715656"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945838"
 ---
-# <a name="having-self-service-password-reset-sspr-problems"></a>Há problemas de redefinição de senha de autoatendimento (SSPR)?
+# <a name="having-self-service-password-reset-sspr-problems"></a>Tendo problemas de redefinição de senha de autoatendados (SSPR)?
 
-Os problemas comuns de redefinição de senha de autoatendimento (SSPR) em nuvem híbrida e ambientes locais são:
+Problemas comuns de redefinição de senha de autoatendados (SSPR) em nuvem híbrida e ambientes locais são:
 
-- [Write-back de senha SSPR não habilitado](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
-- [Licença do Azure AD Premium não atribuída](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
-- Problemas de [conexão do Azure ad](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) ou de [rede](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
-- [Métodos de autenticação do SSPR não registrados](https://mysignins.microsoft.com/security-info)
-- [Cenários de write-back sem suporte](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) , como o centro de administração do Microsoft 365 ou administradores usando SSPR
+- [Writeback de senha SSPR não habilitado](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
+- [Licença premium do Azure AD não atribuída](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
+- [Azure AD Conexão problemas](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) [de rede ou problemas de rede](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
+- [Métodos de Autenticação SSPR não registrados](https://mysignins.microsoft.com/security-info)
+- [Cenários de writeback](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) sem suporte, como Administração Microsoft 365 ou Administradores usando SSPR
 
 
 Para saber mais, confira:
 
-- [Solucionar problemas de redefinição de senha de autoatendimento](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr)
-- [Resolver o Write-back de redefinição de senha de autoatendimento no Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
+- [Solucionar problemas de redefinição de senha de autoatendificação](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr)
+- [Solucionar problemas de writeback de redefinição de senha de autoatend Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
