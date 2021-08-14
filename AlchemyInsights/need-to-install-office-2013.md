@@ -1,5 +1,5 @@
 ---
-title: É necessário instalar o Office 2013
+title: Precisa instalar o Office 2013
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: 99529e9e9b18ae0211cfae4fbc789d4e1563ac4b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5063c515bfe2a359ec916d82b0fc85f9090f4e359ee5457f7d007693b71f7a06
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769567"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974585"
 ---
-# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>O Office 2013 não é mais suportado nas assinaturas do Microsoft 365
+# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>Office 2013 não é mais suportado em Microsoft 365 assinaturas
 
-Desde 28 de fevereiro de 2017, o Office 2013 não é mais suportado em assinaturas do Microsoft 365.
+Desde 28 de fevereiro de 2017, o Office 2013 não tem mais suporte em assinaturas Microsoft 365.
   
-Para garantir a segurança do seu pacote do Office e obter todos os recursos mais recentes, instale a versão mais recente do Office gratuitamente como parte da sua assinatura do Microsoft 365. Confira [atualizar seus usuários para o cliente do Office mais recente](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client).
+Para garantir Office segurança do pacote de Office e obter todos os recursos mais recentes, instale a versão mais recente do Office gratuitamente como parte da sua assinatura Microsoft 365. Consulte [Upgrade your users to the latest Office client](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client).
   

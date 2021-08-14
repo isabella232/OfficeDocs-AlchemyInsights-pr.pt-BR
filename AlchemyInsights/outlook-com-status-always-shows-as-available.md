@@ -1,5 +1,5 @@
 ---
-title: Outlook.com status sempre mostra como disponível
+title: Outlook status.com sempre aparece como Disponível
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,13 +15,13 @@ ms.custom:
 - "1768"
 - "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 444864816bef298f664df5db701965c55f6d2211
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d6b19c87862d205fd4351a51331fd666d9c93ce98d48088629f054fe22b68c53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776993"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095134"
 ---
-# <a name="my-status-always-shows-as-available"></a>Meu status sempre aparece como disponível
+# <a name="my-status-always-shows-as-available"></a>Meu status sempre aparece como Disponível
 
-Toda vez que você entrar no Outlook.com, o status da conta será redefinido como disponível. Você pode evitar que o status seja alterado sem sair do Outlook.com. Para permanecer conectado ao fechar seu navegador, selecione a caixa **Mantenha-me conectado** na página de entrada do Outlook.com.
+Sempre que você entrar em Outlook.com, o status da conta será redefinido para Disponível. Você pode impedir que seu status seja mudado ao não sair do Outlook.com. Para permanecer in-loco ao fechar o navegador, selecione a caixa **Manter-me** in-loco na página de Outlook.com.

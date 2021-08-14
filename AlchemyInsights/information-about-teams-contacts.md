@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8263"
 - "9004610"
-ms.openlocfilehash: e32bda19012969d4a6c3a0dfd9c3af912f6eb8479203f4518d55727163266086
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a2efa52c3fcd90b255d5f1ccbb07c31f9c138e7a31dbe92f318418fb1643601d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53926269"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868334"
 ---
 # <a name="information-about-teams-contacts"></a>Informações sobre contatos do Teams
 
@@ -29,7 +29,7 @@ O Teams usa estes contatos:
 
 Se os contatos não estiverem completos ou não forem sincronizados para um ou vários usuários, siga este procedimento:
 
-- Verifique se a caixa de correio do Exchange do usuário está hospedada online (não local). Para saber mais, confira [Como o Exchange e o Microsoft Teams interagem](/microsoftteams/exchange-teams-interact).
+- Verifique se a caixa de correio do Exchange do usuário está hospedada online (não local). Para saber mais, confira [Como o Exchange e o Microsoft Teams interagem](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
 - Verifique se o número de telefone do contato foi adicionado às informações de contato.
 - Pesquise o email do contato na barra **Pesquisar**. Os contatos que você pode recuperar podem ser sincronizados com a Lista de Contatos.
 
