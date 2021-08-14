@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7760"
 - "9004346"
-ms.openlocfilehash: 5ab56ec1eda10ea059e600e8933ce85bb143b76e
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: c843e9315776f3dbab2f25c864ebe8b0c41000b8ce70046fe4eb386fce143635
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49886771"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009560"
 ---
 # <a name="sso-configuration-issues"></a>Problemas de configuração de SSO
 
@@ -30,7 +30,7 @@ ms.locfileid: "49886771"
     b. Pressione **F12** para abrir o console de depuração.
     c. Tente reproduzir a transação e análise a mensagem do console. Uma violação do CORS produz um erro de console sobre a origem.
     d. Alguns problemas de CORS não podem ser resolvidos, como a expiração do token de acesso quando seu aplicativo redireciona para login.microsoftonline.com para autenticação. Como resultado da expiração do token de acesso, a chamada CORS falha. Uma solução alternativa para este cenário é estender a vida útil do token de acesso, para evitar que ele expire durante a sessão de um usuário. Para mais informações sobre como fazer isso, consulte [Vida útil do token configurável na plataforma de identidade da Microsoft](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
-4. **Solucionando problemas de SSO baseado em SAML**: Recomendamos verificar [Problemas de login em aplicativos configurados de logon único com base em SAML ](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery) para encontrar as soluções para os problemas que você provavelmente encontrará.
+4. **Solucionando problemas de SSO baseado em SAML**: Recomendamos verificar [Problemas de login em aplicativos configurados de logon único com base em SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery) para encontrar as soluções para os problemas que você provavelmente encontrará.
 5. **Solucionando problemas de SSO baseado em senha**: Recomendamos verificar [Solucionar problemas de logon único baseado em senha no Microsoft Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) para encontrar as soluções para os problemas que você provavelmente encontrará.
 6. **Recebi um erro de configuração**: Para solucionar os erros de configuração, recomendamos verificar os seguintes artigos: a. [Problemas ao entrar em aplicativos configurados de logon único com base em SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery) b. [As credenciais são preenchidas, mas a extensão não as envia](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso#credentials-are-filled-in-but-the-extension-does-not-submit-them) c. [As credenciais são preenchidas e enviadas, mas a página indica que as credenciais estão incorretas](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) d. [Uma página de aplicativo mostra uma mensagem de erro depois que o usuário faz login](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-application-error)
 7. **Estou tendo problemas para integrar o SSO contínuo com meus aplicativos locais**: Para solucionar problemas relacionados à integração do SSO Contínuo com aplicativos locais, recomendamos verificar os seguintes artigos: a. [Como configurar o logon único para um aplicativo Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to) b. [Logon único SAML para aplicativos locais com Proxy de Aplicativo](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps) c. [Compreender e resolver problemas de CORS do Azure Active Directory com Proxy de Aplicativo](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues) d. [Solução de problemas de configurações de delegação restrita de Kerberos para Proxy de Aplicativo](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
