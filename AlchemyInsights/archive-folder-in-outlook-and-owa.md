@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1903"
 - "3100008"
-ms.openlocfilehash: 57a72758e4b00a6822e834b2b8dfda2d079eebf5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c74f3c395baac3acb06517a0a7abeda20b264b925b569e7ddef16efbbafa8e25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716377"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989651"
 ---
 # <a name="archive-folder-in-outlook-and-owa"></a>Pasta de arquivo morto no Outlook e no OWA
 
 Arquivo morto é uma pasta padrão onde as mensagens de email podem ser arquivadas e organizadas na caixa de correio. Você pode mover itens para essa pasta clicando no botão **Arquivar**. Os itens são movidos (não excluídos) para a pasta **Arquivo morto** na mesma caixa de correio principal e não para a caixa de correio de arquivo morto.
 
-Para exibir a pasta **Arquivo morto**, certifique-se de que a lista de pastas seja exibida selecionando **** > **Exibir o Painel de pastas** e escolhendo **Normal**.
+Para exibir a pasta **Arquivo morto**, certifique-se de que a lista de pastas seja exibida selecionando  > **Exibir o Painel de pastas** e escolhendo **Normal**.
 
 **Observação** Se os itens são automaticamente movidos para a pasta arquivo morto do Outlook inesperadamente, é possível que você tenha usado a tecla backspace no Outlook ou clicou na opção **Arquivar** na área de trabalho do Outlook, no Outlook Web App ou no aplicativo móvel do Outlook.
 

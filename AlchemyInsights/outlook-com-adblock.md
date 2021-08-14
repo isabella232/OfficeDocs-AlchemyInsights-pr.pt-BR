@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "9000594"
 - "2438"
-ms.openlocfilehash: 864e08c3dd9e424b7c59772274321249f2bad9f4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 15082cbce2d7ff041842fc7506d611bee419a003646e56d1e7488981dd4d7020
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768991"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962659"
 ---
 # <a name="adblock"></a>AdBlock
 
-Alguns usuários estão tendo problemas no momento ao ler ou redigir email ao usar o Google Chrome com a extensão AdBlock. Para contornar esse problema:
+Alguns usuários estão enfrentando problemas ao ler ou compor emails ao usar o Google Chrome com a extensão do AdBlock. Para resolver esse problema:
 
-1. Usar [o Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge)   ou outro navegador da Web.
-1. Excluir Outlook.com das configurações do AdBlock.No canto superior direito do Google Chrome, selecione **Adblock**   e, em seguida, selecione **não executar em páginas nesse domínio**.Atualize o navegador para carregar o Outlook.com novamente.
+1. Use [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) ou outro navegador da Web.
+1. Exclua Outlook.com das configurações do AdBlock. No canto superior direito do Google Chrome, selecione **AdBlock** e selecione Não executar em **páginas neste domínio**. Atualize o navegador para carregar Outlook.com novamente.
