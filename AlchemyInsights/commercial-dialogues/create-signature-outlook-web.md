@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: 02f579a6b7570037261959419a6ea9586707b76e
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 3bb83a4f68c49b3d30843299e6b42b9e9b9226245ebd41e75831694b95839c46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464387"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949519"
 ---
 # <a name="create-an-email-signature-in-outlook-on-the-web"></a>Criar uma assinatura de email no Outlook na Web
 
 1. Entrar no Outlook na Web.
-2. Na barra de nav superior, escolha **Configurações**  >  **Email**.
+2. Na barra de nav superior, escolha **Configurações**  >  **Mail**.
 3. No painel **Opções,** em **Email**, escolha Assinatura de Email de   >  **Layout.**
 4. Na caixa de texto, digite sua assinatura e use as opções de formatação disponíveis para alterar sua aparência.
 

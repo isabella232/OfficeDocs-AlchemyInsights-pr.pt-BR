@@ -1,5 +1,5 @@
 ---
-title: Criptografar automaticamente determinadas mensagens de email do Office 365
+title: Criptografar automaticamente determinadas Office 365 de email
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: e4b2f4ffcacf03e145b4c6d5ff6e73a75cb7c184
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8ae1c6853f41790efc3b24a9dc696bccf8385967d8c9219a1200e287e6ce32a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735390"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949555"
 ---
-# <a name="automatically-encrypt-certain-office-365-email-messages"></a>Criptografar automaticamente determinadas mensagens de email do Office 365
+# <a name="automatically-encrypt-certain-office-365-email-messages"></a>Criptografar automaticamente determinadas Office 365 de email
 
 Você pode criptografar automaticamente mensagens que os usuários enviam para determinadas pessoas ou organizações externas. Para fazer isso, execute as seguintes etapas:
 
-1. No Centro [de administração do Exchange,](https://outlook.office365.com/ecp/)escolha **fluxo de emails > regras.** 
-2. Clique no **ícone Novo (+)** e, em seguida, clique em Aplicar a Criptografia de Mensagens do **Office 365 e proteção de** direitos às mensagens .
+1. No centro [de Exchange de administração,](https://outlook.office365.com/ecp/)escolha **fluxo de emails > regras.** 
+2. Clique no **ícone Novo (+)** e clique em **Aplicar Criptografia de Mensagens do Office 365 proteção** de direitos e direitos às mensagens .
 3. Em **Nome**, insira um nome para a regra, como *Criptografar mensagens enviadas para DrToniRamos@gmail.com*.
 4. In **Apply this rule if**, choose The recipient > is this **person**. 
 5. Na janela **Selecionar Membros,** selecione o nome da pessoa à quem você deseja aplicar a regra de criptografia e clique em **adicionar**. 
@@ -38,5 +38,5 @@ Você pode criptografar automaticamente mensagens que os usuários enviam para d
 > [!IMPORTANT]
 > Você sempre pode voltar e editar essa regra mais tarde.
 
-Para obter mais informações sobre como criar regras para criptografia, consulte Definir regras de fluxo de emails para criptografar mensagens de [email no Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email).
+Para obter mais informações sobre como criar regras para criptografia, consulte [Define mail flow rules to encrypt email messages in Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email).
 

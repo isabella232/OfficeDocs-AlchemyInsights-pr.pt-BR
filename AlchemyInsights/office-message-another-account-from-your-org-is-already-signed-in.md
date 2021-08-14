@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3271471c6421e892066cea2f0007cd81dc10783ecdd5bd8349bbe298a31990ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836231"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974333"
 ---
 # <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Mensagem de aplicativos do Microsoft 365: Outra conta da sua organização já está conectada neste dispositivo
 
@@ -37,7 +37,7 @@ Para corrigir esse erro, use as etapas a seguir:
 
 Se o problema persistir, experimente o seguinte procedimento: 
 
-- Reinicie o estado de ativação do Office. Consulte [Redefina os aplicativos Microsoft 365 do estado de ativação empresarial](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
+- Redefina o estado de ativação do Office. Consulte [Redefinir a ativação de corporativa do Microsoft 365 Apps para Grandes Empresas](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Para obter mais informações, consulte [Desculpe, outra conta da sua organização já entrou neste computador](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in) no Office.
 
