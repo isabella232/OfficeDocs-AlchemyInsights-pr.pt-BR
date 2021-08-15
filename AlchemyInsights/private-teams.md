@@ -1,5 +1,5 @@
 ---
-title: Equipes privadas
+title: Private Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "6258"
-ms.openlocfilehash: 84881abe0951eea2ae1e8e45c05fdb0977f1c285
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f92bd97ecf3145b4d27f14fdd788f7f83ddffb827871af3894aec78ba30f6a48
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835979"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960247"
 ---
-# <a name="managing-discovery-of-private-teams"></a>Gerenciando a descoberta do Private Teams
+# <a name="managing-discovery-of-private-teams"></a>Gerenciando a descoberta do private Teams
 
 **Novas equipes**
 
@@ -29,4 +29,4 @@ Quando um proprietário de equipe cria uma equipe privada, ele pode optar por to
 
 Os proprietários da equipe podem definir a configuração de descoberta para uma equipe privada existente diretamente nas configurações de equipe e os administradores podem fazer isso usando o PowerShell.  
 
-Para obter mais informações,  [consulte Gerenciar a descoberta de equipes privadas no Microsoft Teams](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams).
+Para obter mais informações, [consulte Manage discovery of private teams in Microsoft Teams](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams).
