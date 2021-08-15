@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 2adf35662797e9e9e354ddd0c513f5ce2463d07c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735431"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994853"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>Definir ClientAccessServerEnabled como True
 
@@ -27,10 +27,10 @@ Se você não puder abrir uma mensagem de email criptografada e, em vez disso, v
 1. Conecte-se ao PowerShell do Exchange Online.
 
 > [!NOTE]
-> Para se conectar ao PowerShell do Exchange Online, você deve entrar usando um administrador global ou uma conta de administrador do Exchange.
+> Para se conectar ao Exchange Online PowerShell, você deve entrar usando um administrador global ou Exchange conta de administrador.
 
-   a. Abra Windows PowerShell e execute o seguinte comando: `$UserCredential = Get-Credential`
-b. Na caixa Windows PowerShell caixa de diálogo **Solicitação de** Credencial, insira sua conta de trabalho ou estudante e senha, c. Clique **OK**. 
+   a. Abra Windows PowerShell e execute o seguinte comando:`$UserCredential = Get-Credential`
+b. Na caixa Windows PowerShell Caixa de diálogo **Solicitação de** Credencial, insira sua conta de trabalho ou estudante e senha, c. Clique em **OK**. 
 
 2. Execute o seguinte comando para criar uma nova sessão:
 
@@ -49,5 +49,5 @@ b. Na caixa Windows PowerShell caixa de diálogo **Solicitação de** Credencial
 > [!TIP]
 > Feche sempre a sessão do powershell com o seguinte comando: `Remove-PSSession $Session`
 
-Para obter mais informações, consulte [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell).
+Para obter mais informações, [consulte Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell).
 

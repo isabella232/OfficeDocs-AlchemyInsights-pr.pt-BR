@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: fe32f93f17151be777749a256a934f475c224048
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09f618c305cf566c03cbad8ca6ef2ebbf42e48be6c97374199654005698053df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735254"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994925"
 ---
 # <a name="set-up-an-automatic-reply"></a>Configurar uma resposta automática
 
 Use respostas automáticas sempre que quiser que as pessoas que lhe enviam emails saibam que você não responderá às mensagens imediatamente. Depois que as respostas automáticas são ativas, elas serão enviadas uma vez para cada remetente.
 
-1. Entre no Outlook.com.
-2. Na barra de nav, escolha **Configurações**  >  **Definir respostas automáticas**. Se **Definir respostas automáticas** não for mostrado, escolha **Configurações**  >  **Opções**  >  **Respostas automáticas**.
+1. Entre em Outlook.com.
+2. Na barra de nav, escolha **Configurações**  >  **Definir respostas automáticas**. Se **Definir respostas automáticas** não for mostrado, escolha **Configurações**  >    >  **Opções Respostas automáticas**.
 3. Altere as configurações para suas respostas automáticas aqui, incluindo apenas ter respostas automáticas para um período de tempo específico, enviar uma resposta uma vez para todos os membros da sua organização ou enviar uma resposta somente para membros fora da sua organização.

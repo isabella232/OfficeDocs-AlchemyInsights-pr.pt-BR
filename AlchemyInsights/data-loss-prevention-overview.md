@@ -1,5 +1,5 @@
 ---
-title: Visão geral da prevenção de perda de dados (DLP)
+title: Visão geral da Prevenção contra Perda de Dados (DLP)
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: f4f4757e652b276d44b266eef73f5b5161615281
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc372aef88ebdca81bb217283dce0806888d4b4795f88e4b28bd36cc2c6f1c5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731299"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005540"
 ---
-# <a name="data-loss-prevention-dlp-overview"></a>Visão geral da prevenção de perda de dados (DLP)
+# <a name="data-loss-prevention-dlp-overview"></a>Visão geral da Prevenção contra Perda de Dados (DLP)
 
 Com uma política de DLP, você pode:
 
-- Identificar informações confidenciais em vários locais, como o Exchange Online, o SharePoint Online e o OneDrive for Business.
+- Identifique informações confidenciais em vários locais, como Exchange Online, SharePoint Online e OneDrive for Business.
 
 
 Por exemplo, você pode identificar qualquer documento com um número de cartão de crédito armazenado em qualquer site do OneDrive for Business ou você pode pesquisar apenas os sites do OneDrive de pessoas específicas.
 
-- Impedir o compartilhamento acidental de informações confidenciais.
+- Impeça o compartilhamento acidental de informações confidenciais.
 
 
-Para obter mais informações, revise o [artigo](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)a seguir.
+Para obter mais informações, revise o seguinte [artigo](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies).
 

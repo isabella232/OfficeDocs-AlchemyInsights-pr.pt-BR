@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: ee233e780df0a7f686a7104551cff1f670e832a3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8c7d1d384548beef56dda7fb5793e66daf15d68fa6d27999b09a6321579dfff6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818924"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017804"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>Alterar o nome de uma conta local ou de uma conta da Microsoft
 
-Se você usar apenas um nome de usuário e senha para entrar no Windows 10, você está usando uma conta local. 
+Se você usar apenas um nome de usuário e senha para entrar Windows 10, você está usando uma conta local. 
 
 **Para alterar o nome de uma conta local**:
 
@@ -37,7 +37,7 @@ Se você usar um endereço de email e uma senha para entrar, você está usando 
 
 **Para alterar o nome de exibição da conta da Microsoft:**
 
-Use seu nome de exibição sempre que entrar em sua conta. Também é o nome que você vê em seus dispositivos Windows 10 e é o nome que as pessoas veem ao enviar emails. Esse nome pode ser diferente do nome de exibição da sua conta local. Veja como alterar seu nome de exibição:
+Use seu nome de exibição sempre que entrar em sua conta. Também é o nome que você vê em seus dispositivos Windows 10, e é o nome que as pessoas veem ao enviar emails. Esse nome pode ser diferente do nome de exibição da sua conta local. Veja como alterar seu nome de exibição:
 
 1. Entre na página **Suas informações** no site da conta [da Microsoft.](https://account.microsoft.com/)
 
