@@ -1,5 +1,5 @@
 ---
-title: Solucionar problemas de áudio no Windows 10
+title: Solucionar problemas de áudio em Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 81a7f77bd6565c52ec9d752934a872e59cc11e89b90a646d17c3549d72e8a69f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833279"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039414"
 ---
-# <a name="troubleshooting-audio-issues-in-windows-10"></a>Solução de problemas de áudio no Windows 10
+# <a name="troubleshooting-audio-issues-in-windows-10"></a>Solução de problemas de áudio Windows 10
 
 **Executar o solução de problemas de áudio**
 
@@ -55,12 +55,12 @@ Para garantir que os drivers estão atualizados:
 
 2. Em Controladores de **som, vídeo** e jogo, selecione sua placa de som, abra-a, selecione a guia **Driver** e selecione **Atualizar Driver**.
 
-**Observação**: se o Windows não encontrar um novo driver, procure um no site do fabricante do dispositivo e siga as instruções.
+**Observação**: Windows não encontrar um novo driver, procure um no site do fabricante do dispositivo e siga as instruções.
 
 **Reinstalar o driver**
 
 Se você não puder atualizar por meio do Gerenciador de Dispositivos ou encontrar um novo driver no site do fabricante, experimente estas etapas:
 
-1. No Gerenciador de Dispositivos, clique com o botão direito do mouse (ou pressione e segure) o driver de áudio e selecione **Desinstalar**. Reinicie seu dispositivo e o Windows tentará reinstalar o driver.
+1. No Gerenciador de Dispositivos, clique com o botão direito do mouse (ou pressione e segure) o driver de áudio e selecione **Desinstalar**. Reinicie o dispositivo e Windows tentará reinstalar o driver.
 
-2. Se a reinstalação do driver não funcionar, tente usar o driver de áudio genérico que vem com o Windows. No Gerenciador de Dispositivos, clique com o botão direito do mouse (ou pressione e segure) seu **driver** de áudio > Software de driver de atualização Navegue pelo meu computador para obter software de driver Deixe-me escolher de uma lista de drivers de dispositivo no meu computador, selecione Dispositivo de Áudio de Alta Definição , selecione Próximo e siga as instruções para instalá-lo.  >    >    
+2. Se a reinstalação do driver não funcionar, tente usar o driver de áudio genérico que vem com Windows. No Gerenciador de Dispositivos, clique com o botão direito do mouse (ou pressione e segure) seu **driver** de áudio > Software de driver de atualização Navegue pelo meu computador para obter software de driver Deixe-me escolher de uma lista de drivers de dispositivo no meu computador, selecione Dispositivo de Áudio de Alta Definição , selecione Próximo e siga as instruções para instalá-lo.  >    >    

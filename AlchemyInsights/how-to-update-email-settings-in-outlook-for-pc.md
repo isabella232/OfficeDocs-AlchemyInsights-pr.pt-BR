@@ -1,5 +1,5 @@
 ---
-title: Como atualizar configurações de email no Outlook para PC
+title: Como atualizar as configurações de email no Outlook para pc
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,28 +12,28 @@ localization_priority: Normal
 ms.custom:
 - "1800018"
 - "6436"
-ms.openlocfilehash: 7b98d6d7fcc3b8b59207c868c606730828d677c8
-ms.sourcegitcommit: c68aeb650c74cc790c6027a91965dcaf577f7428
+ms.openlocfilehash: e586664b1c1e8435953fb8a98b2b5b6b15fe1cfa8d74b9622a257cb1751fc799
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598264"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976961"
 ---
-# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Como atualizar configurações de email no Outlook para PC
+# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Como atualizar as configurações de email no Outlook para pc
 
-1. Abra o Outlook e selecione **arquivo > configurações de conta > configurações da conta**.
+1. Abra Outlook e selecione **Arquivo > Conta Configurações > Conta Configurações**.
 
-2. Selecione a conta de email que você deseja alterar e clique em **alterar**. 
+2. Selecione a conta de email que você deseja alterar e clique em **Alterar**. 
 
-3. Na página **configurações** , atualize seus nomes de servidor de entrada e de saída, seu endereço de email, seu nome, seu nome de usuário e sua senha, conforme necessário. Se você precisar alterar suas configurações de SSL ou suas configurações de porta, clique em **mais configurações**. As configurações mais comuns a serem atualizadas estão na guia **servidor de saída** e na guia **avançado** .
+3. Na página **Configurações,** atualize seus nomes de servidor de entrada e de saída, seu endereço de email, seu nome, seu nome de usuário e sua senha, conforme necessário. Se você precisar alterar suas configurações de SSL ou suas configurações de porta, clique em **Mais Configurações**. As configurações mais comuns a ser atualizadas estão na guia **Servidor** de Saída e **na guia** Avançado.
 
-4. Se você estiver tendo problemas para enviar emails ou se estiver recebendo mensagens sobre o servidor de saída, verifique se a caixa de seleção **meu servidor de saída (SMTP) requer autenticação** está marcada.
+4. Se você estiver com problemas para enviar emails ou estiver recebendo mensagens sobre seu servidor de saída, verifique se a caixa de seleção Meu servidor de saída **(SMTP)** requer autenticação.
 
-5. Se você precisar atualizar suas portas de servidor de entrada ou de saída ou configurações de SSL, vá para a guia **avançado** e faça as alterações desejadas.
+5. Se você precisar atualizar suas portas de servidor de entrada ou de saída ou configurações SSL, vá para a guia **Avançado** e faça as alterações que você deseja.
 
 > [!NOTE]
-> **Para clientes AOL e Verizon**: selecionar **SSL/TLS** na caixa suspensa em **conexões criptografadas de servidor de entrada e saída** garante que você ainda pode enviar e receber emails após 7 de novembro de 2017.
+> Para clientes AOL e **Verizon**: Selecionar **SSL/TLS** na caixa de entrada em **Conexões** Criptografadas de Servidor de Entrada e Saída garante que você ainda possa enviar e receber emails após 7 de novembro de 2017.
 
-6. Quando tiver concluído a atualização das configurações, clique em **OK**, em **Avançar** e em **concluir**.
+6. Quando terminar de atualizar suas configurações, clique em **OK**, clique em **Próximo** e clique em **Concluir**.
 
 
