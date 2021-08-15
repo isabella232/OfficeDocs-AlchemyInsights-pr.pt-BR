@@ -1,5 +1,5 @@
 ---
-title: Alterar idioma seu idioma, formato de data e hora ou fuso horário no Outlook.com
+title: Alterar idioma seu idioma, formato de data e hora ou fuso horário em Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,15 +14,15 @@ ms.custom:
 - "1839"
 - "8000014"
 - "9000249"
-ms.openlocfilehash: cb3f720ec270a6bdc1a8ae7f817862e41f71f666
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 616ca679ed3f8d5f2fe5d63e2ee41789e08bcf4bc6809022991d1ede02d8cb49
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777592"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984161"
 ---
-# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a>Alterar o idioma, o formato de data e hora ou o fuso horário no Outlook.com
+# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a>Alterar seu idioma, formato de data e hora ou fuso horário em Outlook.com
 
-1. Abra suas [configurações de idioma e hora](https://go.microsoft.com/fwlink/?linkid=2085505).
+1. Abra as [configurações idioma e hora.](https://go.microsoft.com/fwlink/?linkid=2085505)
 1. Selecione o idioma, o formato de data, o formato de hora e o fuso horário que você deseja usar.
 1. Selecione **Salvar**.

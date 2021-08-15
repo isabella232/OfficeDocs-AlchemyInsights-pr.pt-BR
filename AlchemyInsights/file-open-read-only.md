@@ -13,12 +13,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fb75f7ac5b8c7023f0258a567becdc5d023476b5e905d8f2cc17479faea76af1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813172"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029792"
 ---
 # <a name="file-open-read-only"></a>Somente leitura de arquivo aberto
 
@@ -36,13 +36,13 @@ Você pode verificar as propriedades do arquivo clicando com o botão direito do
   
 Arquivos da Internet e de outros locais potencialmente não seguros podem conter vírus, worms ou outros tipos de malware que podem prejudicar seu computador. Isso também acontece normalmente com anexos de email ou arquivos que você baixou. Para ajudar a proteger seu computador, os arquivos desses locais potencialmente não seguros são abertos no Protected View. Usando o Protected View, você pode ler um arquivo e ver seu conteúdo ao reduzir os riscos. Para obter mais informações sobre o exibição protegido e como alterar as configurações, consulte este artigo: [O que é Exibição Protegida?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
- **O OneDrive está completo?**
+ **Está OneDrive completo?**
   
-Se o arquivo for armazenado no OneDrive e seu espaço de armazenamento do OneDrive estiver cheio, você não poderá salvar o documento até que você está sob seu espaço alocado. Você pode verificar seu espaço livre no OneDrive clicando no ícone do OneDrive no centro de notificação e escolhendo Gerenciar armazenamento, ou você pode ir para , entrar e observar a quantidade de espaço usado na parte inferior esquerda da [https://onedrive.live.com](https://onedrive.live.com) tela.
+Se o arquivo for armazenado no OneDrive e seu espaço de armazenamento OneDrive estiver cheio, você não poderá salvar o documento até que você está sob seu espaço alocado. Você pode verificar seu espaço livre no OneDrive clicando no ícone OneDrive no centro de notificação e escolhendo Gerenciar armazenamento, ou você pode ir para , entrar e observar a quantidade de espaço usado na parte inferior esquerda da [https://onedrive.live.com](https://onedrive.live.com) tela.
   
- **O Office está ativado?**
+ **O Office ativado?**
   
-Se o Office não estiver ativado ou se sua assinatura tiver expirado, você poderá estar no Modo de Funcionalidade Reduzida somente leitura. Para obter informações sobre como ativar o Office, consulte: Erros de ativação e produto sem licença [no Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Se Office não estiver ativado ou se sua assinatura tiver expirado, você poderá estar no Modo de Funcionalidade Reduzida somente leitura. Para obter informações sobre como ativar Office, consulte: Erros de ativação e produto não autenticados [em](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)Office .
   
  **Se todo o resto falhar...**
   
@@ -50,6 +50,6 @@ Se o Office não estiver ativado ou se sua assinatura tiver expirado, você pode
     
 - Instalar atualizações do Office
     
-- Executar um reparo online do Office
+- Executar um reparo online de Office
     
 

@@ -1,5 +1,5 @@
 ---
-title: Como adicionar ou remover um representante no Outlook na Web (OWA)
+title: Como adicionar ou remover um Representante no Outlook na Web (OWA)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7335"
-ms.openlocfilehash: fc8e3ed77867db5242927c466e680325e471dd7a
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: d28b857a95a9959ed3b6b8954878f9c60a367db6d53e67e6729b174c5ce7b364
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571770"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993413"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Como adicionar ou remover um representante no Outlook na Web (OWA)
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Como adicionar ou remover um Representante no Outlook na Web (OWA)
 
-Para atribuir acesso de representante ou editor ao seu calendário:
+Para atribuir um Editor ou Representante de acesso ao seu calendário:
 
-1. No Outlook na Web, selecione o ícone de calendário na parte inferior da página.
-2. Na parte superior da página, selecione **compartilhar calendário de >**.
-3. Na página **compartilhamento e permissões** , digite o nome ou o endereço de email da pessoa com quem você deseja compartilhar seu calendário. Embora você possa compartilhar seu calendário com mais de uma pessoa, só é possível adicionar uma pessoa por vez no Outlook na Web.
-4. Após adicionar a pessoa que você deseja gerenciar seu calendário, selecione a lista suspensa ao lado de seu nome e escolha o nível de acesso que você deseja que eles tenham.
+1. Em Outlook na Web, selecione o ícone Calendário na parte inferior da página.
+2. Na parte superior da página, selecione **Compartilhar > Calendário**.
+3. Na página **Compartilhamento e** permissões, digite o nome ou o endereço de email da pessoa com a qual você deseja compartilhar seu calendário. Embora você possa compartilhar seu calendário com mais de uma pessoa, você só pode adicionar uma pessoa por vez a partir Outlook na Web.
+4. Depois de adicionar a pessoa que deseja gerenciar seu calendário, selecione a listada ao lado de seu nome e escolha o nível de acesso que você deseja que ela tenha.
 
-    - Selecione **pode editar** para dar a eles permissão para fazer alterações no seu calendário.
-    - Selecione **Representante** para dar a eles a mesma permissão que um editor, além de receber solicitações de reunião e respostas em seu nome.
+    - Selecione **Pode editar** para dar a eles permissão para fazer alterações no calendário.
+    - Selecione **Delegar** para dar a eles a mesma permissão que um editor, além disso, eles receberão solicitações de reunião e respostas em seu nome.
     > [!NOTE]
-    > Quando um representante responde a um convite de reunião em seu nome, você não verá a resposta no convite na caixa de entrada ao usar o Outlook na Web. As reuniões aceitas ou aceitas provisoriamente serão exibidas no seu calendário e mostrarão que seu representante as aceitou.
-    - As opções **podem ser exibidas quando estou ocupado**, **podem exibir títulos e locais**, e **podem exibir todos os detalhes** , permitindo que outras pessoas vejam seu calendário, mas não façam alterações nele. O acesso para pessoas de fora da organização é limitado a essas opções.
+    > Quando um representante responde a um convite de reunião em seu nome, você não verá a resposta no convite em sua caixa de entrada ao usar Outlook na Web. As reuniões aceitas ou aceitas provisamente aparecerão em seu calendário e mostrarão que seu representante as aceitou.
+    - As opções **Podem exibir quando** estou ocupado, podem exibir  **títulos** e locais e podem exibir todos os detalhes permitem que outras pessoas possam exibir seu calendário, mas não fazer alterações nele. O acesso a pessoas de fora da sua organização é limitado a essas opções.
 
-5. Depois de concluir a adição da pessoa com a qual você deseja compartilhar seu calendário e tiver escolhido qual permissão você deseja conceder, selecione **compartilhar**. Se você decidir não compartilhar seu calendário agora, selecione **remover**.
+5. Depois de terminar de adicionar a pessoa com a qual você deseja compartilhar seu calendário e escolher qual permissão você deseja dar a ela, selecione **Compartilhar**. Se você decidir não compartilhar seu calendário agora, selecione **Remover**.
 
-A pessoa com quem você compartilhou seu calendário receberá uma mensagem de email informando sobre ele. Ao selecionar o botão **aceitar** no convite, ele adicionará seu calendário à lista de calendários.
+A pessoa com quem você compartilhou seu calendário receberá uma mensagem de email contando sobre ele. Quando eles selecionarem **o botão Aceitar** no convite, ele adicionará seu calendário à lista de calendários.
 
 > [!NOTE]
-> Os itens de calendário marcados como **privados** são protegidos. A maioria das pessoas com as quais você compartilha seu calendário, confira apenas o horário dos itens marcados como **privado**, não o assunto, o local ou outros detalhes. A exceção é se você marcar a caixa de seleção **deixar o representante exibir eventos privados** .
+> Os itens de calendário **marcados como Particular** estão protegidos. A maioria das pessoas com quem você compartilha seu calendário vê apenas a hora de itens **marcados como Particular**, não o assunto, o local ou outros detalhes. A exceção a isso é se você selecionar a caixa de seleção Permitir representante **exibir eventos privados.**
 
-Para remover um representante no Outlook na Web (OWA):
+Para remover um Representante no Outlook na Web (OWA):
 
-1. No Outlook na Web, selecione o ícone de calendário na parte inferior da página.
-2. Na parte superior da página, selecione **compartilhar** e escolha o calendário que você deseja interromper o compartilhamento.
-3. Selecione **remover** ao lado da pessoa com quem você deseja interromper o compartilhamento do seu calendário.
+1. Em Outlook na Web, selecione o ícone Calendário na parte inferior da página.
+2. Na parte superior da página, selecione **Compartilhar** e escolha o calendário que deseja interromper o compartilhamento.
+3. Selecione **Remover** ao lado da pessoa com a qual você deseja parar de compartilhar seu calendário.
