@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7302"
-ms.openlocfilehash: 4c965ba7909fa78dea38bdd78907dcfdd9152ef7
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 82701833c05b1fb4d72cb972a767bca23033e898114f19695f42a116239c2221
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560538"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962875"
 ---
 # <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>Gerenciar permissões de representante para vários tipos de item no Outlook para Mac
 
-1. No menu **ferramentas** , selecione **contas** e selecione a conta para a qual você deseja alterar as permissões.
-2. Clique em **avançado** e, em seguida, clique em **representantes**.
-3. Em **representantes**, que exibe uma lista de representantes que podem agir em nome, selecione o representante.
-4. Clique no botão de **ação** , clique em **definir permissões** e faça as alterações desejadas.
+1. No menu **Ferramentas,** selecione **Contas** e selecione a conta para a qual você deseja alterar as permissões.
+2. Clique **em Avançado** e em **Representantes.**
+3. Em **Representantes**, que exibe uma lista de representantes que podem agir em nome dele, selecione o representante.
+4. Clique no **botão Ação,** clique em **Definir Permissões** e faça as alterações que você deseja.
 
 > [!NOTE]
-> Se você definir o nível de permissão como **nenhum**, o representante permanecerá na lista, o que permitirá que você reinstale as permissões mais tarde.
+> Se você definir o nível de permissão como **Nenhum**, o representante permanecerá na lista, o que permite que você reinstale permissões mais tarde.
