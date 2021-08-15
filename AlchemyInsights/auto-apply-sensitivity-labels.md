@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7a32ad52f115b9ada40f7cd47c90ceb3dcd3f9cd99a8f9eae3514b2e45e73bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707222"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969266"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Aplicar rótulos de sensibilidade automaticamente
 
@@ -32,7 +32,7 @@ Para aplicar rótulos automaticamente, o seguinte é necessário:
 
 Estamos trabalhando em suporte nativo que não exigirá o cliente de rotulagem unificada da Proteção de Informações do Azure no futuro.
 
-Atualmente, apenas o Windows dá suporte ao cliente de rotulagem unificada.  O recurso ainda não tem suporte para Mac, iOS e Android.
+Atualmente, apenas Windows o cliente de rotulagem unificada.  O recurso ainda não tem suporte para Mac, iOS e Android.
 
 Para obter mais informações sobre rótulos de sensibilidade e aplica-los automaticamente ao conteúdo, consulte:
 
