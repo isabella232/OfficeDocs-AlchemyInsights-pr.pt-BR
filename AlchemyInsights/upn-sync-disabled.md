@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 2b1ba772459091ce1a796884997fe2516d0407eb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc163fae4d348d7c7cf117bd457f999b42f96bec7c1eb9aa1435e346131d06de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782139"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038100"
 ---
 # <a name="upn-sync-disabled"></a>Sincronização UPN desabilitada
 
@@ -27,6 +27,6 @@ Se você começou a sincronizar com o Azure AD antes de 30 de março de 2016, ex
   
 A suspensão de UPN é automaticamente ativado para organizações que começaram a sincronizar com o Azure AD em ou após 30 de março de 2016.
   
-Para saber mais sobre a habilitação de uma combinação suave em UPN e outros recursos de sincronização, consulte Recursos de serviço de sincronização [do Azure AD Connect.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
+Para saber mais sobre a habilitação de uma combinação suave em UPN e outros recursos de sincronização, consulte [Azure AD Conexão de serviço de sincronização.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
   
 

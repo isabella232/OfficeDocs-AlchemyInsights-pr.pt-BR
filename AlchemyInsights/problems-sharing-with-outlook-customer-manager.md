@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 8281adacb2164ee88a73ee5b5e3afcc2a4ed317e96e8f37eba0d068c2792bfdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960103"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Problemas de compartilhamento com o Outlook Customer Manager
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Problemas de compartilhamento com Outlook Customer Manager
 
-Se você estiver tendo problemas de compartilhamento com o Outlook Customer Manager, recomendamos que você primeiro tente limpar o cache do navegador. Por exemplo, no Internet Explorer, você faria:
+Se você estiver tendo problemas de compartilhamento com Outlook Customer Manager, recomendamos que você primeiro tente limpar o cache do navegador. Por exemplo, no Internet Explorer, você faria:
 
-1. Vá para **Configurações**  >  **Gerais >** Configurações em **Histórico de** Navegação  >  **Caches e bancos de dados**.
+1. Vá para **o Configurações** geral > Configurações histórico de navegação  >     >  **Caches e bancos de dados.**
 2. Excluir arquivos de cache para o site "outlookapps.com".
 3. Reinicie o Outlook.
 
-Para obter mais informações sobre compartilhamento, consulte [Compartilhar informações no Outlook Customer Manager](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).
+Para obter mais informações sobre compartilhamento, [consulte Share information in Outlook Customer Manager](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).

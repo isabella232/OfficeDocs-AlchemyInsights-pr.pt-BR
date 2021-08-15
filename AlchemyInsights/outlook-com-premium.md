@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1831"
 - "9000243"
-ms.openlocfilehash: 6858d989135fac55c6a15f79c3be0ce37e884a60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 254cd25b76a5bc7d58f08eee5686c021c88ee28880b0b1135fba8e2119355721
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798076"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983441"
 ---
 # <a name="outlookcom-premium"></a>Outlook.com Premium
 
 **Assinantes Premium existentes**
 
-- Se você já tem uma assinatura do Outlook.com premium, leia as [perguntas frequentes do Outlook.com Premium](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
+- Se você já tiver uma assinatura Outlook.com Premium, leia [Outlook.com Premium perguntas frequentes](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
 
 **Novos assinantes**
 
-- Lamentamos, mas o Outlook.com premium agora está fechado para novos assinantes.
-- Muitos dos [recursos e benefícios](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) agora estão incluídos nas [assinaturas do Microsoft 365 Home e do Microsoft 365 Personal](https://go.microsoft.com/fwlink/?linkid=2017122).
+- Lamentamos, mas o Outlook.com Premium agora está fechado para novos assinantes.
+- Muitos dos recursos [e benefícios agora](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) estão incluídos com [assinaturas para](https://go.microsoft.com/fwlink/?linkid=2017122)Microsoft 365 Home e Microsoft 365 Personal .
