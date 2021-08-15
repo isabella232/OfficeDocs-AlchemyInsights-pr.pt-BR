@@ -1,5 +1,5 @@
 ---
-title: Regra de base de registro para iOS Bucket
+title: Regra base de registro para o bucket do iOS
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2684"
-ms.openlocfilehash: 7e549fe002b087fb167bd04b9a404689d19996c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 65919ac1f6c9a0314cf67b74137d3635a25313cefe7582f905466e2e31387842
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784151"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030044"
 ---
 # <a name="intune-device-enrollment"></a>Registro de dispositivo do Intune
 
@@ -25,14 +25,14 @@ ms.locfileid: "47784151"
 
 [Configurar o registro de dispositivo iOS com o Intune](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[Configurar o registro de dispositivos Android com o Intune](https://docs.microsoft.com/intune/android-enroll)
+[Configurar o registro de dispositivo Android com o Intune](https://docs.microsoft.com/intune/android-enroll)
 
-[Configurar o registro de dispositivo do Windows com o Intune](https://docs.microsoft.com/intune/windows-enroll)
+[Configurar o registro Windows dispositivo com o Intune](https://docs.microsoft.com/intune/windows-enroll)
 
-Solucionando problemas de registro de dispositivos
+Solução de problemas de registro de dispositivo
 
-1. Use o [portal de solução de problemas do Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)   para diagnosticar e resolver falhas comuns de registro. Revise [este documento](https://docs.microsoft.com/intune/help-desk-operators) para obter mais detalhes.
+1. Use o Portal de Solução de Problemas do [Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) para diagnosticar e resolver falhas comuns de registro. Revise [este documento](https://docs.microsoft.com/intune/help-desk-operators) para obter mais detalhes.
 
-2. Revise estes documentos para obter uma lista de erros comuns que impedem o registro e as resoluções:
+2. Revise esses documentos para ver uma lista de erros comuns que impedem o registro e as resoluções:
     - [Guia de solução de problemas](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)
-    - [Solucionando problemas de Doc](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).
+    - [Solução de problemas doc](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).

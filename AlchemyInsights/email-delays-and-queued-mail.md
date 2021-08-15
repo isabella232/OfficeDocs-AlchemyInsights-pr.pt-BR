@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: c2e6aa3de2ea86b70c8fb68503aa02027505326a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 47f2d4f61571c8ef1fd871a568909d7dab37fe7ecfca5a8e02728e12b759ae40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710219"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030152"
 ---
 # <a name="are-you-seeing-email-delays-or-queued-mail"></a>Você está vendo atrasos de email ou emails na fila?
 
-Começamos recentemente a substituir pontos de extremidade SMTP mais antigos. Esses valores de destino foram disponibilizados para uso em registros MX e hosts inteligentes antes de 2012. Se você ainda estiver usando um desses valores mais antigos, será necessário atualizar o ponto de extremidade para um valor com suporte. Para obter mais informações, consulte este [support kb](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
+Recentemente, começamos a preteri-los. Esses valores de destino estavam disponíveis para uso em registros MX e hosts inteligentes antes de 2012. Se você ainda estiver usando um desses valores mais antigos, precisará atualizar o ponto de extremidade para um valor com suporte. Para obter mais informações, consulte este [suporte KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).

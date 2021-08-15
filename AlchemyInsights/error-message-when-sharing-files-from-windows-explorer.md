@@ -12,20 +12,20 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 56e25b064f0a81da2c8440156d46da150d3c0436
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 516f72930765cfc5a48ad4f9182b1e90f342d8866ecb03767772f47676911d2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783827"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030080"
 ---
 # <a name="error-message-when-sharing-files-from-windows-explorer"></a>Mensagem de erro ao compartilhar arquivos do Windows Explorer
 
 Ao tentar compartilhar do Windows Explorer, você pode receber a seguinte mensagem de erro:
   
-"Não é possível entrar no servidor no momento. Tente novamente mais tarde".
+"Desculpe, não podemos entrar em contato com o servidor agora. Tente novamente mais tarde".
   
-Para resolver a mensagem de erro, no Internet Explorer, vá para **ferramentas** \> **Opções da Internet** \> clique na guia **avançado** e desmarque a caixa de seleção intitulada **não salvar páginas criptografadas no disco**.
+Para resolver a mensagem de  erro, do Internet Explorer vá para Ferramentas Opções da Internet clique na guia Avançado e desembrava a caixa de seleção intitulada Não salve páginas criptografadas \>  \> **em disco**. 
   
- **Observação**: Talvez seja necessário reiniciar o navegador para que a configuração entre em vigor. Para obter informações adicionais, consulte [a mensagem de erro "não é possível acessar o servidor agora" ao compartilhar arquivos](https://go.microsoft.com/fwlink/?linkid=2022914).
+ **Observação**: talvez seja necessário reiniciar o navegador para que a configuração entre em vigor. Para obter informações adicionais, consulte a mensagem de erro "Não é possível alcançar [o servidor agora" ao compartilhar arquivos](https://go.microsoft.com/fwlink/?linkid=2022914).
   

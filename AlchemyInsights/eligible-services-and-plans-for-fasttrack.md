@@ -1,5 +1,5 @@
 ---
-title: Serviços e planos qualificados para o FastTrack
+title: Serviços e planos qualificados para FastTrack
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6938"
-ms.openlocfilehash: bb91628ac9df19cbaf17f53c3c5db13b9b592ffb
-ms.sourcegitcommit: 3e16fd8b7704bd44e07be90816a350bad21bcb1d
+ms.openlocfilehash: f8450e443cd89e4b8c17d888b4c15e4c81c0b20009368a59adf0cd38f110c1f3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50181264"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030224"
 ---
-# <a name="eligible-services-and-plans-for-fasttrack"></a>Serviços e planos qualificados para o FastTrack
+# <a name="eligible-services-and-plans-for-fasttrack"></a>Serviços e planos qualificados para FastTrack
 
-Com os Benefícios do Centro FastTrack para Office 365, você trabalha remotamente com Especialistas do FastTrack — sem custo adicional — para preparar seu ambiente do Office 365 para uso. Os Especialistas do FastTrack podem ajudá-lo depois de adquirir pelo menos 150 licenças.
+Com o FastTrack Center Benefit para Office 365, você trabalha remotamente com especialistas FastTrack, sem custo adicional, para preparar seu ambiente Office 365 para uso. FastTrack Os especialistas podem ajudá-lo depois de comprar pelo menos 150 licenças.
 
-Para obter ajuda por meio do portal do FastTrack, entre no Portal do [FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) e siga as etapas para concluir a solicitação de assistência com o **formulário do Microsoft 365.**
+Para obter ajuda por meio do portal FastTrack, entre no portal do [FastTrack e](https://go.microsoft.com/fwlink/?linkid=2125443) siga as etapas para concluir o formulário Solicitação de Assistência **Microsoft 365.**
 
 > [!NOTE]
 > Se você tiver problemas para entrar ou precisar de assistência adicional, envie um email [para](mailto:ftcrfa@microsoft.com)ftcrfa@microsoft.com .
 
-Há uma variedade de planos qualificados do FastTrack para diferentes setores, de empresas corporativas a instituições educacionais.
+Há uma variedade de planos qualificados para FastTrack diferentes setores, de empresas corporativas a instituições educacionais.
 
-Para saber mais, confira [Planos qualificados do Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2125459)
+Para saber mais, consulte [Eligible Microsoft 365 plans](https://go.microsoft.com/fwlink/?linkid=2125459).
 
-Há uma variedade de serviços qualificados, do Exchange Online para o Microsoft Teams, o Microsoft 365 e o Windows 10.
+Há uma variedade de serviços qualificados, de Exchange Online a Microsoft Teams, Microsoft 365 e Windows 10.
 
-Para uma lista completa de serviços qualificados, consulte [Serviços qualificados.](https://go.microsoft.com/fwlink/?linkid=2125636)
+Para ver uma lista completa de serviços qualificados, consulte [Eligible services](https://go.microsoft.com/fwlink/?linkid=2125636).

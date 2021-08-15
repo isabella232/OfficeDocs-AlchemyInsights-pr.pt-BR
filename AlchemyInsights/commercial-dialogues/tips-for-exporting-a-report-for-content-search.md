@@ -1,5 +1,5 @@
 ---
-title: Dicas para exportar um relatório para Pesquisa de Conteúdo
+title: Dicas exportar um relatório para Pesquisa de Conteúdo
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: d3a93544d6ae969562bbd6e8ad9ec145421af42d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 01281897c9dfa00080f96c506b1847615e4b9d16c4580df29f36c9ba18950682
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464292"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978869"
 ---
-# <a name="tips-for-exporting-a-report-for-content-search"></a>Dicas para exportar um relatório para Pesquisa de Conteúdo
+# <a name="tips-for-exporting-a-report-for-content-search"></a>Dicas exportar um relatório para Pesquisa de Conteúdo
 
 Talvez seja necessário exibir um relatório de uma Pesquisa de Conteúdo em vez de exportar os resultados completos da pesquisa. Em caso afirmado, você pode exportar apenas um relatório dos resultados da pesquisa. Veja algumas dicas:
 
