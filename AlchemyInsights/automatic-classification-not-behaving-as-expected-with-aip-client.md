@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: b7ab09fe8430a54dacf2cd1ba076414a5f562541
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 93d15b8b65fd52a567ecbb6e1f84363bf2b38946c105896b0b5ef41e49d16ea9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820886"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979697"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Classificação automática não se comportando como esperado com o cliente AIP
 
@@ -29,7 +29,7 @@ Use as diretrizes a seguir, quando a classificação automática não estiver se
 4. Se você usou os [tipos de informações internas](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) para a política de Proteção de Informações do Azure, verifique se o seu conteúdo corresponde ao formato esperado.
 5. Verifique se o rótulo está configurado adequadamente como **Automático** ou **Recomendado**. (A rotulagem **automática** está disponível para todos os aplicativos do Microsoft 365, enquanto a **Recomendada** está disponível para todos os aplicativos do Microsoft 365, exceto o Outlook.)
 6. Você não pode usar a classificação automática para documentos e emails que foram anteriormente rotulados manualmente ou automaticamente com uma classificação mais alta.  Para obter mais informações, confira: [Como as rótulos automáticos ou recomendados são aplicados](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied).
-7. Se você ainda estiver com enfrentando problemas, colete os logs do cliente de Proteção de Informações do Azure e anexe os logs exportados ao tíquete de suporte. Para exportar logs de Proteção de Informações do Azure:
+7. Se você ainda estiver com enfrentando problemas, colete os logs do cliente de Proteção de Informações do Azure e anexe os logs exportados ao tíquete de suporte. Para exportar os logs da Proteção de Informações do Azure:
     - Abra um documento do Office ou crie um novo email no Outlook.
     - Clique em **Proteção/Confidencialidade** > **Ajuda e comentários**.
     - Clique em **Exportar Logs**.

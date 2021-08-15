@@ -1,5 +1,5 @@
 ---
-title: 1829-eDiscovery-problemas
+title: 1829-ediscovery-issues
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: fe980d8ba54b710deca3bce9d8eca422d6c74da7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2a949afa39da637e32c6a254b7343df0eac402b3579e511d3b41e13b2b00bf7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710939"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030413"
 ---
-# <a name="ediscovery-issues"></a>problemas de descoberta eletrônica
+# <a name="ediscovery-issues"></a>Problemas de Descoberta eDiscovery
 
-Procurando opções de descoberta eletrônica? Com a navegação reprojetada no centro de conformidade e segurança &, suas opções de descoberta eletrônica podem ter sido movidas.  Você pode encontrar as opções de descoberta eletrônica nos seguintes locais no centro de conformidade & segurança com base no que você está tentando fazer:
+Procurando opções de Descoberta De eDiscovery? Com a navegação re-projetada no Centro de Conformidade & segurança, suas opções de Descoberta Digital podem já ter sido movidas.  Você pode encontrar as opções de Descoberta Digital nos seguintes locais no Centro de Conformidade & segurança com base no que você está tentando fazer:
 
-- Use a pesquisa de conteúdo para pesquisar em sua organização o conteúdo de email, documentos, conversas do Skype for Business e exporte os dados para **pesquisa > pesquisa de conteúdo**
+- Use a Pesquisa de Conteúdo para pesquisar conteúdo em sua organização por email, documentos, Skype for Business conversas e, em seguida, exportar os dados - Vá para **Pesquisa > Pesquisa de conteúdo**
 
-- Criar um caso de descoberta eletrônica para pesquisar conteúdo e colocar locais de conteúdo em retenção para **descoberta eletrônica > eDiscovery**
+- Criar uma ocorrência de Descoberta > eDiscovery para pesquisar conteúdo e colocar locais de conteúdo em espera - Vá para **Descoberta > eDiscovery**
 
-- Use a nova solução de descoberta eletrônica avançada de ponta a ponta para identificar e comunicar-se com os responsáveis, preservar os dados relevantes para o caso, coletar dados e adicioná-los a um conjunto de análise e reduzir o volume de dados aplicando a análise para analisar dados desnecessários e se concentrar no que é mais relevante para o **ediscovery > descoberta eletrônica avançada**
+- Use a nova solução de Advanced eDiscovery de ponta a ponta para identificar e se comunicar com os custodiantes, preservar os dados custodiantes relevantes para o caso, coletar dados e adicioná-los a um conjunto de revisão e reduzir o volume de dados aplicando análises para eliminar dados desnecessários e se concentrar no que é mais relevante para o caso - Vá para **Descoberta > Advanced eDiscovery**
 
 Para saber mais, confira:
 
 - [Pesquisa de Conteúdo](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [ocorrências de descoberta eletrônica no centro de conformidade & segurança](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
+- [Casos de Descoberta Digital no Centro de Conformidade & Segurança](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
 - [Solução da Descoberta Eletrônica Avançada no Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)

@@ -1,5 +1,5 @@
 ---
-title: 8000071 Outlook.com Fix e-mail Sync-francês
+title: 8000071 Outlook.com corrigir a sincronização de email - FRENCH
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,15 +16,15 @@ ms.custom:
 - "1147"
 - "1148"
 - "8000071"
-ms.openlocfilehash: 072e7103aaefb96e6d1a74f517793a865346619c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d16f60cc0c57e91056f1117bfb4309d004851b6f384375c716fccc3ac0b280fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671756"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962227"
 ---
-# <a name="rsoudre-les-problmes-de-synchronisation-des-messages"></a>Résoudre Les Problèmes de sincronização mensagens des
+# <a name="rsoudre-les-problmes-de-synchronisation-des-messages"></a>Résoudre les problèmes de synchronisation des messages
 
-Si vous ne Pouvez Pas envoyer ou recevoir des courriers électroniques, ou ne peut pas se connecty, Outlook.com, [essayez CES Solutions](https://support.office.com/fr-fr/article/résoudre-les-problèmes-de-synchronisation-des-messages-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy).
+Si vous ne pouvez pas envoyer ou recevoir des courriers électroniques, ou ne peut pas se connecter à Outlook.com, [essayez ces solutions](https://support.office.com/fr-fr/article/résoudre-les-problèmes-de-synchronisation-des-messages-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Si vous ne Pouvez Pas vous Connect em votre hotmail ou Outlook.com, découvrez [Comment se Connect ou se déconnecter de Outlook.com](https://support.office.com/fr-fr/article/comment-se-connecter-et-se-déconnecter-d-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Si vous ne pouvez pas vous connecter à votre Hotmail ou Outlook.com, découvrez [comment se connecter ou se déconnecter de Outlook.com](https://support.office.com/fr-fr/article/comment-se-connecter-et-se-déconnecter-d-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
