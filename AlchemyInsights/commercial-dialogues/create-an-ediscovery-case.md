@@ -1,5 +1,5 @@
 ---
-title: Criar um caso de Descoberta e
+title: Criar uma ocorrência de Descoberta Eletrônica
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 61e466d9ec203a66a7ce2e89bd1462f5a483c784
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: aa505491f205eafd032fb3eef95f5d7d6f5226c61b73462312573789745258fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464399"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988355"
 ---
-# <a name="create-an-ediscovery-case"></a>Criar um caso de Descoberta e
+# <a name="create-an-ediscovery-case"></a>Criar uma ocorrência de Descoberta Eletrônica
 
 Veja como criar um caso de Descoberta E:
 

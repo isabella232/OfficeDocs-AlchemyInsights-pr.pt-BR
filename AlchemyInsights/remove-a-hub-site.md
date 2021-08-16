@@ -1,5 +1,5 @@
 ---
-title: Remover um site de Hub
+title: Remover um site de hub
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "866"
 - "5300012"
 ms.assetid: cebdac7f-fa90-4431-9a71-feb4104e479a
-ms.openlocfilehash: ebd9b894d27e9278cda69d4a93c163e285f556f6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e16d56681825ab469f4dc9c142fc0fc22bdce62ba6a4bedce0ad8f488acf71f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692859"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023942"
 ---
-# <a name="remove-a-hub-site"></a>Remover um site de Hub
+# <a name="remove-a-hub-site"></a>Remover um site de hub
 
-Para cancelar o registro de um site do Hub no novo centro de administração do SharePoint:
+Para não fazer o registro de um site de hub no novo SharePoint de administração:
   
-1. No novo centro de administração do SharePoint, em **sites**, clique em **sites ativos**.
+1. No novo centro de SharePoint de administração, em **Sites,** clique em **Sites ativos.**
 
-2. Selecione o site, clique em **site do Hub**e, em seguida, clique em **cancelar o registro como site do Hub**.
+2. Selecione o site, clique **em Hub site** e clique em Não registro como site de **hub**.
 
 3. Clique em **OK**.
 
