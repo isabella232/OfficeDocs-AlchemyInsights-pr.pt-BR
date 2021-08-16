@@ -1,5 +1,5 @@
 ---
-title: Enviar solicitações de suporte do PowerApps ou do Microsoft Flow
+title: Enviar solicitações de suporte Microsoft Flow PowerApps
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.custom:
 - "1494"
 - "1495"
 - "6200027"
-ms.openlocfilehash: 8e2b04a32af02679ce9a9ade92895011391b2ae7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4d271dfa95224ea5359b54816109459b23ed843e5693721eb264e416cbe29eb0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827960"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999516"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Enviar solicitações de suporte do PowerApps ou do Microsoft Flow
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Enviar solicitações de suporte Microsoft Flow PowerApps
 
-Se você for um **cliente do PowerApps** ou **do Microsoft Flow,** envie seu tíquete por meio do novo Centro de Administração da plataforma [Power.](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819) O novo portal fornece um caminho mais direto para o suporte assistido otimizado para PowerApps e outros produtos da plataforma Power.
+Se você for um **cliente do PowerApps** **ou** Microsoft Flow, envie seu tíquete por meio do novo Centro de Administração da plataforma [Power.](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819) O novo portal fornece um caminho mais direto para o suporte assistido otimizado para PowerApps e outros produtos da plataforma Power.
 
-[Enviar solicitação de suporte do Microsoft Flow](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[Enviar Microsoft Flow solicitação de suporte](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)

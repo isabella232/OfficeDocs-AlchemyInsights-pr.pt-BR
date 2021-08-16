@@ -1,5 +1,5 @@
 ---
-title: Exemplo da política anti-phishing do Microsoft Defender para Office 365
+title: Exemplo do Microsoft Defender para Office 365 anti-phishing
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eabff70c22b641627d3ab6c0b2f8846a0be2f49e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b59abdeea6ac9be7e498e2b1ba531e7bf611c92097fbc12237e78364dae84f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735700"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034994"
 ---
-# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Exemplo da política anti-phishing do Microsoft Defender para Office 365
+# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Exemplo do Microsoft Defender para Office 365 anti-phishing
 
 Essas configurações habilitam uma política chamada *Domínio e CEO.* Essa política fornece proteção de usuário e domínio contra representação e aplica a política a todos os emails recebidos pelos usuários no domínio. Primeiro, adicione as seguintes informações para criar a política:
 
@@ -33,4 +33,4 @@ Essas configurações habilitam uma política chamada *Domínio e CEO.* Essa pol
   - **Adicionar senders e domínios confiáveis:** Para este exemplo, não defina nenhuma substituição.
 - Depois de revisar suas configurações, selecione **Criar essa política** ou **Salvar**, conforme apropriado.
 
-Para saber mais, confira [Políticas anti-phishing no Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2092235).
+Para saber mais, confira [Políticas anti-phishing em Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2092235).

@@ -1,5 +1,5 @@
 ---
-title: O que é meu endereço de email no Outlook na Web
+title: Qual é o meu endereço de email Outlook na Web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,17 +10,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 235e84dc70aff078aa5413dd3e1ef38c86e17d60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38480c8baf9ba6f4d538c0bc3dec19035e62931544c5444699dab908f64d7f0f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665814"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999696"
 ---
-# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Qual é o meu endereço de email no Outlook na Web?
+# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Qual é o meu endereço de email Outlook na Web?
 
-Seu endereço de email é atribuído a você pelo seu trabalho ou escola. Ele se parece com ellen@contoso.onmicrosoft.com, ellen@contoso.edu ou ellen@contoso.com. Esta conta corporativa ou de estudante é o endereço de email e a conta que você usa para entrar no Microsoft 365 para trabalho ou escola.
+Seu endereço de email é atribuído a você por seu trabalho ou escola. Parece ellen@contoso.onmicrosoft.com, ellen@contoso.edu ou ellen@contoso.com. Essa conta de estudante ou de trabalho é o endereço de email e a conta que você usa para entrar Microsoft 365 trabalho ou escola.
 
-Sua conta corporativa ou de estudante é diferente da sua conta da Microsoft. Você usa sua conta da Microsoft para serviços pessoais como o Outlook.com, o Xbox Live, o Skype e outros.
+Sua conta de trabalho ou de estudante é diferente da conta da Microsoft. Você usa sua conta da Microsoft para serviços pessoais como Outlook.com, Xbox Live, Skype e muito mais.
 
-Para obter mais informações, consulte [o que é minha ID de usuário e por que preciso dela para o Microsoft 365 for Business?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)
+Para obter mais informações, consulte [O que é minha ID de usuário](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4) e por que preciso dela para Microsoft 365 para empresas?

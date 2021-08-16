@@ -1,5 +1,5 @@
 ---
-title: Não é possível ler o email do Outlook.com no Google Chrome com o AdBlock
+title: Não é possível ler o email Outlook.com no Google Chrome com o AdBlock
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "8000048"
 - "814"
-ms.openlocfilehash: c5bc85855f5d2634c085ef093ab71c98093931a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f494d71b26e6e62215c979dcdd7fd8e4ad2c20774e15641b42f1f6208eaa2922
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752923"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984701"
 ---
-# <a name="cant-read-email-in-google-chrome-with-adblock"></a>Não é possível ler emails no Google Chrome com AdBlock
+# <a name="cant-read-email-in-google-chrome-with-adblock"></a>Não é possível ler emails no Google Chrome com o AdBlock
 
-Se você não conseguir ler ou redigir emails ao usar o Google Chrome com a extensão AdBlock:
+Se você não puder ler ou redigir emails ao usar o Google Chrome com a extensão do AdBlock:
 
-- Usar [o Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) ou outro navegador da Web.
-- Excluir Outlook.com das configurações do AdBlock. No canto superior direito do Google Chrome, selecione **Adblock** e, em seguida, selecione **não executar em páginas nesse domínio**. Atualize o navegador para carregar o Outlook.com novamente.
+- Use [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) ou outro navegador da Web.
+- Exclua Outlook.com das configurações do AdBlock. No canto superior direito do Google Chrome, selecione **AdBlock** e selecione Não executar em **páginas neste domínio**. Atualize o navegador para carregar Outlook.com novamente.

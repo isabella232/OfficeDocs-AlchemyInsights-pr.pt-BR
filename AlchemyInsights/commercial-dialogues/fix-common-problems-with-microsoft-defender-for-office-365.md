@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 05fa518ece7ea40fd7b4cea57115d9cd60370b01
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: de1edf14389c6747272d4e1f8d8e0955a86269c433106bc8ce25129e78581ea7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735696"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034958"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Corrigir problemas comuns com o Microsoft Defender para Office 365
 
 Aqui estão algumas soluções para problemas comuns com o Microsoft Defender para Office 365:
 
-- **Atraso da mensagem:** Se você estiver enfrentando problemas em que a entrega de mensagens  está atrasada, você vai querer usar as opções de Entrega Dinâmica em sua política de Anexos Seguros. Para saber mais, confira [Entrega Dinâmica em Políticas de Anexos Seguros.](https://go.microsoft.com/fwlink/?linkid=2094106)
+- **Atraso da mensagem:** Se você estiver enfrentando problemas em que a entrega de mensagens  está atrasada, você vai querer usar as opções de Entrega Dinâmica em sua política de Cofre Anexos. Para saber mais, confira [Entrega Dinâmica em Cofre Políticas de Anexos.](https://go.microsoft.com/fwlink/?linkid=2094106)
 - **Relatar resultados falsos positivos ou negativos:** Reporte a mensagem para a Microsoft usando este link: [Portal de Resposta do Microsoft Defender.](https://go.microsoft.com/fwlink/?linkid=2092835)
-- **Habilitar a proteção de Link Seguro:**
-    1. Entre no Centro de Conformidade e Segurança [& do Office 365.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-    2. Vá para **Links Seguros da Política de Gerenciamento** de  >    >  **Ameaças.**
+- **Habilitar Cofre proteção de link:**
+    1. Entre no Centro de Conformidade Office 365 [Segurança & Segurança.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+    2. Vá para **Política de Gerenciamento** de Ameaças  >  **Cofre**  >  **Links.**
     3. Em **Políticas que se aplicam a destinatários específicos,** abra a política configurada.
-    4. Em **Configurações,** selecione **Aplicar links seguros a mensagens enviadas dentro da organização**.
+    4. Em **Configurações**, selecione **Aplicar links seguros a mensagens enviadas dentro da organização**.
