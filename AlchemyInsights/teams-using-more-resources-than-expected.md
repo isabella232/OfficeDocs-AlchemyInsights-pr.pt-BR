@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "6653"
 - "9003563"
-ms.openlocfilehash: 74972a7d54ea349cd997509a59a9320256a7eee7
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 98c93b3b674412025e0ff0fa6a609665cf720c75d17e0d278c3abe123d5ec01c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48334067"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998679"
 ---
-# <a name="teams-is-using-more-computer-resources-than-expected"></a>O Microsoft Teams está usando mais recursos do computador do que o esperado
+# <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams está usando mais recursos de computador do que o esperado
 
-O excelente desempenho e a experiência do usuário são as principais preocupações da Microsoft. O tempo de lançamento do teams foi aprimorado e continuaremos aprimorando o Teams, incluindo o consumo geral de recursos.  
+Excelente desempenho e experiência do usuário são principais preocupações na Microsoft. Teams tempo de lançamento foi melhorando e continuaremos melhorando Teams, incluindo o consumo geral de recursos.  
 
-Para obter informações sobre o uso de equipes e recursos, consulte [como o Microsoft Teams usa a memória e o](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf)  [Teams é lento durante as reuniões de vídeo em laptops encaixados em monitores de 4K/HDR](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k).
+Para obter informações sobre Teams uso de recursos, consulte How [Microsoft Teams uses memory](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf) and Teams is slow during video meetings on [laptops docked to 4K/HDR monitores](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k).
