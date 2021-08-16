@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: cbc856a76d811c09aefcada962376ae4e9469c3b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 85a494918d65cc026a85bdfd6348d5c3c190ef919fa88a15ffcd4e7e790b8737
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735374"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035138"
 ---
 # <a name="enable-auto-expanding-archiving"></a>Habilitar o arquivamento de expansão automática
 
@@ -29,5 +29,5 @@ Se a caixa de correio de arquivo morto estiver cheia (cota é atingida) ou você
 > [!TIP]
 >
 > - Depois de ativar a expansão automática, pode levar até 30 dias para que o armazenamento adicional seja provisionado.
-> - Se uma caixa de correio estiver em espera ou atribuída a uma política de retenção do Office 365, a cota de armazenamento da caixa de correio de arquivo morto aumentará para um total de **110 GB** quando arquivos ilimitados estão habilitados.
-> - Para liberar espaço na caixa de correio de arquivo morto, se não houver nenhuma reserva, os usuários poderão exportar os itens da caixa de correio de arquivo morto para um arquivo [PST](https://support.office.com/article/Export-or-backup-email-contacts-and-calendar-to-an-Outlook-pst-file-14252b52-3075-4e9b-be4e-ff9ef1068f91) usando o Outlook ou excluir os itens desnecessários na caixa de correio de arquivo morto.
+> - Se uma caixa de correio estiver em retenção ou atribuída a uma política de retenção Office 365, a cota de armazenamento da caixa de correio de arquivo morto aumenta para um total de **110 GB** quando arquivos ilimitados são habilitados.
+> - Para liberar espaço na caixa de correio de arquivo morto, se não houver nenhuma reserva, os usuários poderão exportar os itens da caixa de correio de arquivo morto para um arquivo [PST](https://support.office.com/article/Export-or-backup-email-contacts-and-calendar-to-an-Outlook-pst-file-14252b52-3075-4e9b-be4e-ff9ef1068f91) usando Outlook ou excluir os itens desnecessários na caixa de correio de arquivo morto.
