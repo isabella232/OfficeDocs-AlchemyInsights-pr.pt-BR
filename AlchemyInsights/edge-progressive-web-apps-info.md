@@ -1,5 +1,5 @@
 ---
-title: Saiba mais sobre aplicativos Web progressivos (PWAs) no Microsoft Edge (Chromium)
+title: Saiba mais sobre PWAs (Progressive Web Apps) Microsoft Edge (Chromium)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: 79b72200dbede9b66da921e2a92b4191e9bc067d
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: f214781071be412e2a7eabbf19ec9d271cf1e8081cb052c02cad614da0372eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617214"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101434"
 ---
-# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Saiba mais sobre aplicativos Web progressivos (PWAs) no Microsoft Edge (Chromium)
+# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Saiba mais sobre PWAs (Progressive Web Apps) Microsoft Edge (Chromium)
 
-PWAs são sites aprimorados progressivamente para funcionar como aplicativos nativos em plataformas que dão suporte a eles. PWAs combinar as melhores qualidades de aplicativos Web e nativos.
+Os PWAs são sites progressivamente aprimorados para funcionar como aplicativos nativos em plataformas que os suportam. Os PWAs combinam as melhores qualidades de aplicativos nativos e da Web.
 
-Da perspectiva de uma plataforma Web, [PWAs no Microsoft Edge (Chromium)](https://go.microsoft.com/fwlink/?linkid=2135193) são baseados nos padrões. Eles permitem que os usuários instalem aplicativos diretamente de dentro do navegador e não exijam a implantação ou o registro baseado na loja da Microsoft. O desktop PWAs tem suporte em qualquer plataforma onde o Microsoft Edge (Chromium) esteja disponível.
+Do ponto de vista de uma plataforma Web, [PWAs no Microsoft Edge (Chromium)](https://go.microsoft.com/fwlink/?linkid=2135193) são baseados em padrões. Eles permitem que os usuários instalem aplicativos diretamente do navegador e não exigem registro ou implantação com base na Microsoft Store. Os PWAs da área de trabalho têm suporte em qualquer plataforma em que o Microsoft Edge (Chromium) está disponível.
