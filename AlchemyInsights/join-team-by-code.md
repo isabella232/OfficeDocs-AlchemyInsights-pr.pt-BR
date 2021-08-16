@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "8245"
 - "9000701"
-ms.openlocfilehash: 0e46cbbe06c45a89da8ab8a1e2543ce374d03b99
-ms.sourcegitcommit: 22eaf0a151ab95414476f596db8d318b6540ff31
+ms.openlocfilehash: fa7a769e91d7e91879d448d750d281dcf7de308d8130a1c6d8e1235cdaaf45d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50162906"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054350"
 ---
 # <a name="join-a-team-by-code"></a>Ingressar uma equipe por código
 
-A Microsoft está ciente de um problema em que os usuários não conseguem criar um código **Participe de um Time** ou ingressar em um time usando o recurso **Join by Code**. Como alternativa, os proprietários da equipe podem adicionar usuários manualmente, conforme necessário.
+A Microsoft está ciente de um problema em que os usuários não conseguem criar um código **Ingressar a um Equipe** ou ingressar em uma equipe usando o recurso **Ingressar com um código**. Como alternativa, os proprietários da equipe podem adicionar usuários manualmente, conforme necessário.
