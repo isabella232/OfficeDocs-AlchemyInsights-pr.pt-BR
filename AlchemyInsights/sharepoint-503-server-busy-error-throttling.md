@@ -13,18 +13,18 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 01ce7a0266eb15a04f70826cc3f5e135f384c13b
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 38cd588e9f5388579e4e8c2064d1390091425254effd3aa7c50c4f2cbc80ce53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707546"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051474"
 ---
 # <a name="sharepoint-online-throttling"></a>SharePoint Online Throttling
 
 SharePoint Online usa a limitação para manter o melhor desempenho e confiabilidade do serviço SharePoint Online. O número de ações do usuário ou simultâneas redução dos limites chamadas (por script ou código) para impedir o uso excessivo de recursos. 
 
-Para obter mais informações sobre a aceleração, consulte [Evite ser acelerada ou bloqueada no SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+Para obter mais informações sobre a aceleração, consulte [Avoid getting throttled or blocked in SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 
 Se você acredita que esse erro não está relacionado à throttling, você pode verificar se há manutenção ativa ocorrendo em seu locatário navegando até a Central de [Mensagens](https://portal.office.com/adminportal/home#/MessageCenter).
 

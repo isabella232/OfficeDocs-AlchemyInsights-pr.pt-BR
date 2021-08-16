@@ -1,5 +1,5 @@
 ---
-title: Sites públicos do SharePoint Online estão sendo descontinuados
+title: SharePoint Sites públicos online estão sendo descontinuados
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 1dce91425873c2aea84fac9b79951138502d5a58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c515a8b0353c5747a086b68ff7937bd95888f70c43f6d134b4756653e2177b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719905"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051258"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Sites públicos do SharePoint Online estão sendo descontinuados
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Sites públicos online estão sendo descontinuados
 
-Se você criou um site público do SharePoint Online, você pode continuar a usá-lo até 31 de março de 2018. Se quiser continuar a ter um site público, você precisará criar um novo com um novo provedor. O conteúdo do seu site público do SharePoint Online será excluído, portanto, você precisa copiar qualquer conteúdo que deseja manter.
+Se você criou um SharePoint online, poderá continuar usando-o até 31 de março de 2018. Se você quiser continuar tendo um site público, você precisa criar um novo com um novo provedor. O conteúdo em seu SharePoint site público online será excluído, portanto, você precisa copiar qualquer conteúdo que você deseja manter.
   
-Agora, uma faixa aparece na parte superior do seu site público do SharePoint Online como notificação de que o site será removido. Não é possível desativar esta faixa. Para obter informações sobre como salvar e copiar o conteúdo para um site de parceiro, consulte [detalhes sobre o processo de descontinuação de recurso](https://go.microsoft.com/fwlink/?linkid=866980).
+Uma faixa agora aparece na parte superior do site público SharePoint Online como notificação de que o site será removido. Não é possível desativar essa faixa. Para obter informações sobre como salvar e copiar conteúdo para um site parceiro, consulte [Detalhes sobre o processo de descontinuação de recursos.](https://go.microsoft.com/fwlink/?linkid=866980)
   
