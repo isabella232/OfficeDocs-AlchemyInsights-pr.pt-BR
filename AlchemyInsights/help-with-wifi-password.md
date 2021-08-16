@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9799"
 - "9005399"
-ms.openlocfilehash: 31ec4f543d6b6bd0ae7e88911b6c3de4e46206b0
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: a24840cdc823eb3c9a52fcb02839310c15a96dc4026bb43169683db3c80a7be0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897472"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099744"
 ---
 # <a name="need-help-with-my-wi-fi-password"></a>Preciso de ajuda com minha senha do Wi-Fi
 
@@ -38,7 +38,7 @@ Se você estiver conectado à Internet, siga estas etapas para encontrar sua sen
 
 Infelizmente, não é possível procurar a senha do Wi-Fi se você não estiver usando a rede Wi-Fi no momento. Para obter mais ajuda com o roteador, entre em contato com o fabricante do roteador ou acesse o site de suporte.
 
-Se o roteador for novo, você poderá encontrar o nome do Wi-Fi e a senha listados no roteador, ou na caixa original do roteador. As credenciais são exibidas como:
+Se o roteador for novo, você poderá encontrar o nome do Wi-Fi e a senha listados no roteador, ou na caixa original do roteador:
 
 SSID de Rede: XXXXXXX Chave de Rede: XXXXXXXX
 
