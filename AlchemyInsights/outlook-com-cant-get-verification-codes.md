@@ -12,17 +12,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc921034e8ab577729efb8091ef6ec2e3e2dd49bc0a37ca27771b68756260c32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799516"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064192"
 ---
 # <a name="cant-get-verification-codes"></a>Não é possível obter códigos de verificação
 
-Se você não conseguir acessar seu email ou número de telefone alternativo, vá para a página de [noções básicas de segurança](https://account.microsoft.com/security) da conta da Microsoft, selecione **eu não tenho nenhum desses** na página de entrada e siga as instruções para substituir suas informações de segurança.
+Se você não puder acessar seu email ou número de telefone alternativo,  vá para a página Noções [básicas](https://account.microsoft.com/security) de segurança da conta da Microsoft, selecione Eu não tenho nada disso na página de entrada e siga as instruções para substituir suas informações de segurança.
 
-*Observação:* O [aplicativo Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) não exige uma conexão com a Internet para fornecer um código de verificação.
+*Observação:* O [Microsoft Authenticator aplicativo](https://go.microsoft.com/fwlink/?linkid=2016117) não exige uma conexão com a Internet para fornecer um código de verificação.
 
-Para saber mais, leia [informações de segurança e códigos de verificação da conta da Microsoft](https://support.microsoft.com/help/12428/).
+Para saber mais, leia Informações [de segurança da conta da Microsoft e códigos de verificação.](https://support.microsoft.com/help/12428/)

@@ -1,5 +1,5 @@
 ---
-title: Notificações do Facebook Outlook.com
+title: Outlook.com Notificações do Facebook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: f9d5b94abda70c7383221a0d04c01a6f43f16100
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b1276c7639fae8c5d3885f532995ea458abcca102288e82a9324a2f5d4bcfee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672116"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010964"
 ---
 # <a name="facebook-notifications-using-outlookcom"></a>Notificações do Facebook usando Outlook.com
 
-Se não quiser receber notificações do Facebook, você pode alterar [as configurações do Facebook](https://aka.ms/facebook-notifications-settings) ou configurar uma regra de caixa de entrada.
+Se você não quiser receber notificações do Facebook, poderá alterar suas configurações [do Facebook](https://aka.ms/facebook-notifications-settings) ou configurar uma Regra de Caixa de Entrada.
 
-1. Vá até [configurações de regras](https://outlook.live.com/mail/options/mail/rules/inboxRules).
+1. Vá para [Configurações de regras](https://outlook.live.com/mail/options/mail/rules/inboxRules).
 1. Selecione **Adicionar nova regra**.
-1. Nomeie sua regra "Facebook".
-1. Adicione uma condição de "from" e insira "notification@facebookmail.com"
-1. Adicione uma ação de "excluir". Escolher excluir significa que as mensagens permanecem em seus itens excluídos e podem ser recuperadas. Se você selecionar "marcar como lixo eletrônico", as mensagens serão excluídas automaticamente e não poderão ser recuperadas.
+1. Nomeia sua regra "Facebook".
+1. Adicione uma condição de "From" e digite "notification@facebookmail.com"
+1. Adicione uma ação de "Excluir". Escolher Excluir significa que as mensagens permanecem em seus Itens Excluídos e podem ser recuperadas. Se você selecionar "Marcar como Lixo Eletrônico", as mensagens serão excluídas automaticamente e não poderão ser recuperadas.
 1. Selecione **Salvar**.

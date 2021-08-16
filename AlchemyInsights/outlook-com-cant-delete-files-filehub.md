@@ -1,5 +1,5 @@
 ---
-title: Não é possível excluir fotos ou arquivos de arquivos no Outlook.com
+title: Não é possível excluir fotos ou arquivos de Arquivos em Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,15 +15,15 @@ ms.custom:
 - "1178"
 - "1179"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: da04d3d8c9bca3f6e0e44a3a55b158e1d7b00fde
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 98118c2db5468b1bca9f00014dc8221469fba7b050f4d93ec8d4707812517de9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753103"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064300"
 ---
-# <a name="cant-delete-files-or-photos-from-files"></a>Não é possível excluir arquivos ou fotos de arquivos
+# <a name="cant-delete-files-or-photos-from-files"></a>Não é possível excluir arquivos ou fotos de Arquivos
 
-No Outlook.com, **os arquivos** mostram os arquivos e as fotos anexados às mensagens em sua caixa de correio. Para remover arquivos e fotos de arquivos, você precisa excluir as mensagens de email às quais eles estão anexados. Após excluir as mensagens, você também precisa excluí-las da pasta itens excluídos.
+Em Outlook.com, **Files** mostra os arquivos e fotos anexados a mensagens em sua caixa de correio. Para remover arquivos e fotos de Arquivos, você precisa excluir as mensagens de email às que estão anexadas. Depois de excluir as mensagens, você também precisa excluí-las da pasta Itens Excluídos.
 
-Para saber mais, leia [como excluir arquivos ou fotos no Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).
+Para saber mais, leia [Como excluir arquivos ou fotos em Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).
