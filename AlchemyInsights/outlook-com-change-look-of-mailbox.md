@@ -1,5 +1,5 @@
 ---
-title: Outlook.com alterar a aparência da sua caixa de correio
+title: Outlook.com alterar a aparência de sua caixa de correio
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ms.openlocfilehash: d1331ca38fd1276bc062ee45801abf6f6944a287
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3522345eb8c0ed840a821fe4c3098464cf2e0ceedfaee558a703be643758ee7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802549"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096466"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Alterar a aparência da sua caixa de correio do Outlook.com
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Alterar a aparência da caixa de correio Outlook.com
 
-Você pode alterar a aparência da lista de mensagens e do painel de leitura no Outlook.com.
+Você pode alterar a aparência da lista de mensagens e o painel de leitura em Outlook.com.
 
-- Para alterar o layout da janela de mensagens, abra as opções do [painel de leitura](https://outlook.live.com/mail/options/mail/layout/readingPane) .
-- Para alterar a forma como seu email é classificado, na parte superior da lista de mensagens, selecione **Filtrar**  >  **classificar por** e escolha como deseja classificar seu email.
-- Para agrupar suas mensagens por conversa, abra suas opções de [organização de mensagens](https://outlook.live.com/mail/options/mail/layout/conversations) .
-- Para ativar ou desativar a caixa de entrada destaques, abra suas opções de [layout](https://outlook.live.com/mail/options/mail/layout/focused) .
+- Para alterar o layout da janela de mensagem, abra as opções [do painel de](https://outlook.live.com/mail/options/mail/layout/readingPane) leitura.
+- Para alterar como seu email é organizado, na parte superior da lista de mensagens, selecione **Filtrar** Classificação por e escolha como deseja  >   classificar seu email.
+- Para agrupar suas mensagens por conversa, abra suas [opções de organização de](https://outlook.live.com/mail/options/mail/layout/conversations) mensagens.
+- Para ativar ou desativar a Caixa de Entrada Focalizada, abra suas opções [de Layout.](https://outlook.live.com/mail/options/mail/layout/focused)

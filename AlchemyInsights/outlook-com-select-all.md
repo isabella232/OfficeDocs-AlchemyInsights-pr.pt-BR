@@ -1,5 +1,5 @@
 ---
-title: 8000090 Outlook.com selecionar tudo
+title: 8000090 Outlook.com selecione todos
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,17 +13,17 @@ ms.custom:
 - "1410"
 - "1411"
 - "8000090"
-ms.openlocfilehash: 6a3bef0d83c5bb4f55edf01f85ccc227b914d574
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3fe62a9752f667c7a2a21282d3c954c2b3316da6ebd4a49f28dd2afb2444c7c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722801"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010784"
 ---
-# <a name="how-to-select-all-in-outlookcom"></a>Como "selecionar tudo" no Outlook.com
+# <a name="how-to-select-all-in-outlookcom"></a>Como "selecionar tudo" em Outlook.com
 
-Você só pode selecionar todos se todas as mensagens estiverem visíveis. Isso é para evitar ações acidentais em mensagens que você não consegue ver.
+Você só poderá selecionar todas se todas as mensagens estão visíveis. Isso é para evitar ações acidentais em mensagens que você não pode ver.
 
-**Ctrl + clique** seleciona várias mensagens individuais.
+**CTRL + clique** seleciona várias mensagens individuais.
 
-**Shift + clique** seleciona todas as mensagens entre a primeira e a última mensagem que você selecionar.
+**SHIFT + clique** seleciona todas as mensagens entre a primeira e a última mensagem selecionada.
