@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 0b29aa150d9eead7fa97768a1cd59c1601cfce77
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aff548db493087e16629e81f5da9990a00c53e510bc5f92743dee393956d9c1c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834107"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036552"
 ---
 # <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Documento do Word aberto no aplicativo errado ou não aberto
 
@@ -31,19 +31,19 @@ Experimente uma dessas sugestões:
 
 1. Vá para **Painel de controle > Programas > Programas e Recursos**.
 
-2. Selecione o produto do Office que você deseja reparar e escolha **Alterar**.
+2. Selecione o Office produto que você deseja reparar e escolha **Alterar**.
 
 3. Escolha a **opção Reparo** Rápido e escolha **Reparar**.
 
-**Desinstalar versões do Office que você não usa**
+**Desinstalar versões Office que você não usa**
 
-1. Vá para **Painel de Controle > Desinstalar um Programa** e selecione a versão do Office que você deseja remover.
+1. Vá para **Painel de Controle > Desinstalar um Programa** e selecione a versão do Office você deseja remover.
 
 2. Clique em **Desinstalar**.
 
 3. Restart your computer.
 
-**Execute este solução de problemas para definir extensões de arquivo do Office para abrir no Office**
+**Execute este solução de problemas para definir Office de arquivo para abrir no Office**
 
 1. Execute este solução de problemas: https://aka.ms/diag_officefile .
 

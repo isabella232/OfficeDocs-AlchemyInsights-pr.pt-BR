@@ -15,19 +15,19 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: dae240765f1a0c5b0fa6391464fbfe0721dd6a09
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 9587793d60f9394721e192f5eb32e7cc9ecd1d43c77e970207a817cb30b5d799
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687306"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045844"
 ---
 # <a name="cancel-power-bi"></a>Cancelar Power BI
 
 Power BI pode ser cancelado no Centro de administração do Microsoft 365.
 
 1. No centro de administração, vá para a **página Cobrança > [Seus](https://go.microsoft.com/fwlink/p/?linkid=842054)** produtos.
-2. Na guia **Produtos**, encontre a assinatura que deseja cancelar. Selecione os três pontos (mais ações) e selecione **Cancelar assinatura**.
+2. Na guia **Produtos**, localize a assinatura que você deseja cancelar. Selecionar os três pontos (mais ações), depois selecionar **Cancelar a assinatura**.
 3. No painel **Cancelar assinatura**, escolha um motivo pelo qual você está cancelando. Se optar, forneça comentários.
 4. Selecione **Salvar**.
 
