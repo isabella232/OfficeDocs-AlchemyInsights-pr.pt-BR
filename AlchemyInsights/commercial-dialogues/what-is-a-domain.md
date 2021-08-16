@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 145563a64bbebb6fcafcf249231e70dfa99d92d6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 75ddbaf986b6d475a145afc91a7cbc5676dbe8645c74f9399969c78be5d0342f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735253"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069988"
 ---
 # <a name="whats-a-domain"></a>O que é um domínio
 
@@ -27,6 +27,6 @@ Um domínio é a parte do seu endereço de email que está atrás do símbolo @.
 Veja a seguir algumas dicas sobre domínios:
 
 - Você pode comprar um nome de domínio da Microsoft. Dessa forma, você terá um endereço de email personalizado.
-- Ou você pode simplesmente adicionar um domínio que já possui ao Office 365.
+- Ou você pode simplesmente adicionar um domínio que já possui para Office 365.
 
 Para obter mais informações, [assista a este vídeo excelente.](https://www.youtube.com/watch)
