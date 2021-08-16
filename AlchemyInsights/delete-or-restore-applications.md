@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004335"
 - "7737"
-ms.openlocfilehash: 4df9a98644f6bc7a30f9009719c5198db591afc9
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 0c7be98650ca87f36b66f0bb38fb665fc81525b7f3410da14b99fb67468c1e73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50013916"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102559"
 ---
 # <a name="delete-or-restore-applications"></a>Excluir ou restaurar aplicativos
 
-**Para excluir um aplicativo do locatário do Azure AD:**
+**Para excluir um aplicativo do locatário do Azure AD**:
 
-1. No **portal do Azure AD,** selecione **aplicativos empresariais.** Em seguida, encontre e selecione o aplicativo que você deseja excluir.
+1. No portal **do Azure AD,** selecione Enterprise **aplicativos**. Em seguida, encontre e selecione o aplicativo que você deseja excluir.
 2. Na seção **Gerenciar** no painel esquerdo, selecione **Propriedades**.
-3. Selecione **Excluir** e, em seguida, **selecione Sim** para confirmar que você deseja excluir o aplicativo do locatário do Azure AD.
+3. Selecione **Excluir** e selecione **Sim** para confirmar se deseja excluir o aplicativo do locatário do Azure AD.
 
-Para obter mais informações sobre como excluir um aplicativo, consulte Guia de início rápido: excluir um aplicativo do locatário do [Azure Active Directory (Azure AD).](https://docs.microsoft.com/azure/active-directory/manage-apps/delete-application-portal#delete-an-application-from-your-azure-ad-tenant)
+Para obter mais informações sobre como excluir um aplicativo, consulte [Quickstart: Delete an application from your Azure Active Directory (Azure AD) tenant](https://docs.microsoft.com/azure/active-directory/manage-apps/delete-application-portal#delete-an-application-from-your-azure-ad-tenant).
 
-No PowerShell, o cmdlet [Remove-AzureADApplicationProxyApplication](https://docs.microsoft.com/powershell/module/azuread/remove-azureadapplicationproxyapplication) remove as configurações do Proxy de Aplicativo de um aplicativo específico no Azure Active Directory e pode excluir o aplicativo completamente, se especificado.
+No PowerShell, o cmdlet [Remove-AzureADApplicationProxyApplication](https://docs.microsoft.com/powershell/module/azuread/remove-azureadapplicationproxyapplication) remove as configurações de Proxy de Aplicativo de um aplicativo específico no Azure Active Directory e pode excluir o aplicativo completamente, se especificado.
 
-Você pode **restaurar um aplicativo excluído usando** o PowerShell. Depois que o aplicativo que você deseja restaurar tiver sido identificado, você poderá restaurá-lo usando [Restore-AzureADDeletedApplication](https://docs.microsoft.com/powershell/module/azuread/restore-azureaddeletedapplication).
+Você pode **restaurar um aplicativo excluído** usando o PowerShell. Depois que o aplicativo que você deseja restaurar tiver sido identificado, você poderá restaurá-lo usando [Restore-AzureADDeletedApplication](https://docs.microsoft.com/powershell/module/azuread/restore-azureaddeletedapplication).

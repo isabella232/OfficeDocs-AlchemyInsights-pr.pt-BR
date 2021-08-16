@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 6d865aa08a5703ec5906d7f263532184fc50ed7e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1547d69cf990d6f0872e23162408860ed25aa805eb99f818eb079d0f7e04ce35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819428"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035652"
 ---
 # <a name="fix-network-connection"></a>Corrigir conexão de rede
 
@@ -43,6 +43,6 @@ Se isso não funcionar, tente reiniciar o computador, o modem e o roteador (se v
 
 **Solução de problemas avançada**
 
-Para obter etapas de solução de problemas mais avançadas, consulte [Corrigir Wi-Fi problemas de conexão no Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
+Para obter etapas de solução de problemas mais avançadas, consulte [Corrigir Wi-Fi problemas de conexão em Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
 
 Se você não estiver confortável usando as etapas mais técnicas de solução de problemas, [entre em contato conosco.](https://support.microsoft.com/contactus)
