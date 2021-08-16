@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f129da8731877aa00fd9b1dcf20905d353a4895303390ce7ff5642a8ff3ccbc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819500"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996618"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>O Outlook não pode se conectar a pastas públicas
+# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook não pode se conectar a pastas públicas
 
 Se o acesso a pastas públicas não estiver funcionando para alguns usuários, tente o seguinte:
 
-Conecte-se ao EXO PowerShell e configure o parâmetro DefaultPublicFolderMailbox na conta de usuário do problema para corresponder ao parâmetro em uma conta de usuário funcionando.
+Conexão o EXO PowerShell e configure o parâmetro DefaultPublicFolderMailbox na conta de usuário do problema para corresponder ao parâmetro em uma conta de usuário funcionando.
 
 Exemplo:
 
@@ -33,9 +33,9 @@ Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous comman
 
 Aguarde pelo menos uma hora para que a alteração entre em vigor.
 
-Se o problema permanecer, siga este procedimento [para](https://aka.ms/pfcte) solucionar problemas de acesso a pastas públicas usando o Outlook.
+Se o problema permanecer, siga [este](https://aka.ms/pfcte) procedimento para solucionar problemas de acesso a pastas públicas usando Outlook.
  
-**Para controlar quais usuários podem acessar pastas públicas usando o Outlook**:
+**Para controlar quais usuários podem acessar pastas públicas usando Outlook**:
 
 1.  Use Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true ou $false  
       
@@ -45,6 +45,6 @@ Se o problema permanecer, siga este procedimento [para](https://aka.ms/pfcte) so
         
 2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**Observação** Esse procedimento só pode controlar conexões com a área de trabalho do Outlook para clientes Windows. Um usuário pode continuar acessando pastas públicas usando o OWA ou o Outlook para Mac.
+**Observação** Este procedimento só pode controlar conexões com Outlook desktop para Windows clientes. Um usuário pode continuar acessando pastas públicas usando o OWA ou Outlook para Mac.
  
-Para obter mais informações, consulte [Anunciando o suporte para conexões controladas com pastas públicas no Outlook](https://aka.ms/controlpf).
+Para obter mais informações, consulte [Anunciando o suporte para conexões controladas com](https://aka.ms/controlpf)pastas públicas em Outlook .

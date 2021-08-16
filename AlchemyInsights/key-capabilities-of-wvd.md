@@ -1,5 +1,5 @@
 ---
-title: Principais recursos da área de trabalho virtual do Windows
+title: Principais recursos da Área de Trabalho Virtual do Windows
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003940"
 - "6995"
-ms.openlocfilehash: b35986606bc2de28130c3de970973571ed040d54
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ca28c1d219a2d5f4f58b0f01e5455fc210782b929ee767398867485b4ad8761f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706162"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067108"
 ---
-# <a name="key-capabilities-of-windows-virtual-desktop"></a>Principais recursos da área de trabalho virtual do Windows
+# <a name="key-capabilities-of-windows-virtual-desktop"></a>Principais recursos da Área de Trabalho Virtual do Windows
 
-A área de trabalho virtual do Windows é um serviço de virtualização de desktop e aplicativos que é executado na nuvem. Veja o que você pode fazer ao executar a área de trabalho virtual do Windows no Azure:
+A Área de Trabalho Virtual do Windows é um serviço de virtualização de aplicativo e de área de trabalho executado no Azure. Veja o que pode ser feito ao executar a Área de Trabalho Virtual do Windows no Azure:
 
-- Configurar uma implantação de várias sessões do Windows 10 que oferece uma experiência completa do Windows 10 com escalabilidade
-- Virtualizar aplicativos Microsoft 365 e otimizá-lo para ser executado em cenários virtuais de vários usuários
-- Fornecer áreas de trabalho virtuais do Windows 7 com atualizações de segurança estendidas (ESU)
-- Traga os serviços de área de trabalho remota (RDS) e as áreas de trabalho e aplicativos do Windows Server existentes para qualquer computador
-- Gerenciar desktops e aplicativos Windows 10, Windows Server e Windows 7 com uma experiência de gerenciamento unificada
-- Criar um ambiente completo de virtualização de área de trabalho em sua assinatura do Azure, sem ter que executar servidores de gateway adicionais
-- Publicar quantos pools de hosts forem necessários para acomodar suas diversas cargas de trabalho
-- Na galeria do Azure, traga suas próprias imagens para cargas de trabalho e testes de produção
-- Reduzir custos usando recursos de vários sessões em pool
-- Fornecer propriedade individual por meio de computadores pessoais (persistentes)
+- Configurar uma implantação de Windows 10 de várias sessões que oferece uma experiência Windows 10 completa com escalabilidade
+- Virtualizar Microsoft 365 Apps e otimizá-lo para ser executado em cenários virtuais de vários usuários
+- Fornecer Windows 7 áreas de trabalho virtuais com ESU (Atualizações de Segurança Estendida) gratuitas
+- Traga seus serviços de área de trabalho remota (RDS) e Windows servidores para qualquer computador
+- Gerenciar Windows 10, Windows Server e Windows 7 desktops e aplicativos com uma experiência de gerenciamento unificada
+- Criar um ambiente completo de virtualização da área de trabalho em sua assinatura do Azure, sem precisar executar servidores de gateway adicionais
+- Publicar quantos pools de host você precisar para acomodar suas diversas cargas de trabalho
+- Na Galeria do Azure, traga suas próprias imagens para cargas de trabalho de produção e testes
+- Reduzir custos usando recursos de várias sessões em pool
+- Fornecer propriedade individual por meio de áreas de trabalho pessoais (persistentes)
 
-Para saber mais, confira [Windows Virtual Desktop Essentials](https://go.microsoft.com/fwlink/?linkid=2127033) and [Key Capabilities](https://go.microsoft.com/fwlink/?linkid=2127033).
+Para saber mais, confira [Fundamentos da Área de Trabalho Virtual do Windows](https://go.microsoft.com/fwlink/?linkid=2127033) e [Principais recursos](https://go.microsoft.com/fwlink/?linkid=2127033).
 

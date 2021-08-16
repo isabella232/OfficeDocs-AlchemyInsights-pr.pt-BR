@@ -1,5 +1,5 @@
 ---
-title: Conector local do Exchange do Intune
+title: O Intune Exchange conector local
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,55 +13,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "6732"
 - "9003775"
-ms.openlocfilehash: 8b470655efa2dfb460c29b6b840fa793ed2aa448
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 744758739c2ca839823d2c8b440ed7b0d9dd4f06ebbb6f19fe52041a6710c4b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791338"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013952"
 ---
-# <a name="intune-exchange-on-premise-connector"></a>Conector local do Exchange do Intune
+# <a name="intune-exchange-on-premise-connector"></a>O Intune Exchange conector local
 
-Para obter detalhes sobre como configurar o conector entre o Intune e o Exchange que estão hospedados no local, consulte a seguinte documentação:
+Para obter detalhes sobre como configurar o conector entre o Intune e Exchange que está hospedado no local, consulte a seguinte documentação:
 
-[Configurar o conector do Exchange local do Intune no Microsoft Intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
+[Configurar o conector de Exchange local do Intune no Microsoft Intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
 
 **Perguntas Freqüentes:**
 
-P: Eu vejo um erro como "a versão do Exchange Connector não é suportada" ao tentar configurar o Exchange Connector. O que pode ser a causa?
+P: Eu vejo um erro como "A versão do conector Exchange não é suportada" ao tentar configurar o conector Exchange. Qual pode ser a causa?
 
-A: a conta que você está usando é licenciada apropriadamente-deve ter uma licença do Active Intune
+R: A conta que você está usando está licenciada adequadamente - ela deve ter uma licença ativa do Intune
 
-P: é possível ter vários conectores do Exchange?
+P: É possível ter vários Exchange conectores?
 
-A: você só pode configurar um Exchange Connector por locatário do Intune por organização do Exchange. O conector só pode ser instalado em um servidor em uma organização do Exchange de vários servidores.
+R: Você só pode configurar um conector Exchange por locatário do Intune por Exchange organização. O conector só pode ser instalado em um servidor em uma organização de exchange de vários servidores.
 
-Além disso, não é possível ter conectores configurados para o Exchange local e o Exchange Online configurados no mesmo locatário.
+Além disso, você não pode ter conectores configurados para o Exchange local e Exchange Online configurados no mesmo locatário.
 
-P: o conector pode usar uma matriz CAS como sua conexão com o Exchange?
+P: O conector pode usar uma matriz CAS como sua conexão com Exchange?
 
-A: a especificação de uma matriz CAS não é uma configuração suportada na configuração do conector. Apenas um único servidor deve ser especificado e deve ser codificado no arquivo de configuração do conector, que pode ser encontrado no
+R: Especificar uma matriz CAS não é uma configuração suportada na configuração do conector. Somente um único servidor deve ser especificado e deve ser hardcoded no arquivo de configuração do conector que pode ser encontrado em
 
-Program Data\Microsoft\Microsoft Intune no Exchange Connector local \ OnpremiseExchangeConnectorServiceConfiguration.xml
+program data\microsoft\microsoft Intune on premise Exchange connector\ OnpremiseExchangeConnectorServiceConfiguration.xml
 
-Localize a seguinte entrada ```<ExchangeWebServiceURL />``` e substitua a URL pelo servidor Exchange.
+Localize a entrada a ```<ExchangeWebServiceURL />``` seguir e substitua a URL pelo servidor exchange.
 
-**Como**
+**Exemplo:**
 ```<ExchangeWebServiceURL> https://Exchangeserver.domain.com/ews/exchange.asmx<ExchangeWebServiceURL />```
 
-Confira a seguinte documentação para solução de problemas adicional: [solucionar problemas do conector do Exchange local do Intune](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
+Consulte a documentação a seguir para solucionar problemas adicionais: Solucionar problemas do conector de Exchange [local do Intune](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
 
-**Habilitando o registro detalhado do conector do Exchange**
+**Habilitando o log detalhado para o Exchange conector**
 
-1. Abra o arquivo de configuração de rastreamento do Exchange Connector para edição.  
-O arquivo está localizado em:%ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
+1. Abra o arquivo Exchange configuração de rastreamento do Conector para edição.  
+O arquivo está localizado em : %ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
 
-**Como**
+**Exemplo:**
 ``` <C:\ProgramData\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml>```
   
-2. Localize o TraceSourceLine com a seguinte chave: OnPremisesExchangeConnectorService  
+2. Localize TraceSourceLine com a seguinte chave: OnPremisesExchangeConnectorService  
   
-3. Alterar o valor do nó SourceLevel da informação ActivityTracing (o padrão) para o ActivityTracing detalhado  
+3. Alterar o valor do nó SourceLevel de Information ActivityTracing (o padrão) para Verbose ActivityTracing  
 
 **Exemplo:**
 ```
@@ -74,6 +74,6 @@ O arquivo está localizado em:%ProgramData%\Microsoft\Windows Intune Exchange Co
 <ListenerType>CircularTraceListener</ListenerType>
 <SourceLevel>Verbose ActivityTracing</SourceLevel>
 ```
-4. Reiniciar o serviço do Exchange do Microsoft Intune  
-5. Sincronização completa no portal do Intune até que ela seja concluída e, em seguida, altere o XML de volta para "Information ActivityTracing" e reinicie o serviço do Exchange do Microsoft Intune.  
-6. O local dos logs é: `%ProgramData%\Microsoft\Windows Intune Exchange Connector`
+4. Reiniciar o serviço Microsoft Intune Exchange de usuário  
+5. Sincronização completa no Portal do Intune até que ele termine e altere o XML de volta para "Information ActivityTracing" e reinicie o serviço Microsoft Intune Exchange.  
+6. O local dos logs é : `%ProgramData%\Microsoft\Windows Intune Exchange Connector`
