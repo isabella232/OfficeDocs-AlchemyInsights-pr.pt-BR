@@ -1,5 +1,5 @@
 ---
-title: ID da regra de implantação de aplicativo do Intune 991
+title: Id da Regra de Implantação de Aplicativo do Intune 991
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,22 +12,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: 90e8b8f2d66046f1e74d051343d8dded9d5c8f95
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 561ff3a3a70029a6c53776176602f6de10a6637f8ab66c0189d7584220316e87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755155"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014096"
 ---
-# <a name="intune-app-deployment"></a>Implantação de aplicativo do Intune
+# <a name="intune-app-deployment"></a>Implantação de aplicativos do Intune
 
-A implantação de aplicativos com o Intune é um processo de três etapas:
+Implantar aplicativos com o Intune é um processo de três etapas:
   
-1. **Adicionando um aplicativo** – você pode adicionar um aplicativo da App Store ou carregar um aplicativo de linha de negócios.
+1. **Adicionar um aplicativo** - Você pode adicionar um aplicativo da App Store ou carregar um aplicativo de Linha de Negócios.
 
-2. **Atribuir um aplicativo** -determinar o escopo da implantação do aplicativo.
+2. **Atribuindo um aplicativo** - Determinar o escopo de implantação do aplicativo.
 
-3. **Monitorar aplicativos** – exibir o status de instalação de aplicativos, listar aplicativos descobertos e gerenciar aplicativos comprados de repositórios de aplicativos.
+3. **Aplicativos de monitoramento** - Exibir o status de instalação de aplicativos, listar aplicativos descobertos e gerenciar aplicativos comprados de lojas de aplicativos.
 
-Leia [o que é o Intune app Management](https://docs.microsoft.com/intune/app-management) para orientações e informações sobre como configurar e proteger aplicativos.
+Leia O que é o Gerenciamento de Aplicativos do [Intune](https://docs.microsoft.com/intune/app-management) para obter passo a passo e informações sobre como configurar e proteger aplicativos.
   

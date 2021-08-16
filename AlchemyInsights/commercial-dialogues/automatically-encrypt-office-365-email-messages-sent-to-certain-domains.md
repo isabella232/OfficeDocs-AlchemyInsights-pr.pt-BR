@@ -1,5 +1,5 @@
 ---
-title: Criptografar automaticamente mensagens de email do Office 365 enviadas para determinados domínios
+title: Criptografar automaticamente Office 365 mensagens de email enviadas para determinados domínios
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 7fb96a30cd1922bd39a4b99a7ecd869622f3a466
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5a285f36aeb814e3b1d361c8cbffd5a6bef0770d10082d24654c7bbda59ce65b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735379"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082174"
 ---
-# <a name="automatically-encrypt-office-365-email-messages-sent-to-certain-domains"></a>Criptografar automaticamente mensagens de email do Office 365 enviadas para determinados domínios
+# <a name="automatically-encrypt-office-365-email-messages-sent-to-certain-domains"></a>Criptografar automaticamente Office 365 mensagens de email enviadas para determinados domínios
 
-1. No Centro [de administração do Exchange,](https://outlook.office365.com/ecp/)escolha **fluxo de emails > regras.** 
-2. Clique no **ícone Novo (+)** e, em seguida, clique em Aplicar a Criptografia de Mensagens do **Office 365 e proteção de** direitos às mensagens .
+1. No centro [de Exchange de administração,](https://outlook.office365.com/ecp/)escolha **fluxo de emails > regras.** 
+2. Clique no **ícone Novo (+)** e clique em **Aplicar Criptografia de Mensagens do Office 365 proteção** de direitos e direitos às mensagens .
 3. Em **Nome**, insira um nome para a regra, como *Criptografar mensagens enviadas para contoso.com*.
 4. In **Apply this rule if**, choose The recipient > domain **is**. 
 5. Insira o nome do domínio, como **contoso.com**.
@@ -36,4 +36,4 @@ ms.locfileid: "50735379"
 > [!IMPORTANT]
 > Você sempre pode voltar e editar essa regra mais tarde.
 
-Para obter mais informações sobre como criar regras para criptografia, consulte Definir regras de fluxo de emails [para criptografar mensagens de email no Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
+Para obter mais informações sobre como criar regras para criptografia, consulte [Define mail flow rules to encrypt email messages in Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
