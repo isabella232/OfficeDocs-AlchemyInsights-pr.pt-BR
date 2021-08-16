@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1b53dd25f4aa4b9409ffa52cc0fa9d0914c682ee0d21ccc0b6f0b484a3186626
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966961"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58296039"
 ---
 # <a name="release-quarantined-messages"></a>Liberar mensagens em quarentena
 
-Você pode liberar uma mensagem em quarentena (ou conjunto de mensagens) para todos os destinatários ou apenas liberar a mensagem para pessoas específicas que você escolher na lista de todos os destinatários.
+Você pode liberar uma mensagem em quarentena (ou conjunto de mensagens) para todos os destinatários ou apenas liberar a mensagem para pessoas específicas que você escolher na lista de todos os destinatários. Veja como:
 
-1. Vá para o [Centro de Conformidade & segurança.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Vá para **Quarentena de Revisão de Gerenciamento**  >  **de**  >  **Ameaças.**
-3. Escolha as mensagens que você deseja liberar.
-4. Depois de liberar uma mensagem, escolha **Atualizar** para atualizar seus dados e clique duas vezes na mensagem. Você deve ver que a mensagem foi liberada para os destinatários pretendido.
+1. No portal Microsoft 365 Defender em , vá para Email & Análise de Colaboração <https://security.microsoft.com>  \>  \> **Quarentena**.
+
+   Para ir diretamente para a página **Quarentena,** use <https://security.microsoft.com/quarantine> .
+
+2. Na página **Quarentena,** verifique se a guia **email** está selecionada e, em seguida, faça uma das seguintes etapas:
+   - **Mensagem única:** selecione a mensagem. No sobremenu de detalhes exibido, selecione Liberar **email**, configurar as opções que você deseja e clique em **Liberar mensagem**.
+   - **Várias mensagens**: selecione até 100 mensagens para liberar a mensagem para todos os destinatários (não é possível especificar destinatários originais individuais). Na lista **de opções Ações** em massa exibida, selecione Liberar mensagens, configure as opções que você deseja e clique em Liberar **mensagem**. 
+
+Para saber mais, confira os seguintes artigos:
+
+- [Localizar e liberar mensagens em quarentena como um usuário final](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Gerenciar arquivos e mensagens em quarentena como administrador](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

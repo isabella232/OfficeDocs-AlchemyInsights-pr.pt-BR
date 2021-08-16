@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 2732c9c1f644e3ba30db9716a7a0ab53e51c2d29d4cfeabc485133ed99531a05
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d18a5e56c758119bec0cbed9e60fb015ff17855b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53987383"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295895"
 ---
 # <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>Importar um arquivo .pst do Outlook para Windows para Outlook para Mac 
 
@@ -53,8 +53,7 @@ Para transferir mensagens e outros itens de um computador baseado em Windows par
 
    Os itens importados aparecem no painel de navegação em **No Meu Computador**.
 
-> [!NOTE]
-> Outlook para Mac só pode importar arquivos .pst baseados em Unicode, que são o formato padrão para arquivos de Pastas Pessoais para Outlook (para Windows) 2003 e versões posteriores. Arquivos .pst formatados por ANSI, também conhecidos como arquivos de pastas pessoais do Outlook 97-2002, era o formato de pasta pessoal padrão para salvar dados no Outlook para Windows nas versões 97-2002. Esse formato de arquivo não pode ser importado para Outlook para Mac. Se você tiver a versão mais antiga do arquivo .pst formatado por ANSI, não haverá nenhum procedimento automatizado para converter esse arquivo no formato de arquivo mais recente. No entanto, você pode criar um novo arquivo de dados Outlook (.pst) no Microsoft Outlook para versões Windows 2003 ou posteriores e importar itens do arquivo mais antigo para o novo arquivo. Em seguida, você pode importar o novo arquivo .pst para Outlook para Mac. Para obter mais informações sobre como criar arquivos .pst e importar itens, consulte **Help** for your version of Outlook for Windows.
+**Observação**: Outlook para Mac só pode importar arquivos .pst baseados em Unicode, que são o formato padrão para arquivos de Pastas Pessoais para Outlook (para Windows) 2003 e versões posteriores. Arquivos .pst formatados por ANSI, também conhecidos como arquivos de pastas pessoais do Outlook 97-2002, era o formato de pasta pessoal padrão para salvar dados no Outlook para Windows nas versões 97-2002. Esse formato de arquivo não pode ser importado para Outlook para Mac. Se você tiver a versão mais antiga do arquivo .pst formatado por ANSI, não haverá nenhum procedimento automatizado para converter esse arquivo no formato de arquivo mais recente. No entanto, você pode criar um novo arquivo de dados Outlook (.pst) no Microsoft Outlook para versões Windows 2003 ou posteriores e importar itens do arquivo mais antigo para o novo arquivo. Em seguida, você pode importar o novo arquivo .pst para Outlook para Mac. Para obter mais informações sobre como criar arquivos .pst e importar itens, consulte **Help** for your version of Outlook for Windows.
 
 **Abra um Outlook arquivo de dados (.pst ou .olm)**
 
@@ -72,8 +71,7 @@ Você pode importar um Outlook para Windows arquivo de dados (.pst) ou um arquiv
 
 Os itens importados aparecem no painel de navegação em **No Meu Computador**.
 
-> [!NOTE]
-> Outlook para Mac pode importar apenas arquivos .pst baseados em Unicode que são o formato padrão para arquivos de Pastas Pessoais para Outlook (para versões Windows) 2003 e versões posteriores. Os arquivos .pst formatados por ANSI, também conhecidos como arquivos de pastas pessoais do Outlook 97-2002, não podem ser importados para Outlook para Mac. Se você tiver a versão mais antiga do arquivo .pst formatado por ANSI, não haverá nenhum procedimento automatizado para converter esse arquivo no formato de arquivo mais recente. No entanto, você pode criar um novo arquivo de dados Outlook (.pst) no Microsoft Outlook para Windows 2003 ou posterior e, em seguida, importar itens do arquivo mais antigo para o novo arquivo. Em seguida, você pode importar o novo arquivo .pst para Outlook para Mac. Para obter mais informações sobre como criar arquivos .pst e importar itens, consulte Help for your version of Outlook for Windows. 
+**Observação**: Outlook para Mac pode importar somente arquivos .pst baseados em Unicode que são o formato padrão para arquivos de Pastas Pessoais para Outlook (para Windows) 2003 e versões posteriores. Os arquivos .pst formatados por ANSI, também conhecidos como arquivos de pastas pessoais do Outlook 97-2002, não podem ser importados para Outlook para Mac. Se você tiver a versão mais antiga do arquivo .pst formatado por ANSI, não haverá nenhum procedimento automatizado para converter esse arquivo no formato de arquivo mais recente. No entanto, você pode criar um novo arquivo de dados Outlook (.pst) no Microsoft Outlook para Windows 2003 ou posterior e, em seguida, importar itens do arquivo mais antigo para o novo arquivo. Em seguida, você pode importar o novo arquivo .pst para Outlook para Mac. Para obter mais informações sobre como criar arquivos .pst e importar itens, consulte Help for your version of Outlook for Windows. 
 
 **Abrir itens de entourage de um arquivo morto ou de uma versão anterior**
 
@@ -83,7 +81,7 @@ Você pode importar itens como mensagens de email, contatos e eventos da Entoura
 
 2. Clique **em Informações de entourage de um arquivo morto** ou versão anterior , clique na seta à direita e siga as instruções.
 
-> [!NOTE]
+**Observação**:
 - Se você usou uma conta Exchange Microsoft com a Entourage, todos os itens na conta Exchange serão baixados do servidor Exchange após a conclusão do processo de importação. Quaisquer regras ou agendamentos relacionados à conta Exchange precisarão ser reconfigurados no Outlook.
 
 - Se você importar itens do Entourage 2004 ou entourage 2008, as informações de categoria para itens em uma conta Exchange não serão importadas para Outlook. No entanto, com o Entourage 2008, Web Services Edition, as informações de categoria serão baixadas do servidor Exchange web.
@@ -100,8 +98,7 @@ Você pode importar itens como mensagens de email, contatos e eventos da Entoura
 
 3. Na caixa de pesquisa, digite o nome da pasta que você deseja mover e clique em **Mover**.
 
-> [!TIP]
-> Para copiar um item de uma pasta de arquivo morto para outra pasta em Outlook, basta arrastar o item para a pasta na qual você deseja colocar a cópia.
+   **Dica:** para copiar um item de uma pasta de arquivo morto para outra pasta no Outlook, basta arrastar o item para a pasta na qual você deseja colocar a cópia.
 
 **Confira também**
 

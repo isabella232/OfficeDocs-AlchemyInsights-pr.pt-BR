@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "9439"
-ms.openlocfilehash: 5cd58303b0629e55b0ed67157f9fcf01668fda1e
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: 5481d1d63e6cf1f2fdbe1c17420dd041e5fe8b4f5be17a891b9e0bf871d27baf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50586476"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002072"
 ---
 # <a name="how-to-manage-an-app"></a>Como gerenciar um aplicativo
 
 Para gerenciar um aplicativo:
 
-- Comece com [Gerenciar aplicativos](https://admin.teams.microsoft.com/policies/manage-apps) no centro de administração do Microsoft Teams para adicionar um aplicativo para sua organização.
-- Você pode usar [políticas de permissão de](https://admin.teams.microsoft.com/policies/app-permission) aplicativo no centro de administração do Microsoft Teams para permitir ou bloquear um aplicativo e atribuí-lo aos usuários.
-- Para alterar a ordem em que um aplicativo é apresentado aos usuários ou para fixar um aplicativo, [use](https://admin.teams.microsoft.com/policies/app-setup) políticas de configuração de aplicativos no centro de administração do Microsoft Teams.
+- Comece com [Gerenciar aplicativos](https://admin.teams.microsoft.com/policies/manage-apps) no Microsoft Teams de administração para adicionar um aplicativo para sua organização.
+- Você pode usar [políticas de permissão de](https://admin.teams.microsoft.com/policies/app-permission) aplicativo no centro de administração Microsoft Teams para permitir ou bloquear um aplicativo e atribuí-lo aos usuários.
+- Para alterar a ordem em que um aplicativo é apresentado aos usuários ou para fixar um aplicativo, [use](https://admin.teams.microsoft.com/policies/app-setup) políticas de configuração de aplicativos no Microsoft Teams de administração.
 
 Para obter mais informações sobre como criar políticas de aplicativos para sua organização, consulte:
 
-- [Gerenciar seus aplicativos no centro de administração do Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [Gerenciar políticas de permissão de aplicativo no Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [Gerenciar seus aplicativos no Microsoft Teams de administração](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [Gerenciar políticas de permissão de aplicativo em Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
 - [Gerenciar políticas de configuração de aplicativo no Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)
