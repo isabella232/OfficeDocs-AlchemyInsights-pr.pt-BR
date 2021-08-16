@@ -1,5 +1,5 @@
 ---
-title: Licenças do Microsoft 365 Defender
+title: Licenças para Microsoft 365 Defender
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38f1e314b2e492e02c2ea6eea37ea775c67e354e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735455"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967969"
 ---
-# <a name="licenses-for-microsoft-365-defender"></a>Licenças do Microsoft 365 Defender
+# <a name="licenses-for-microsoft-365-defender"></a>Licenças para Microsoft 365 Defender
 
-As licenças a seguir fornecem acesso gratuito aos recursos do Microsoft 365 Defender no centro de segurança do Microsoft 365:
+As licenças a seguir fornecem acesso gratuito Microsoft 365 Defender recursos no centro de Microsoft 365 segurança:
 
 - Microsoft 365 E5 ou A5
-- Segurança do Microsoft 365 E5 ou Segurança do A5
+- Microsoft 365 E5 Security ou A5 Security
 - Windows 10 Enterprise E5 ou A5
 - Enterprise Mobility + Security (EMS) E5 ou A5
 - Office 365 E5 ou A5
 - Microsoft Defender para Ponto de Extremidade
-- O que é o Microsoft Defender para Identidade?
-- Segurança no aplicativo na nuvem da Microsoft
+- Microsoft Defender para Identidade?
+- Microsoft Cloud App Security
 - Microsoft Defender para Office 365 (Plano 2)
 
     > [!NOTE]
-    > No momento, as licenças de avaliação do Office 365 não fornecem acesso ao Microsoft 365 Defender.
+    > Neste momento, as licenças de avaliação Office 365 não fornecem acesso a Microsoft 365 Defender.
 
-Para obter mais informações, consulte a comparação de Planos Empresariais do [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2143458).
+Para obter mais informações, consulte a comparação [Microsoft 365 Enterprise Planos](https://go.microsoft.com/fwlink/?linkid=2143458).
 
-Ainda não tem uma licença? [Tente ou compre uma assinatura do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2143625).
+Ainda não tem uma licença? [Tente ou compre uma assinatura Microsoft 365 .](https://go.microsoft.com/fwlink/?linkid=2143625)
