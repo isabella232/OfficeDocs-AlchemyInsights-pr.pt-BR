@@ -1,5 +1,5 @@
 ---
-title: 204 como localizar falta ou recuperar emails, calendários ou contatos ausentes do Outlook
+title: 204 Como encontrar ausentes ou recuperar emails Outlook, calendário ou contatos ausentes
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,21 +13,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 11ece8466011440afa97fbab729bf9d6ee45a724
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17a6eb841a87b046bd822052a467b4ad40d83b76f1aeac5bc56bea29b4d9a755
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780335"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029144"
 ---
-# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Como localizar e recuperar mensagens, contatos ou itens de calendário ausentes no Outlook
+# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Como encontrar e recuperar mensagens, contatos ou itens de calendário ausentes no Outlook
 
-1. No Outlook, vá para sua lista de pastas de email e, em seguida, selecione **itens excluídos**. **Importante**: se você não vir a pasta **itens excluídos** , mas, em vez disso, ver a pasta **Lixeira** , sua conta não será compatível com a recuperação de um item que não está mais na pasta **itens excluídos** .
+1. Em Outlook, vá para sua lista de pastas de email e selecione **Itens Excluídos.** **Importante**: se você não  vir a pasta Itens  Excluídos, mas, em vez disso, ver a pasta Lixo, sua conta não dá suporte à recuperação de um item que não está mais na pasta **Itens** Excluídos.
 
-2. No menu **página inicial** , clique em **recuperar itens excluídos do servidor**. **Importante**: se não houver o comando **recuperar itens excluídos do servidor** no menu, sua conta não oferecerá suporte à recuperação de um item que não está mais na pasta **itens excluídos** .
+2. No menu **Página** Principal, clique em **Recuperar Itens Excluídos do Servidor**. **Importante**: se não houver nenhum comando **Recuperar Itens Excluídos** do Servidor no menu, sua conta não dá suporte à recuperação de um item que não está mais na pasta **Itens** Excluídos.
 
-3. Selecione os itens que você deseja recuperar, clique em **restaurar itens selecionados**e, em seguida, clique em **OK**.
+3. Selecione os itens que você deseja recuperar, clique em **Restaurar Itens Selecionados** e clique em **OK**.
 
-**Onde os itens recuperados vão?** Quando você recupera itens da pasta itens recuperáveis, eles são movidos para a pasta **itens excluídos** . Após recuperar um item, você pode encontrá-lo na sua pasta **itens excluídos** e, em seguida, pode movê-lo para outra pasta.
+**Para onde vão os itens recuperados?** Quando você recupera itens da pasta Itens Recuperáveis, eles são movidos para a **pasta Itens Excluídos.** Depois de recuperar um item, você pode encontrá-lo na pasta **Itens** Excluídos e movê-lo para outra pasta.
 
-Você também pode usar a [ferramenta estou tendo problemas para enviar, receber ou localizar mensagens](https://aka.ms/SaRA-OutlookSendReceive) **de email na máquina afetada**. Essa ferramenta verificará a quantidade de problemas e irá sugerir possíveis soluções.
+Você também pode usar a ferramenta Estou com problemas [para enviar,](https://aka.ms/SaRA-OutlookSendReceive) receber ou localizar mensagens de email **no computador afetado.** Esta ferramenta verificará alguns problemas e sugerirá possíveis soluções.

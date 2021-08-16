@@ -1,5 +1,5 @@
 ---
-title: Impedir que a Pesquisa da Microsoft no Bing seja instalada com o Microsoft 365 Apps
+title: Impedir Pesquisa da Microsoft em Bing instalação com Microsoft 365 Apps
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9211"
-ms.openlocfilehash: 354aa41475f20bc959f25ce66d75962eed2ca44a
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: f84dfeab060b819ecf76bba31cd24b05f01188316af8f4d6d02e205f8dd18b97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50753933"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040098"
 ---
-# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Impedir que a Pesquisa da Microsoft no Bing seja instalada com o Microsoft 365 Apps
+# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Impedir Pesquisa da Microsoft em Bing instalação com Microsoft 365 Apps
 
-Para impedir que o serviço em segundo plano da Pesquisa da Microsoft no Bing seja instalado com o Microsoft 365 Apps para empresas, use uma das seguintes opções:
+Para impedir que o serviço de Pesquisa da Microsoft em Bing seja instalado com Microsoft 365 Apps para Grandes Empresas, use uma das seguintes opções:
 
-- A Ferramenta de Implantação do Office ou a Política de Grupo
+- A Office de Implantação ou Política de Grupo
 - Microsoft Endpoint Configuration Manager (branch atual) ou Microsoft Intune
 
-Para saber mais, confira Como impedir que o serviço em segundo plano da Pesquisa da Microsoft no Bing seja instalado com o [Microsoft 365 Apps para empresas.](https://go.microsoft.com/fwlink/?linkid=2151946)
+Para saber mais, confira Como impedir que o serviço em segundo plano Pesquisa da Microsoft [no Bing seja instalado com Microsoft 365 Apps para Grandes Empresas](https://go.microsoft.com/fwlink/?linkid=2151946).
