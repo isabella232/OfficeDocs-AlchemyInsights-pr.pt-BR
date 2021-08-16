@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 3aacc3c6675f4102a5b34a435c862215dbfd0479b75549d608ed3c91021ed3d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233501"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031394"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Implantando os complementos para Microsoft 365 Apps
 
@@ -27,7 +27,7 @@ A Implantação Centralizada é a maneira recomendada de implantar Office de usu
 **Observação:** Para instalar os Office como um usuário individual, consulte Exibir, gerenciar e instalar os [Office.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Além disso, certifique-se de que a aquisição individual de Office de complementos da Loja está habilitada. Para obter detalhes, consulte [Prevent add-in downloads by off the Office Store across all clients (Except Outlook)](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook).
 
 1. Verifique se seu ambiente atende aos requisitos de implantação de complementos usando a Implantação Centralizada. Para obter detalhes, consulte [Requirements](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements).
-2. Vá para **Configurações**  >  **Aplicativos Integrados** Obter aplicativos no centro de administração  >   Microsoft 365 para implantar os complementos. 
+2. Vá para **Configurações**  >  **Aplicativos Integrados** Obter aplicativos no Centro de administração do Microsoft 365  >   para implantar os complementos. 
 
 Observações: 
 
@@ -41,11 +41,11 @@ Observações:
 
 - Se você tiver problemas ao implantar os complementos usando Aplicativos Integrados, tente implantar usando [Os Complementos](https://admin.microsoft.com/AdminPortal/Home?#/Settings/AddIns).
 
-Para saber mais, veja:
+Para saber mais, confira:
 
 [Implantar os complementos no centro de administração](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins) 
  [Gerenciar os complementos no centro de administração](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center) 
  [Usar os cmdlets do PowerShell de Implantação Centralizada para gerenciar os complementos](https://docs.microsoft.com/microsoft-365/enterprise/use-the-centralized-deployment-powershell-cmdlets-to-manage-add-ins) 
- [Publicar Office-ins usando a Implantação Centralizada por meio do Microsoft 365 de administração](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 
+ [Publicar Office-ins usando a Implantação Centralizada por meio do Centro de administração do Microsoft 365](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 
  [Solução de problemas: o usuário não está](https://docs.microsoft.com/office365/troubleshoot/access-management/user-not-seeing-add-ins) vendo os complementos 
  [Solucionar erros de usuário com Office Desem seguida](https://docs.microsoft.com/office/dev/add-ins/testing/testing-and-troubleshooting)

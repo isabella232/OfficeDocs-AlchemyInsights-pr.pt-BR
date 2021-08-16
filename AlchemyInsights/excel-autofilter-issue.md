@@ -1,5 +1,5 @@
 ---
-title: Problema do AutoFiltro do Excel
+title: Excel Problema de AutoFilter
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
-ms.openlocfilehash: c7d6bee548a8b7feeb5c9103c594d71754c4fc4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b50a0c2bcc72674c55938608f09de324a18433879b4126fb0e9c3314480dc180
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783359"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100534"
 ---
-# <a name="excel-autofilter-issue"></a>Problema do AutoFiltro do Excel
+# <a name="excel-autofilter-issue"></a>Excel Problema de AutoFilter
 
-Ao usar o Excel 2016, se o menu suspenso AutoFiltro não mostrar todas as caixas de seleção disponíveis ou as caixas de seleção não forem clicadas, elas podem ser devido a um problema conhecido em versões anteriores do Excel. 
+Ao usar Excel 2016, se o seu drop-down do AutoFilter não mostrar todas as caixas de seleção disponíveis ou se as caixas de seleção não são clicáveis, pode ser devido a um problema conhecido em builds anteriores de Excel. 
   
-Este problema agora está corrigido na **versão 1707 (8326,2073)** ou posterior. Para obter a atualização imediatamente, abra o Excel e escolha **arquivo** atualizar \> Opções de atualização de **conta** \> **Update Options** \> **agora**.
+Esse problema agora está corrigido **na versão 1707 (8326.2073)** ou posterior. Para obter a atualização imediatamente, abra o Excel e escolha **Opções** de Atualização de Conta \>  \> **de** \> **Arquivo Atualize Agora**.
   
 
