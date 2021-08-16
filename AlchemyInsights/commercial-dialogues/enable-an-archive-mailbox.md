@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: df7c97232417175178031213c1050d224fcb86e9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 6ff41f9f5b890c968483718544c5b4961397b37b144bb14ea1451d7aac24ebb7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735702"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017300"
 ---
 # <a name="create-an-archive-mailbox"></a>Criar uma caixa de correio de arquivo morto
 
@@ -27,5 +27,5 @@ As caixas de correio de arquivo morto fornecem aos usuários armazenamento de em
 2. Escolha **Arquivo morto de governança de**  >  **dados.**
 3. Selecione o usuário cuja caixa de correio de arquivo morto você  deseja habilitar e, no painel de detalhes à direita, clique em Habilitar e clique em **Sim** na caixa de mensagem de aviso.
 4. Você também pode habilitar caixas de correio de arquivo morto em massa selecionando vários usuários (usando as teclas **Shift** ou **Ctrl)** e clicando em **Habilitar** no painel de detalhes.
-5. Após alguns minutos, uma nova pasta aparecerá no aplicativo do Outlook do usuário chamado *Arquivo Morto Online - <`name` >*. No Outlook na Web, ele é chamado *de Arquivo Morto In-locar.*
+5. Após alguns minutos, uma nova pasta aparecerá no aplicativo de Outlook do usuário chamado Arquivo Morto *Online - <`name` >*. No Outlook na Web é chamado *arquivo morto in-locar.*
 6. Diga ao usuário para arrastar e soltar emails para o arquivo morto.

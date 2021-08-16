@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7754"
 - "9004342"
-ms.openlocfilehash: 652fd6431201380e8e96619f63ecac15a6704d4f
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: 065ff6d965063e44c4d1771821985058c9d020fbbabb0d381f30b6a11132c4ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49950658"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013412"
 ---
 # <a name="issues-developing-applications"></a>Problemas no desenvolvimento de aplicativos
 
@@ -30,7 +30,7 @@ Para solucionar os problemas mais comuns ao criar apps do Azure Active Directory
 - [Não sei como conceder permissões para o meu aplicativo](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent) 
 - [Não entendo a diferença entre permissões delegadas e de aplicativo](https://docs.microsoft.com/azure/active-directory/develop/delegated-and-app-perms)
 
-***Fim do suporte à Biblioteca de Autenticação do Active Directory (ADAL) e à API do Azure AD Graph (AAD Graph)** _
+***Fim do suporte à Biblioteca de Autenticação do Active Directory (ADAL) e à API do Azure AD Graph (AAD Graph)*** _
 
 - A partir de 30 de junho de 2020, não adicionaremos mais nenhum novo recurso à Biblioteca de Autenticação do Active Directory (ADAL) e à API do Azure AD Graph (AAD Graph). Continuaremos dando suporte técnico e atualizações de segurança, mas não forneceremos mais atualizações de recursos.
 
@@ -40,7 +40,7 @@ Para solucionar os problemas mais comuns ao criar apps do Azure Active Directory
 
     - Os apps que usarem o AAD Graph após esse período, talvez não recebam mais respostas do ponto de extremidade do AAD Graph.
 
-_ *Migração da ADAL**
+**Migração da ADAL**
 
 Se você estiver usando os apps da Microsoft, recomendamos a atualização para a Biblioteca de Autenticação da Microsoft (MSAL), que tem os últimos recursos e as atualizações de segurança. Essa recomendação se baseia no contexto de início do processo de migração dos apps da Microsoft para a MSAL até o prazo final de suporte. 
 

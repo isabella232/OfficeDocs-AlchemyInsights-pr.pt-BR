@@ -1,5 +1,5 @@
 ---
-title: Migrar emails do G Suite para o Microsoft 365
+title: Migrar emails do G Suite para Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,14 +14,14 @@ ms.custom:
 - "682"
 - "3500008"
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: 2940a9667a52b50a502497b716480c50fa3850ba
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8ac14dd4bf73f69ab340ceb7ae1dbeeb7c8b8c021d4a3a53151ab8c62eb268f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833711"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065992"
 ---
-# <a name="migrate-email-from-g-suite-to-microsoft-365"></a>Migrar emails do G Suite para o Microsoft 365
+# <a name="migrate-email-from-g-suite-to-microsoft-365"></a>Migrar emails do G Suite para Microsoft 365
 
-Para migrar emails do G Suite para o Microsoft 365, use nossas ferramentas de migração para migrar emails, calendários e contatos: [Executar uma migração do G Suite](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).
+Para migrar emails do G Suite para Microsoft 365, use nossas ferramentas de migração para migrar emails, calendários e contatos: [Executar uma migração do G Suite](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).
   
