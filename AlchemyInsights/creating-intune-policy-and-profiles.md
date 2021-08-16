@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: af8f1a3dfaccaca52f187f387274d63b22631b2d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 39725243636eb16a76078afe0165cc4c3bcd9c4fdc61358a1c75b6b310956c41
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704630"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994169"
 ---
 # <a name="creating-intune-policy-and-profiles"></a>Criando a política e os perfis do Intune
 
@@ -26,12 +26,12 @@ No Intune, você pode criar políticas e perfis que fazem coisas diferentes.
 
 - **Perfis de** registro : preconfigure seus dispositivos por plataforma, habilita a afinidade do usuário, use a autenticação multifato e muito mais.
 
-  [O que é registro de dispositivo](https://docs.microsoft.com/intune/device-enrollment)e criar perfis de registro para [Android,](https://docs.microsoft.com/intune/android-enroll) [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll)e [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) são bons recursos.
+  [O que é registro de](https://docs.microsoft.com/intune/device-enrollment)dispositivo e criar perfis de registro para [Android,](https://docs.microsoft.com/intune/android-enroll) [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll) [e Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) são bons recursos.
 
 - **Políticas de** conformidade : Defina as regras e configurações que os dispositivos devem seguir para serem compatíveis. Você também pode usar políticas de conformidade para monitorar dispositivos e notificar os usuários de não conformidade.
 
   Começar com políticas [de conformidade de dispositivos](https://docs.microsoft.com/intune/device-compliance-get-started).
-- **Políticas de acesso condicional**: Ajude a proteger os recursos organizacionais, dependendo das condições que você inserir. Por exemplo, para dispositivos que não são compatíveis, use o acesso condicional para restringir o acesso ao email e ao SharePoint.
+- **Políticas de acesso condicional**: Ajude a proteger os recursos organizacionais, dependendo das condições que você inserir. Por exemplo, para dispositivos que não são compatíveis, use o acesso condicional para restringir o acesso a email e SharePoint.
 
   [O que é acesso condicional e](https://docs.microsoft.com/intune/conditional-access) maneiras comuns de usar o acesso [condicional](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) são bons recursos para começar.
 

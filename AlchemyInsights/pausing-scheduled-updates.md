@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1129"
 - "6700007"
-ms.openlocfilehash: 13abc7c9201b1897a9c766add4d105ef12f0d66f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ea6c56de00a52080c4a8b47eb5eeee37838420a9e979878c10aeb12885a8b99
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721543"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010460"
 ---
 # <a name="pausing-scheduled-updates"></a>Pausando as atualizações agendadas
 
-Quando um comando de pausa é emitido, os dispositivos não processam o comando até a próxima vez que eles entrarem no Intune. Por causa disso, os dispositivos podem ter:
+Quando um comando de pausa é emitido, os dispositivos não processam o comando até a próxima vez que fazem check-in no Intune. Por isso, seus dispositivos podem ter:
 
 - As atualizações agendadas foram instaladas antes do check-in.
-- Sido desligado ao emitir o comando pausar. Nesse caso, quando os dispositivos estiverem ligados, eles poderão ter baixado e instalado as atualizações agendadas antes de check-in.
+- Foi desligado quando você emitiu o comando pause. Nesse caso, quando os dispositivos estavam ligados, eles podem ter baixado e instalado as atualizações agendadas antes do check-in.
