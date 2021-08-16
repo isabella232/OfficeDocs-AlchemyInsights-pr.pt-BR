@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 29ea9db530dd4914ffd86655eeae5508b73ccb7e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 16cc9d8d2ede108ea8301f9971f84ac7b6bafaabab8e26edefe15acf66783339
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836195"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064913"
 ---
 # <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Mensagem de aplicativos do Microsoft 365: não foi possível encontrar as licenças do Office associadas
 
@@ -37,7 +37,7 @@ Para corrigir esse erro, use as etapas a seguir:
 
 Se o problema persistir, experimente a seguinte etapa:
 
-- Reinicie o estado de ativação do Office. Consulte [Redefina os aplicativos Microsoft 365 do estado de ativação empresarial](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
+- Redefina o estado de ativação do Office. Consulte [Redefinir a ativação de corporativa do Microsoft 365 Apps para Grandes Empresas](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 - Verifique as configurações de firewall, software antivírus e proxy para verificar se eles estão bloqueando o acesso de aplicativos do Microsoft 365 à Internet. 
 

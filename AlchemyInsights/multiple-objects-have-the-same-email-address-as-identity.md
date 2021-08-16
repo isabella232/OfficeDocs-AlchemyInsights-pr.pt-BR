@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1834"
 - "9000247"
-ms.openlocfilehash: 05fb43133bc68b71ccdbab44d28679a1f659e762
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5866d182cb2e97e37bc6df87e05fb6ef55bfed1d36f9daa95b7b8993a509e2dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724603"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011900"
 ---
 # <a name="multiple-objects-have-the-same-email-address-as-identity"></a>Vários objetos têm o mesmo endereço de email que a identidade
 
 **Vários objetos**
 
-Uma das razões comuns desse erro é não ser possível rotear uma solicitação do Outlook Web Access corretamente em uma presença de vários objetos com o mesmo endereço de email que a identidade. Para encontrar esses objetos, execute os seguintes comandos:
+Um dos motivos comuns desse erro é não poder rotear uma solicitação do Outlook Acesso via Web corretamente na presença de vários objetos com o mesmo endereço de email que a identidade. Para localizar esses objetos, execute os seguintes comandos:
 
 · Get-Recipient <email address>
 
