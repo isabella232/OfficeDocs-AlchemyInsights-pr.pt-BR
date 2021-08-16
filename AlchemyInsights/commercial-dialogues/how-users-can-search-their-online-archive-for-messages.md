@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: 7ca502ea118503e9b5a854fce1bb8c6239d780f6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7c5d4e29cf3d18493ea4a46fa75c3586aeb456c9dbfd55e116caa67b6cd11202
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735351"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034490"
 ---
 # <a name="how-users-can-search-their-online-archive-for-messages"></a>Como os usuários podem pesquisar seus arquivos online para mensagens
 
-O arquivo morto online é um recurso para clientes corporativos do Office 365 que têm caixas de correio incomuns grandes. O arquivo morto online de um usuário age como uma segunda conta no Outlook com sua própria estrutura de pastas. Para encontrar emails em seu arquivo morto online:
+O arquivo morto online é um recurso para Office 365 clientes corporativos que têm caixas de correio muito grandes. O arquivo morto online de um usuário age como uma segunda conta no Outlook com sua própria estrutura de pastas. Para encontrar emails em seu arquivo morto online:
 
 1. O arquivo morto online não está incluído em pesquisas realizadas na Caixa de Entrada. Você deve ir para o arquivo morto online e, em seguida, executar a pesquisa.
-2. No Outlook na Web, o arquivo morto é chamado *de Arquivo Morto In-local.* Vá para a caixa de correio In-Place Arquivo Morto e execute sua pesquisa.
-3. No Outlook 2016, ele é chamado de *Arquivo Morto Online - <`name` >*. Vá para a caixa de correio Arquivo Morto Online e execute sua pesquisa.
+2. No Outlook na Web, o arquivo morto é *chamado de Arquivo Morto In-locar.* Vá para a caixa de correio In-Place Arquivo Morto e execute sua pesquisa.
+3. Em Outlook 2016, ele é chamado *de Arquivo Morto `name` > Online - <*. Vá para a caixa de correio Arquivo Morto Online e execute sua pesquisa.
 
 > [!TIP]
-> Os usuários não podem acessar suas caixas de correio de arquivo morto online usando o Outlook em um dispositivo móvel, como um smartphone.
+> Os usuários não podem acessar suas caixas de correio de arquivo morto online usando Outlook em um dispositivo móvel, como um smartphone.
