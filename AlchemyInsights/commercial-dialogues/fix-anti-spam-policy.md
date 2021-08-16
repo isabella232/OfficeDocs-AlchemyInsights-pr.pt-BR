@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 509b05f511b518e26f61039aa5175a47fea425d0
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735358"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988235"
 ---
 # <a name="fix-anti-spam-policy"></a>Corrigir política anti-spam
 
 Uma política anti-spam personalizada em seu locatário afetou essa mensagem. Para revisar a política, faça o seguinte:
 
-1. Vá para o Centro de Conformidade e Segurança [& do Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143)e vá para Política de Gerenciamento de Ameaças   >    >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
+1. Vá para o [Centro Office 365 Segurança & Conformidade](https://go.microsoft.com/fwlink/p/?linkid=2077143)e vá para **Política** de Gerenciamento de Ameaças  >    >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
 2. Na guia **Personalizado,** selecione a **política de** filtro de spam padrão ou qualquer outra política personalizada que você possa ter criado e selecione **Editar política**.
 3. Expanda **a opção Propriedades de Spam** e revise As **configurações de Marcação** como spam.
 
