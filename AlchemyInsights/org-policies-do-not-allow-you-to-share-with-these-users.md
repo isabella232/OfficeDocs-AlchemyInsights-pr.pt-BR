@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "7523"
-ms.openlocfilehash: 11263e6f41ae66c5a806bde6fa277121e29162d3
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: 90be6f740a00c1f4007a37e80888df7827ba07bd615db36921ee8f01cc5ea05c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49600079"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025202"
 ---
 # <a name="organizations-policies-do-not-allow-you-to-share-with-these-users"></a>As políticas da organização não permitem que você compartilhe com esses usuários
 
-Ao tentar compartilhar um item ou um site no SharePoint Online ou no OneDrive for Business, você verá o erro "as[políticas da sua organização não permitem que você compartilhe com estes usuários](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/organization-policies-do-not-allow-you-to-share-with-users-error)".
+Ao tentar compartilhar um item ou um site no SharePoint Online ou OneDrive for Business, você vê o erro " As políticas da sua organização não permitem que você compartilhe com esses[usuários](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/organization-policies-do-not-allow-you-to-share-with-users-error)".

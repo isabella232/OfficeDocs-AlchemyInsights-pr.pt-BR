@@ -1,5 +1,5 @@
 ---
-title: Bloquear ou desbloquear remetentes no Outlook.com
+title: Bloquear ou desbloquear os envios em Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,28 +16,28 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: ba52dacf8e357b1910c4e3be8714128b96e9ad0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b49b869700a3e564e0386c5bd2e3b8d539d2f47d48f3a54f3718c770ccc9a0bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753679"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041502"
 ---
-# <a name="block-or-unblock-senders"></a>Bloquear ou desbloquear remetentes
+# <a name="block-or-unblock-senders"></a>Bloquear ou desbloquear os envios
 
-As mensagens de endereços de email ou domínios na sua lista de remetentes bloqueados não virão à sua caixa de correio do Outlook.com.
+Mensagens de endereços de email ou domínios em sua lista de destinatários bloqueados não chegarão à sua caixa de correio Outlook.com.
 
-**Na caixa de entrada:**
+**Na sua caixa de entrada:**
 
-- Na lista de mensagens, selecione a mensagem e selecione bloco de **lixo eletrônico**  >  **Block**.
+- Na lista de mensagens, selecione a mensagem e selecione **Bloquear**  >  **Lixo Eletrônico**.
 
-**De configurações:**
+**De Configurações:**
 
-1. Abra as configurações de [lixo eletrônico](https://outlook.live.com/mail/options/mail/junkEmail) .
-2. Em **remetentes e domínios bloqueados**, selecione **Adicionar**.
+1. Abra [as configurações de lixo](https://outlook.live.com/mail/options/mail/junkEmail) eletrônico.
+2. Em **Senders e domínios bloqueados,** selecione **Adicionar**.
 3. Digite o endereço de email do domínio que você deseja bloquear e pressione Enter.
 4. Selecione **Salvar**.
 
-Para desbloquear um remetente, selecione o ícone de Lixeira ao lado do endereço de email ou domínio que você deseja desbloquear.
+Para desbloquear um remetente, selecione o ícone de lixo ao lado do endereço de email ou domínio que você deseja desbloquear.
 
-Para saber mais, confira [bloquear remetentes ou marcar email como lixo eletrônico](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Para saber mais, confira [Bloquear envios ou marcar emails como lixo eletrônico.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)

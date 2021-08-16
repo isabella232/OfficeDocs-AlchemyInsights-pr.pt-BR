@@ -1,5 +1,5 @@
 ---
-title: Configurar configurações de política do Microsoft Edge no Windows
+title: Configurar Microsoft Edge configurações de política no Windows
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,20 +15,20 @@ ms.custom:
 - "9004632"
 - "6894"
 - "8358"
-ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: a7c092ac606cc599b37a0d9442dd82e0f493465508a6e5d24fa0589d0f3bb19a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402363"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978689"
 ---
-# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Configurar configurações de política do Microsoft Edge no Windows
+# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Configurar Microsoft Edge configurações de política no Windows
 
-Para definir configurações de política e atualizações gerenciadas para o Microsoft Edge, use GPOs (Objetos de Política de Grupo). Você também pode provisioná-la por meio do Registro; isso seria apropriado para (1) dispositivos Windows ingressados em um domínio do Microsoft Active Directory e para (2) instâncias do Windows 10 Pro e Enterprise inscritas para gerenciamento de dispositivos no Microsoft Intune.
+Para definir configurações de política e atualizações gerenciadas para Microsoft Edge, use GPOs (Objetos de Política de Grupo). Você também pode provisioná-la por meio do Registro; isso seria apropriado para (1) dispositivos Windows ingressados em um domínio do Microsoft Active Directory e para (2) instâncias do Windows 10 Pro e Enterprise inscritos para gerenciamento de dispositivos no Microsoft Intune.
 
-Para configurar o Microsoft Edge usando GPOs, faça o seguinte:
+Para configurar Microsoft Edge usando GPOs, faça o seguinte:
 
-1. Vá para o Armazenamento Central de Política de Grupo em seu domínio do Active Directory ou para a pasta de modelo de Definição de Política em computadores individuais, instale todos os modelos administrativos que adicionam regras e configurações para o Microsoft Edge.
+1. Vá para o Armazenamento Central de Política de Grupo em seu domínio do Active Directory ou para a pasta modelo de Definição de Política em computadores individuais, instale todos os modelos administrativos que adicionam regras e configurações para Microsoft Edge.
 2. Configure as políticas específicas que você deseja definir.
 
-Para saber mais, confira [Configurar configurações de política do Microsoft Edge no Windows](https://go.microsoft.com/fwlink/?linkid=2135024).
+Para saber mais, consulte [Configure Microsoft Edge policy settings on Windows](https://go.microsoft.com/fwlink/?linkid=2135024).

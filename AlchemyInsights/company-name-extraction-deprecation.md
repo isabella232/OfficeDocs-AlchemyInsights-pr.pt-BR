@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: a0e646694424e7526e8d761092a39f94356017d7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 15943bdc6e8d69e6a48cc0dd081afdee150e95a34823657156fd9abe111824d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817376"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978761"
 ---
 # <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Alterações na extração de nome da empresa no SharePoint Online
 
-A partir de 15 de novembro de 2019, removeremos a Extração de Nome da Empresa do [SharePoint Online](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online). A extração de nome da empresa no SharePoint permite que o sistema de pesquisa extraia nomes da empresa do conteúdo em um conjunto específico de condições usando um dicionário pré-preenchido ou usando as listas Inclusões da Empresa ou Exclusões da Empresa. Embora a extração de nome da empresa tenha se tornado uma solução confiável para derivar um ou mais nomes de empresa do conteúdo no SharePoint Online, o dicionário e seu conjunto de recursos subjacentes tornaram-se obsoletos.
+A partir de 15 de novembro de 2019, removeremos a Extração de Nome da Empresa do [SharePoint Online.](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) A extração de nome da empresa no SharePoint permite que o sistema de pesquisa extraia nomes da empresa do conteúdo em um conjunto específico de condições usando um dicionário pré-preenchido ou usando as listas Inclusões da Empresa ou Exclusões da Empresa. Embora a extração de nome da empresa tenha se tornado uma solução confiável para derivar um ou mais nomes de empresa do conteúdo no SharePoint Online, o dicionário e seu conjunto de recursos subjacentes tornaram-se obsoletos.
 
 - [Como saber se a extração de nome da empresa está habilitada para uma propriedade?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 
