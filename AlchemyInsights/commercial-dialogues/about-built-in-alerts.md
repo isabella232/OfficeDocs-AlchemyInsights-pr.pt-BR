@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: bcafc8ef052e824093f29e16ffc16f68e6d4e667
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 4e753ec1c6cf8a6512150ccd8c5e881fe7c11704ff21ca15685a505a8f106da2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403623"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995380"
 ---
 # <a name="about-built-in-alerts"></a>Sobre alertas integrados
 
-O Microsoft 365 inclui alguns alertas integrados para proteger seu sistema. Aqui estão algumas informações sobre eles:
+Microsoft 365 inclui alguns alertas integrados para proteger seu sistema. Aqui estão algumas informações sobre eles:
 
 - Um alerta integrado é um email enviado para o administrador global do *Office365Alerts@microsoft.com*. A linha de assunto é Um alerta de baixa gravidade: <name of alert policy> .
 - Esses emails de alerta são enviados para você quando alguém faz algo suspeito. Por exemplo, as regras de caixa de entrada são criadas para encaminhar ou redirecionar emails, permissões são concedidas a uma caixa de correio, arquivos são compartilhados ou excluídos em massa do SharePoint, ou há atividades de Descoberta Eletrônico ou atrasos de email.

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9816"
 - "9005388"
-ms.openlocfilehash: c2f2c1de72db3c5c33d24473420f2581d8466d83
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 578cf67ee951966ad05f2680609712ce53ac98920c609f557542c2164fd7aa36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897380"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018596"
 ---
 # <a name="change-the-account-you-use-to-sign-in-to-your-windows-10-pc"></a>Altere a conta que você usa para entrar no seu PC com Windows 10
 
@@ -52,7 +52,7 @@ Para substituir um usuário existente por uma nova conta:
 
     1. Se necessário, insira sua senha e selecione **Avançar**.
 
-    1. Reinicie o dispositivo. Na próxima vez que você entrar, a conta para a qual você mudou será exibida.
+    1. Reinicie seu dispositivo. Na próxima vez que você entrar, a conta que você alterou será exibida.
 
 - Mudar de uma conta padrão para um administrador
 
