@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f7b7e1ae4f1f686fa510403d398c4ff750dbadb9065b8d63701a927eeac52d9b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814576"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101290"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Não é possível instalar ou executar a Ferramenta de Exportação de Descoberta Digital?
 
@@ -44,7 +44,7 @@ Se você não puder instalar ou executar a Ferramenta de Exportação de Descobe
 
 - Sua organização pode se conectar ao ponto de extremidade no Azure, que é **\* .blob.core.windows.net** (o curinga representa um identificador exclusivo para seu trabalho de exportação).
 
-- Você recebe a função Exportar no Centro de Conformidade de Segurança do Microsoft 365. &amp; Por padrão, essa função é atribuída apenas ao grupo de funções do Gerenciador de Descobertas. Consulte [Assign eDiscovery permissions](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
+- Você recebe a função Exportar no Centro de Conformidade Microsoft 365 &amp; Segurança. Por padrão, essa função é atribuída apenas ao grupo de funções do Gerenciador de Descobertas. Consulte [Assign eDiscovery permissions](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
 Para obter mais informações, consulte [Exportar resultados da Pesquisa de Conteúdo](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
 

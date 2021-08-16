@@ -1,5 +1,5 @@
 ---
-title: Configurações de descoberta eletrônica
+title: Configurações de Descoberta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 0c8f764fec63c7ad1ad690a9f9aef59d3652033c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bdf3707880d9b30ff6452a769bc0d2725be877373136a994a108e92d56d7b577
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710975"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101218"
 ---
-# <a name="ediscovery-settings"></a>Configurações de descoberta eletrônica
+# <a name="ediscovery-settings"></a>Configurações de Descoberta
 
-as pesquisas de descoberta eletrônica/conteúdo permitem pesquisar, reter e exportar conteúdo de caixas de correio do Exchange Online, do SharePoint Online e do OneDrive for Business, conversas do Skype for Business, Microsoft Teams e Microsoft 365 groups.
+As pesquisas de Descoberta Virtual/Conteúdo permitem que você pesquise, segure e exporte conteúdo de caixas de correio do Exchange Online, sites do SharePoint Online e OneDrive for Business, conversas Skype for Business, Microsoft Teams e grupos Microsoft 365.
 
-- Se você estiver procurando as opções de menu de descoberta eletrônica ou de pesquisa de conteúdo, consulte [problemas de descoberta eletrônica](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
-- Saiba mais sobre as permissões necessárias para executar pesquisas de descoberta eletrônica a partir de [permissões necessárias para pesquisas de descoberta eletrônica](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
-- Se a sua pesquisa não retornar os resultados esperados, confira a [pesquisa que não retorna os resultados esperados](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- Se você estiver procurando as opções de menu Descoberta e Descoberta Ou Pesquisa de Conteúdo, consulte [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
+- Saiba mais sobre as permissões necessárias para a execução de pesquisas de Descoberta e de Permissões necessárias para pesquisas [de Descoberta e.](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)
+- Se a pesquisa não estiver retornando os resultados esperados, consulte [Search not returning expected results](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
 
-Para obter mais informações sobre a descoberta eletrônica, consulte [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+Para obter mais informações sobre a descoberta, consulte [Ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

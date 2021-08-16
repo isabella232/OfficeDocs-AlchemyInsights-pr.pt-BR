@@ -1,5 +1,5 @@
 ---
-title: Conectar um site de equipe do SharePoint clássico a um grupo
+title: Conexão um site de SharePoint de equipe clássico para um grupo
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1f6b170-bead-4e1c-b119-f6affd2b2264
-ms.openlocfilehash: eead48ff389c1305d38b9e33f8d2bc9978363df9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9d357b50a8e3e7eb11c95717e5bcbef7126f409f184197edd3705c3039241bbe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713262"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033014"
 ---
-# <a name="connect-classic-sharepoint-team-sites-to-new-microsoft-365-groups"></a>Conectar sites de equipe do SharePoint clássicos a novos grupos do Microsoft 365
+# <a name="connect-classic-sharepoint-team-sites-to-new-microsoft-365-groups"></a>Conexão sites de equipe SharePoint clássicos para novos Microsoft 365 Grupos
 
-Para avaliar se os conjuntos de sites do SharePoint estão prontos para se conectar aos grupos do Microsoft 365, use a [ferramenta Verificador de modernização do SharePoint](https://go.microsoft.com/fwlink/?linkid=873066). Esta ferramenta pode ajudá-lo a planejar sua estratégia de modernização de site e criará um relatório detalhado, incluindo áreas que precisam de atenção.
+Para avaliar se seus SharePoint de sites estão prontos para se conectar a grupos Microsoft 365, use a ferramenta de scanner de [modernização SharePoint .](https://go.microsoft.com/fwlink/?linkid=873066) Essa ferramenta pode ajudá-lo a planejar sua estratégia de modernização de site e criar um relatório aprofundado, incluindo áreas que precisam de atenção.
   
-Se você deseja permitir que administradores de conjunto de sites conectem sites de equipe clássicos a novos grupos de um novo comando de menu que estamos adicionando, não é necessário fazer nada. Se, no entanto, você quiser desabilitar essa opção, será necessário alterar a configuração padrão. [Saiba como](https://go.microsoft.com/fwlink/?linkid=2004316). Observe que os administradores globais e do SharePoint sempre poderão conectar sites a novos grupos usando o cmdlet ou API do PowerShell.
+Se você quiser permitir que os administradores do conjunto de sites conectem sites de equipe clássicos a novos grupos a partir de um novo comando de menu que estamos adicionando, você não precisa fazer nada. Se, no entanto, você quiser desabilitar essa opção, precisará alterar a configuração padrão. [Saiba como](https://go.microsoft.com/fwlink/?linkid=2004316). Observe que os administradores globais e SharePoint sempre poderão conectar sites a novos grupos usando o cmdlet ou a API do PowerShell.
   
 

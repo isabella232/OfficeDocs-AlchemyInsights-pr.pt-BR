@@ -1,5 +1,5 @@
 ---
-title: Alterar domínio para o grupo do Microsoft 365
+title: Alterar domínio para Microsoft 365 grupo
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,15 +14,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: aefd66e86b12985456bda8fd99365adec2f1ad2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b32d921288d6d1f39a4b98fb0050624fc96529ddb1e6f9f385687187c729ae6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819104"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071032"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a>Alterar o domínio do Grupo do Microsoft 365
+# <a name="change-the-domain-for-microsoft-365-group"></a>Alterar o domínio para Microsoft 365 Group
 
-Se você quiser alterar o domínio de um Grupo do Microsoft 365 durante a criação, siga as etapas em Escolher o domínio a ser usado ao criar grupos do [Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
+Se você quiser alterar o domínio de um grupo Microsoft 365 durante a criação, siga as etapas em Escolher o domínio a ser usado ao criar Microsoft 365 [Grupos](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
   
-Depois que o Grupo do Microsoft 365 já for criado, não há como alterar o domínio. A única maneira é criar um novo Grupo do Microsoft 365 e excluir o antigo, se necessário (endereços de email adicionais podem ser adicionados por meio do Centro de Administração [do Exchange](https://outlook.office365.com/ecp.aspx)).
+Depois que o Microsoft 365 grupo já for criado, não há nenhuma maneira de alterar o domínio. A única maneira é criar um novo grupo Microsoft 365 e excluir o antigo, se necessário (endereços de email adicionais podem ser adicionados por meio do Centro de Administração Exchange [).](https://outlook.office365.com/ecp.aspx)
