@@ -1,5 +1,5 @@
 ---
-title: Integrate a third-party cloud app with ‎Azure AD‎
+title: Integrar um aplicativo de nuvem de terceiros ao Azure AD
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005774"
 - "10020"
-ms.openlocfilehash: 67894669a2ff121efa9338512cf26b64108a6daa
-ms.sourcegitcommit: 9540ba561c98b511483d6f3264c43bbecbf9f4d5
+ms.openlocfilehash: 84869ee88a94626b348461d699833ff5ea68a278ca049379a01c5209e4b1d076
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51406691"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099274"
 ---
-# <a name="integrate-a-third-party-cloud-app-with-azure-ad"></a>Integrate a third-party cloud app with ‎Azure AD
+# <a name="integrate-a-third-party-cloud-app-with-azure-ad"></a>Integrar um aplicativo de nuvem de terceiros ao Azure AD
 
-Simplifique o acesso e proteja seus aplicativos de nuvem de terceiros, como Salesforce e Dropbox. Use the [Integrate a third-party cloud app with ‎Azure AD‎](https://go.microsoft.com/fwlink/?linkid=2157464) wizard to add apps and configure single sign-on, which reduces or eliminates sign-in prompts.
+Simplifique o acesso e proteja seus aplicativos de nuvem de terceiros, como Salesforce e Dropbox. Use o assistente Integrar um aplicativo de nuvem de terceiros com o [assistente do Azure AD](https://go.microsoft.com/fwlink/?linkid=2157464) para adicionar aplicativos e configurar o logom único, o que reduz ou elimina os prompts de login.

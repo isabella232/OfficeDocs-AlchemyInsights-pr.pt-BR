@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "7407"
-ms.openlocfilehash: 66b29abcbce3d5cc538969d480ec9a89ae3c6095
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: eed91d538589a3eda49d19ae60cf772b7c20cbfc12c2b47aec0bb313ebd73e00
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576354"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023438"
 ---
 # <a name="set-up-sharepoint"></a>Configurar o SharePoint
 
-O [Guia de configuração do SharePoint](https://go.microsoft.com/fwlink/?linkid=2071425) ajuda você a configurar o armazenamento de documentos e o gerenciamento de conteúdo do SharePoint, a criar sites, configurar o compartilhamento externo, migrar dados e definir configurações avançadas e promover o contrato de usuário e a comunicação em sua organização.
+O [guia SharePoint](https://go.microsoft.com/fwlink/?linkid=2071425) de instalação ajuda você a configurar o armazenamento de documentos SharePoint gerenciamento de conteúdo, criar sites, configurar compartilhamento externo, migrar dados e configurar configurações avançadas e impulsionar o envolvimento e a comunicação do usuário em sua organização.
 
-Siga as etapas para configurar suas políticas de permissão de compartilhamento de conteúdo, escolha suas ferramentas de sincronização de migração, além de habilitar as configurações de segurança para seu ambiente do SharePoint.
+Você seguirá etapas para configurar suas políticas de permissão de compartilhamento de conteúdo, escolher suas ferramentas de sincronização de migração, bem como habilitar as configurações de segurança para seu ambiente SharePoint de migração.

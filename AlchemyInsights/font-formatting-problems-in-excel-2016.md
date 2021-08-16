@@ -1,5 +1,5 @@
 ---
-title: Problemas de formatação de fonte no Excel 2016
+title: Problemas de formatação de fonte Excel 2016
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,14 +14,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: 1831845768969e5fbb181276b2b66830c7d71599
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff77387602fda7067b469a93289dc071d0c9ba52eff67c5fb04f4426e4034eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744173"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068188"
 ---
-# <a name="font-formatting-problems-in-excel"></a>Problemas de formatação de fonte no Excel
+# <a name="font-formatting-problems-in-excel"></a>Problemas de formatação de fonte Excel
 
-No Excel 2016, a formatação de fonte pode não aparecer corretamente em uma célula. Isso pode acontecer se uma célula contiver mais de um tipo de formatação de fonte. Por exemplo, se alguns caracteres estiverem em negrito e outros não estiverem em negrito, talvez você não veja o formato negrito aparece. Ou se você tiver caracteres coloridos diferentes na mesma célula, talvez não veja as cores que aparecem corretamente. Nossa equipe de engenharia está ciente do problema e está trabalhando atualmente em uma correção. Enquanto isso, tente usar uma fonte diferente. Ou tente evitar o uso de vários tipos de formatação dentro da mesma célula até que esse problema seja corrigido.
+Em Excel 2016, a formatação de fonte pode não aparecer corretamente em uma célula. Isso pode acontecer se uma célula contiver mais de um tipo de formatação de fonte. Por exemplo, se alguns caracteres estão em negrito e outros não estão em negrito, talvez você não veja o formato em negrito aparecer. Ou se você tiver caracteres coloridos diferentes na mesma célula, talvez não veja as cores aparecerem corretamente. Nossa equipe de engenharia está ciente desse problema e atualmente está trabalhando em uma correção. Enquanto isso, tente usar uma fonte diferente. Ou tente evitar o uso de vários tipos de formatação na mesma célula até que esse problema seja corrigido.
   

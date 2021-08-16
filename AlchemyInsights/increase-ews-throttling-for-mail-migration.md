@@ -1,5 +1,5 @@
 ---
-title: Aumentar os limites de limitação de EWS para a migração de email
+title: Aumentar os limites de limitação do EWS para migração de email
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "2691"
 - "3500008"
 ms.assetid: ''
-ms.openlocfilehash: 88b739e5e59ada7fb33cfc076181ba397af21f4c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24194ccb4ef4d981001ebf1c0c911eb881a53a5f178529b783ee9114af944e90
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730003"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099346"
 ---
-# <a name="increase-ews-throttling-limits-for-mail-migration"></a>Aumentar os limites de limitação de EWS para a migração de email
+# <a name="increase-ews-throttling-limits-for-mail-migration"></a>Aumentar os limites de limitação do EWS para migração de email
 
-Para aumentar os limites de limitação do EWS de seus locatários para uma migração de email, prossiga e abra um tíquete de suporte.
+Para aumentar os limites de limitação do EWS do locatário para uma migração de email, prossiga e abra um tíquete de suporte.
