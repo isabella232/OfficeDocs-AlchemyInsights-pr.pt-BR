@@ -12,18 +12,18 @@ ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: 2fed99ebf553a9bfda436d81797c841987759e98
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b39c79063c66ea41585c8f9eec372bfac77bc0aa29ded5a5572e06c141b28f80
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810472"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098590"
 ---
 # <a name="issues-with-azure-mfa"></a>Problemas com o Azure MFA
 Há algumas coisas para verificar se os usuários não podem fazer logoff usando a autenticação multifafatória (MFA)
 
-1. O usuário afetado pode ser bloqueado no Portal do Azure Active Directory. Se esse for o caso, as tentativas de autenticação para esse usuário específico serão negadas automaticamente. [Siga as etapas deste artigo para desbloqueá-las.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
+1. O usuário afetado pode ser bloqueado no portal Azure Active Directory Portal. Se esse for o caso, as tentativas de autenticação para esse usuário específico serão negadas automaticamente. [Siga as etapas deste artigo para desbloqueá-las.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 
 2. Se o desbloqueio do usuário não ajudar ou o usuário não estiver bloqueado, você poderá tentar redefinir o MFA para o usuário e ele passará pelo processo de registro novamente. [Siga as etapas deste artigo.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-Se essa for a primeira vez que você habilitar o MFA e seus usuários não puderem fazer logon em clientes que não sejam navegadores, como Outlook, Skype, etc., talvez a ADAL (Biblioteca de Autenticação do Active Directory) não esteja habilitada em sua assinatura do O365. Nesse caso, você precisará se conectar ao Powershell do Exchange Online e executar este cmdlet:  *Set-OrganizationConfig -OAuth2ClientProfileEnabled:$true*
+Se essa for a primeira vez que você habilitar o MFA e os usuários não puderem fazer logon em clientes que não sejam navegadores, como Outlook, Skype, etc, talvez o ADAL (Biblioteca de Autenticação do Active Directory) não esteja habilitado na sua assinatura do O365. Nesse caso, você precisará se conectar ao Exchange Online Powershell e executar este cmdlet: *Set-OrganizationConfig -OAuth2ClientProfileEnabled:$true*

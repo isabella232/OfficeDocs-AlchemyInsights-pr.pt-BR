@@ -1,5 +1,5 @@
 ---
-title: Saiba mais sobre a compatibilidade de sites – afetando as alterações que chegam ao Microsoft Edge
+title: Saiba mais sobre as alterações que afetam a compatibilidade do site que estão chegando Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003849"
 - "6899"
-ms.openlocfilehash: e7b4bc2a896133affa40b38c326cada6fcb396c6
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 80955b953f48a7cc70b009d71c7c0c65da6c8ad56e76cb2b4f76edd2486dc076
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49652103"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022124"
 ---
-# <a name="learn-about-site-compatibilityaffecting-changes-coming-to-microsoft-edge"></a>Saiba mais sobre a compatibilidade de sites – afetando as alterações que chegam ao Microsoft Edge
+# <a name="learn-about-site-compatibilityaffecting-changes-coming-to-microsoft-edge"></a>Saiba mais sobre as alterações que afetam a compatibilidade do site que estão chegando Microsoft Edge
 
-A Web está em constante evolução para melhorar a experiência do usuário, segurança e privacidade. Algumas alterações são significativas o suficiente para afetar a funcionalidade de páginas existentes. A equipe do Microsoft Edge atualiza as páginas conforme o raciocínio evolui, as linhas do cronograma solidificam e [as alterações são anunciadas](https://go.microsoft.com/fwlink/?linkid=2135534).
+A Web está em constante evolução para melhorar a experiência do usuário, a segurança e a privacidade. Algumas alterações são significativas o suficiente para afetar a funcionalidade das páginas existentes. A Microsoft Edge atualiza as páginas à medida que o pensamento evolui, as linhas do tempo se solidificam e [as alterações são anunciadas](https://go.microsoft.com/fwlink/?linkid=2135534).
