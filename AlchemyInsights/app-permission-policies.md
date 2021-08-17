@@ -13,20 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f07fa4a64fb64233f88cfbf0a681d6f2ab586c88
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53951661"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313912"
 ---
 # <a name="app-permission-policies"></a>Políticas de permissão do aplicativo
 
 Com [políticas de permissão do](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)aplicativo, você pode fazer o seguinte:
 - Como administrador, você pode gerenciar políticas de configuração de aplicativos no centro [Microsoft Teams administrador.](https://admin.teams.microsoft.com/policies/app-permission)
 - Controlar quais aplicativos estão disponíveis para Microsoft Teams usuários em [](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) sua organização usando a política global ou criar e atribuir políticas personalizadas para personalizar e controlar o acesso do usuário aos aplicativos. 
-> [!NOTE]
-> As configurações de aplicativos em toda a organização substituem a política global e todas as políticas personalizadas que você cria e atribui aos usuários.
+**Observação:** as configurações de aplicativos em toda a organização substituem a política global e todas as políticas personalizadas que você cria e atribui aos usuários.
 - Você pode usar políticas [de configuração de](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) aplicativos para personalizar Microsoft Teams para realçar os aplicativos mais importantes para seus usuários. 
 
 

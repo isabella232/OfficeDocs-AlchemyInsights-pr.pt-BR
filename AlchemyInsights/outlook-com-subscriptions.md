@@ -1,5 +1,5 @@
 ---
-title: 9000215 assinaturas de Outlook.com
+title: 9000215 Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,21 +11,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
-ms.openlocfilehash: 758359c9c5907f2167666e9755a59dedee764a95
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 584138b667f56053254b9aa5cdea764c041ecc4584aaaee683107f21b14d61e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722587"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111280"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>Assinaturas e cancelar assinatura
+# <a name="subscriptions-and-unsubscribing"></a>Assinaturas e cancelamento de assinatura
 
-Se você deseja parar de receber boletins informativos ou promoções, há duas maneiras de cancelar a assinatura no Outlook.com:
+Se você quiser parar de receber boletins informativos ou promoções, há duas maneiras de cancelar a inscrição em Outlook.com:
 
-1. Na sua caixa de entrada, selecione um boletim informativo ou um email promocional. Na parte superior do painel de leitura, selecione **cancelar assinatura**.
-2. Abra suas [configurações de assinaturas do Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**configurações**  >  **Exibir todas**as assinaturas de email de configurações do Outlook  >  **Email**  >  **Subscriptions**) e selecione **cancelar assinatura**.
+1. Em sua caixa de entrada, selecione um boletim informativo ou email promocional. Na parte superior do painel de leitura, selecione **Cancelar assinatura**.
+2. Abra as [configurações de assinaturas Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Configurações** Exibir todas as Outlook configurações  >    >    >  **Assinaturas de** Email ) e selecione **Cancelar assinatura**.
 
 Observações:
 
 - Nem todos os clientes podem se beneficiar desse recurso no momento.
-- Você só verá este recurso se recebeu um email da empresa enviando emails inscritos.
+- Você só verá esse recurso se tiver recebido um email da empresa enviando emails inscritos.

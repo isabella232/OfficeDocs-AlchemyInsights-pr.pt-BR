@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a4e7f20270b6a04aca6d54b059b27f048294338c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889242"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314228"
 ---
 # <a name="activating-microsoft-365-apps"></a>Ativar aplicativos do Microsoft 365
 
-**Observação**: se você estiver usando uma versão mais antiga do Windows (por exemplo, Windows 7), certifique-se de que o TLS 1.2 esteja habilitado como padrão. Para obter mais informações, confira [Atualizar para habilitar o TLS 1.1 e o TLS 1.2 como os protocolos seguros padrão em WinHTTP no Windows.](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392).
+**Observação**: se você estiver usando uma versão anterior do Windows (por exemplo, Windows 7 SP1, Windows Server 2008 R2), habilite o TLS 1.2 como padrão usando a [correção fácil](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi). Para obter mais informações, confira [Atualizar para habilitar o TLS 1.1 e o TLS 1.2 como os protocolos seguros padrão em WinHTTP no Windows.](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392).
 
 Para ativar o Office, consulte:
 
@@ -38,7 +38,7 @@ Para corrigir problemas de ativação do Office, consulte:
 
 - [O que tentar se você não puder instalar ou ativar o Office para Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**Dica** em computadores com Windows, podemos diagnosticar e corrigir automaticamente vários problemas de entrada comuns do Office para você. Baixe e execute o  **[Assistente de Suporte e Recuperação da Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** para usar nossa ferramenta automatizada.
+**Dica**: em computadores Windows, podemos diagnosticar e corrigir automaticamente vários problemas de entrada comuns do Office para você. Baixe e execute o  **[Assistente de Suporte e Recuperação da Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** para usar nossa ferramenta automatizada.
 
 Siga as etapas a seguir, se não for possível entrar no Microsoft 365:
 

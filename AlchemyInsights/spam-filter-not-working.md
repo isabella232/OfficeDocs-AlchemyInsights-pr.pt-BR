@@ -1,5 +1,5 @@
 ---
-title: 8000059 filtro de spam não funciona
+title: 8000059 filtro de spam não está funcionando
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "990"
 - "8000059"
 ms.assetid: 29dedb91-06e2-42e5-8281-3785d2a10305
-ms.openlocfilehash: aff7b1f7d4f857c7480de08540e35e55840190cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f7b20d7d1bfac00a2a3148095284debb379218c4cd9c2387249df994fbb08b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758269"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084478"
 ---
-# <a name="spam-filter-not-working"></a>Filtro de spam não funciona
+# <a name="spam-filter-not-working"></a>Filtro de spam não funcionando
 
-Se você acreditar que uma mensagem recebida no Outlook.com é um golpe de phishing ou falsificação, selecione a mensagem e selecione o **lixo eletrônico** \> **Phishing** para marcá-la como um golpe de phishing. Para saber mais sobre abuso, phishing e falsificação, [Leia isso](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy). Para bloquear endereços de email, adicionar endereços ou domínios à sua lista de remetentes confiáveis ou aplicar outras opções de lixo eletrônico, selecione **Opções de lixo**eletrônico.
+Se você acredita que uma mensagem recebida no Outlook.com é um phishing ou fraude, selecione  a mensagem e selecione Junk Phishing para marcá-la como um esquema de \>  phishing. Para saber mais sobre abuso, phishing e spoofing, [leia este](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy). Para bloquear endereços de email, adicione endereços ou domínios à sua lista de Cofre de envios ou aplique outras opções de lixo eletrônico, selecione **Opções de lixo eletrônico**.
   

@@ -1,5 +1,5 @@
 ---
-title: O Outlook não está sincronizando pastas
+title: Outlook não sincronizar pastas
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: cc4d109ae4b6b579284aa5b3876d17d38f0230fa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ac814286496a946866fbd36268ec63b7904e8f15124e2909a134805fc615a7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771853"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111208"
 ---
-# <a name="outlook-not-synching-folders"></a>O Outlook não está sincronizando pastas
+# <a name="outlook-not-synching-folders"></a>Outlook não sincronizar pastas
 
-Se o Outlook não estiver sincronizando pastas conforme o esperado, há algumas coisas que você pode tentar corrigi-lo.
+Se Outlook não estiver sincronizando pastas conforme o esperado, há algumas coisas que você pode tentar corrigir.
 
-1. Reduza o número de pastas na caixa de correio primária ou compartilhada. [Consulte problemas de desempenho do Outlook quando há muitos itens ou pastas em uma pasta de arquivos no modo cache. ost ou. pst](https://support.microsoft.com/help/2768656).
-2. Desabilitar o cache de todas as pastas compartilhadas.
-3. Altere a configuração da caixa de correio secundária do Exchange para uma segunda conta do Exchange em seu perfil.
+1. Reduza o número de pastas na caixa de correio principal ou compartilhada. Consulte Outlook problemas de desempenho quando houver muitos itens ou pastas em uma pasta de arquivo [.ost ou .pst no](https://support.microsoft.com/help/2768656)modo cache.
+2. Desabilite o cache de todas as pastas compartilhadas.
+3. Altere a configuração da caixa Exchange caixa de correio secundária para uma segunda Exchange em seu perfil.
 
-Para obter mais informações, consulte [problemas de desempenho e sincronização quando você trabalha com pastas em uma caixa de correio secundária no Outlook](https://support.microsoft.com/help/3115602).
+Para obter mais informações, consulte Problemas de desempenho e sincronização quando você trabalha com pastas em uma caixa de correio [secundária em Outlook](https://support.microsoft.com/help/3115602).

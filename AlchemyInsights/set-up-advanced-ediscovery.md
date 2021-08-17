@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: 5eaf53633be10a10df9c040bc2852152f51daa6b248f3773997e203cbb6b86f7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 51a7e1c5d060f58a5bb0e551e31b8c9734858fc2ec88fc662b1d9a78d127bed1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54108580"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893675"
 ---
 # <a name="set-up-advanced-ediscovery"></a>Configurar a Descoberta Eletrônica Avançada
 
@@ -40,6 +40,6 @@ Veja a seguir uma visão geral detalhada das etapas para configurar e gerenciar 
 
 **4. Criar uma ocorrência de Descoberta Eletrônica Avançada**
 
-Para obter informações sobre as etapas necessárias para configurar a Descoberta Eletrônica Avançada, consulte [Introdução à Descoberta Avançada](/microsoft-365/compliance/get-started-with-advanced-ediscovery).
+Para obter informações sobre as etapas necessárias para configurar a Descoberta Eletrônica Avançada, consulte [Introdução à Descoberta Avançada](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery).
 
-Para obter informações sobre como criar e gerenciar casos, consulte [Criar e gerenciar casos de Descoberta Eletrônica Avançada no Microsoft 365](/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case).
+Para obter informações sobre como criar e gerenciar casos, consulte [Criar e gerenciar casos de Descoberta Eletrônica Avançada no Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case).
