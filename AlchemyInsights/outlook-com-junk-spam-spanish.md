@@ -1,5 +1,5 @@
 ---
-title: Outlook.com lixo eletrônico-espanhol
+title: Outlook.com spam de lixo eletrônico - ESPANHOL
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1137"
 - "8000065"
-ms.openlocfilehash: 065dd45e87fda356f719ec13544d71767d54887b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 96b0f142207235e43ade168fad8a393416b80bbe4f28724af2a1b189ff24cea2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772430"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111496"
 ---
-# <a name="mantenga-el-correo-no-deseado-fuera-de-outlookcom"></a>Mantenga El Correo no Deseado Fuera de Outlook.com
+# <a name="mantenga-el-correo-no-deseado-fuera-de-outlookcom"></a>Mantenga el correo no deseado fuera de Outlook.com
 
-Si ve aumento de correo no Deseado y correo electrónico no Deseado, Hay acentos formas de Reducir la cantidad de correo no Deseado que entre en la bandeja de entrada.
+Si ve un aumento de correo no deseado y correo electrónico no deseado, hay varias formas de reducir la cantidad de correo no deseado que entre en la Bandeja de entrada.
 
-Para aprender más Leer [ayudar a mantener El Correo no Deseado y El Correo no Deseado Fuera de la bandeja de](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Para aprender más leer [Ayudar a mantener el correo no deseado y el correo no deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

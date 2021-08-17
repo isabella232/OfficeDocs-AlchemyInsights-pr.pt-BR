@@ -1,5 +1,5 @@
 ---
-title: Atribuir permissões de Administração de Segurança
+title: Atribuir permissões de Administrador de Segurança
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: 7c7572566516204a2a0b40234057b95c76d5e08cba065a4bd3c8d638006f4019
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 91faa95cfad782066b438b1e58782d3c21d59eb2d164ea6076238f6ea98aa1bd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53950401"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894659"
 ---
-# <a name="assign-security-administration-permissions"></a>Atribuir permissões de Administração de Segurança
+# <a name="assign-security-administrator-permissions"></a>Atribuir permissões de Administrador de Segurança
 
-Para atribuir permissões de administração de segurança, execute as seguintes etapas:
+Para atribuir permissões de Administração de Segurança, execute as seguintes etapas:
 
-1. No [Centro de Segurança e Conformidade do Office 365](https://sip.protection.office.com/homepage), selecione **Permissões > Administrador de Segurança**.
-2. No painel **Administrador de Segurança**, ao lado de **Membros**, clique em **Editar**.
-3. No painel **Editar Escolha de membros**, clique em **Escolher membros**.
-4. No painel **Escolher membros**, clique em **+ Adicionar** e selecione os nomes dos usuários.
-5. Selecione **Adicionar > Concluído > Salvar**.
+1. No portal do Microsoft 365 Defender em <https://security.microsoft.com>, selecione **Permissões e funções** \> **Funções** na seção **Funções de email e colaboração**. Ou para ir direto para a página **Permissões**, use <https://security.microsoft.com/emailandcollabpermissions>.
+2. Selecione **Administrador de Segurança** na lista de grupos de função.
+3. No submenu de detalhes exibido, role para baixo até a seção **Membros** e clique em **Editar**.
+4. No submenu **Editando Escolher membros** que aparece, clique em **Editar**.
+5. No submenu **Escolher membros** que aparece, clique em **+ Adicionar** e selecione os nomes de usuário.
+6. Ao concluir, clique em **Adicionar** \> **Concluído** \> **Salvar** \> **Fechar**.
