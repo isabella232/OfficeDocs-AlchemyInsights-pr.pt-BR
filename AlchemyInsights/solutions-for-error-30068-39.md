@@ -14,27 +14,27 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 5f9c9ae86f0f80a209444bb161e763a2fbceddeb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a5adca5950e2db34b88c77f1b635c3f273eff4e45eea7312ed2100b8d6f7f3c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835331"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050214"
 ---
 # <a name="solutions-for-error-30068-39"></a>Soluções para o erro 30068-39
 
 Experimente essas soluções para corrigir o erro [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):
   
-- Reinicie o computador e [tente instalar o Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Reinicie o computador e [tente instalar Office](https://portal.office.com/OLS/MySoftware.aspx).
 
 - Verifique se o **serviço Clique para** Executar [da](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) Microsoft está desabilitado e se ele está desabilitado, altere o status para **Manual** ou **Automático**.
 
 - Baixe e instale o [Assistente de Recuperação e Suporte da Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Quando ele for aberto, a partir **de Desinstalar** produtos do Office, selecione a versão que você deseja desinstalar e selecione **Próximo**.
+1. Quando ele for aberto, **desinstale** Office os produtos selecione a versão que você deseja desinstalar e selecione **Próximo**.
 
 2. Continue passando pelas telas e reinicie o computador quando solicitado.
 
-    Após a reinicialização, o Assistente de Suporte e Recuperação é aberto automaticamente para concluir o processo de desinstalação.
+    Depois de reiniciar, o Assistente de Recuperação e Suporte abre automaticamente para concluir o processo de desinstalação.
 
-3. Siga os prompts restantes e [reinstale o Office](https://portal.office.com/OLS/MySoftware.aspx) ou feche o assistente.
+3. Siga os prompts restantes e [reinstale Office](https://portal.office.com/OLS/MySoftware.aspx) ou feche o assistente.
