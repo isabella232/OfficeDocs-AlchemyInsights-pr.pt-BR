@@ -1,5 +1,5 @@
 ---
-title: Ligar para um número de telefone no Microsoft Teams
+title: Chame um número de telefone no Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6661"
 - "9003561"
-ms.openlocfilehash: 2ee43145f8ff5e23a02167a3d758b24153878374
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 75b5d22db01020281697f38d0b7f021f8a280c3389a9e61e1b69d9b002cb8d6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48334053"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046020"
 ---
-# <a name="call-a-phone-number-in-teams"></a>Ligar para um número de telefone no Microsoft Teams
+# <a name="call-a-phone-number-in-teams"></a>Chame um número de telefone no Teams
 
-Vá para  **chamadas**, selecione  **discar um número**e use o teclado de discagem para inserir o número. Clique em  **chamar**.
+Vá para  **Chamadas,** selecione  **Discar um número** e use o bloco de discagem para inserir o número. Em seguida,  **clique em Chamar**.
 
-Se você não vir a opção para discar um número, sua organização pode não ter comprado um plano de chamadas. Mas você ainda pode fazer chamadas para outras pessoas no Microsoft Teams.  
+Se você não vir a opção de discar um número, sua organização pode não ter comprado um plano de chamada. Mas você ainda pode fazer chamadas para outras pessoas em Teams.  
 
-Para obter mais informações, consulte [Call a Phone Number from Teams](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078).
+Para obter mais informações, [consulte Chamar um número de telefone de Teams](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078).

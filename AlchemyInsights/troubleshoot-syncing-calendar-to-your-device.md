@@ -1,5 +1,5 @@
 ---
-title: 3800017 solucionar problemas de sincronização do calendário com seu dispositivo
+title: 3800017 solucionar problemas de calendário de sincronização com seu dispositivo
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "619"
 - "3800017"
 ms.assetid: 1ea8bd4d-1352-4904-b426-2724876d4244
-ms.openlocfilehash: 271c2161868b43aa7f8b18bb9bbad967b121125e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fbc597db13fb513930d141f8bfc7bfc8f7a52de6edfb12bf7db64a46e3cbdaa9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664770"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105485"
 ---
-# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a>Solucionar problemas de sincronização do seu calendário com o dispositivo
+# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a>Solucionar problemas de sincronização de seu calendário com seu dispositivo
 
-Se você estiver tendo problemas de sincronização ao configurar seus emails móveis pela primeira vez, consulte [não é possível sincronizar o calendário e os contatos com meu telefone ou Tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).
+Se você estiver tendo problemas de sincronização durante a configuração do seu email móvel pela primeira vez, consulte Não é possível sincronizar calendário e contatos com meu telefone [ou tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).
   
