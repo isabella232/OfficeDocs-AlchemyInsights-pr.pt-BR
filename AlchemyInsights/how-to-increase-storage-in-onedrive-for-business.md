@@ -1,5 +1,5 @@
 ---
-title: Como aumentar o armazenamento no OneDrive for Business
+title: Como aumentar o armazenamento em OneDrive for Business
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -10,25 +10,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 676b17d47ee5071ed45e8d6022eaa82b51fc4d51
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 5172f7072ec834be42e2dd35acacebcb2ad5aa5a306661c8ba5ff6ed888f63f1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488992"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043158"
 ---
-# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Como aumentar o armazenamento no OneDrive for Business
+# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Como aumentar o armazenamento em OneDrive for Business
 
-Para alterar o armazenamento padrão para usuários novos e existentes do OneDrive:
+Para alterar o armazenamento padrão para usuários novos e OneDrive existentes:
   
-- Vá para a [página de armazenamento do centro de administração do onedrive](https://admin.onedrive.com/?v=StorageSettings), insira um novo valor em GB e, em seguida, selecione **salvar**.
+- Vá para a [página Armazenamento do](https://admin.onedrive.com/?v=StorageSettings)centro de administração OneDrive, insira um novo valor em GB e selecione **Salvar**.
 
-Essa configuração de espaço de armazenamento se aplica a todos os usuários para os quais você não tenha definido limites de armazenamento específicos. Para alterar o espaço de armazenamento para usuários específicos, use o Microsoft PowerShell. Para obter informações sobre como fazer isso, confira [alterar o espaço de armazenamento dos usuários do onedrive usando o PowerShell](https://docs.microsoft.com/onedrive/change-user-storage).
+Essa configuração de espaço de armazenamento se aplica a todos os usuários para os quais você não definiu limites de armazenamento específicos. Para alterar o espaço de armazenamento para usuários específicos, use o Microsoft PowerShell. Para obter informações sobre como fazer isso, consulte [Change your users's OneDrive storage space using PowerShell](https://docs.microsoft.com/onedrive/change-user-storage).
 
-**Observação**: parece que você não tem um plano que inclua armazenamento ilimitado. Para obter informações sobre o armazenamento que acompanha cada plano, consulte [Descrição de serviço do onedrive for Business](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description).
+**OBSERVAÇÃO**: Parece que você não tem um plano que inclui armazenamento ilimitado. Para obter informações sobre o armazenamento que vem com cada plano, [consulte OneDrive for Business descrição do serviço.](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description)
   
-Para aumentar o armazenamento no OneDrive for Business, escolha uma assinatura que inclua o **onedrive for Business Plan 2** ou o **Office 365 E3**.
+Para aumentar o armazenamento em OneDrive for Business, escolha uma assinatura que inclua OneDrive for Business **Plano 2** ou **Office 365 E3**.
   
-Para mudar de plano, no centro de administração, vá para a página **cobrança** de \> [seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054) , selecione a assinatura a ser alterada e escolha **Exibir atualizações recomendadas para sua organização**.
+Para alterar os planos, no centro  de administração, vá para a página Cobrança Seus produtos, selecione a assinatura a ser mudada e escolha Exibir atualizações \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) **recomendadas para sua organização**.
   
-Para obter mais informações sobre como alterar planos e o armazenamento do OneDrive for Business, consulte [atualizar para um plano diferente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan) e a [Descrição do serviço do onedrive for Business](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description).
+Para obter mais informações sobre como alterar planos e OneDrive for Business armazenamento, consulte [Upgrade to a different plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan) and the OneDrive for Business Service [Description](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description).

@@ -1,5 +1,5 @@
 ---
-title: 932 atualizando AADConnect
+title: 932 Atualizando o AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,23 +13,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: 5c8ec5d9282c53c655e28f5d38fe36fc3ab005b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9582f1f56e6730e35520b5d79bc245cd74bea0bf4db39b379a7cd133bafc16ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806027"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104800"
 ---
-# <a name="upgrade-azure-ad-connect"></a>Atualizar Azure AD Connect
+# <a name="upgrade-azure-ad-connect"></a>Atualizar o Azure AD Conexão
 
-Por padrão, a atualização automática está habilitada para o Azure AD Connect, o que ajuda a garantir que você esteja executando a versão mais recente. Para verificar as configurações de atualização automática, use o cmdlet **Get-ADSyncAutoUpgrade** no PowerShell do Azure AD. O cmdlet retornará um dos seguintes valores:
+Por padrão, a atualização automática está habilitada para o Azure AD Conexão, o que ajuda a garantir que você esteja executando a versão mais recente. Para verificar as configurações de atualização automáticas, use o cmdlet **Get-ADSyncAutoUpgrade** no Azure AD PowerShell. O cmdlet retornará um dos seguintes valores:
 
-- **Habilitado**: a atualização automática está habilitada.
+- **Habilitado :** A atualização automática está habilitada.
 
-- **Disabled**: a atualização automática está desabilitada.
+- **Desabilitado**: a atualização automática está desabilitada.
 
-- **Suspenso**: o sistema não está mais qualificado para receber atualizações automáticas. Você não pode configurar esse valor; é definido pelo sistema.
+- **Suspenso**: o sistema não está mais qualificado para receber atualizações automáticas. Você não pode configurar esse valor; ele é definido pelo sistema.
 
-Para obter mais informações, consulte [atualização automática](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
+Para obter mais informações, consulte [Atualização automática](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
 
-Para baixar a versão mais recente do Azure AD Connect, acesse [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .
+Para baixar a versão mais recente do Azure AD Conexão, acesse [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .

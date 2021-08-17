@@ -1,5 +1,5 @@
 ---
-title: Infraestrutura de publicação com um site de comunicação
+title: Infraestrutura de Publicação com um Site de Comunicação
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: e67fc09d66fcd75e08ebf815f4cb3eddfb68cb3e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff67f100052c5dfc844a27757a0ad4983c8d732ec199c601260206b1b621a085
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751807"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075352"
 ---
-# <a name="publishing-infrastructure-with-a-communication-site"></a>Infraestrutura de publicação com um site de comunicação
+# <a name="publishing-infrastructure-with-a-communication-site"></a>Infraestrutura de Publicação com um Site de Comunicação
 
 
-**Não há suporte para** a habilitação do recurso de infraestrutura de publicação do SharePoint Server com sites de comunicação. 
+Não há suporte para SharePoint infraestrutura de  publicação do servidor com sites de comunicação. 
   
 Para mais informações, veja [Migrando de sites de Publicação para sites de Comunicação](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
   
