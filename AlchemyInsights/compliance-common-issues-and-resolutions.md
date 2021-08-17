@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: b3345e8ec7ade4b7657a706dca088cbdd501ef3be0efe67e65facdabbaf5c98a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5231fca8c0a3cd919dd9fb79e7cbcf5a4f2c67fdd52a0f136b87e9331a3d6c44
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045012"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893511"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Problemas e resoluções comuns de conformidade
 
-Para obter ajuda com a visualização de alertas, consulte [Políticas de alerta no centro de segurança e conformidade](/microsoft-365/compliance/alert-policies).
+Para obter ajuda com a visualização de alertas, consulte [Políticas de alerta no centro de segurança e conformidade](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
 
 Aqui estão alguns tópicos solicitados com frequência sobre conformidade:
 
-- Como configurar um arquivo morto e mensagens que não são automaticamente movidos para o arquivo morto: é necessário [Habilitar um arquivo morto, configurar uma política de arquivo morto](/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes) e [Aumentar o tamanho do arquivo morto](/microsoft-365/compliance/enable-unlimited-archiving).
+- Como configurar um arquivo morto e mensagens que não são automaticamente movidos para o arquivo morto: é necessário [Habilitar um arquivo morto, configurar uma política de arquivo morto](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes) e [Aumentar o tamanho do arquivo morto](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
 
-- Políticas de retenção: perguntas relacionadas ao [Cálculo da idade de retenção](/exchange/security-and-compliance/messaging-records-management/retention-age), à [Adição ou remoção de marcas de retenção](/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags), ao [Uso de políticas de retenção no Centro de Conformidade e Segurança](/exchange/security-and-compliance/messaging-records-management/create-a-retention-policy) para reter ou excluir conteúdo.
+- Políticas de retenção: perguntas relacionadas ao [Cálculo da idade de retenção](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-age), à [Adição ou remoção de marcas de retenção](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags), ao [Uso de políticas de retenção no Centro de Conformidade e Segurança](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/create-a-retention-policy) para reter ou excluir conteúdo.
 
-- Configurar a Descoberta Eletrônica, Pesquisas de Conteúdo e Exportar: [Pesquisa de Conteúdo](/microsoft-365/compliance/content-search) e [Exportar Resultados de Pesquisa](/microsoft-365/compliance/export-search-results).
+- Configurar a Descoberta Eletrônica, Pesquisas de Conteúdo e Exportar: [Pesquisa de Conteúdo](https://docs.microsoft.com/microsoft-365/compliance/content-search) e [Exportar Resultados de Pesquisa](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
 
-- Auditoria no O365: [Pesquisar log de auditoria no O365](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
+- Auditoria no O365: [Pesquisar log de auditoria no O365](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
 
-- Prevenção contra Perda de Dados (DLP): consulte [Visão geral da Prevenção contra Perda de Dados (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) para obter mais informações.
+- Prevenção contra Perda de Dados (DLP): consulte [Visão geral da Prevenção contra Perda de Dados (DLP)](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies) para obter mais informações.
  
-- Rótulos de confidencialidade: para obter mais informações, consulte [Criar e configurar rótulos de confidencialidade e suas políticas](/microsoft-365/compliance/create-sensitivity-labels).
+- Rótulos de confidencialidade: para obter mais informações, consulte [Criar e configurar rótulos de confidencialidade e suas políticas](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels).
 
-- Exibir políticas de alerta: consulte [Políticas de alerta no Centro de conformidade do Microsoft 365](/microsoft-365/compliance/alert-policies).
+- Exibir políticas de alerta: consulte [Políticas de alerta no Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
 
-- Permissões do Centro de conformidade: consulte [Permissões no Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center-permissions).
+- Permissões do Centro de conformidade: consulte [Permissões no Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center-permissions).
 
 **Observação**: para obter uma resposta mais específica sobre um problema de conformidade, reformule sua pergunta rapidamente e inclua os erros que você está vendo ou os recursos que está usando.

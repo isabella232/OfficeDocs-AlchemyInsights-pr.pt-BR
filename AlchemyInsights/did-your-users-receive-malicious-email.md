@@ -14,18 +14,18 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: 425f9ba488fd69b8c5ea29636bccccd995bf48fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815234"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893391"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Os seus usuários recebem emails mal-intencionados?
 
-- Agora você pode facilmente relatar para A Microsoft usando os [Envios de Administradores no Centro de Conformidade e Segurança](https://sip.protection.office.com/reportsubmission).
+Agora você pode relatar o email mal-intencionado à Microsoft usando [Envios no portal do Microsoft 365 Defender](https://sip.security.microsoft.com/reportsubmission?viewid=admin).
 
-As mensagens enviadas em [envios do administrador](https://sip.protection.office.com/reportsubmission) são verificadas e os seguintes resultados são exibidos no menu desdobrável **detalhes**:
+As mensagens enviadas em [Envios do administrador](https://security.microsoft.com/reportsubmission?viewid=admin) são verificadas e os seguintes resultados são exibidos no submenu de detalhes:
 
 - Se houve falha na autenticação do email do remetente no momento da entrega.
 - Informações sobre quaisquer acessos à política que possam ter afetado ou substituído o veredicto de uma mensagem.
@@ -39,9 +39,9 @@ Se você discordar do veredicto final em uma mensagem, URL ou arquivo (bloqueado
 Enquanto isso, você pode remover e-mails maliciosos das caixas de entrada dos usuários, seguindo as instruções [neste artigo](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization).
 
 - Os clientes com Microsoft Defender para Office 365 podem:
-    - use [Threat Explorer para Localizar e Excluir emails Suspeitos](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
-    - [use links seguros para bloquear o acesso](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) a um URL malicioso
-    - rastrear usuários que clicaram e acessaram URLs maliciosos: [View URL de phishing e dados de veredicto de cliques](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) & [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
-    - manualmente [iniciar uma Investigação Automatizada](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
+  - Use o [Explorador de ameaças para localizar e excluir emails suspeitos](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
+  - [Use Links seguros para bloquear o acesso](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) a uma URL mal-intencionada
+  - Acompanhe os usuários que clicaram e acessaram URLs mal-intencionadas: [Exibir URL de phishing e clicar em dados de veredito](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) & [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
+  - Manualmente, [inicie uma Investigação automatizada](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
 Você também pode se proteger contra arquivos e URLs maliciosos, seguindo as instruções em [Proteção contra URLs e arquivos maliciosos](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats).

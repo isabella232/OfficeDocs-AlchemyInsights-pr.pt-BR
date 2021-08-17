@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003021"
 - "5757"
-ms.openlocfilehash: 1c126a088b79bc8ad415a5679e18d4da3fde8b15
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5853ffad9ce1f19d2cbbf107b83ae485512ec539328fc609b507e41e1a22c9e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830680"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110452"
 ---
 # <a name="resolving-billing-and-payment-errors"></a>Solucionar Erros de Pagamento e Cobrança
 
@@ -25,7 +25,7 @@ Aqui estão alguns cenários comuns relacionados a erros de fatura e pagamento
 
 - O **valor cobrado** é diferente do que você esperava.
 - Licenças foram adicionadas ou removidas da assinatura. Quando licenças são alteradas no meio do período, isso se reflete na fatura seguinte. Você pode visualizar um crédito e uma nova cobrança do período de serviço anterior para explicar essa alteração.
-- A assinatura foi cancelada. Após o cancelamento, você receberá uma fatura com o saldo pendente menos créditos existentes.
+- A assinatura foi cancelada. Você receberá uma fatura após o cancelamento com qualquer saldo pendente menos quaisquer créditos.
 - Sua assinatura foi renovada para um novo termo e o preço da licença foi alterado.
 - Para obter mais informações sobre a fatura, confira: [Entenda sua fatura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
 - Você tem **problemas ao processar um pagamento de cartão de crédito**
