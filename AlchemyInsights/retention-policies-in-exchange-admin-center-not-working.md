@@ -1,5 +1,5 @@
 ---
-title: Políticas de retenção no Centro de Administração do Exchange não estão funcionando
+title: Políticas de retenção no Exchange Admin Center não funcionando
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
+ms.openlocfilehash: 6652ad5fc1691e1d5a4293d81f3a649f23ec38f18c8ed9fe06665628a901d13e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51952216"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074920"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Políticas de retenção no Centro de Administração do Exchange
+# <a name="retention-policies-in-exchange-admin-center"></a>Políticas de retenção no Exchange Admin Center
 
 Se você quiser que executemos verificações automatizadas para as configurações mencionadas abaixo, selecione o botão voltar <-- na parte superior desta página e insira o endereço de email do usuário que tenha problemas com políticas de retenção.
 
@@ -38,7 +38,7 @@ Se você tiver problemas com políticas de retenção no Centro de Administraç�
  
 **Observação:** Se uma caixa de correio for menor que 10 MB, o Assistente de Pasta Gerenciada não processará automaticamente a caixa de correio.
  
-Para obter mais informações sobre políticas de retenção no Centro de Administração do Exchange, consulte:
+Para obter mais informações sobre políticas de retenção no Exchange Admin Center, consulte:
 
 - [Marcas e políticas de retenção](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
 
