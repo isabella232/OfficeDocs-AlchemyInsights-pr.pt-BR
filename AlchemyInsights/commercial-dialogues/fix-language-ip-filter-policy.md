@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9c95e224f64c287b04a98c2a41d7f83b32b386b7641fe483030fa8cc931855a8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 16aa12120034e1f848e62bab151d8e30b251a29e5727f085300d74ca7b49ca52
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017084"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896143"
 ---
 # <a name="fix-languageip-filter-policy"></a>Corrigir política de filtro de idioma/IP
 
-Uma política anti-spam personalizada em seu locatário afetou essa mensagem. Para revisar a política, faça o seguinte:
+Uma de suas políticas anti-spam afetou essa mensagem. Para revisar as políticas, faça as seguintes etapas:
 
-1. Vá para o [Centro Office 365 Segurança & Conformidade](https://go.microsoft.com/fwlink/p/?linkid=2077143)e vá para **Política** de Gerenciamento de Ameaças  >    >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Na guia **Personalizado,** selecione a **política de** filtro de spam padrão ou qualquer outra política personalizada que você possa ter criado e selecione **Editar política**.
-3. Expanda **a opção Spam Internacional** e revise as configurações.
+1. No portal Microsoft 365 Defender , acesse Email & Políticas de Colaboração & Políticas de Ameaças de Regras <https://security.microsoft.com/>  \>  \>  \> **Anti-spam** na **seção** Políticas.
 
-Para obter mais informações sobre como configurar políticas de filtro de spam, consulte [Configure custom spam filter policy settings](https://go.microsoft.com/fwlink/?linkid=2101054).
+   Para ir diretamente à página de **Políticas antispam**, use <https://security.microsoft.com/antispam>.
+
+2. Na página **Políticas anti-spam,** selecione a política clicando no nome da política (**Tipo** é Política **anti-spam** personalizada ou **Nome** é Política de entrada **Anti-Spam (Padrão)**).
+3. No sobremenu de detalhes exibido, selecione **Editar limite** de spam e propriedades na seção Limite de email em massa & **de spam.**
+4. Na seção **Marcar como spam,** revise as **configurações Contém idiomas específicos** e **A partir desses** países.
+
+Para obter mais informações, consulte [Configure as políticas de anti-spam no EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

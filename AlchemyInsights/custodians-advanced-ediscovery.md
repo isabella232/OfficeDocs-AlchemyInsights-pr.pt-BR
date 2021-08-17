@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "12580"
-ms.openlocfilehash: e7b971619744503cfe09f2ee1ae96ce89929f00943164ff1e0b26e15e74ab8b9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7999b2e7c4ab6523f9084d406484f2c58a3560a533a3137698f07a18c58d46f4
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54504039"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894951"
 ---
 # <a name="custodians-in-advanced-ediscovery"></a>Custodiantes na Descoberta Eletrônica Avançada
 
@@ -32,6 +32,6 @@ Para gerenciar custodiantes em um caso de Descoberta Eletrônica Avançada:
 
 Para obter mais informações sobre como gerenciar e exibir atividades de custodiantes na Descoberta Eletrônica Avançada, consulte:
 
-- [Trabalhar com custodiantes e fontes de dados não custodiantes na Descoberta Eletrônica Avançada](/microsoft-365/compliance/managing-custodians)
+- [Trabalhar com custodiantes e fontes de dados não custodiantes na Descoberta Eletrônica Avançada](https://docs.microsoft.com/microsoft-365/compliance/managing-custodians)
 
-- [Exibir a atividade de auditoria do custodiante](/microsoft-365/compliance/view-custodian-activity).
+- [Exibir a atividade de auditoria do custodiante](https://docs.microsoft.com/microsoft-365/compliance/view-custodian-activity).

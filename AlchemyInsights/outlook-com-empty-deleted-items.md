@@ -1,5 +1,5 @@
 ---
-title: Esvaziar a pasta itens excluídos no Outlook.com
+title: Esvaziar a pasta Itens Excluídos em Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 6dae0a3b53972d8a75e660f5669656b84f3269d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f17cefcc981fc2637aa0c90f4b476289b97e7969a26588664baf67485daf5d5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672440"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111784"
 ---
-# <a name="empty-the-deleted-items-folder"></a>Esvaziar a pasta itens excluídos
+# <a name="empty-the-deleted-items-folder"></a>Esvaziar a pasta Itens Excluídos
 
-1. Abra a pasta itens excluídos e selecione **pasta vazia**.
-2. Selecione **itens recuperáveis** na parte superior da página e selecione **pasta vazia** novamente.
+1. Abra sua pasta Itens Excluídos e selecione **Pasta vazia**.
+2. Selecione **Itens recuperáveis** na parte superior da página e selecione **Pasta vazia novamente.**
 
-**Não é possível esvaziar a pasta itens excluídos**
+**Não é possível esvaziar a pasta Itens Excluídos**
 
-- Se você tiver excluído muitos emails, pode levar algum tempo para que esses itens sejam movidos ou excluídos da pasta itens excluídos. Deixe a janela do navegador aberta enquanto a exclusão ocorre.
+- Se você tiver excluído muitos emails, pode levar algum tempo para que esses itens se movam ou sejam excluídos da pasta Itens Excluídos. Deixe a janela do navegador aberta enquanto a exclusão ocorre.
 - Se o email ainda não for excluído corretamente, selecione um lote menor para excluir.
-- Se o email excluído retornar, talvez você tenha excluído muito email recentemente. Tente novamente mais tarde.
+- Se o email excluído voltar, pode ser porque você excluiu muitos emails recentemente. Tente novamente mais tarde.

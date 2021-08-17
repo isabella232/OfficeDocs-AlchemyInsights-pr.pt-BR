@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502380"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314904"
 ---
 # <a name="billing-and-payment"></a>Cobrança e pagamento
 
@@ -46,8 +46,7 @@ Se você adicionou um novo cartão e ainda está recebendo um aviso de recusa no
 
 4. Para usar um método de pagamento existente, escolha um na lista suspensa e selecione **Substituir**.
 
-    > [!NOTE]
-    > Se você tiver assinaturas associadas a um perfil de cobrança, só poderá usar um cartão de crédito ou débito para pagar por eles. Se você tiver contas bancárias listadas na página **Métodos de pagamento**, elas não estarão disponíveis para seleção na lista suspensa.
+    **Observação**: se você tiver assinaturas associadas a um perfil de cobrança, só poderá usar um cartão de crédito ou débito para pagar por elas. Se você tiver contas bancárias listadas na página **Métodos de pagamento**, elas não estarão disponíveis para seleção na lista suspensa.
 
 5. Para adicionar um novo método de pagamento, marque **Adicionar método de pagamento**.
 
@@ -55,10 +54,10 @@ Se você adicionou um novo cartão e ainda está recebendo um aviso de recusa no
 
 7. O novo método de pagamento já está selecionado na lista suspensa. Selecione **Substituir**.
 
-Para saber mais, consulte [Gerenciar métodos de pagamento](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Para saber mais, consulte [Gerenciar métodos de pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Frequência de cobrança**
 
 As contas são geradas mensalmente ou anualmente, dependendo da frequência de cobrança escolhida no check-out.  
 
-**Observação**: pedidos com cobrança anual podem receber uma fatura a médio prazo se alterações foram feitas, como adicionar ou remover licenças. [Altere a frequência de cobrança.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Observação**: pedidos com cobrança anual podem receber uma fatura a médio prazo se alterações foram feitas, como adicionar ou remover licenças. [Altere a frequência de cobrança.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)

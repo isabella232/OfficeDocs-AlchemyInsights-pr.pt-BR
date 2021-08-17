@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9094dcdc4507f52da1dd7c95f83aa98bab1446639d2d9f52eb3a7bc849dc183c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d27d570a7bc0f2c1081ba7fd52264a20bf25a453
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888394"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314832"
 ---
 # <a name="fix-connection-policy"></a>Corrigir política de conexão
 
@@ -33,7 +33,6 @@ O email foi marcado como seguro e entregue à Caixa de Entrada do usuário porqu
 
 4. Revise as entradas na seção **Sempre permitir** mensagens da seção de endereços IP ou intervalo de endereços a seguir e veja se Ativar **lista segura** está selecionada.
 
-   > [!NOTE]
-   > A Microsoft assina fontes terceirizadas de remetentes confiáveis. Se a lista segura estiver habilitada, esses remetentes confiáveis não são marcados erroneamente como spam. Recomendamos selecionar essa opção, pois ela reduzirá o número de falsos positivos (emails bons que são classificados como spam) que você recebe.
+   **Observação**: a Microsoft se inscreve em fontes de terceiros de senders confiáveis. Se a lista segura estiver habilitada, esses remetentes confiáveis não são marcados erroneamente como spam. Recomendamos selecionar essa opção, pois ela reduzirá o número de falsos positivos (emails bons que são classificados como spam) que você recebe.
 
 Para obter mais informações, confira [Configurar a filtragem da conexão](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-connection-filter-policy).
