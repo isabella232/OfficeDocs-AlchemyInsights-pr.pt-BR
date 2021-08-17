@@ -1,5 +1,5 @@
 ---
-title: Termos ausentes do repositório de termos do SharePoint Online
+title: Termos ausentes do SharePoint Online Term Store
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,43 +11,42 @@ localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 06711c289365c0fcdf71cf9cccf3cfc53511495a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d99458d6f9b65e44ad5945c909b9a8861cf0b1f23463fcdfd5b8351b1c08d670
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750439"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106395"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>Habilitando a criptografia BitLocker com o Intune
+# <a name="enabling-bitlocker-encryption-with-intune"></a>Habilitando a criptografia bitlocker com o Intune
 
-A política do Intune Endpoint Protection pode ser usada para definir configurações de criptografia do Boitlocker para dispositivos Windows, conforme descrito em: Windows10 (e posterior) configurações para proteger dispositivos usando o Intune
+A Política de Endpoint Protection do Intune pode ser usada para configurar configurações de criptografia do Boitlocker para dispositivos Windows conforme descrito em : configurações do Windows10 (e posterior) para proteger dispositivos usando o Intune
 
-Você deve estar ciente de que muitos dispositivos mais recentes que executam o Windows 10 dão suporte à criptografia automática do BitLocker, que é disparada sem a aplicação da política de MDM. Isso pode afetar a aplicação da política se as configurações não padrão forem configuradas. Confira mais detalhes na seção perguntas frequentes.
+Você deve estar ciente de que muitos dispositivos mais novos que executam Windows 10 suportam criptografia automática de bitlocker que é disparada sem o aplicativo de política MDM. Isso pode afetar a aplicação da política se as configurações não padrão estão configuradas. Consulte Perguntas frequentes para obter mais detalhes.
 
 
-Perguntas frequentes   p: Quais edições do Windows dão suporte à criptografia de dispositivo usando a política do Endpoint Protection?
- A: as configurações na política do Intune Endpoint Protection são implementadas usando o CSP do BitLocker.Nem todas as edições nem versões do Windows dão suporte ao CSP do BitLocker. 
-      No momento, edições do Windows: Enterprise; Educação, Mobile, Mobile Enterprise e Professional (da compilação 1809 em diante) são suportados.
-
+Perguntas frequentes: Quais edições de Windows suportam a criptografia de dispositivo usando a política Endpoint Protection de segurança?
+R: As configurações no Intune Endpoint Protection Política são implementadas usando o CSP do Bitlocker.  Nem todas as edições nem as builds de Windows suportam o CSP do Bitlocker. Neste momento, Windows edições: Enterprise; Education, Mobile, Mobile Enterprise e Professional (a partir da com build 1809 em diante) são suportados.
 
 
 
-P: se um dispositivo já estiver criptografado com o BitLocker usando as configurações padrão do sistema operacional para o método de criptografia e o nível de codificação (XTS-AES-128), a aplicação de uma política com configurações diferentes disparará novamente a criptografia da unidade com as novas configurações?
+
+P: Se um dispositivo já estiver criptografado com o Bitlocker usando as configurações padrão do sistema operacional para o método de criptografia e a força da codificação (XTS-AES-128) aplicará uma política com configurações diferentes disparará automaticamente a nova criptografia da unidade com as novas configurações?
 
 R: Não. Para aplicar as novas configurações de codificação, a unidade deve primeiro ser descriptografada.
 
-Observação para os dispositivos que estão sendo registrados com o AutoPilot a criptografia automática que ocorre durante o OOBE não é disparada até que a política do Intune seja avaliada, o que permite que as configurações baseadas em políticas sejam usadas no lugar dos padrões do sistema operacional
+Observação Para dispositivos que estão sendo inscritos no Autopilot, a criptografia automática que ocorreria durante o OOBE não é disparada até que a política do Intune seja avaliada, o que permite que as configurações baseadas em política sejam usadas no lugar dos padrões do sistema operacional
 
 
 
 
-P se um dispositivo for criptografado como resultado do aplicativo da política do Intune, ele será descriptografado quando essa política for removida?
+P Se um dispositivo for criptografado como resultado do aplicativo da política do Intune, ele será descriptografado quando essa política for removida?
 
-A: a remoção da política relacionada à criptografia não resulta na descriptografia das unidades que foram configuradas.
-
-
+R: A remoção da política relacionada à criptografia NÃO resulta na descriptografia das unidades que foram configuradas.
 
 
-P: por que a política de conformidade do Intune mostra que meu dispositivo não tem "BitLocker habilitado", mas é?
 
-A: a configuração "BitLocker Enabled" na política de conformidade do Intune utiliza o cliente do atestado de integridade do dispositivo Windows (DHA). Este cliente só mede o estado do dispositivo no momento da inicialização. Portanto, se um dispositivo não tiver sido reiniciado desde que a criptografia BitLocker foi concluída, o serviço de cliente DHA não relatará o BitLocker como ativo.
+
+P: Por que a política de Conformidade do intune mostra que meu dispositivo não tem "Bitlocker Habilitado", mas está?
+
+R: A configuração "Bitlocker habilitado" na política de conformidade do intune utiliza o cliente Windows DHA (Device Health Attestation). Esse cliente mede apenas o estado do dispositivo no momento da inicialização. Portanto, se um dispositivo não tiver sido reiniciado desde que a criptografia do bitlocker foi concluída, o serviço cliente DHA não informará que o bitlocker está ativo.

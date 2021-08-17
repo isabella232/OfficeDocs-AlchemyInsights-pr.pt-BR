@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6251"
 - "9000161"
-ms.openlocfilehash: cf8ada741fd93283513d868869b0e216373f6b7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf4227da85656ee0200ca8a1e4ced10229d7dce6ab91cdbc62f63a41c899c80d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750691"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106458"
 ---
 # <a name="using-teams-shifts"></a>Utilizando os turnos do Teams
 
-Para obter informações sobre como gerenciar o aplicativo turnos, incluindo como configurar turnos, habilitar turnos para usuários e gerenciar o aplicativo turnos, consulte:
+Para obter informações sobre como gerenciar o aplicativo Shifts, incluindo como configurar turnos, habilitar Turnos para usuários e gerenciar o aplicativo Shifts, consulte:
  
-- [Gerenciar o aplicativo turnos para sua organização no Microsoft Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
-- [Habilitar ou desabilitar turnos para usuários específicos em sua organização](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
+- [Gerencie o aplicativo Shifts para sua organização em Microsoft Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
+- [Habilitar ou desabilitar Turnos para usuários específicos em sua organização.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)
 
-Para saber mais sobre os turnos para o Microsoft Teams, incluindo o gerenciamento de um cronograma de turnos, consulte [Shifts for Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
+Para saber mais sobre Shifts for Teams, incluindo o gerenciamento de uma agenda de [Turnos,](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)consulte Shifts for Teams .
 
-A **partir de 30 de junho de 2020**, o Microsoft Staffhub foi desativado. Para obter mais informações, consulte [o Microsoft StaffHub foi desativado](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired).
+**A partir de 30 de junho de 2020,** o Microsoft Staffhub foi retirado. Para obter mais informações, consulte [Microsoft StaffHub has been retired](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired).
 

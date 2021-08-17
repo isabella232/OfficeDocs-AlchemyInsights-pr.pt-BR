@@ -1,5 +1,5 @@
 ---
-title: Saiba mais sobre o licenciamento do Bing Maps
+title: Saiba mais sobre Bing Mapas licenciamento
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9213"
-ms.openlocfilehash: 466d922699ba1a0c1978fd0dbd38e126dc025db3
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: a38a66bb70939a1b520e7133e3dc4d4d661ece7a7512a8a6f263bcc365c71165
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50753932"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077926"
 ---
-# <a name="learn-about-bing-maps-licensing"></a>Saiba mais sobre o licenciamento do Bing Maps
+# <a name="learn-about-bing-maps-licensing"></a>Saiba mais sobre Bing Mapas licenciamento
 
-O serviço Bing Maps oferece várias opções de licenciamento flexíveis que darão suporte às necessidades e aos requisitos técnicos da sua organização. Além disso, com a camada gratuita, você pode começar a criar com o Bing Maps hoje.
+O Bing Mapas oferece várias opções de licenciamento flexíveis que darão suporte às necessidades e aos requisitos técnicos da sua organização. Além disso, com a camada gratuita, você pode começar a criar com Bing Mapas hoje.
 
-Para obter detalhes, consulte [Bing Maps Licensing](https://go.microsoft.com/fwlink/?linkid=2150203).
+Para obter detalhes, consulte [Bing Mapas Licenciamento](https://go.microsoft.com/fwlink/?linkid=2150203).
