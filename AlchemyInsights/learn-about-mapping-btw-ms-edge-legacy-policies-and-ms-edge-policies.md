@@ -1,5 +1,5 @@
 ---
-title: Saiba mais sobre o mapeamento entre políticas herdadas do Microsoft Edge e políticas do Microsoft Edge
+title: Saiba mais sobre o mapeamento entre Versão Prévia do Microsoft Edge políticas e Microsoft Edge políticas
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "9003843"
 - "7095"
-ms.openlocfilehash: f9d65c043ee726fa110b09d38cdd4ee6b72c2d7b
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 6891f2d0ee2b1fe4893d5b6173737f8ba20e2d50ef68e51a764e5f9f1fc7f790
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571771"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087376"
 ---
-# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Saiba mais sobre o mapeamento entre políticas herdadas do Microsoft Edge e políticas do Microsoft Edge
+# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Saiba mais sobre o mapeamento entre Versão Prévia do Microsoft Edge políticas e Microsoft Edge políticas
 
-As políticas de grupo do Microsoft Edge herdadas (versões 45 e anteriores) e as configurações de gerenciamento de dispositivo móvel (MDM) são mapeadas para as políticas relevantes do Microsoft Edge versão 80. Para saber mais, confira [Microsoft Edge Legacy to Microsoft Edge Policy Mapping](https://go.microsoft.com/fwlink/?linkid=2141665).
+As políticas de grupo do Versão Prévia do Microsoft Edge (versões 45 e anteriores) e as configurações de Gerenciamento de Dispositivo Móvel (MDM) mapeiam para as políticas relevantes do Microsoft Edge versão 80. Para saber mais, consulte [Versão Prévia do Microsoft Edge para Microsoft Edge de política.](https://go.microsoft.com/fwlink/?linkid=2141665)

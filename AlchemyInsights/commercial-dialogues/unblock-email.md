@@ -12,20 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: 17f447a12013f5ace0e85b38d95937abcf9cc7d60afbeef8dddd1c3315eb3467
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 662bf9929ebe2dd7a13d6fe355760bfaff58103ae599949282f86da4b7e2a8e7
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53994709"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890510"
 ---
 # <a name="unblock-email"></a>Desbloquear email
 
 Se a conta de email de um usuário estiver bloqueada para envio de spam, veja como fazer isso novamente:
 
 1. Redefinir a senha da conta afetada *imediatamente*. Não envie a nova senha para o usuário por email. Isso impede que qualquer pessoa acesse para enviar spam.
-2. Vá para o Centro de Conformidade & segurança e veja se a conta está na lista [Usuários Restritos](https://protection.office.com/#/restrictedusers).
-3. Escolha o **ícone Pesquisar** e insira o nome de usuário do usuário restrito. Por exemplo, se o endereço de email do usuário for *rob@contoso.com*, basta inserir **rob**.
-4. Se a conta estiver lá, selecione **Desbloquear**. Siga as etapas no painel de sobrevoos e selecione **Sim** para confirmar.  
-    > [!NOTE]
-    > Depois de desbloqueado, a conta deve ser capaz de começar a enviar mensagens em 3 a 4 horas.
+2. Acesse o portal Microsoft 365 Defender email em Email & Colaboração Usuários restritos para ver se a <https://security.microsoft.com> \>  \>  \>  conta está na lista. Se necessário, use a caixa **Pesquisar** para encontrar o usuário na lista.
+3. Se o usuário estiver na lista, selecione o usuário e selecione **Desbloquear**. Siga as etapas no painel de sobrevoos e selecione **Sim** para confirmar.
+
+   > [!NOTE]
+   > Depois de desbloqueado, a conta deve ser capaz de começar a enviar mensagens em 3 a 4 horas.
+
+Para obter mais informações, [consulte Remove blocked users from the Restricted users portal](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam).

@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5cf5a16b4975b6307631858dfa934ff85376561d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: c5b9c550d02e5201572f2e55154988a33128a047ab373134a59188f6ab59820b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464335"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890586"
 ---
 # <a name="run-a-message-trace"></a>Executar rastreamento de uma mensagem
 
-Os rastreamentos de mensagens são executados na seção Fluxo de emails do Centro de Conformidade & Segurança do Office 365.
+Você pode executar um rastreamento de mensagem **Exchange rastreamento de** mensagens no portal Microsoft 365 Defender em <https://security.microsoft.com> .
 
-Para saber como executar um rastreamento de mensagem, consulte Rastreamento de mensagens no Centro de Conformidade e Segurança [& do Office 365.](https://go.microsoft.com/fwlink/?linkid=2103855)
+Para obter mais informações, consulte [Rastreamento de mensagens no portal Microsoft 365 Defender portal](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc)

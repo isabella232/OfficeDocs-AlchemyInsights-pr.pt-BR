@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029720"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895875"
 ---
 # <a name="expired-subscription"></a>Assinatura expirada
 
@@ -35,7 +35,7 @@ Parece que você tem uma ou mais assinaturas expiradas. Se você quiser continua
 3. No painel **Reativar esta assinatura**, selecione um método de pagamento na lista suspensa ou selecione **Adicionar método de pagamento**.
 4. Selecione **Salvar**.
 
-Para saber mais, consulte [Reativar sua assinatura](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Para saber mais, consulte [Reativar sua assinatura](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Fazer uma nova compra**
   
@@ -44,4 +44,4 @@ Para saber mais, consulte [Reativar sua assinatura](/microsoft-365/commerce/subs
 3. Insira o número de licenças de que você precisa e escolha se deve pagar por mês ou por todo o ano. Escolha se deseja atribuir licenças automaticamente a todos os que não têm uma licença no momento. Em **seguida, escolha Check-out agora**.
 4. Siga as etapas restantes para concluir o check-out.
 
-Para saber mais, confira [Comprar outra assinatura](/microsoft-365/commerce/buy-another-subscription).
+Para saber mais, confira [Comprar outra assinatura](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
