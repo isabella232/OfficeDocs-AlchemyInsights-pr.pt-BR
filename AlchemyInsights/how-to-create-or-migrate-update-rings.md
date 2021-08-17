@@ -1,5 +1,5 @@
 ---
-title: Como criar ou migrar toques de atualização
+title: Como criar ou migrar anéis de atualização
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "6718"
 - "9003773"
-ms.openlocfilehash: 0d43e2d5a87e4b941fcc91671b41ea0aabc5bffe
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: 08e1163adf8624e79a430cb84938ed4ba5baa82e42bd9612bde8ad18efd0b3cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366488"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078790"
 ---
-# <a name="how-to-create-or-migrate-update-rings"></a>Como criar ou migrar toques de atualização
+# <a name="how-to-create-or-migrate-update-rings"></a>Como criar ou migrar anéis de atualização
 
-Siga as etapas abaixo se você configurou as configurações de atualização do Windows 10 no portal clássico do Intune e queria migrá-las para o Intune no portal do Azure:
+Siga as etapas abaixo se você configurou Windows 10 configurações de atualização no portal clássico do Intune e quis migrá-las para o Intune no portal do Azure:
 
-1. Vá para o portal do Azure e clique em **todos os serviços**.
-2. No campo **filtro** , digite **Intune**. Nos resultados, clique em **Microsoft Intune**.
-3. Clique em **software atualiza**a  >  **atualização do Windows 10 toques**  >  **criados**.
+1. Vá para o portal do Azure e clique **em Todos os Serviços.**
+2. No campo **Filtro,** digite **Intune**. Nos resultados, clique em **Microsoft Intune**.
+3. Clique **em Atualizações de software Windows 10** Atualizar  >  **Anéis**  >  **criar**.
 4. Insira um nome, uma descrição e clique em **Configurar**.
-5. Defina as configurações de atualização de seu software de organização.
-6. Selecione **OK**.
-7. Em **criar anel de atualização**, selecione **criar**.
+5. Configure as configurações de atualização de software de suas organizações.
+6. Clique em **OK**.
+7. Em **Criar Anel de Atualização,** selecione **Criar**.
