@@ -1,5 +1,5 @@
 ---
-title: 1374 resolver duas caixas de correio howto
+title: 1374 Resolver duas caixas de correio howto
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 048c527b26d138535550b5bae399d0ce9fbce0a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 676abe299daef2a4b423faab6e9bc125cd6a7e47733a10ff46f9f492cc5ad34d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720886"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110056"
 ---
 # <a name="a-user-has-two-mailboxes"></a>Um usuário tem duas caixas de correio
 
-Ambientes híbridos que usam o Azure Active Directory Connect (AAD Connect) ou DirSync podem fazer com que um usuário tenha duas caixas de correio: uma no local e outra na nuvem. Uma caixa de correio duplicada pode ser criada em qualquer lugar.
+Ambientes híbridos que usam Azure Active Directory Conexão (AAD Conexão) ou DirSync podem acidentalmente fazer com que um usuário tenha duas caixas de correio: uma local e outra na nuvem. Uma caixa de correio duplicada pode ser criada em qualquer lugar.
 
-Para resolver esse problema, consulte [como recuperar quando uma caixa de correio existe no Exchange Online e no local](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Se você quiser saber mais sobre como evitar que isso aconteça no futuro, consulte [meu usuário tem uma caixa de correio no local e no Exchange Online. Ajuda!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+Para resolver esse problema, consulte [How to recover when a mailbox exists in both Exchange Online and on-premises](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Se você quiser saber mais sobre como evitar que isso aconteça no futuro, consulte My user has a mailbox both [on-premises and in Exchange Online. Ajuda!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).

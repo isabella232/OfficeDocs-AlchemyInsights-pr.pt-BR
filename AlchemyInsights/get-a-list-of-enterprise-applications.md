@@ -1,5 +1,5 @@
 ---
-title: Obter uma lista de Aplicativos Empresariais
+title: Obter uma lista de Enterprise Aplicativos
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "9837"
-ms.openlocfilehash: f5c1a77e415d4bbaa5718a6668af95934db7e5ae
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 99e4f7e676610103355736ce847930c6c5d2d7532c4756ac4551a8d9b3020176
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51379770"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116716"
 ---
-# <a name="get-a-list-of-enterprise-applications"></a>Obter uma lista de Aplicativos Empresariais
+# <a name="get-a-list-of-enterprise-applications"></a>Obter uma lista de Enterprise Aplicativos
 
 1. Para **obter** uma lista de aplicativos corporativos (todos os aplicativos ou filtrados por nome de exibição, ID, URIs de identificador etc.) por meio do comando do Powershell, consulte [Get-AzureADApplication (AzureAD)](https://docs.microsoft.com/powershell/module/azuread/get-azureadapplication).
 2. Para obter uma lista de objetos de entidade de serviço (todos os objetos ou filtrados por ID) por meio do comando do Powershell, consulte [Get-AzureADServicePrincipal (AzureAD)](https://docs.microsoft.com/powershell/module/azuread/get-azureadserviceprincipal).
@@ -52,9 +52,9 @@ ms.locfileid: "51379770"
 
 7. **Precisa exportar uma lista de aplicativos do Azure** não usados – Relatório de auditoria
 
-    O Azure AD pode mostrar logs de aplicativos por apenas até 30 dias, desde que você tenha a licença do Azure AD Premium.
+    O Azure AD pode mostrar logs de aplicativos por apenas até 30 dias, desde que você tenha Azure AD Premium licença.
     Você tem duas opções para manter os dados por mais de 30 dias. Você pode usar as APIs de Relatório do [Azure AD](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-reporting-api) para recuperar os dados programaticamente e armazená-los em um banco de dados. Como alternativa, você pode integrar logs de auditoria a um sistema SIEM de terceiros.
 
     Você também pode baixar a lista de aplicativos para todos os aplicativos e aplicativos de propriedade no Azure Active directory>Registros de aplicativos>Baixar>Todos os aplicativos/aplicativos pertencentes.
 
-    Para obter uma lista de aplicativos por meio do MS Graph, consulte [List applications - Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/application-list) e application resource type - Microsoft Graph [v1.0](https://docs.microsoft.com/graph/api/resources/application).
+    Para obter uma lista de aplicativos por meio do MS Graph, consulte Aplicativos de lista [- Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/application-list) e tipo de recurso de aplicativo [- Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/resources/application).

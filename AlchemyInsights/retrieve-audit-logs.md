@@ -13,23 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "10964"
 - "3100005"
-ms.openlocfilehash: 0a7be6ca17ff9c1934cf09d7e660da295179553b30494c409c345c5e3b5c5fd8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6ca61775d18fb5501911fb3334ef499ff1f06a6b42634367eaf546fc322f822c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54074488"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889634"
 ---
 # <a name="retrieve-the-audit-logs"></a>Recuperar os logs de auditoria
 
 Quando você abre o log de auditoria pela primeira vez, ele está vazio. Você tem que fazer uma pesquisa para ver seu conteúdo. Veja como fazer uma pesquisa geral de todas as atividades:
 
-1. Vá para a página de pesquisa de log de Auditoria (ou Centros de administração > **Centro de conformidade do Microsoft 365** > **Pesquisa e investigação** > **Pesquisa de log de auditoria**).
+1. Siga uma das seguintes etapas:
+   - No Centro de conformidade do Microsoft 365 em <https://compliance.microsoft.com>, vá para **Soluções** \> **Auditoria**. Ou para ir direto para a página **Auditoria**, use <https://compliance.microsoft.com/auditlogsearch>.
+   - No portal do Microsoft 365 Defender em <https://security.microsoft.com>, vá para **Auditoria**. Ou para ir direto para a página **Auditoria**, use <https://sip.security.microsoft.com/auditlogsearch>.
 
-1. Na caixa **Atividades**, aceite a opção padrão **Mostrar os resultados de todas as atividades**.
+2. Na página **Auditoria**, verifique se a guia **Pesquisa** está selecionada e defina as seguintes configurações:
+   - **Intervalo de data e hora**: Selecione o intervalo de data/hora nas caixas **Iniciar** e **Fim**.
+   - **Atividades**: Verifique se **Mostrar resultados de todas atividades** está selecionado.
+   - **Usuários**: aceite o valor padrão em branco para retornar resultados para todos os usuários, ou insira um ou mais usuários.
 
-1. Especifique o intervalo de datas e, na caixa **Usuários**, aceite o padrão para retornar resultados para todos os usuários ou escolha o nome de usuário do usuário que deseja investigar.
+3. Ao concluir, clique em **Pesquisar**. As atividades aparecem na nova página **Pesquisa de auditoria**.
 
-1. Selecione **Pesquisar**. As atividades são exibidas em **Resultados**.
+4. Nos resultados, clique em **Filtrar resultados** e digite **Set-Mailbox** na caixa de filtro de atividade.
 
-1. Para exibir detalhes, selecione uma atividade e escolha **Mais informações** para visualizar mais informações, como o Cliente, Usuário que realizou a ação, e assim por diante.
+5. Selecione um registro de auditoria nos resultados. No submenu **Detalhes**, clique em **Mais informações** para exibir mais informações, como Cliente, Usuário que executou a ação e assim por diante.

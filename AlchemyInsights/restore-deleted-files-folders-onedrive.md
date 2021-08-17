@@ -14,19 +14,19 @@ ms.custom:
 - "3172"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 619c796dc1675cea33186d12af9df60adf2aaf31
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b02cc8ce9bfe9c87b23d17aba0809a28cc558390812473914d378d60ea30a660
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808479"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109804"
 ---
 # <a name="restore-deleted-files-or-folders-in-onedrive"></a>Restaurar arquivos ou pastas excluídos no OneDrive
 
-Se você excluir acidentalmente um arquivo ou uma pasta no OneDrive, poderá recuperá-lo mais tarde da lixeira do OneDrive.
+Se você excluir acidentalmente um arquivo ou pasta no OneDrive, poderá recuperá-lo posteriormente OneDrive lixeira.
 
 * [Restaurar arquivos ou pastas excluídos no OneDrive](https://support.office.com/article/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
-Se vários arquivos do OneDrive forem excluídos, substituídos, corrompidos ou infectados por malware, você poderá restaurar todo o OneDrive para um horário anterior.
+Se muitos dos seus arquivos OneDrive são excluídos, substituídos, corrompidos ou infectados por malware, você pode restaurar todo o OneDrive para uma hora anterior.
 
-* [Restaurar o OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+* [Restaure sua OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
