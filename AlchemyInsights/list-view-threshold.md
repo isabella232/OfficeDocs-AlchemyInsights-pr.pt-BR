@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: a92bb161142f79a4288aa8f3b456b5223a90bc51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 19f4456a4cc8b835e46fc82b6112e0829f561d6a8f4be80091b7f328c5f29ee8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675610"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054066"
 ---
 # <a name="list-view-threshold"></a>Limite da exibição da lista
 
 O limite do modo de exibição de lista serve para manter o desempenho do serviço. O limite não pode ser alterado no SharePoint Online. Para evitar chegar neste limite, confira [Gerenciar grandes listas e bibliotecas no SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59).
 
-Você também pode receber esse erro ao tentar compartilhar ou interromper a herança de uma pasta. Confira [Erro de Compartilhamento/Interromper Herança](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).
+Você também pode receber esse erro ao tentar compartilhar ou interromper a herança de uma pasta. Consulte [Erro de compartilhamento/interrupção de herança](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).
