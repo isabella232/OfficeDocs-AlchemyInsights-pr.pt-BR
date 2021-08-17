@@ -13,24 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5b58803719df700290f495cb2d2d6742f072420a2a1d393534ca165bb5a14fbb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017120"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58303565"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>Encontre o endereço IP no log de auditoria
 
-1. O endereço IP que corresponde a uma atividade executada por um usuário ou administrador é mostrado nos logs de auditoria. As informações do cliente também são registradas. Veja como identificar o endereço IP:
+O endereço IP que corresponde a uma atividade executada por um usuário ou administrador é mostrado nos logs de auditoria. As informações do cliente também são registradas. Veja como identificar o endereço IP:
 
-1. Vá para o centro de conformidade [Office 365 segurança & segurança.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Selecione **Pesquisa de** log de auditoria de  >  **[pesquisa](https://go.microsoft.com/fwlink/?linkid=2103759)**.
-    > [!NOTE]
-    > Se você vir um aviso de que precisa ativar a auditoria, vá em frente e a a ligue agora. Se esse recurso não estiver habilitado, os resultados da pesquisa não poderão puxar dados de datas anteriores.
-1. Se você estiver interessado em uma atividade específica, selecione-a na lista **Atividades;** caso contrário, por padrão, todas as atividades serão retornadas para o usuário selecionado. Observe que determinadas atividades podem não estar disponíveis para seleção no menu **Atividades;** no entanto, esses itens de auditoria serão retornados se **Mostrar resultados de todas as atividades** estiver selecionado (configuração padrão).
-1. Especifique o intervalo de datas e, no campo **Usuários,** selecione o nome de usuário do usuário que você deseja investigar.
-1. Selecione **Pesquisar**. As atividades são exibidas em **Resultados**. Você pode ver o endereço IP de cada atividade.
-1. Para exibir detalhes, selecione uma atividade e selecione **Mais Informações**.
+1. Faça uma das seguintes ações:
+   - No Centro de conformidade do Microsoft 365 em <https://compliance.microsoft.com>, vá para **Soluções** \> **Auditoria**. Ou para ir direto para a página **Auditoria**, use <https://compliance.microsoft.com/auditlogsearch>.
+   - No portal do Microsoft 365 Defender em <https://security.microsoft.com>, vá para **Auditoria**. Ou para ir direto para a página **Auditoria**, use <https://security.microsoft.com/auditlogsearch>.
 
-Para saber mais, confira Pesquisar o log [de auditoria Office 365 para solucionar problemas de cenários comuns.](https://go.microsoft.com/fwlink/?linkid=2103944)
+    **Observação**: se você vir um aviso de que precisa ativar a auditoria, vá em frente e a a ligue agora. Se esse recurso não estiver habilitado, os resultados da pesquisa não poderão puxar dados de datas anteriores.
+
+2. Na página **Auditoria**, verifique se a guia **Pesquisa** está selecionada e defina as seguintes configurações:
+   - **Intervalo de data e hora**: Selecione o intervalo de data/hora nas caixas **Iniciar** e **Fim**.
+   - **Atividades**: Se você estiver interessado em uma atividade específica, selecione-a na lista; caso contrário, o valor padrão **Mostrar resultados de todas as atividades** retornará todas as atividades.. Observe que determinadas atividades podem não estar disponíveis para seleção; no entanto, esses itens de auditoria serão retornados se **Mostrar resultados de todas as atividades** estiver selecionado.
+   - **Usuários**: aceite o valor padrão em branco para retornar resultados para todos os usuários, ou insira um ou mais usuários.
+
+3. Ao concluir, clique em **Pesquisar**. As atividades aparecem na nova página **Pesquisa de auditoria**.
+
+4. Nos resultados, clique em **Filtrar resultados** e digite **Set-Mailbox** na caixa de filtro de atividade.
+
+5. Selecione um registro de auditoria nos resultados para abrir o flyout **Details.**
+
+Para obter mais informações, consulte [Pesquisar o log de auditoria para investigar problemas comuns de suporte.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: dab7eacb617c8f3a8bd63634e974166b6e448d75
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: ad743cea4b8735b35b90bd5bf3d0b5b933184ed82858e828a68beb2ca2f8270c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464313"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103540"
 ---
 # <a name="block-user-made-email-signatures"></a>Bloquear assinaturas de email feitas pelo usuário
 
-A solução a seguir só se aplica a assinaturas de email criadas no Outlook na Web. Você só pode bloquear assinaturas no aplicativo do Outlook se tiver uma Exchange Server.
+A solução a seguir só se aplica a assinaturas de email criadas Outlook na Web. Você só pode bloquear assinaturas no aplicativo Outlook se você tiver uma Exchange Server local.
 
 1. No centro de administração, escolha **Centros de administração**  >  **Exchange**.
-2. Clique **em permissões políticas** do Outlook Web  >  **App**.
+2. Clique **em permissões Outlook Web App**  >  **políticas**.
 3. Selecione a política e clique no ícone de lápis para editá-la.
 4. Clique **em recursos** Mais  >  **opções**.
 5. Em **Experiência do usuário,** desempure a caixa de seleção **Assinatura de** email e clique em **Salvar**.
