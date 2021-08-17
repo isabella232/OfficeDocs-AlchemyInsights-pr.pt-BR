@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "12623"
-ms.openlocfilehash: 3af333712cd7b269bd2ec61e1912d14fd38d2ac501831f210cd0ef68f987f560
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: da394ca319a6adaaf0e4c450008cee66ff59da3721dcde2df515a6140095b61a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54504035"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892967"
 ---
 # <a name="bulk-add-custodians-in-advanced-ediscovery"></a>Em massa adicionar custodiantes em Descoberta Eletrônica Avançada
 
- Para adicionar custodiantes em massa na Descoberta Eletrônica avançada, importe vários custodiantes de uma vez usando um arquivo CSV que contém as informações necessárias para adicionar os custodiantes a um caso. Siga esses passos:
+ Para adicionar custodiantes em massa na Descoberta Eletrônica Avançada, importe vários custodiantes de uma vez usando um arquivo CSV que contém as informações necessárias para adicionar os custodiantes a um caso. Siga estas etapas:
 
 1. Acesse o [Centro de conformidade do Microsoft 365](https://compliance.microsoft.com/) > **Descoberta eletrônica** > **Avançada e Descoberta eletrônica** selecione seu caso de Descoberta eletrônica.
 
@@ -30,5 +30,5 @@ ms.locfileid: "54504035"
 
 1. Siga as etapas no assistente para adicionar custodiantes em massa.
 
-Para obter mais informações sobre como importar custodiantes, consulte [Importar custodiantes para um caso de descoberta eletrônica avançada](/microsoft-365/compliance/bulk-add-custodians).
+Para obter mais informações sobre como importar custodiantes, consulte [Importar custodiantes para um caso de descoberta eletrônica avançada](https://docs.microsoft.com/microsoft-365/compliance/bulk-add-custodians).
 

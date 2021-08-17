@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "11228"
 - "9005470"
-ms.openlocfilehash: 0f2e3d2d2cfa205f95a5d5dc84f7293fbee165a2976248de75a96379becd6925
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1eb0d949693916d1192fb75132207cd6a52e75840899e57c089a5f5aaca3ca88
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54072184"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893123"
 ---
 # <a name="attack-surface-reduction-rules"></a>Regras de redução de superfície de ataque
 
 A exclusão de arquivos ou pastas pode reduzir drasticamente a proteção fornecida pelas regras de redução da superfície de ataque. Os arquivos que seriam bloqueados por uma regra podem ser executados e nenhum relatório ou evento é registrado. Uma exclusão se aplica a todas as regras que permitem exclusões.
 
-As exclusões ASR usam a mesma sintaxe que as exclusões do Microsoft Defender Antivírus. Para obter detalhes, consulte [Configurar e validar exclusões para verificações do Microsoft Defender Antivírus](/microsoft-365/security/defender-endpoint/configure-exclusions-microsoft-defender-antivirus). Para evitar problemas, análise [Erros comuns a evitar ao definir exclusões](/microsoft-365/security/defender-endpoint/common-exclusion-mistakes-microsoft-defender-antivirus).
+As exclusões ASR usam a mesma sintaxe que as exclusões do Microsoft Defender Antivírus. Para obter detalhes, consulte [Configurar e validar exclusões para verificações do Microsoft Defender Antivírus](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/configure-exclusions-microsoft-defender-antivirus). Para evitar problemas, análise [Erros comuns a evitar ao definir exclusões](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/common-exclusion-mistakes-microsoft-defender-antivirus).
 
-Nem todas as regras ASR suportam exclusões. Para validar se sua regra oferece suporte a exclusões, confira a tabela [Regras de redução da superfície de ataque](/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules).
+Nem todas as regras ASR suportam exclusões. Para validar se sua regra oferece suporte a exclusões, confira a tabela [Regras de redução da superfície de ataque](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules).
 
 ## <a name="attack-surface-reduction-rules"></a>Regras de redução de superfície de ataque
 
@@ -34,11 +34,11 @@ A superfície de ataque da sua organização inclui todos os locais onde um inva
 
 Para mais informações, confira:
 
-- [Mapear a regra ASR GUID para nomear](/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)
+- [Mapear a regra ASR GUID para nomear](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)
 - Requisitos das regras ASR:
-    - [Windows 10 Pro, versão 1709 ou posterior](/windows/whats-new/whats-new-windows-10-version-1709)
-    - [Windows 10 Enterprise, versão 1709 ou posterior](/windows/whats-new/whats-new-windows-10-version-1709)
-    - [Windows Server, versão 1803 (canal semestral) ou posterior](/windows-server/get-started/whats-new-in-windows-server-1803)
+    - [Windows 10 Pro, versão 1709 ou posterior](https://docs.microsoft.com/windows/whats-new/whats-new-windows-10-version-1709)
+    - [Windows 10 Enterprise, versão 1709 ou posterior](https://docs.microsoft.com/windows/whats-new/whats-new-windows-10-version-1709)
+    - [Windows Server, versão 1803 (canal semestral) ou posterior](https://docs.microsoft.com/windows-server/get-started/whats-new-in-windows-server-1803)
 
 ## <a name="identify-the-correct-exclusion-to-apply"></a>Identificar a exclusão correta a ser aplicada
 
@@ -50,15 +50,15 @@ Para mais informações, confira:
     - Faça a exclusão o mais estrita possível.
     - Aplique um caractere curinga onde necessário (por exemplo, substitua a variável de Usuário).
 
-1. Aplique a exclusão de acordo com suas necessidades de implantação. Para obter detalhes, confira [Personalizar regras de redução da superfície de ataque](/microsoft-365/security/defender-endpoint/customize-attack-surface-reduction).
+1. Aplique a exclusão de acordo com suas necessidades de implantação. Para obter detalhes, confira [Personalizar regras de redução da superfície de ataque](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/customize-attack-surface-reduction).
 
 ## <a name="exclusion-is-not-honored"></a>A exclusão não é honrada
 
-1. Determine se a regra oferece suporte a exclusões. Para obter detalhes, confira [Regras de redução da superfície de ataque](/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules).
+1. Determine se a regra oferece suporte a exclusões. Para obter detalhes, confira [Regras de redução da superfície de ataque](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules).
 
-1. Análise as exclusões aplicadas e verifique os dados do evento quanto a erros de digitação ou caracteres curinga interpretados incorretamente. Para obter mais informações, confira [ Tipos de exclusão suportados ](/microsoft-365/security/defender-endpoint/mac-exclusions#supported-exclusion-types)
+1. Análise as exclusões aplicadas e verifique os dados do evento quanto a erros de digitação ou caracteres curinga interpretados incorretamente. Para obter mais informações, confira [ Tipos de exclusão suportados ](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/mac-exclusions#supported-exclusion-types)
 
-1. se o impacto da regra for muito alto, considere mover a regra (de volta) para o modo de auditoria para realizar uma validação adicional. Para obter detalhes, confira [Testar como os recursos do Microsoft Defender para Ponto de Extremidade funcionam no modo de auditoria](/microsoft-365/security/defender-endpoint/audit-windows-defender).
+1. se o impacto da regra for muito alto, considere mover a regra (de volta) para o modo de auditoria para realizar uma validação adicional. Para obter detalhes, confira [Testar como os recursos do Microsoft Defender para Ponto de Extremidade funcionam no modo de auditoria](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/audit-windows-defender).
 
 1. Colete dados de suporte para abrir um caso de suporte usando este comando:
     

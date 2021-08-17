@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 52a6fff1cb37d5f02344cfa8135d5080ee47098ea87561111390acaf4201b30d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f16279c447e656548e8ce853353766c5c65df156
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918455"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312747"
 ---
 # <a name="frequent-excel-crashes"></a>Falhas Excel frequentes?
 
@@ -28,8 +28,7 @@ Falhas frequentes Excel podem ser causadas por um complemento defeituoso. Você 
 
 3. Na caixa Add-Ins disponível, desmarcar a caixa de seleção ao lado do complemento que você deseja desabilitar e clique em **OK**.
 
-> [!NOTE]
-> Se Excel falha durante o lançamento, inicie-o no modo Cofre pressionando e segurando Ctrl enquanto você inicia o programa.
+**Observação**: se Excel durante o lançamento, inicie-o no modo Cofre pressionando e segurando Ctrl enquanto você inicia o programa.
   
 Se você ainda estiver com problemas, consulte os seguintes artigos:
   

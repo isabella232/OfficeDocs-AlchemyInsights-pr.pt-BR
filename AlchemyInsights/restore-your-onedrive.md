@@ -1,5 +1,5 @@
 ---
-title: Restaurar o OneDrive
+title: Restaure sua OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: 741c227b5d39282d53d36cefebe9e86290167447
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ab60bc794d50c031e22a7c1497d529f0403dde9b5a45708a54495117c1939f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801280"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109336"
 ---
-# <a name="restore-your-onedrive"></a>Restaurar o OneDrive
+# <a name="restore-your-onedrive"></a>Restaure sua OneDrive
 
-Se vários arquivos do OneDrive forem excluídos, overwritted, corrompidos ou infectados por malware, você poderá restaurar todo o OneDrive para um momento anterior nos últimos 30 dias.
+Se muitos dos seus arquivos OneDrive são excluídos, sobrescritos, corrompidos ou infectados por malware, você pode restaurar todo o OneDrive para uma hora anterior nos últimos 30 dias.
   
-1. Vá para o OneDrive em seu navegador da Web.
+1. Vá para seu OneDrive no navegador da Web.
     
-2. Clique no ícone configurações no canto superior direito e selecione **restaurar o onedrive**.
+2. Clique no Configurações no canto superior direito e selecione **Restaurar seu OneDrive**.
     
-3. Selecione uma data na lista ou escolha **data e hora personalizadas**.
+3. Selecione uma data na lista ou escolha **Data e hora personalizadas.**
     
-4. Clique em **restaurar** para desfazer todas as atividades após a data selecionada. 
+4. Clique **em Restaurar** para desfazer todas as atividades após a data selecionada. 
     
-[Mais ajuda para usar a restauração de arquivos](https://go.microsoft.com/fwlink/?linkid=872874)
+[Mais ajuda usando a restauração de arquivos](https://go.microsoft.com/fwlink/?linkid=872874)
   
 
