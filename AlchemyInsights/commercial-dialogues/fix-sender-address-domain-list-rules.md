@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930013"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896099"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Corrigir Endereço do Remetente/Regras de lista de domínios
 
-Uma política anti-spam em seu locatário afetou essa mensagem. O remetente da mensagem foi encontrado em uma lista Permitir ou Bloquear. Para revisar a política, faça o seguinte:
+Uma de suas políticas anti-spam afetou essa mensagem. O remetente da mensagem foi encontrado em uma lista Permitir ou Bloquear. Para revisar as políticas, faça as seguintes etapas:
 
-1. Vá para o [Centro Office 365 Segurança & Conformidade](https://go.microsoft.com/fwlink/p/?linkid=2077143)e vá para **Política** de Gerenciamento de Ameaças  >    >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Na guia **Padrão,** se **as configurações Padrão** estiver habilitadas, verifique as listas **Permitir e** **Bloquear** listas .
-3. Na guia **Personalizado,** se as configurações **Personalizadas** estiver habilitadas, revise as políticas selecionando **Editar** política e verificando as listas **Permitir listas** e **Bloquear.**
+1. No portal Microsoft 365 Defender , acesse Email & Políticas de Colaboração & Políticas de Ameaças de Regras <https://security.microsoft.com/>  \>  \>  \> **Anti-spam** na **seção** Políticas.
 
-Para obter mais informações sobre como configurar políticas de filtro de spam, consulte [Configure your spam filter policies](https://go.microsoft.com/fwlink/?linkid=2101431).
+   Para ir diretamente à página de **Políticas antispam**, use <https://security.microsoft.com/antispam>.
+
+2. Na página **Políticas anti-spam,** selecione a política clicando no nome da política (**Tipo** é Política **anti-spam** personalizada ou **Nome** é Política de entrada **Anti-Spam (Padrão)**).
+3. No sobremenu de detalhes exibido, selecione **Editar senders e domínios permitidos** e bloqueados na seção Senders e **domínios permitidos e bloqueados.**
+4. Na seção **Permitido,** revise os senders e domínios clicando em **Gerenciar \<nn\> senders** ou **Permitir domínios**.
+
+Para obter mais informações, consulte [Configure as políticas de anti-spam no EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).
