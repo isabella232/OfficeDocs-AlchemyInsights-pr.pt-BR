@@ -1,5 +1,5 @@
 ---
-title: 1800014 configurar email no aplicativo móvel do Outlook
+title: 1800014 Configurar email no aplicativo Outlook celular
 ms.author: anahitab
 author: anahitab
 manager: dansimp
@@ -16,31 +16,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 218c50e1fb7cccb27001f20682785bab84fbfeb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6bc0d854d7033657bba8f0b72a379f82411dabc1c77d58007b8b93f8179daf5a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801028"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073876"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a>Configurar email no aplicativo móvel do Outlook
+# <a name="set-up-email-in-the-outlook-mobile-app"></a>Configurar email no aplicativo Outlook celular
 
-1. Selecione **introdução** se for a primeira vez que configurar o email no aplicativo móvel. Caso contrário, toque em **menu** e, em seguida, toque em **configurações** \> **Adicionar** conta de \> **email**.
+1. Selecione **Introdução** se for sua primeira vez configurando emails no aplicativo móvel. Caso contrário, toque **em Menu** e toque **Configurações** \> **Adicionar Conta** Adicionar Conta de \> **Email.**
 
-2. Insira seu endereço de email completo e toque em **continuar** ou **adicionar conta**.
+2. Insira seu endereço de email completo e toque **em Continuar** ou **Adicionar Conta.**
 
-3. Insira sua senha de conta de email e toque **em entrar** ou em **Avançar**.
+3. Insira a senha da sua conta de email e toque **em Entrar** ou **Em Seguida.**
 
-4. Se a [autenticação multifator](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) estiver habilitada, verifique o uso do método configurado (código de 6 dígitos, chamada telefônica ou aplicativo Microsoft Authenticator).
+4. Se [a autenticação multifato](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) estiver habilitada, verifique usando o método que você configurar (código de 6 dígitos, chamada telefônica ou Microsoft Authenticator aplicativo).
 
-5. Se as políticas de administração de ti adicionais estiverem vigentes, toque em **Ativar** para habilitá-las.
+5. Se políticas adicionais de administradores de IT estão no local, toque **em Ativar** para habilita-las.
 
-6. O Outlook pode solicitar permissão para acessar seu calendário, contatos e outras informações. Selecione **Sim** ou **permitir**.
+6. Outlook solicitar permissão para acessar seu calendário, contatos e outras informações. Selecione **Sim** ou **Permitir**.
 
-Obtenha instruções detalhadas de configuração do [Outlook para Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) ou [Outlook para IOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) aqui.
+Obter instruções de configuração detalhadas para Outlook [para Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) [ou Outlook para iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) aqui.
   
  **Precisa de ajuda?**
   
-- [Solução de problemas de configuração de email em dispositivos móveis](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [Solucionar problemas de configuração de email em dispositivos móveis](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
 - [Obter ajuda no aplicativo para Outlook para iOS e Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

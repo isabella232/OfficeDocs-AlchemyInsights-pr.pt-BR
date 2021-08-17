@@ -1,5 +1,5 @@
 ---
-title: Filas de chamada
+title: Filas de chamadas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: f905aedc95f5791c51bcff52a2a7a725c159732f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 119496a2a13b4b07bf954702eed95e29984358f03114ed42d44c26a422292836
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819824"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103900"
 ---
-# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Filas de chamadas no Microsoft Teams e Skype for Business 
+# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Filas de chamada em Microsoft Teams e Skype for Business 
 
 Para começar a usar filas de chamada, consulte os links a seguir.
 
