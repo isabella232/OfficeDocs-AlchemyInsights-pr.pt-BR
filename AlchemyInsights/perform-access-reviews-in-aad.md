@@ -1,5 +1,5 @@
 ---
-title: Executar revisões de acesso no Azure Active Directory
+title: Executar avaliações de acesso em Azure Active Directory
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003889"
 - "6943"
-ms.openlocfilehash: a1582345ae33f217d2dc60f53bf05859f04d0f2b
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: f58f35d6e66952347d880a5c443bb47e9deab2798410b5bb32895667572f1f58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680588"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086764"
 ---
-# <a name="perform-access-reviews-in-azure-active-directory"></a>Executar revisões de acesso no Azure Active Directory
+# <a name="perform-access-reviews-in-azure-active-directory"></a>Executar avaliações de acesso em Azure Active Directory
 
-Os revisores designados podem realizar revisões de acesso do Azure Active Directory de associações de grupo, acesso de aplicativo e atribuições de função. Essas revisões ajudam a reduzir os riscos de segurança que sua organização pode enfrentar quando os usuários têm mais acesso do que precisam. Você pode executar revisões de acesso usando [meus aplicativos](https://go.microsoft.com/fwlink/?linkid=2134605) ou [meu acesso](https://go.microsoft.com/fwlink/?linkid=2134505).
+Os revisadores designados podem executar Azure Active Directory de acesso de associações de grupo, acesso a aplicativos e atribuições de função. Essas análises ajudam a reduzir os riscos de segurança que sua organização pode enfrentar quando os usuários têm mais acesso do que precisam. Você pode executar avaliações de acesso usando [Meus Aplicativos](https://go.microsoft.com/fwlink/?linkid=2134605) ou [Meu Acesso.](https://go.microsoft.com/fwlink/?linkid=2134505)

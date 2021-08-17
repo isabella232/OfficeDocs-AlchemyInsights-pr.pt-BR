@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11084"
 - "9003537"
-ms.openlocfilehash: a53a0109c3b974806d04135dd2c102de81ec560f
-ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.openlocfilehash: cefebe63e45caab176ba84a35280378ace7e6b3115c48694ed043a39b4d93c1e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52627225"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890042"
 ---
 # <a name="defender-endpoint-check-sensor-status"></a>Status do sensor de verificação do Ponto de Extremidade
 
@@ -35,11 +35,11 @@ Clicar em qualquer um dos grupos direciona você para a lista de dispositivos, f
 - Dispositivos **Misconfigured** que podem estar relatando parcialmente os dados do sensor ao serviço de Ponto de Extremidade, mas têm erros de configuração que precisam ser corrigidos. Dispositivos mal configurados podem ter um ou uma combinação dos seguintes problemas:
 
     - Sem dados do sensor - os dispositivos pararam de enviar dados do sensor. Alertas limitados podem ser acionados a partir do dispositivo.
-    - Comunicações prejudicadas - A capacidade de comunicação com o dispositivo está prejudicada. O envio de arquivos para análise profunda, bloqueio de arquivos, isolamento do dispositivo da rede e outras ações que exigem comunicação com o dispositivo podem não funcionar.
+    - Comunicações prejudicadas: a capacidade de comunicação com o dispositivo está prejudicada. O envio de arquivos para análise profunda, bloqueio de arquivos, isolamento do dispositivo da rede e outras ações que exigem comunicação com o dispositivo podem não funcionar.
 - Dispositivos **Inativos** que pararam de se reportar ao serviço de Ponto de Extremidade.
 
 Você pode baixar a lista inteira em formato CSV usando o recurso Exportar.
 
-Para obter mais informações, confira [Verificar o estado de integridade do sensor no Microsoft Defender para Ponto de Extremidade](/microsoft-365/security/defender-endpoint/check-sensor-status).
+Para obter mais informações, confira [Verificar o estado de integridade do sensor no Microsoft Defender para Ponto de Extremidade](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/check-sensor-status).
 
-Para obter mais informações sobre o que fez com que um dispositivo ficasse inativo ou configurado incorretamente, confira [Corrigir sensores não íntegros no Microsoft Defender para Ponto de Extremidade](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors).
+Para obter mais informações sobre o que fez com que um dispositivo ficasse inativo ou configurado incorretamente, confira [Corrigir sensores não íntegros no Microsoft Defender para Ponto de Extremidade](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors).

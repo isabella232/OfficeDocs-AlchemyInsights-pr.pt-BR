@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea300839f840110f65c3ce51899c89f96294202595b3933d411d6f1803fa7e43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812347"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116896"
 ---
 # <a name="get-a-copy-of-your-bill-or-usage"></a>Obter uma cópia de sua conta ou uso
 
-**Baixe sua fatura do Azure (.pdf)**
+**Baixar sua fatura do Azure (.pdf)**
 
-1. Selecione sua assinatura na página [Assinaturas no](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) portal do Azure como um usuário com acesso [a faturas](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) e selecione **Faturas**
-2. Clique em **Baixar Fatura** para exibir uma cópia de sua fatura em PDF. Se ele diz **Não disponível**, consulte Por que não vejo uma fatura para o último período [de cobrança?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. Você também pode exibir seu uso diário clicando no período de cobrança Para obter um PDF de sua fatura e uma cópia do arquivo de uso diário detalhado (. CSV): [obter dados de fatura e uso](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+1. Selecione sua assinatura na [página Assinaturas](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) no portal do Azure como [um usuário com acesso a faturas](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) e selecione **Faturas**
+2. Clique em **Baixar Fatura** para exibir uma cópia de sua fatura em PDF. Se disser **Não disponível**, confira [Por que não vejo a fatura do último período de cobrança?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+3. Você também pode exibir o seu uso diário clicando no período de cobrança. Para obter um PDF de sua fatura e uma cópia do arquivo detalhado de uso diário (.CSV): [Obter fatura e dados de uso](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Obter sua fatura por email (.pdf)**
 
@@ -34,7 +34,7 @@ ms.locfileid: "51812347"
 3. [Faturas do Azure enviada diretamente para sua caixa de entrada](https://azure.microsoft.com/blog/azure-email-invoices/)
 
 **Entenda o uso diário:**  
- [Entenda sua conta para o Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
+ [Entenda sua cobrança para Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
 **Gerenciar custos: evitar** custos inesperados com a [cobrança e o gerenciamento de custos do Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
@@ -50,9 +50,9 @@ Se você tiver um Contrato de Cliente da Microsoft, poderá optar por obter sua 
 - Pesquise por **Gerenciamento de Custos + Cobrança**. Selecione um **perfil de cobrança**. Em Configurações, selecione **Propriedades**
 - Em Fatura de Email, selecione **Atualizar a preferência de fatura de email.** Selecione optar. Clique **em Atualizar**
 
-**Contrato Enterprise (EA)**
+**Enterprise Agreement (EA)**
 
-Para exibir e baixar dados de uso como um cliente EA, você deve ser um Administrador da Empresa, Proprietário de Conta ou Administrador de Departamento com a política de encargos de exibição habilitada.
+Para exibir e baixar dados de uso como um cliente EA, você deve ser um administrador Enterprise, proprietário da conta ou Administrador de Departamento com a política de encargos de exibição habilitada.
 
 - Entre no portal do Azure. Pesquise por **Gerenciamento de Custos + Cobrança**. Selecionar um perfil de cobrança
 - Selecione Uso + encargos. Para o mês que você deseja baixar, selecione Baixar

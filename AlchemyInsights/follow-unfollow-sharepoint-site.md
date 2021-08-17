@@ -1,5 +1,5 @@
 ---
-title: Siga ou dessiga um site do SharePoint
+title: Siga ou desa siga um site SharePoint site
 ms.author: pebaum
 author: v-miegge
 ms.date: 04/21/2020
@@ -9,18 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 254f67b606d013e08dc80d320b1bc611f031cea0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 077a72c56e8adc4617efe2d98e11069684c2f4227e2590144017be30fb19548e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744396"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116968"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>Siga ou dessiga um site do SharePoint
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>Siga ou desa siga um site SharePoint site
 
-Se os usuários estiverem enfrentando problemas ou não seguindo os recursos do SharePoint, conclua estas etapas:
+Se os usuários estão enfrentando problemas seguindo ou não seguindo SharePoint recursos, conclua estas etapas:
 
-* Peça que o usuário saia e entre novamente no SharePoint e tente as mesmas etapas para seguir/não seguir o recurso do SharePoint.
-* Determine se o problema é com um site específico ou todos os sites. Se o problema ocorrer com sites específicos, verifique se o recurso "conteúdo seguinte" está ativo para o site em **configurações do site > gerenciar recursos do site > seguinte conteúdo**. Se o recurso estiver definido como ativo, tente desativar e ativar o recurso novamente para o site.
+* Peça ao usuário para sair e entrar novamente no SharePoint e tente as mesmas etapas para seguir/desa seguir o recurso SharePoint.
+* Determine se o problema está em um site específico ou em todos os sites. Se o problema ocorrer com sites específicos, certifique-se de que o recurso "Conteúdo a seguir" está ativo para o site, indo para **Site Configurações > Gerenciar** Recursos do Site > Seguinte Conteúdo . Se o recurso estiver definido como Ativo, tente desativar e ativar o recurso novamente para o site.
 * Peça ao usuário para experimentar um navegador da Internet diferente para ver se o problema é específico para o navegador do usuário.
-* Se todos os usuários e todos os sites estiverem enfrentando o mesmo problema, verifique o [painel de integridade do serviço](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) para ver se sua organização é afetada.
+* Se todos os usuários e todos os sites [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) estão enfrentando o mesmo problema, verifique o Painel de Saúde do Serviço para ver se sua organização está impactada.
