@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "11171"
-ms.openlocfilehash: df1903ce53295cc2845f8648615f39f3aaaf19f90b6833da83b27ba836e44d4e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f07430134bb3c2b28b940c9a8f746cc53702bf64ffa2e7414bb74861239b914f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53979733"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894055"
 ---
 # <a name="autocomplete-list-scrolls-off-the-screen-in-outlook-desktop"></a>Lista De preenchimento automático rola para fora da tela em Outlook Desktop
 
 Esse problema é corrigido na versão 2104 Build 13929.20386. A atualização com a com build fixa deve ir para a produção do Canal Atual na semana de 17 de maio. 
 
-Para confirmar quando a com build fixa está disponível, consulte [Update history for Microsoft 365 Apps (listado por data)](/officeupdates/update-history-microsoft365-apps-by-date).
+Para confirmar quando a com build fixa está disponível, consulte [Update history for Microsoft 365 Apps (listado por data)](https://docs.microsoft.com/officeupdates/update-history-microsoft365-apps-by-date).

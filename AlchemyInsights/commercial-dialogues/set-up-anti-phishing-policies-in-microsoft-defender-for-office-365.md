@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: dc6445bcd77a37fd4040381491b96142f8cc6cdd1be6cb05dcfba0c4a9a55dc5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966781"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313415"
 ---
 # <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Configurar políticas anti-phishing no Microsoft Defender para Office 365
 
-1. Vá para o centro de conformidade [Office 365 segurança & segurança.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Selecione **Política de gerenciamento de**  >  **ameaças.** Na página **Política,** selecione [Microsoft Defender para Office 365 anti-phishing](https://go.microsoft.com/fwlink/?linkid=2101369).
-3. Na página **Anti-phishing,** faça um dos seguintes:
-    1. Para adicionar uma nova política, selecione **+ Criar**.
-    1. Para editar uma política existente, selecione o nome da política na lista exibida na página **Anti-phishing.** Na página exibida, selecione **Editar** ao lado da configuração que você deseja alterar. Um assistente será lançado para ajudá-lo a definir sua política anti-phishing.
-4. Se você estiver criando uma nova política, especifique o nome, a descrição e as configurações da sua política.
-5. Depois de revisar suas configurações, selecione **Criar essa política** ou **Salvar**, conforme apropriado.
+1. No portal Microsoft 365 Defender em , acesse Email & Políticas de Colaboração & Políticas de Ameaças de Regras <https://security.microsoft.com/>  \>  \>  \> **Anti-phishing** na **seção** Políticas.
+
+   Para ir diretamente para a página **Anti-phishing,** use <https://security.microsoft.com/antiphishing> .
+
+2. Na página **Anti-phishing,** faça uma das seguintes etapas:
+   - Para adicionar uma nova política, selecione **+ Criar**. Um assistente será lançado para ajudá-lo a definir suas configurações de política.
+   - Para editar uma política existente, selecione a política clicando no nome da política. No sobremenu de detalhes exibido, selecione **Editar** na seção que contém as configurações que você deseja configurar.
+
+3. Depois de revisar suas configurações, selecione **Enviar** (novo) ou **Salvar** (editar).
+
+Para obter mais informações, consulte [Configure anti-phishing policies in Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies).

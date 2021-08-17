@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8232"
 - "9004597"
-ms.openlocfilehash: 240913ca8611330f3c0a6c1f12839bad2f7bab64
-ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
+ms.openlocfilehash: f58915cac2e85d8f29f2cb03f85c278e781effaa80d5981b7b5b68170094fc9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53532835"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091751"
 ---
 # <a name="auto-apply-labeling"></a>Aplicação de rotulagem automática
 
