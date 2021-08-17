@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2588"
 - "9000668"
-ms.openlocfilehash: 2333dcfb13083157e7752901755b6715fee52a47
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 85c35cd7f630aee06e1f11f0ec9ff46c8ace449fa8d2dd379dc265f12078208a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770467"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107158"
 ---
 # <a name="slow-performance-with-project-online"></a>Desempenho lento com o Project Online
 
-O Project Online pode ficar lento, inacessível ou indisponível por vários motivos. Para saber mais, confira:
+O Project Online pode estar lento, inacessível ou indisponível por vários motivos. Para obter mais informações, consulte:
 
 - Painel de integridade do serviço para ver se sua organização foi afetada por um problema de serviço temporário em que os usuários enfrentam atrasos intermitentes ou erros de navegação ao acessar o Project. Para acessar o Painel de integridade do serviço, veja [Painel de integridade do serviço](https://admin.microsoft.com/AdminPortal/Home#/servicehealth).</br>
     **Observação** o problema de integridade do serviço pode ser lançado no SharePoint ou o Project, ou em ambos, dependendo do local do problema.

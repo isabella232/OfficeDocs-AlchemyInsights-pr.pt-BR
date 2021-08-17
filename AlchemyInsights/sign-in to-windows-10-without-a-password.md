@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 1c03f00f7b41ea16d3106b19b998edeea6114603
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fbf190d433eabfee5b45348d05d918222a385314a431812aa5f5926aacf11560
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830534"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107492"
 ---
 # <a name="sign-in-to-windows-10-without-using-a-password"></a>Entrar no Windows 10 sem usar uma senha
 
-Para evitar precisar digitar uma senha na inicialização do Windows, recomendamos usar uma das opções de login seguro do Windows Hello, como PIN, reconhecimento de rosto ou impressão digital, se disponível. Se você realmente quiser desabilitar a conexão segura, consulte as instruções "Entrar automaticamente no Windows 10" abaixo.
+Para evitar ter que digitar uma senha na inicialização Windows, recomendamos que você use uma das opções de Windows Hello de login seguro, como PIN, reconhecimento de rosto ou impressão digital, se disponível. Se você realmente deseja desabilitar a conexão segura, consulte as instruções "Entrar automaticamente Windows 10" abaixo.
 
-**Proteger alternativas do Windows Hello para a senha da conta**
+**Proteger Windows Hello alternativas à senha da conta**
 
-Vá para **Configurações > Contas > opções de** login (ou clique [aqui](ms-settings:signinoptions?activationSource=GetHelp)). As opções de login disponíveis serão listadas. Por exemplo:
+Vá para **Configurações > contas > opções de login** (ou clique [aqui](ms-settings:signinoptions?activationSource=GetHelp)). As opções de login disponíveis serão listadas. Por exemplo:
 
 ![Opções de login.](media/sign-in-options.png)
 
-Clique ou toque em uma das opções para configurá-la. Na próxima vez que você iniciar ou desbloquear o Windows, poderá usar a nova opção em vez de uma senha. 
+Clique ou toque em uma das opções para configurá-la. Na próxima vez que você iniciar ou desbloquear Windows, você poderá usar a nova opção em vez de uma senha. 
 
 **Entrar automaticamente no Windows 10**
 
@@ -39,10 +39,10 @@ Clique ou toque em uma das opções para configurá-la. Na próxima vez que voc�
 
 2. Digite **netplwiz** e a tecla Enter para abrir a janela Contas de Usuário.
 
-3. Em **Contas de Usuário,** clique na conta na que você deseja entrar automaticamente quando o Windows for iniciado.
+3. Em **Contas de Usuário,** clique na conta na que você deseja entrar automaticamente quando Windows iniciar.
 
 4. Desmarque a caixa de seleção "Os usuários devem inserir um nome de usuário e uma senha para usar este computador".
 
     ![Os usuários devem inserir uma opção de nome de usuário e senha.](media/users-must-enter-username.png)
 
-5. Clique em **OK**. Você será solicitado a inserir e confirmar a senha da conta selecionada. Clique em **OK** para concluir. Na próxima vez que o Windows 10 for iniciado, ele entrará automaticamente na conta selecionada.
+5. Clique em **OK**. Você será solicitado a inserir e confirmar a senha da conta selecionada. Clique em **OK** para concluir. Na próxima Windows 10, ele entrará automaticamente na conta selecionada.
