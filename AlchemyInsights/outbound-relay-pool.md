@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: 8750c9036f258d9c5edc94bb027d564140bbd9914712cc1f25ff3abc3f4b9468
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54041574"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883119"
 ---
 # <a name="outbound-relay-pool"></a>Pool de retransmissão de saída
 
-A Microsoft está fazendo algumas alterações na configuração para retransmitir ou encaminhar emails por meio Microsoft 365. As mensagens em determinados cenários são encaminhadas ou retransmitida por Microsoft 365 usando um pool de retransmissão especial. As mensagens enviadas usando o pool de retransmissão podem acabar na pasta lixo eletrônico do destinatário. Para obter mais informações, consulte [Pools de entrega de saída](/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
+A Microsoft está fazendo algumas alterações na configuração para retransmitir ou encaminhar emails por meio Microsoft 365. As mensagens em determinados cenários são encaminhadas ou retransmitida por Microsoft 365 usando um pool de retransmissão especial. As mensagens enviadas usando o pool de retransmissão podem acabar na pasta lixo eletrônico do destinatário. Para obter mais informações, consulte [Pools de entrega de saída](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
 
 Para evitar um cenário usando o pool de retransmissão, certifique-se de que as mensagens encaminhadas/retransmitida atendem a um dos seguintes critérios:
 
