@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 14f7a897f0c7504db1b605485e170183c3a1afb2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0aaece95effa468af5c906a8bd07e5b00ffa3df37b4e2cb296d64108efec94e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823451"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047964"
 ---
 # <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Solucionar problemas com o registro de dispositivos iOS no Microsoft Intune
 
@@ -27,7 +27,7 @@ Algumas mensagens de erro comuns e etapas de resolução:
     
 - **Este Serviço não tem suporte. Sem Política de Registro:** o Serviço de Notificação por Push da Apple (APNS) precisa ser configurado ou renovado. Revise [este documento](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) para obter instruções sobre como fazer isso. 
     
-- **Tipo de licença de usuário inválido ou nome de usuário não reconhecido:** O usuário precisa ter uma licença do Intune ou EMS. Revise esses documentos para atribuir uma licença por: [Centro de Administração do Office](https://docs.microsoft.com/intune/licenses-assign) ou portal do [Azure.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
+- **Tipo de licença de usuário inválido ou nome de usuário não reconhecido:** O usuário precisa ter uma licença do Intune ou EMS. Revise esses documentos para atribuir uma licença por meio de: [Office Admin Center](https://docs.microsoft.com/intune/licenses-assign) ou portal do [Azure.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
     
 Recursos adicionais para ajudar a resolver o problema:
   

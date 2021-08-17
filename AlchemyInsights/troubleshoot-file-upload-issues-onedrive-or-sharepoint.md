@@ -1,5 +1,5 @@
 ---
-title: Solucionar problemas de carregamento de arquivos do OneDrive ou do SharePoint
+title: Solucionar problemas OneDrive ou SharePoint de carregamento de arquivos
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200007"
 - "3422"
-ms.openlocfilehash: a1bdd799b4ebe902f119ad9bf75895d40548e1d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 743981dce91c7e3167506a6cb47b443169149a6ef3c96aa46774c396b4f2cb55
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824531"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048180"
 ---
-# <a name="troubleshoot-onedrive-or-sharepoint-file-upload-issues"></a>Solucionar problemas de carregamento de arquivos do OneDrive ou do SharePoint
+# <a name="troubleshoot-onedrive-or-sharepoint-file-upload-issues"></a>Solucionar problemas OneDrive ou SharePoint de carregamento de arquivos
 
-Se você estiver com problemas para carregar ou sincronizar arquivos no OneDrive ou no SharePoint, os seguintes artigos podem ajudar:
+Se você estiver com problemas para carregar ou sincronizar arquivos para OneDrive ou SharePoint, os seguintes artigos podem ajudar:
 
 - [Carregar uma pasta ou arquivos para uma biblioteca de documentos](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
 - [Corrigir problemas ao carregar arquivos no site do OneDrive](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
 - [Nomes e tipos de arquivos inválidos no OneDrive, OneDrive for Business e SharePoint](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 - [Corrigir problemas de sincronização do OneDrive](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
 - [Maximizar a velocidade de upload e download](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
-- [Sincronizar arquivos com o OneDrive no Windows](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+- [Sincronizar arquivos com OneDrive no Windows](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
  
