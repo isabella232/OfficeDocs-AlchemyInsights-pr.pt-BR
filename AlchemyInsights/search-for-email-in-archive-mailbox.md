@@ -1,5 +1,5 @@
 ---
-title: Pesquisar emails na caixa de correio de arquivo morto
+title: Pesquisar emails na caixa de correio De arquivo morto
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,16 +13,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 2c1284472c147d29f5d09fb7e7541bdcec9e8520
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f88aa25642ba29dbf0673cafe4efb66678a873974cad844ae12fc35287915f33
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727339"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109120"
 ---
-# <a name="search-for-email-in-the-archive-mailbox"></a>Pesquisar emails na caixa de correio de arquivo morto
+# <a name="search-for-email-in-the-archive-mailbox"></a>Pesquisar emails na caixa de correio Arquivo morto
 
-Quando uma caixa de correio de arquivo morto está habilitada para o Microsoft 365, você pode usar a **pesquisa e exportação de descoberta eletrônica** para descobrir conteúdo na caixa de correio principal e de arquivo morto. Para obter informações sobre como usar a **exportação de pesquisa de descoberta eletrônica** para localizar esse conteúdo, siga as etapas descritas [aqui](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Quando uma caixa de correio de arquivo morto estiver habilitada para Microsoft 365, você poderá usar a Pesquisa **e** Exportação de Descoberta Eletrônico para descobrir conteúdo na caixa de correio Primária e Arquivada. Para obter informações sobre como usar **a Exportação de** Pesquisa de Descoberta e para encontrar esse conteúdo, siga as etapas descritas [aqui](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
   
-Você também pode manter esse conteúdo adicionando a caixa de correio a uma política de retenção. Isso irá colocar o conteúdo na caixa de correio principal e de arquivo morto em uma isenção. Para obter mais informações sobre a criação de políticas de retenção para reter email, consulte as etapas descritas [aqui](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+Você também pode reter esse conteúdo adicionando a caixa de correio a uma política de retenção. Isso colocará o conteúdo na caixa de correio Primária e Arquivada em uma espera. Para obter mais informações sobre como criar Políticas de Retenção para reter emails, consulte as etapas descritas [aqui](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
   
