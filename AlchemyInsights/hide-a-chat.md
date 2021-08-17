@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003309"
 - "6203"
-ms.openlocfilehash: df17f479856689249209ffac491af894cf7c2771
-ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
+ms.openlocfilehash: 3786dc516866c461fd904146c3c92e33d35c35a426b407d6b93d97fd11446ce9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49936202"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055578"
 ---
 # <a name="hide-a-chat"></a>Ocultar um chat
 
-Não é possível excluir um chat inteiro (ou uma conversa), mas você pode ocultar um. Você também pode [excluir uma mensagem enviada.](https://support.office.com/client/delete-a-message-you-have-sent-67bd76a5-04e7-46ea-9ef0-5800865cb8f3)
+Você não pode excluir um chat inteiro (ou conversa), mas pode ocultar um. Você também pode [excluir uma mensagem enviada.](https://support.office.com/client/delete-a-message-you-have-sent-67bd76a5-04e7-46ea-9ef0-5800865cb8f3)
 
 Para ocultar um chat:
 
 - Selecione **Chat** no menu à esquerda.
 - Selecione o chat que você deseja ocultar.
-- Selecione os três pontos (**...**) ao lado do chat e, em seguida, selecione **Ocultar**.
+- Selecione os três pontos (**...**) ao lado do chat e selecione **Ocultar**.

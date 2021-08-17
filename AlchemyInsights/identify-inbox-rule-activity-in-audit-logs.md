@@ -13,27 +13,30 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e27c6433c65079af93f2a02a998b7179222336b0cae1149f4196f6fb6558ddac
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2bddd267abacabcd04b54271ade8ecf7b69fab914bcb8c103c806c31a388d2f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976853"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891283"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identificar atividade de regra de caixa de entrada em logs de auditoria
 
-Você pode usar a pesquisa de log de auditoria no Centro de Conformidade Microsoft 365 Segurança & para exibir eventos de regra de caixa de entrada (criação, modificação e exclusão de regras de caixa de entrada).
+Você pode usar a pesquisa de log de auditoria no Centro de conformidade do Microsoft 365 para exibir eventos de regra de caixa de entrada (criando, modificando e excluindo regras de caixa de entrada).
 
-1. Faça logoff no [Centro de Conformidade Microsoft 365 .](https://protection.office.com/)
+1. Faça o seguinte:
+   - Na Centro de conformidade do Microsoft 365 em <https://compliance.microsoft.com> , vá para **Auditoria de** \> **Soluções.** Ou, para ir diretamente para a página **Auditoria,** use <https://compliance.microsoft.com/auditlogsearch> .
+   - No portal Microsoft 365 Defender em <https://security.microsoft.com> , vá para **Auditoria**. Ou, para ir diretamente para a página **Auditoria,** use <https://security.microsoft.com/auditlogsearch> .
 
-2. Vá para a **página de pesquisa** de log de Auditoria  >  **de** Pesquisa.
+2. Na guia **Pesquisa** da página **Auditoria,** configure as seguintes configurações:
+   - **Intervalo de data e hora**: Selecione o intervalo de data/hora nas caixas **Iniciar** **e** Fim.
+   - **Atividades**: selecione um ou mais dos seguintes valores:
+     - **Regra de caixa de entrada New-InboxRule Create Outlook Web App**
+     - **Set-InboxRule Modify rule from Outlook Web App**.
+     - **Atualizar regras de caixa de entrada Outlook cliente**
 
-3. Selecione o intervalo de datas nos campos **Data de** início e **Data de** término.
+3. Quando terminar, clique em **Pesquisar**. As atividades aparecem na nova página **de pesquisa auditoria.**
 
-4. Em **Exchange Atividades** de Caixa de Correio, verifique se o campo **Atividades** está definido como **New-InboxRule Create/modify/enable/disable inbox rule**.
+4. Selecione uma atividade nos resultados para abrir o sobremenu de detalhes. As informações sobre as configurações de regra de caixa de entrada são exibidas no **campo Parâmetros.**
 
-5. Clique em **Pesquisar**.
-
-Nos resultados, selecione um registro de auditoria. No sobremenu de detalhes, clique **em Mais Informações.** As informações sobre as configurações de regra de caixa de entrada são exibidas no **campo Parâmetros.**
-
-Para obter mais informações, [consulte Determining if a user created an inbox rule](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Para obter mais informações, [consulte Determining if a user created an inbox rule](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-created-an-inbox-rule).

@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 95f1c3481dbe02f0569522a38783b16c1d5f45cf47847d456dbed9ccda52c3c2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 90399a54ad9d77bb94f8c067f255274e4d2591823095b391f53ddf7514d338a6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53931185"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890746"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Cancelando sua assinatura Microsoft 365 assinatura?
 
@@ -31,6 +31,6 @@ Lamentamos que você vá, aqui estão as etapas para cancelar sua assinatura:
 3. No painel **Cancelar assinatura**, escolha um motivo pelo qual você está cancelando. Se optar, forneça comentários.
 4. Selecione **Salvar**.
 
-Para saber mais sobre como cancelar uma assinatura ou opções, consulte [Cancel your subscription](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Para saber mais sobre como cancelar uma assinatura ou opções, consulte [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
-Se quiser continuar usando sua assinatura durante a avaliação, você poderá desativar a cobrança recorrente da assinatura. Para saber como, consulte [Renew Microsoft 365 for business](/microsoft-365/commerce/subscriptions/renew-your-subscription).
+Se quiser continuar usando sua assinatura durante a avaliação, você poderá desativar a cobrança recorrente da assinatura. Para saber como, consulte [Renew Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).

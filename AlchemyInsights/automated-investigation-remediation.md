@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "11503"
 - "9005462"
-ms.openlocfilehash: d1d3ca9081a8b1370c65ba51b3a1bb83248407eef4957c459adf836e4573a0af
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c19a12a88f8fe1f1f011b8faad40f6e4edee028d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54046560"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311819"
 ---
 # <a name="using-automated-investigation-executing-actions-andor-remediation-actions"></a>Usando a investigação automatizada, executando ações e/ou ações de correção
 
-- Para obter uma visão geral de como usar a investigação automatizada, veja [Visão geral das investigações automatizadas](/microsoft-365/security/defender-endpoint/automated-investigations).
+- Para obter uma visão geral de como usar a investigação automatizada, veja [Visão geral das investigações automatizadas](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/automated-investigations).
 
-- Para obter mais informações sobre a Central de Ações e correção, veja [Visitar a central de ações para ver ações de correção](/security/defender-endpoint/auto-investigation-action-center).
+- Para obter mais informações sobre a Central de Ações e correção, veja [Visitar a central de ações para ver ações de correção](https://docs.microsoft.com/security/defender-endpoint/auto-investigation-action-center).
 
-- Para definir o nível de automação, veja [Visão geral das investigações automatizadas](/microsoft-365/security/defender-endpoint/automated-investigations).
+- Para definir o nível de automação, veja [Visão geral das investigações automatizadas](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/automated-investigations).

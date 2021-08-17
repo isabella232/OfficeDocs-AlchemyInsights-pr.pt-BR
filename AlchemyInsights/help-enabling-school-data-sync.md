@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001732"
 - "3834"
-ms.openlocfilehash: 10224171bf81cd31b2d90afb30887539aa7b4e58
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6c6983ee723312564c8fcf1252267938aa4ea0916014a6bd81188308f4cdb488
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811660"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055650"
 ---
 # <a name="help-enabling-school-data-sync"></a>Ajuda para habilitar o School Data Sync
 
-Precisa de ajuda para habilitar o School Data Sync? Você sabia que pode estar qualificado para obter ajuda do programa Microsoft 365 FastTrack?
+Precisa de ajuda para habilitar o School Data Sync? Você sabia que pode se qualificar para obter a assistência do programa Microsoft 365 FastTrack?
 
 Visite o [FastTrack Center](https://www.microsoft.com/fasttrack) para enviar uma solicitação de assistência para habilitar o School Data Sync para a sua organização.
