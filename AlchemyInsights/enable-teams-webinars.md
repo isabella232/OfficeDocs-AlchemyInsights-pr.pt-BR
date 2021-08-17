@@ -13,31 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "11513"
 - "9006672"
-ms.openlocfilehash: a56abdaae182b840a1a96466e0581ef49b2b0075
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: e0c2b4fd09282cba72361372045ef0074ca9bd95e33b7447ae59c5fa8f489062
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688962"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891403"
 ---
 # <a name="enable-teams-webinars"></a>Habilitar os Webinars do Microsoft Teams
 
-O registro do seminário via web é habilitado por padrão. Se você quiser desativar o registro de reuniões, você pode usar o Centro Administração do Teams: 
+O registro do webinar é habilitado por padrão. Se você quiser desativar o registro de reunião, use o Centro de administração do Teams: 
 
-1. Vá para o [Centro de Administração do Teams](https://admin.teams.microsoft.com/policies/meetings). 
-
-2. Selecionar o **Global (padrão de toda a organização)** ou outra política específica. 
-
-3. Em **Geral**, defina **Permitir registro de reunião** a **Desativado**. 
-
-Quando o registro da reunião está definido para **Em**, você também pode gerenciar quem se registra para os Webinars do Teams usando o Centro de Administração do Teams: 
-
-1. Vá para o [Centro de Administração do Teams](https://admin.teams.microsoft.com/policies/meetings). 
+1. Vá para o [Centro de Administração Teams](https://admin.teams.microsoft.com/policies/meetings). 
 
 2. Selecionar o **Global (padrão de toda a organização)** ou outra política específica. 
 
-3. Em **Geral**, vá para a configuração **Quem pode registrar o** e selecionar **Todos** ou **Todos na empresa**. 
+3. Em **Geral**, defina **Permitir registro de reunião** para **Desativado**. 
 
-**Nota**: Se o ingresso anônimo for desativado nas configurações de reuniões, os usuários anônimos não poderão participar de webinars. Para saber mais sobre como habilitar esta configuração, veja [ Gerenciar configurações de reunião no Microsoft Teams](/microsoftteams/meeting-settings-in-teams). 
+Quando o registro da reunião está definido para **Em**, você também pode gerenciar quem se registra para os Webinars das Teams usando o Centro de Administração do Teams: 
 
-Para saber mais sobre como configurar quem pode se registrar para webinars e como gerenciar essas políticas usando o Teams PowerShell, veja [ Configurar quem pode se registrar para webinars](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars). Para mais informações sobre configurações para Listas da Microsoft, veja [Configurações de controle para Listas da Microsoft](/sharepoint/control-lists). 
+1. Vá para o [Centro de Administração Teams](https://admin.teams.microsoft.com/policies/meetings). 
+
+2. Selecionar o **Global (padrão de toda a organização)** ou outra política específica. 
+
+3. Em **Geral**, vá para a configuração **Quem pode registrar** e selecionar **Todos** ou **Todos na empresa**. 
+
+**Nota**: se o ingresso anônimo estiver desativado nas configurações de reunião, os usuários anônimos não poderão ingressar em webinars. Para saber mais sobre como habilitar esta configuração, veja [Gerenciar configurações de reunião no Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams). 
+
+Para saber mais sobre como configurar quem pode se registrar para webinars e como gerenciar essas políticas usando o PowerShell da equipe, veja [Configurar quem pode se registrar para webinars](https://docs.microsoft.com/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars). Para mais informações sobre configurações para Listas da Microsoft, veja [Configurações de controle para Listas da Microsoft](https://docs.microsoft.com/sharepoint/control-lists). 

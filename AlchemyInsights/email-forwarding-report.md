@@ -1,5 +1,5 @@
 ---
-title: Relatório de encaminhamento de email
+title: Relatório de mensagens encaminhadas automaticamente
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,14 @@ ms.custom:
 - "1195"
 - "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 6ec48c625ad183b34cb9dd665e5275c0c6c23b075233fcee4712404ab8f37284
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f501b9c74b7480a706def72dd60fa9012c98318b1ef590a5c4c9c17d707d5240
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030116"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891439"
 ---
-# <a name="email-forwarding-report"></a>Relatório de encaminhamento de email
+# <a name="auto-forwarded-messages-report"></a>Relatório de mensagens encaminhadas automaticamente
 
-Para ver um relatório sobre quantas mensagens encaminhadas automaticamente existem em sua organização, verifique [ Insight sobre mensagens encaminhadas automaticamente no Centro de Conformidade e Segurança](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-auto-forwarded-messages-report) no [ Centro de Segurança do Microsoft 365 &amp;Centro de Conformidade](https://protection.office.com/#/homepage).
-  
-Observação: se essa for a primeira vez que você está se conectando ao &amp; Centro de Conformidade de Segurança, talvez seja necessário atualizar o navegador após alguns minutos para ver todas as opções disponíveis.
+Para ver um relatório sobre quantas mensagens encaminhadas automaticamente existem na organização, verifique o [Relatório de mensagens encaminhadas automaticamente](https://docs.microsoft.com/exchange/monitoring/mail-flow-reports/mfr-auto-forwarded-messages-report) no Centro de administração do Exchange (EAC) em <https://admin.exchange.microsoft.com/> \> **Relatórios** \> **Fluxo de emails**. Ou, para ir diretamente para a página **Mensagens encaminhadas automaticamente**, use <https://admin.exchange.microsoft.com/#/reports/autoforwardedmessages>.
   

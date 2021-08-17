@@ -9,35 +9,35 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 246a99f4c8a88e226b7cfbbaa9a68c02081b4088
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 197de1f073e4e8c054dce32f0acfbe0064d61ca606b759d4ff45e0bc8a4b5cab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784655"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057234"
 ---
 # <a name="enable-external-sharing"></a>Habilitar o compartilhamento externo
 
- Para garantir que o compartilhamento esteja habilitado para o SharePoint Online:
+ Para garantir que o compartilhamento está habilitado para SharePoint Online:
   
-- **Compartilhamento global**
+- **Compartilhamento Global**
     
-  - Portal- \> \> visão geral do compartilhamento de compartilhamento externo-sites, permita que pessoas externas acessem seus sites: on
+  - Portal - \> Compartilhamento Externo - \> Visão Geral do Compartilhamento - Sites, Permitir que pessoas externas acessem seus sites: ON
     
-  - Portal- \> compartilhamento externo- \> sites-a caixa de seleção permitir que pessoas externas acessem seus sites
+  - Portal - Compartilhamento Externo - Sites - Caixa de seleção \> \> "Permitir que pessoas externas acessem seus sites"
     
-- **Compartilhamento administrativo – centro de administração do SharePoint**
+- **Compartilhamento Administrativo - SharePoint Admin Center**
     
-    Compartilhamento externo – Verifique se uma das duas opções está selecionada:
+    Compartilhamento Externo - verifique se uma das duas opções está selecionada:
     
-  - "Permitir que usuários externos que aceitem convites de compartilhamento e entrem como usuários autenticados"
+  - "Permitir que usuários externos que aceitem o compartilhamento de convites e entre como usuários autenticados"
     
-  - "Permitir que usuários externos que aceitem convites de compartilhamento e links de convidado anônimos"
+  - "Permitir que usuários externos que aceitem o compartilhamento de convites e links de convidados anônimos"
     
-- **Conjuntos de sites individuais**
+- **Coleções de Sites Individuais**
     
-  - Conjuntos de sites-selecione conjunto de sites em questão e, em seguida, clique em compartilhamento – na faixa de \> Opções, verifique se a opção de compartilhamento está selecionada.
+  - Conjunto de Sites - Selecione conjunto de sites em questão e clique em Compartilhamento - na faixa de opções - verifique se \> as opções de compartilhamento estão selecionadas.
     
-Para obter informações adicionais sobre como ativar o compartilhamento externo, consulte [Ativar ou desativar o compartilhamento externo do SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Para obter informações adicionais sobre como ativar o compartilhamento externo, consulte Ativar ou desativar o compartilhamento externo para SharePoint [Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 
