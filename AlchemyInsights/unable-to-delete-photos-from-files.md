@@ -1,5 +1,5 @@
 ---
-title: 8000031 não é possível excluir fotos de arquivos
+title: 8000031 não é possível excluir fotos de Arquivos
 ms.author: daeite
 author: daeite
 manager: dansimp
@@ -15,20 +15,20 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: e07d4542c57fc57a9c7bf1a594ab4df104c88854
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 2735d7117969ceab23476f58cdcc3210ee912950799cc1082e151bff6bf692d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653348"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104944"
 ---
-# <a name="unable-to-delete-photos-from-files"></a>Não é possível excluir fotos de arquivos
+# <a name="unable-to-delete-photos-from-files"></a>Não é possível excluir fotos de Arquivos
 
-Para excluir as fotos dos arquivos no Outlook.com:
+Para excluir as fotos de Arquivos em Outlook.com:
   
-1. Vá para a pasta **caixa de entrada** ou **itens enviados** e exclua a mensagem de email à qual estão associadas.
+1. Vá para sua **pasta Caixa de Entrada** ou Itens **Enviados** e exclua a mensagem de email à que estão anexadas.
 
-2. Remova o (s) item (ns) dos **itens excluídos**.
+2. Remova os itens dos itens **excluídos.**
 
-Para obter mais informações, leia [como excluir arquivos ou fotos no Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
+Para obter mais informações, [leia Como excluir arquivos ou fotos em Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
   

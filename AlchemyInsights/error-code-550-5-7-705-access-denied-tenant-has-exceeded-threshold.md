@@ -1,5 +1,5 @@
 ---
-title: Código de erro 550 5.7.705 acesso negado, o locatário excedeu o limite
+title: Código de erro 550 5.7.705 Acesso negado, locatário excedeu limite
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -13,17 +13,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: d3c1eddf22b61c14e8bb82de5f2e16e84786657c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f35aaccb0bc80ddcb46e37533ee36c35b8cf520421786a809b28cfa70e16391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784007"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044184"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 acesso negado, o locatário excedeu o limite
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Acesso negado, locatário excedeu limite
 
-Esta mensagem ocorre quando muitos spams ou emails em massa são enviados pela sua organização e colocam um bloco no email de saída.
+Essa mensagem ocorre quando muito spam ou email em massa foi enviado por sua organização e fazemos um bloqueio no email de saída.
 As causas comuns são servidores comprometidos ou contas de administradores comprometidas que foram usados para criar conectores. Qualquer uma das condições pode permitir que o spam passe pela sua organização.
 
 Para remover esse bloqueio, você precisa entender e explicar a causa para um agente de suporte e corrigir o problema subjacente.
-Clique em **Fale conosco** abaixo quando estiver pronto.
+Clique **em Entrar em** contato conosco abaixo quando estiver pronto.

@@ -1,5 +1,5 @@
 ---
-title: Provisionamento de site do OneDrive
+title: OneDrive provisionamento de site
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: ea4968de39f6a620a7e9ba2cbf6e41ac17522003
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1285968f3d0a53aebf88e91aefdc0b0b6b5e2020f8959aa42e85151a800c68ed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754363"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075892"
 ---
-# <a name="onedrive-site-provisioning"></a>Provisionamento de site do OneDrive
+# <a name="onedrive-site-provisioning"></a>OneDrive provisionamento de site
 
-Para contas recém-criadas, os usuários precisam entrar no centro de administração do Microsoft 365 com sua própria conta e clicar no ícone do OneDrive para iniciar manualmente o provisionamento do site do OneDrive.
-Siga este [Guia de solução de problemas](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) para obter ajuda
+Para contas recém-criadas, os usuários precisam entrar no Centro de administração do Microsoft 365 com sua própria conta e clicar no ícone OneDrive para iniciar manualmente o provisionamento do site OneDrive.
+Siga este Guia [de Solução de Problemas](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) para ajudar
 
-No entanto, se o usuário já clicou no ícone do OneDrive e seu site pessoal não estiver provisionado dentro de 24 horas, registre um tíquete de suporte para obter mais assistência.
+No entanto, se o usuário já tiver clicado no ícone OneDrive e seu site pessoal não for provisionado dentro de 24 horas, registre um tíquete de suporte para mais assistência.
 
