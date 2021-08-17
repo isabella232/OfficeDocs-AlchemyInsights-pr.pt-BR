@@ -1,5 +1,5 @@
 ---
-title: Solucionar problemas de sincronização de senha
+title: Solucionar problemas de sincronização de senhas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,31 +14,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 96f63f2ae8e5de246bce7fc15a9b2c3d604f2eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb782c0d1dc396ee7a9f016afb9629a2cdee93d52f5408b7a73e576e783ebc0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664914"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105736"
 ---
-# <a name="troubleshoot-password-synchronization"></a>Solucionar problemas de sincronização de senha
+# <a name="troubleshoot-password-synchronization"></a>Solucionar problemas de sincronização de senhas
 
-Para solucionar problemas de sincronização de senha, comece usando esta tarefa de solução de problemas do AAD Connect para determinar por que as senhas não estão sendo sincronizadas. Para começar, vá para [gerenciar a sincronização direta](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
+Para solucionar problemas de sincronização de senhas, comece usando essa tarefa Conexão solução de problemas do AAD para determinar por que as senhas não estão sincronizadas. Para começar, vá para [Gerenciar sincronização direta](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
 
-1. Abra uma nova sessão do Windows PowerShell em seu servidor do Azure AD Connect e selecione a opção **Executar como administrador** .
+1. Abra uma nova sessão Windows PowerShell no servidor do Azure AD Conexão e selecione a opção **Executar como** Administrador.
 
-2. Execute Set-ExecutionPolicy RemoteSigned ou Set-ExecutionPolicy Unrestricted.
+2. Execute Set-ExecutionPolicy RemoteSigned ou Set-ExecutionPolicy Irrestrita.
 
-3. Inicie o assistente do Azure AD Connect.
+3. Inicie o assistente de Conexão Azure AD.
 
-4. Vá até a página tarefas adicionais > **solucionar problemas**  >  **em seguida**.
+4. Vá para a página Tarefas Adicionais > **Solução de** Problemas  >  **Em Seguida**.
 
-5. Selecione **Iniciar** para abrir o menu de solução de problemas do PowerShell.
+5. Selecione **Iniciar** para abrir o menu solução de problemas do PowerShell.
 
-6. Selecione **solucionar problemas de sincronização de senha**.
+6. Selecione **Solucionar Problemas de Sincronização de Senhas**.
 
-    Normalmente, o problema é que uma senha não é sincronizada para uma conta de usuário específica.
+    O problema geralmente é que uma senha não é sincronizada para uma conta de usuário específica.
 
-    **Anotações** A sincronização de senha falha se a última sincronização de senha bem-sucedida ocorreu algum tempo atrás.
+    **Observações** A sincronização de senha falhará se a última sincronização de senha bem-sucedida foi há algum tempo.
 
-Para obter mais ajuda para a solução de problemas de sincronização de senha, consulte [Troubleshoot password hash Synchronization with Azure ad Connect Sync](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
+Para obter mais ajuda para solucionar problemas de sincronização de senha, consulte Solucionar problemas de sincronização de hash de senha com o [Azure AD Conexão sincronização](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).

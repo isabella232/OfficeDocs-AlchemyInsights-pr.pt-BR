@@ -1,5 +1,5 @@
 ---
-title: Começar a usar relatórios de uso da Pesquisa da Microsoft
+title: Começar a usar relatórios de Pesquisa da Microsoft de uso
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006479"
 - "11047"
-ms.openlocfilehash: 2da847a66d227cbad07d56d733488a216deacbe7
-ms.sourcegitcommit: 29a88bc83086b18b0e0fd14fe8ed18a4f88edd06
+ms.openlocfilehash: b5bfba500c229ee58f82fde1de01da91c46ecbc991fb4c2f7418b0dc3bf141e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52642009"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077278"
 ---
-# <a name="get-started-with-using-microsoft-search-usage-reports"></a>Começar a usar relatórios de uso da Pesquisa da Microsoft
+# <a name="get-started-with-using-microsoft-search-usage-reports"></a>Começar a usar relatórios de Pesquisa da Microsoft de uso
 
-Os relatórios de uso da Pesquisa da Microsoft fornecem informações sobre como a pesquisa está funcionando em sua organização. Essas percepções ajudarão você a encontrar conteúdo e tornar a pesquisa uma experiência mais útil e agradável para os usuários em suas organizações.
+Pesquisa da Microsoft relatórios de uso fornecem informações sobre como a pesquisa está funcionando em sua organização. Essas percepções ajudarão você a encontrar conteúdo e tornar a pesquisa uma experiência mais útil e agradável para os usuários em suas organizações.
 
-Para saber mais, confira [Relatórios de Uso da Pesquisa da Microsoft.](https://go.microsoft.com/fwlink/?linkid=2152048)
+Para saber mais, confira [Pesquisa da Microsoft Relatórios de Uso.](https://go.microsoft.com/fwlink/?linkid=2152048)
