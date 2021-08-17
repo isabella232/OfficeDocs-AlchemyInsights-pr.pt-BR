@@ -1,5 +1,5 @@
 ---
-title: 744 Criando usuários quando a organização está no modo híbrido
+title: 744 Criação de usuários quando a organização está no modo Híbrido
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "744"
 - "1200022"
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 8365e8687939e8759b5e9e0ae3b321b5e0a21c5f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01ce3e4698f19c882ac0034aacb3a1455973e7eeeb3bd38d4c28a0070d739405
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746495"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102928"
 ---
 # <a name="create-users-in-hybrid-deployments"></a>Criar usuários em implantações híbridas
 
-Quando sua organização é uma implantação híbrida entre um ambiente local e o Microsoft 365, você precisa criar todos os objetos de usuário em seu Active Directory local. Você cria os objetos de usuário na UO (unidade organizacional) apropriada para que eles sejam sincronizados em sua organização.
+Quando sua organização é uma implantação híbrida entre um ambiente local e Microsoft 365, você precisa criar todos os objetos de usuário no Active Directory local. Você cria os objetos do usuário na unidade organizacional apropriada (UO) para que eles estejam sincronizados em sua organização.
