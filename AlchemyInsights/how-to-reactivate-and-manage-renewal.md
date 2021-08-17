@@ -16,12 +16,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: d73e92cb4422113f50d55d7fad529b1bc0dd6cb5
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 88b80e69ec898bcf195633f3170d906c67bf8ab072ea2987364d32f750b74462
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689034"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887524"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Como reativar uma assinatura e gerenciar cobrança recorrente
 
@@ -32,7 +32,7 @@ Parece que você tem uma assinatura que expirou. Se você quiser reativá-lo, ve
 3. No painel **Reativar esta assinatura**, selecione um método de pagamento na lista suspensa ou selecione **Adicionar método de pagamento**.
 4. Selecione **Salvar**.
 
-Para saber mais, consulte [Reativar sua assinatura](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Para saber mais, consulte [Reativar sua assinatura](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 Para gerenciar o faturamento mensal ou anual, você pode ativar ou desativar o **Faturamento recorrente**.
   
@@ -42,4 +42,4 @@ Para gerenciar o faturamento mensal ou anual, você pode ativar ou desativar o *
 4. No painel **Editar definições de cobrança recorrente**, selecione **Ativado**, **Ativado, mas renove uma vez** ou **Desativar**.
 5. Selecione **Salvar**.
 
-Para obter mais informações, confira [Ativar ou desativar cobranças recorrentes](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Para obter mais informações, confira [Ativar ou desativar cobranças recorrentes](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

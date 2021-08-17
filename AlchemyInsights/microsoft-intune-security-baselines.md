@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11142"
-ms.openlocfilehash: 0a89b121f2f425b0a81fa250650f108e9af48c9da39dfc8a62b07541d3a6c3dd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f77fdbb315db8317a6a1374f05489a7f5a0bedcec484dc9ac53a473098583949
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54098050"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886620"
 ---
 # <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Usar Microsoft Intune de segurança para configurar Windows 10 dispositivos
 
@@ -30,5 +30,5 @@ As linhas de base de segurança também ajudam a estabelecer um fluxo de trabalh
 
 Se você for novo no Intune e não tiver certeza de onde começar, as linhas de base de segurança ajudarão você a criar e implantar rapidamente um perfil seguro. Se você usa atualmente uma política de grupo, migrar para o Intune para fins de gerenciamento é muito mais fácil com as linhas de base de segurança porque elas são internas no Intune e incluem recursos de gerenciamento de borda.
 
-Para saber mais, consulte [Windows de segurança](/windows/security/threat-protection/windows-security-baselines) e gerenciamento de [dispositivos móveis.](/windows/client-management/mdm/)
+Para saber mais, consulte [Windows de segurança](https://docs.microsoft.com/windows/security/threat-protection/windows-security-baselines) e gerenciamento de [dispositivos móveis.](https://docs.microsoft.com/windows/client-management/mdm/)
 

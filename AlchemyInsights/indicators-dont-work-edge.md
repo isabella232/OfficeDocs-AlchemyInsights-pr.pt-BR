@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11230"
 - "9005470"
-ms.openlocfilehash: 4094371ee0a3b3ec8d29454fd66f3e9e7c3f35a91b9ea05f308325bc447ce11c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ff7a2ee4c97c579422c7679c461f6fb288a9235ff9056be1c56e80b1d6379723
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53926305"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887428"
 ---
 # <a name="indicators-dont-work-using-edge-browser"></a>Os indicadores não funcionam com o navegador Edge
 
-Depois de criar um indicador, ele não é respeitado pelo Edge (Smartscreen). Para obter mais informações, confira [Criar indicadores para IPs e URLs/domínios](/microsoft-365/security/defender-endpoint/indicator-ip-domain).
+Depois de criar um indicador, ele não é respeitado pelo Edge (Smartscreen). Para obter mais informações, confira [Criar indicadores para IPs e URLs/domínios](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain).
 
 ## <a name="step-1-ensure-the-following"></a>Etapa 1: certifique-se do seguinte
 
@@ -34,7 +34,7 @@ Depois de criar um indicador, ele não é respeitado pelo Edge (Smartscreen). Pa
 
 ## <a name="step-2-troubleshoot-the-potential-issue"></a>Etapa 2: solucionar o problema potencial
 
-- Certifique-se de que o cliente atende aos requisitos. Para obter detalhes, confira [Criar indicadores para IPs e URLs/domínios](/microsoft-365/security/defender-endpoint/indicator-ip-domain).
+- Certifique-se de que o cliente atende aos requisitos. Para obter detalhes, confira [Criar indicadores para IPs e URLs/domínios](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain).
 - Certifique-se de que está executando a versão mais recente do navegador Edge. Para descobrir a versão mais recente, confira [Descubra qual versão do Microsoft Edge você possui](https://support.microsoft.com/microsoft-edge/find-out-which-version-of-microsoft-edge-you-have-c726bee8-c42e-e472-e954-4cf5123497eb).
 - Reinicie o navegador Edge.
 - Navegue até o site para o qual você configurou um indicador. Se o site não aparecer conforme o esperado, vá para a Etapa 3. 

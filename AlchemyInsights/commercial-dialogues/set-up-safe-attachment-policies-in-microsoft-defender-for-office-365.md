@@ -12,17 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 206c5c8889e88efa792f2fae686da040c5ec94d3f4bb495a5ac5cca59e455e64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88f06f5d35030a4decaaf3a7b1f8198f42e6913154c27ed426373ad95a291a67
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058530"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888358"
 ---
 # <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Configurar as Cofre de anexo no Microsoft Defender para Office 365
 
-1. Vá para o Centro de Conformidade [Office 365 Segurança &](https://go.microsoft.com/fwlink/p/?linkid=2077143) e selecione Política de Gerenciamento de Ameaças Cofre   >    >  **Anexos**.
-2. Para habilitar esse recurso para outras cargas de trabalho, selecione Ativar o Microsoft Defender para Office 365 para SharePoint **Online, OneDrive e Microsoft Teams**.
-3. Para criar uma nova política, selecione o **ícone Novo** ( **+** )
-4. Especifique o nome, a descrição e as configurações da política.
-5. Selecione **Salvar**.
+1. No portal Microsoft 365 Defender em , vá para Email & Políticas de Colaboração & Políticas de Ameaças de Regras Cofre <https://security.microsoft.com/>  \>  \>  \> **Anexos** na **seção** Políticas.
+
+   Para ir diretamente para a página **Cofre Anexos,** use <https://security.microsoft.com/safeattachmentv2> .
+
+2. Na página **Cofre Anexos,** faça qualquer uma das seguintes etapas:
+   - Para adicionar uma nova política, selecione **+ Criar**. Um assistente será lançado para ajudá-lo a definir suas configurações de política.
+   - Para editar uma política existente, selecione a política clicando no nome da política. No sobremenu de detalhes exibido, selecione **Editar** na seção que contém as configurações que você deseja configurar.
+   - Para ativar ou desativar Cofre anexos para SharePoint, OneDrive e Microsoft Teams, clique em **Configurações** globais, a opção Ativar ou desativar e clique em **Salvar**.
+
+3. Depois de revisar suas configurações, selecione **Enviar** (novo) ou **Salvar** (editar).
+
+Para saber mais, confira os seguintes artigos:
+
+- [Configurar políticas Cofre anexos no Microsoft Defender para Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
+- [Ative os anexos seguros para SharePoint, OneDrive e Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams)

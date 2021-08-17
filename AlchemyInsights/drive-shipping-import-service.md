@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11514"
 - "9003046"
-ms.openlocfilehash: 85d6e723e56b01fd9914165d8c9740f3b055947d
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: e524935c4600d4f043e39dc3c261eb21be97bfbaeb30dc1279676e2d5578ba4b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721661"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888290"
 ---
 # <a name="drive-shipping-in-the-microsoft-365-import-service"></a>Envio de unidade no Serviço de Importação do Microsoft 365
 
@@ -34,12 +34,11 @@ Para iniciar o trabalho:
 
 Aqui estão algumas coisas importantes a serem lembradas:
 
-- Você deverá ter a função Exportação Importação da Caixa de Correio no Exchange Online para importar arquivos PST para as caixas de correio do Microsoft 365.
-O desempenho pode ser afetado para PSTs maiores que 20Gb.
+- Você deverá ter a função Exportação de Importação de Caixa de Correio no Exchange Online para importar arquivos PST para as caixas de correio do Microsoft 365. O desempenho pode ser afetado para PSTs maiores que 20 GB.
 
 - Somente as unidades de estado sólido (SSDs) de 2,5 polegadas ou discos rígidos internos SATA II/III de 2,5 ou 3,5 polegadas são compatíveis.
 O disco rígido contendo os arquivos PST deve ser criptografado com BitLocker.
 
 - O custo de importação dos arquivos PST para as caixas de correio do Microsoft 365 usando o envio de unidade é de US$ 2 por GB de dados.
 
-Para obter mais informações sobre o uso do método de envio de unidade para importação de PSTs, veja [Usar envio de unidade para importar os arquivos PST da sua organização](/microsoft-365/compliance/use-drive-shipping-to-import-pst-files-to-office-365).
+Para obter mais informações sobre o uso do método de envio de unidade para importação de PSTs, veja [Usar envio de unidade para importar os arquivos PST da sua organização](https://docs.microsoft.com/microsoft-365/compliance/use-drive-shipping-to-import-pst-files-to-office-365).
