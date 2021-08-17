@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7909"
 - "9003233"
-ms.openlocfilehash: d4cbe80c3e8f0ce32fcbe89e852f24efd6f50575
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: b044e69cef177c5a1ad38c2d27a297d90ba7f55e7b2e75fff2e390869241f325
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49886768"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057882"
 ---
 # <a name="domain-controller"></a>Controlador de domínio
 
@@ -34,6 +34,6 @@ Para resolver o problema que faz com que o serviço de domínio do Azure Active 
 
 **Não é possível desabilitar o AAD-DS**
 
-O AAD-DS não pode ser pausado. Se deseja parar de usar seu domínio gerenciado, ele deve ser excluído.
+O AAD-DS não pode ser pausado. Se você quiser parar de usar o domínio gerenciado, ele deverá ser excluído.
 
 Se você tiver problemas para resolver mensagens de erro comuns e para etapas de solução de problemas associadas para ajudá-lo a voltar a funcionar, consulte [Solucionar problemas do Azure AD Domain Services](https://docs.microsoft.com/azure/active-directory-domain-services/troubleshoot).

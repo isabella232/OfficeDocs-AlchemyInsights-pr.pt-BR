@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "9909"
-ms.openlocfilehash: 67331a9661ee67c4a861feb1a4292255a4d37133
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 1ac3158914455502d2de493dd1320034b1d09573ebb3ffef24c23eb1e816cad0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403768"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082930"
 ---
 # <a name="authentication-app"></a>Aplicativo de autenticação
 
@@ -31,10 +31,10 @@ Se você for um Administrador Global, poderá descobrir rapidamente o que aconte
 **Verifique o cenário aplicável:**
 
 1. Se um usuário não estiver recebendo uma notificação por push no aplicativo Microsoft Authenticator, verifique se eles não são mostrados nos usuários bloqueados do MFA, conforme descrito em Bloquear e [desbloquear usuários](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom).
-1. Se o usuário não estiver bloqueado para o MFA, mas não receber uma notificação por push, ele poderá abrir o aplicativo Microsoft Authenticator, que puxará as solicitações de aprovação pendentes.
+1. Se o usuário não estiver bloqueado para OMFA, mas não receber uma notificação por push, ele poderá abrir o aplicativo Microsoft Authenticator, que puxará as solicitações de aprovação pendentes.
 1. Como um método alternativo de login, o usuário também pode clicar em Entrar de outra maneira e escolher usar um código de verificação no meu aplicativo móvel.
-1. O Microsoft Authenticator App é o único método disponível para muitos usuários. [Saiba mais sobre os padrões de segurança](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults), verifique Perguntas frequentes sobre aplicativos [autenticadores](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) para perguntas frequentes e como resolvê-las.
+1. O Microsoft Authenticator App é o único método disponível para muitos usuários. [Saiba mais sobre os padrões de segurança](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults), verifique Authenticator [Perguntas](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) frequentes sobre aplicativos para perguntas frequentes e como resolvê-las.
  
 **Vídeos recomendados**
 
-[Como configurar o Aplicativo Autenticador em um novo telefone (2min)](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409).
+[Como configurar o Authenticator App em um novo telefone (2min)](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409).
