@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "7604"
-ms.openlocfilehash: d883bdfd0d59d91eba4770f23e18e49449299e22e75dc78ef63eaf5001c03419
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c8aa49e299697abbd0e35d7762d8723570fc366
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004250"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315572"
 ---
 # <a name="download-usage-data"></a>Baixar dados de uso
 
@@ -26,8 +26,7 @@ Você selecionou uma assinatura associada a um contrato empresarial do Azure.
 
 Para exibir e baixar dados de uso como Enterprise cliente do Azure (EA), execute as seguintes etapas:
 
-> [!NOTE]
-> Você deve ser um administrador da empresa, proprietário da conta ou um administrador de departamento, com a política de encargos de exibição habilitada. 
+**Observação**: você deve ser um administrador da empresa, proprietário da conta ou um administrador de departamento, com a política de encargos de exibição habilitada. 
 
 1. Entre no portal do Azure e procure Gerenciamento de **Custos + Cobrança.**
 2. Selecione um perfil de cobrança e clique **em Uso + encargos.**

@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 15237313dd8a14f7b4f6b16a8e55cc82b44de2a5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0e43dc115578746c91faf66423b2145b3dbb093ee9d6148a3fe28cc42f2d396
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720301"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085792"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>Problemas e resoluções comuns do SharePoint Online
 
 Aqui estão alguns tópicos solicitados com frequência sobre problemas do SharePoint Online:
 
-- **Introdução**: Use o [livro de aparência do SharePoint](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) para criar uma ótima e avançada intranet que conecta o local de trabalho. Confira [exemplos](https://lookbook.microsoft.com/) e obtenha [orientações de design](https://spdesign.azurewebsites.net/). Confira [introdução ao SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) para obter uma introdução geral ao SharePoint Online.
+- **Getting Started**: Use o [SharePoint Look Book](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) para criar uma intranet linda e poderosa que conecta o local de trabalho. Consulte [exemplos e](https://lookbook.microsoft.com/) obter [diretrizes de design](https://spdesign.azurewebsites.net/). Consulte [Introdução ao SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) para ver uma introdução geral ao SharePoint Online.
 
 - **Permissões**: [Crie uma estratégia de Permissões](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) e [Entenda os Níveis de Permissões](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
@@ -36,4 +36,4 @@ Aqui estão alguns tópicos solicitados com frequência sobre problemas do Share
 
 - **Modernize o SharePoint**: Confira o [Guia da experiência Moderna no SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) e [Modernize seus sites clássicos do SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) para iniciar a mudança.
 
-**Observação:** Para obter uma resposta mais específica sobre um problema do SharePoint, reformule rapidamente sua pergunta e inclua os erros que você está vendo ou recursos que você está usando.
+**Observação:** Para obter uma resposta mais específica sobre um SharePoint, reformular brevemente sua pergunta e incluir quaisquer erros que você esteja vendo ou recursos que você esteja usando.
