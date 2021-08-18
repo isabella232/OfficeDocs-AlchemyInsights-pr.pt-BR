@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: e479501eb0bd751d364b39ec75b8c8b990702e84
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: ae4ddd365951190f58c551a4ca2874268ee64186c605be5b33860dcb864235da
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314516"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901952"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Renovação Microsoft 365 pré-paga
 
@@ -29,7 +29,8 @@ ms.locfileid: "58314516"
 3. Na página detalhes da assinatura, na seção **Configurações** de assinatura e pagamento, selecione **Estender data de término**.
 4. Na página **renovar ou adicionar licenças de** usuário, selecione Usar **uma** chave de produto nova e não usada e selecione **Próximo**.
 5. Insira a chave do produto e selecione **Next**.
-    **Observação**: se você tiver mais de uma chave de produto, selecione **Adicionar outra chave do produto** para inssiá-las.
+    > [!NOTE]
+    > Se você tem mais de uma chave de produto, selecione **Adicionar outra chave de produto** para inseri-las.
 6. Revise os detalhes do pedido e selecione **Resgatar**.
 
 Para saber mais, confira [Adicionar licenças ou](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)estender uma assinatura paga pelo uso de uma chave de produto .

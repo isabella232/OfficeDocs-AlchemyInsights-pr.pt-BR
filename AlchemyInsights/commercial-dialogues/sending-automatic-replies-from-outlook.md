@@ -1,5 +1,5 @@
 ---
-title: Enviando respostas automáticas do Outlook
+title: Enviando respostas automáticas de Outlook
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: dc0b35ca22ebb5e7572a48e372c619ec9b8a14d4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5775e0de2392ed82fdd2f8ea46fac5b38212bd52e836f00bdac68b24e31639ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735255"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090938"
 ---
-# <a name="sending-automatic-replies-from-outlook"></a>Enviando respostas automáticas do Outlook
+# <a name="sending-automatic-replies-from-outlook"></a>Enviando respostas automáticas de Outlook
 
 - Há duas maneiras de enviar respostas automáticas fora do escritório, dependendo do tipo de conta de email que você tem.
-- Clique **em Arquivo** e, em **seguida, selecione Respostas Automáticas** com base na sua versão do Outlook.
+- Clique **em Arquivo,** em **seguida, selecione Respostas Automáticas** com base na sua versão do Outlook.

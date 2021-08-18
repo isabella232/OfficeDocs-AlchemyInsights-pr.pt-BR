@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 4b3035444966e89d32c4375482a155ae85bff240
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a135d20c4f6c6c387c57a5b3007048e33fcc4cf3af0a6d12cad91b62d53463c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464315"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090905"
 ---
 # <a name="prepare-to-provision-users-through-directory-synchronization-to-office-365"></a>Preparar-se para provisionar usuários por meio da sincronização de diretórios para o Office 365
 

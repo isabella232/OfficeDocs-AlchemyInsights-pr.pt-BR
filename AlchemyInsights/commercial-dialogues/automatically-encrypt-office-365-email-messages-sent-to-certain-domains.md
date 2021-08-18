@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5a285f36aeb814e3b1d361c8cbffd5a6bef0770d10082d24654c7bbda59ce65b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d30535d8605fcbfa0ca73c262d8f8671d73234a4
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082174"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318836"
 ---
 # <a name="automatically-encrypt-office-365-email-messages-sent-to-certain-domains"></a>Criptografar automaticamente Office 365 mensagens de email enviadas para determinados domínios
 
@@ -33,7 +33,6 @@ ms.locfileid: "54082174"
 9. Escolha qualquer seleção opcional (em uma lista de seleções opcionais que você pode fazer neste ponto, muitas das quais podem ser deixadas com a configuração padrão para simplicidade).
 10. Clique em **Salvar**.
 
-> [!IMPORTANT]
-> Você sempre pode voltar e editar essa regra mais tarde.
+**Importante**: você sempre pode voltar e editar essa regra mais tarde.
 
 Para obter mais informações sobre como criar regras para criptografia, consulte [Define mail flow rules to encrypt email messages in Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
