@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7357f53ef7827aea9cbb0d222c338a5edf429ffd201bfbb6d7307b3d446fdae2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 61372075ac8ccf04606a8003b4ec29f89fc048e5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894451"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332367"
 ---
 # <a name="enable-safe-attachments-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Habilitar Cofre anexos para SharePoint Online, OneDrive e Microsoft Teams
 
@@ -28,11 +28,8 @@ ms.locfileid: "57894451"
 2. Na página **Cofre Anexos,** clique em **Configurações globais**.
 3. No sobrevoo exibido, selecione Ativar o Microsoft Defender para Office 365 para **SharePoint, OneDrive** e Microsoft Teams e, em seguida, selecione **Salvar**.
 
-    > [!TIP]
-    >
-    > Faça as etapas a seguir para aprimorar a proteção de Cofre anexos para SharePoint, OneDrive e Microsoft Teams:
-    >
-    > - Para impedir que os usuários baixem arquivos mal-intencionados, use o valor do parâmetro `$true` *DisallowInfectedFileDownload* no cmdlet **[Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** no SharePoint PowerShell Online. Para obter mais [informações, consulte Use SharePoint Online PowerShell para impedir que os usuários baixem arquivos mal-intencionados.](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files)
-    > - [Criar uma política de alerta para arquivos detectados](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
+    **Dica:** Faça as seguintes etapas para aprimorar a proteção de Cofre anexos para SharePoint, OneDrive e Microsoft Teams:
+    - Para impedir que os usuários baixem arquivos mal-intencionados, use o valor do parâmetro `$true` *DisallowInfectedFileDownload* no cmdlet **[Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** no SharePoint PowerShell Online. Para obter mais informações, consulte Use SharePoint Online PowerShell para impedir que os usuários [baixem arquivos mal-intencionados.](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files)
+    - [Criar uma política de alerta para arquivos detectados](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
 
 Para obter mais informações, [consulte Cofre Attachments for Office 365 for SharePoint, OneDrive e Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2092041).

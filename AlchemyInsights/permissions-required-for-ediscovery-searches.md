@@ -12,23 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9ed0c5f350138e9745a87d6f5a90f11e7ce4b279
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53973829"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58338948"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>Permissões necessárias para pesquisas de Descoberta Desdiscovery
 
-Para executar Pesquisas de Conteúdo no Centro de Conformidade e Segurança, um usuário deve ser pelo menos um membro do grupo de funções do Gerenciador de Descobertas Eletrônicos, o que permite que eles executem pesquisas e coloque regiões em caixas de correio, sites SharePoint e OneDrive locais. & Os membros também podem criar e gerenciar casos de Descoberta eDiscovery, adicionar e remover membros a uma ocorrência, criar e editar Pesquisas de Conteúdo e acessar dados de caso em Advanced eDiscovery.
+Para executar os xearches de conteúdo no Centro de Conformidade & segurança, pelo menos um usuário deve ser membro do grupo de funções do Gerenciador de Descobertas.
 
-Para executar In-Place pesquisas de Descoberta Exchange no Centro de administração do Exchange (EAC), o usuário deve ser membro do grupo de função Gerenciamento de Descoberta no Exchange Online.
+Para executar pesquisas de conteúdo no Centro de conformidade do Microsoft 365, pelo menos um usuário deve ser membro do grupo de funções do Gerenciador de Descobertas.  
 
-Para obter mais informações sobre permissões de Descoberta eDiscovery, consulte: 
+Para atribuir permissões:
 
-- [Atribuir permissões de Descoberta Eletrônica no Centro de Conformidade e Segurança](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
-
-- [Atribuir permissões de descoberta eletrônica no Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+1. Vá para [Centro de conformidade do Microsoft 365](https://compliance.microsoft.com/)  >  **Permissões**.
+1. Em **Centro de Conformidade,** selecione **Funções** e, em seguida, selecione **eDiscovery Manager**.
+1. No sobrevoo, adicione o usuário à função desejada selecionando **Editar** ao lado do Gerenciador de Descobertas E ou da função Administrador de Descobertas EDiscovery.
 
 **Observação:** depois de atribuir permissões de Descoberta eDiscovery, talvez seja necessário aguardar alguns minutos para que as permissões se propaguem.
+
+Para obter mais informações sobre permissões de Descoberta [Centro de conformidade do Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)

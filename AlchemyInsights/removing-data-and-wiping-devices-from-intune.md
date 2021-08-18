@@ -15,12 +15,12 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 92673c4a2a0e0faa98d3ade5ca1f6aa687d4c94a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922189"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331029"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Removendo dados e limpando dispositivos do Intune
 
@@ -32,8 +32,7 @@ As ações remotas de Apagamento do Dispositivo e Desativação de Dispositivo p
 4. Selecione **Sim** para confirmar. Até que a limpeza seja concluída, o status de ação do dispositivo é mostrado como *Retire Pending*.
     Após a conclusão da ação, você não verá mais o dispositivo móvel na lista de dispositivos gerenciados.
 
-> [!NOTE]
-> Dados da empresa não podem ser removidos dos dispositivos UNIDOS ao Microsoft Azure Active Directory. 
+**Observação**: os dados da empresa não podem ser removidos de dispositivos ASSOCIADOS ao Azure AD. 
 
 Para obter detalhes completos sobre o efeito das ações Retirar e Limpar, incluindo o que é retido e o que é excluído, consulte a seguinte documentação:
 

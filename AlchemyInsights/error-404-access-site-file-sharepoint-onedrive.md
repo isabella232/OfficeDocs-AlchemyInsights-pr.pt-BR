@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 6818f0e5bd82bd7f8f4e955749aa0defecc5b5d947383de4571c23a4bd316497
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4f64426642e8213176b29d55b3091249762b4fa3
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54117760"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333253"
 ---
 # <a name="error-404-file-not-found-in-sharepoint-or-onedrive"></a>Erro 404: Arquivo não encontrado em SharePoint ou OneDrive
 
-Se você receber um erro 404 não encontrado, consulte [Error: 404 File/Page](/sharepoint/troubleshoot/administration/error-404-onedrive-sharepoint)not found in OneDrive or SharePoint .
+Se você receber um erro 404 não encontrado, consulte [Error: 404 File/Page](https://docs.microsoft.com/sharepoint/troubleshoot/administration/error-404-onedrive-sharepoint)not found in OneDrive or SharePoint .

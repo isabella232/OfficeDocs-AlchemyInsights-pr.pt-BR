@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 8ea1a6bf5b02f804014eb6841e774a67e2e6b23dd6a0758c48f05271644f1601
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ca2ec22177b3fbe2ba4d82ae7482e3a1dcc00a37
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54008867"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331647"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>Problemas ao sincronizar seu calendário com dispositivos
 
@@ -31,7 +31,6 @@ Para sincronizar um SharePoint Calendário para Outlook, siga estas etapas:
 3. No menu faixa de opções clássico, clique em **Calendário** e clique **Conexão para Outlook**.
 4. No pop-up solicitando que você confirme a sincronização, clique em **Permitir**.
 
->[!Note]
-> Quando você fizer uma alteração no calendário Outlook sincronizado, ele aparecerá no calendário SharePoint e vice-versa.
+**Observação**: quando você fizer uma alteração no calendário Outlook sincronizado, ele aparecerá no calendário SharePoint e vice-versa.
 
 Para obter mais informações sobre Microsoft 365 Grupos, consulte este [artigo](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).

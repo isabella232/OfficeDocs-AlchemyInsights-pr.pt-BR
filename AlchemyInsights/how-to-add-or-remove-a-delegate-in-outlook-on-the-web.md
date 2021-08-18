@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7335"
-ms.openlocfilehash: d28b857a95a9959ed3b6b8954878f9c60a367db6d53e67e6729b174c5ce7b364
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4d5aecdd770aba0017dd4d99e680b51c31044b18
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53993413"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333019"
 ---
 # <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Como adicionar ou remover um Representante no Outlook na Web (OWA)
 
@@ -30,16 +30,14 @@ Para atribuir um Editor ou Representante de acesso ao seu calendário:
 
     - Selecione **Pode editar** para dar a eles permissão para fazer alterações no calendário.
     - Selecione **Delegar** para dar a eles a mesma permissão que um editor, além disso, eles receberão solicitações de reunião e respostas em seu nome.
-    > [!NOTE]
-    > Quando um representante responde a um convite de reunião em seu nome, você não verá a resposta no convite em sua caixa de entrada ao usar Outlook na Web. As reuniões aceitas ou aceitas provisamente aparecerão em seu calendário e mostrarão que seu representante as aceitou.
+    **Observação**: quando um representante responder a um convite de reunião em seu nome, você não verá a resposta no convite em sua caixa de entrada ao usar Outlook na Web. As reuniões aceitas ou aceitas provisamente aparecerão em seu calendário e mostrarão que seu representante as aceitou.
     - As opções **Podem exibir quando** estou ocupado, podem exibir  **títulos** e locais e podem exibir todos os detalhes permitem que outras pessoas possam exibir seu calendário, mas não fazer alterações nele. O acesso a pessoas de fora da sua organização é limitado a essas opções.
 
 5. Depois de terminar de adicionar a pessoa com a qual você deseja compartilhar seu calendário e escolher qual permissão você deseja dar a ela, selecione **Compartilhar**. Se você decidir não compartilhar seu calendário agora, selecione **Remover**.
 
 A pessoa com quem você compartilhou seu calendário receberá uma mensagem de email contando sobre ele. Quando eles selecionarem **o botão Aceitar** no convite, ele adicionará seu calendário à lista de calendários.
 
-> [!NOTE]
-> Os itens de calendário **marcados como Particular** estão protegidos. A maioria das pessoas com quem você compartilha seu calendário vê apenas a hora de itens **marcados como Particular**, não o assunto, o local ou outros detalhes. A exceção a isso é se você selecionar a caixa de seleção Permitir representante **exibir eventos privados.**
+**Observação**: Os itens de calendário **marcados como Particular** estão protegidos. A maioria das pessoas com quem você compartilha seu calendário vê apenas a hora de itens **marcados como Particular**, não o assunto, o local ou outros detalhes. A exceção a isso é se você selecionar a caixa de seleção Permitir representante **exibir eventos privados.**
 
 Para remover um Representante no Outlook na Web (OWA):
 

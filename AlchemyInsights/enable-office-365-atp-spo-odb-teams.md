@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 4a29fdf1b61dd51b85793a1346bea193c67f70d32344470cb5449cf767da4a24
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2d132101768e0a835d448604d684ec0c735e6628
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896591"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332147"
 ---
 # <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Habilitar o Microsoft Defender para Office 365 para SharePoint Online, OneDrive e Microsoft Teams
 
@@ -26,5 +26,4 @@ ms.locfileid: "57896591"
 4. (Recomendado) Como administrador global ou administrador SharePoint Online, execute o cmdlet [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) com o parâmetro **DisallowInfectedFileDownload** definido como *true*.
 5. (Recomendado) [Configurar alertas para](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) arquivos detectados.
 
-> [!NOTE]
-> O Microsoft Defender para Office 365 não examinará todos os arquivos no SharePoint Online, OneDrive ou Microsoft Teams. Os arquivos são verificados de forma assíncrona, por meio de um processo que usa eventos de compartilhamento e atividades de convidados, juntamente com heurísticas inteligentes e sinais de ameaça para identificar arquivos mal-intencionados. Consulte [Microsoft Defender for Office 365 for SharePoint, OneDrive e Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+**Observação**: o Microsoft Defender para Office 365 não examinará todos os arquivos no SharePoint Online, OneDrive ou Microsoft Teams. Os arquivos são verificados de forma assíncrona, por meio de um processo que usa eventos de compartilhamento e atividades de convidados, juntamente com heurísticas inteligentes e sinais de ameaça para identificar arquivos mal-intencionados. Consulte [Microsoft Defender for Office 365 for SharePoint, OneDrive e Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).

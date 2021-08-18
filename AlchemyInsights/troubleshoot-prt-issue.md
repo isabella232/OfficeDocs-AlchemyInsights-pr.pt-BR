@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a005c4a6848bbf0725560375df1220ce906cbb5f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972704"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330947"
 ---
 # <a name="troubleshoot-prt-issue"></a>Solucionar problemas de PRT
 
@@ -34,8 +34,7 @@ Esse fluxo de registro também é conhecido como "Sync Join".
     1. O dispositivo tenta primeiro recuperar informações de locatário do SCP do lado do cliente no Registro [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Para obter mais informações, confira este [documento](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
     2. Se ele falhar, o dispositivo se comunicará com o Active Directory (AD) local para obter informações de locatário do Ponto de Conexão de Serviço (SCP). Para verificar o SCP, consulte este [documento](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point). 
 
-> [!NOTE]
-> Recomendamos habilenciar o SCP no AD e usar apenas o SCP do lado do cliente para validação inicial.
+**Observação**: recomendamos habilenciar o SCP no AD e usar apenas o SCP do lado do cliente para validação inicial.
 
 2. Windows 10 tenta se comunicar com o Azure AD no contexto do sistema para se autenticar no Azure AD. Você pode verificar se o dispositivo pode acessar recursos da Microsoft na conta do sistema usando o script Test Device Registration Connectivity.
 
@@ -47,8 +46,7 @@ Esse fluxo de registro também é conhecido como "Sync Join".
 
 6. No próximo logon do usuário para Windows 10, o registro será concluído. 
 
-> [!NOTE]
-> Se você estiver na VPN e um processo de logoff-logoff encerrar a conectividade de domínio, você poderá disparar o registro manualmente:
+**Observação**: se você estiver na VPN e um processo de logoff-logoff encerrar a conectividade de domínio, você poderá disparar o registro manualmente:
  1. Emitir um dsregcmd /join localmente no prompt de administrador ou remotamente por meio do PSExec para seu computador. Por exemplo, \\ cmd win10client01 do PsExec , dsregcmd /join
 
  2. Para obter mais detalhes sobre problemas de Junção Híbrida, consulte [Solucionar problemas de dispositivos](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344).
