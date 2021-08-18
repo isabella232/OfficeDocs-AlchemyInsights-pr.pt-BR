@@ -16,12 +16,12 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 9fc510bd8ab65e4e8670f16b530751bd35254da4d8c7c0feab3cfbf1d0e24303
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7b3f7dfaf9afffb689a3676910e1160276939397
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500976"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327239"
 ---
 # <a name="trying-to-find-a-trial"></a>Tentando encontrar uma avaliação?
 
@@ -31,8 +31,7 @@ Se quiser experimentar um novo serviço, você pode encontrar uma lista de assin
 
 2. Selecione a assinatura que atende às suas necessidades e selecione  **Obter avaliação gratuita**.
 
-    > [!NOTE]
-    > Nem todas as assinaturas estão disponíveis como uma avaliação. Se você não vir o botão **Obter** avaliação gratuita ao passar o mouse sobre uma assinatura, isso significa que uma avaliação não está disponível.
+    **Observação**: Nem todas as assinaturas estão disponíveis como uma avaliação. Se você não vir o botão **Obter** avaliação gratuita ao passar o mouse sobre uma assinatura, isso significa que uma avaliação não está disponível.
   
 3. Você pode ser solicitado a inserir um cartão de crédito ou outro método de pagamento para fornecer verificação adicional como uma medida de segurança. Você não será cobrado por essa avaliação gratuita. Manteremos suas informações de pagamento no arquivo e não as usaremos para qualquer compra sem sua aprovação.
 

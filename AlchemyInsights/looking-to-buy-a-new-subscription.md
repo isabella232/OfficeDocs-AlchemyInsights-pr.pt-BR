@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: commerce_purchasing
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 00f01df15069ec779187655500812d7ba06d8e567093f9d6b89f96fe8e57a2dc
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 9a58e263201ae272f51e75bdb0a3826ae236f59e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500436"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326213"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>Quer comprar uma nova assinatura?
 
@@ -33,8 +33,8 @@ Se você já tiver uma assinatura Microsoft 365 para empresas e quiser comprar o
 
  **Recursos adicionais:**
   
-- [Atribuir licenças aos usuários no Microsoft 365 para empresas](/microsoft-365/admin/add-users/add-users)
+- [Atribuir licenças aos usuários no Microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
-- [Cancelar sua assinatura](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Cancelar sua assinatura](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- Se você estiver interessado em mudar de assinatura, consulte Alternar para [um plano Microsoft 365 para empresas.](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- Se você estiver interessado em mudar de assinatura, consulte Alternar para [um plano Microsoft 365 para empresas.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
