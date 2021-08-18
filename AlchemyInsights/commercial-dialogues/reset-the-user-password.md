@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: ed5f48ba746da47e2e5db1cb9f279e1cf9b862e47813d617ab7df18ed64725ed
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9dd83da24835dfda073326234abe6ef4b2123764
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54119164"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329942"
 ---
 # <a name="reset-the-users-password"></a>Redefinir a senha do usuário
 
@@ -28,5 +28,4 @@ Você precisará redefinir a senha do usuário antes de fazer qualquer outra coi
 1. Selecione o usuário cuja conta foi comprometida.
 1. No sobrevoo exibido, clique em **Redefinir senha**.
 
-> [!NOTE]
-> Não envie a senha para o usuário por email.
+**Observação**: Não envie a senha para o usuário por email.

@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b6232cfed6a26609dc7cec4cb020ed46f087410e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891887"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328324"
 ---
 # <a name="subscription-expired"></a>A assinatura expirou
 
@@ -29,9 +29,8 @@ Se sua assinatura expirou ou foi desativada pela Microsoft, ou se você a cancel
 **Reativar uma assinatura**
 
 1. No centro de administração, acesse a página **Cobrança de** > [seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Na guia **Produtos**, localize a assinatura que você deseja reativar, selecione Mais ações (três pontos) e selecione **Reativar essa assinatura**.
-    > [!NOTE]
-    > Caso não veja **Reativar essa assinatura**, contate o suporte.
+2. Na guia **Produtos**, localize a assinatura que você quer reativar, selecione os três pontos (mais ações), depois selecione **Reativar esta assinatura**.
+    **Observação**: se você não vir **Reativar esta assinatura**, entre em contato com o Suporte.
 3. No painel **Reativar esta assinatura**, selecione um método de pagamento na lista suspensa ou selecione **Adicionar método de pagamento**.
 4. Selecione **Salvar**.
 

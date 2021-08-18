@@ -1,5 +1,5 @@
 ---
-title: Conformidade de comunicações
+title: Conformidade em comunicações
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b20452adaa25c7ecb648cd05b1524ee6a39ca77e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090724"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329906"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Conformidade de comunicações no Microsoft 365
 
@@ -43,5 +43,4 @@ Requisitos de licença: os usuários monitorados por políticas de comunicação
 
 Se você não tiver nenhuma das informações acima e quiser tentar a conformidade de comunicação, inscreva-se para uma avaliação de Office 365 Enterprise **[E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
 
-> [!NOTE]
-> Pode levar até 24 horas para que as mensagens de email sejam totalmente processadas em uma política. As comunicações Microsoft Teams, Yammer e plataformas de terceiros podem levar até 48 horas para processar totalmente em uma política.
+**Observação**: pode levar até 24 horas para que as mensagens de email sejam totalmente processadas em uma política. As comunicações Microsoft Teams, Yammer e plataformas de terceiros podem levar até 48 horas para processar totalmente em uma política.

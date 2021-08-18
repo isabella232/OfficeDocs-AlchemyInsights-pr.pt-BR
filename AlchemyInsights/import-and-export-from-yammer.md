@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9735"
 - "9003224"
-ms.openlocfilehash: 3ead2702c2fbd26b2e5596e26e9189c2f97baf93c93ec3cbd57f15c855b5128e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b365921d3ca64e8ad4bd3891e11add8043b2a903
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001460"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329814"
 ---
 # <a name="import-and-export-from-yammer"></a>Importar e Exportar do Yammer
 
@@ -29,8 +29,7 @@ As opções de importação do usuário variam dependendo se a sua rede do Yamme
 - **Modo não nativo**: os usuários podem ser importados para grupos usando o [Adicionar do Catálogo de Endereços](https://support.microsoft.com/office/manage-yammer-community-members-75253554-d0f3-4148-b835-e6a9a8a0c294) (limite de 100 usuários) nas configurações do grupo ou para a rede usando o [Atualização em Massa](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) no Administrador de Rede.
 - **Modo Nativo**: as operações de associação a um grupo e de associação de rede devem ser executadas no [Portal de administração do Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users), [Portal do Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)ou usando outra opção do Azure AD. As redes no Modo Nativo não têm mais acesso à Atualização em Massa e a outros recursos herdados.
 
-> [!IMPORTANT]
-> O Yammer nunca teve suporte para a importação de conteúdo dentro do Administrador de Rede mesmo quando o recurso Exportação de Dados era usado em outra rede. O conteúdo pode ser repostado por soluções de parceiros ou pelas APIs REST do Yammer.
+    **Importante**: o Yammer nunca teve suporte para a importação de conteúdo dentro do Administrador de Rede mesmo quando o recurso Exportação de Dados era usado em outra rede. O conteúdo pode ser repostado por soluções de parceiros ou pelas APIs REST do Yammer.
 
 **Exportar**
 

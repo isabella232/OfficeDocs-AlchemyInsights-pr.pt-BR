@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7d8a55f8c9a9fc30c653152c2f1b185874cea3ee
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53913991"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330360"
 ---
 # <a name="device-in-pending-state"></a>Dispositivo em estado pendente
 
@@ -40,8 +40,7 @@ Aqui está uma divisão do que acontece durante o processo de registro:
     1. O dispositivo tenta primeiro recuperar informações de locatário do SCP do lado do cliente no Registro [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Para obter mais informações, consulte [document](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
     1. Se falhar, o dispositivo se comunicará com o Active Directory local para obter informações de locatário do SCP. Para verificar o SCP, consulte este [documento](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point).
 
-    > [!NOTE]
-    > Recomendamos habilenciar o SCP no Active Directory e usar apenas o SCP do lado do cliente para validação inicial.
+    **Observação**: recomendamos habilenciar o SCP no Active Directory e usar apenas o SCP do lado do cliente para validação inicial.
 
 2. Windows 10 tenta se comunicar com o Azure AD no contexto do sistema para se autenticar no Azure AD.
 
@@ -55,11 +54,9 @@ Aqui está uma divisão do que acontece durante o processo de registro:
 
 6. No próximo logon do usuário para Windows 10, o registro será concluído.
 
-    > [!NOTE]
-    > Se você estiver na VPN e logoff/logoff/logon encerrar a conectividade de domínio, você poderá disparar o registro manualmente. Para isso:
-    >
-    > Emitir um prompt de administrador localmente `dsregcmd /join` ou remotamente por meio do PSExec para o computador.
-    >
-    > Por exemplo: `PsExec -s \\win10client01 cmd, dsregcmd /join`
+    **Observação**: se você estiver na VPN e logoff/logoff/logon encerrar a conectividade de domínio, você pode disparar o registro manualmente. Para isso:
+    
+    Emitir um prompt de administrador localmente `dsregcmd /join` ou remotamente por meio do PSExec para o computador.\
+    Por exemplo: `PsExec -s \\win10client01 cmd, dsregcmd /join`
 
 Para problemas comuns com o Azure Active Directory de dispositivos, consulte [Perguntas frequentes sobre dispositivos.](https://docs.microsoft.com/azure/active-directory/devices/faq)

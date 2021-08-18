@@ -13,12 +13,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: c647e802042110c1a1f99598bdc3c0bad404554abdce5120317fdbf00f7dca4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 949c447f2be86a0ee31f1f7d417f744e955cb926
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085828"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328360"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Versioning in SharePoint and OneDrive 
 
@@ -39,7 +39,6 @@ Para obter mais informações sobre o versioning, visite os artigos abaixo.
 
 - [Limites de versão](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
->[!Note] 
->Se você é um cliente Microsoft 365, o versioning agora está ativado por padrão quando você cria novas bibliotecas de OneDrive for Business e salva automaticamente as últimas 500 versões de um documento. Isso ajudará você a evitar a perda de documentos ou dados importantes. Se você tiver bibliotecas existentes em seu site de OneDrive for Business ou em seu site de equipe que não tenham o versioning habilitado, você poderá ativar o versioning para eles a qualquer momento.
+**Observação**: se você é um cliente Microsoft 365, o versioning agora está ativado por padrão quando você cria novas bibliotecas OneDrive for Business e salva automaticamente as últimas 500 versões de um documento. Isso ajudará você a evitar a perda de documentos ou dados importantes. Se você tiver bibliotecas existentes em seu site de OneDrive for Business ou em seu site de equipe que não tenham o versioning habilitado, você poderá ativar o versioning para eles a qualquer momento.
 
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7778"
 - "9004351"
-ms.openlocfilehash: 97e89feda45439dae59acca5817fdf359623d647997d08a5cbe4a6314fa6db3a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ce100fcc2c62d62477f78e10b3cc9233fc2f5c5b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54044904"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329074"
 ---
 # <a name="configure-and-extend-token-lifetimes"></a>Configurar e estender o tempo de vida do token
 
@@ -34,8 +34,7 @@ O artigo [Configurar o comportamento da sessão no Azure Active Directory B2C](h
 
 O tempo de vida dos tokens é de uma hora e a duração da sessão é de 24 horas. Isso significa que se nenhuma solicitação tiver sido feita em 24 horas, você precisará fazer logoff novamente antes de solicitar um novo token.
 
-> [!NOTE]
-> Após 30 de maio de 2020, nenhum novo locatário será capaz de usar a política Configurble Token Lifetime para configurar a sessão e atualizar tokens. A preteração acontecerá dentro de vários meses depois disso, o que significa que deixaremos deeducar a sessão existente e atualizar as opiniões de tokens. Você ainda pode configurar o tempo de vida dos tokens de acesso após a preteração.
+**Observação**: após 30 de maio de 2020, nenhum novo locatário poderá usar a política Configurable Token Lifetime para configurar a sessão e atualizar tokens. A preteração acontecerá dentro de vários meses depois disso, o que significa que deixaremos deeducar a sessão existente e atualizar as opiniões de tokens. Você ainda pode configurar o tempo de vida dos tokens de acesso após a preteração.
 
 
 

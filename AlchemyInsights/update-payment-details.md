@@ -15,24 +15,22 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 1e64961a3f5b688d71f1931a2f0cee802007b47c8094b69b325a1d1e123c8dbe
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3942acf1cc4f62ad4368bbccc9c616deba17601c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892415"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330656"
 ---
 # <a name="update-credit-card-information"></a>Atualizar as informações do cartão de crédito
 
 1. No centro de administração do Microsoft 365, acesse a página **Cobrança** \> [Métodos de pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-    > [!NOTE]
-    > Se houver um loop que o envia de volta para a home page do administrador antes da conclusão das atualizações, experimente o modo InPrivate ou Anônimo.
+    **Observação**: se houver um loop que o envia de volta para a home page do administrador antes da conclusão das atualizações, experimente o modo InPrivate ou Anônimo.
   
 2. Escolha o cartão de crédito que você deseja atualizar.
 
-    > [!NOTE]
-    > Se outro administrador adicionou a forma de pagamento, você não poderá atualizar as informações do cartão de crédito ou da conta bancária para isso. Se o cartão de crédito estiver prestes a expirar e o outro administrador não conseguir atualizá-lo, você pode evitar a interrupção do serviço, adicionando um cartão de crédito diferente ou uma nova conta bancária para a assinatura, escolhendo **Adicionar método de pagamento**.
+    **Observação**: se outro administrador adicionou a forma de pagamento, você não poderá atualizar as informações do cartão de crédito ou da conta bancária para isso. Se o cartão de crédito estiver prestes a expirar e o outro administrador não conseguir atualizá-lo, você pode evitar a interrupção do serviço, adicionando um cartão de crédito diferente ou uma nova conta bancária para a assinatura, escolhendo **Adicionar método de pagamento**.
   
 3. No painel **Detalhes da forma de pagamento**, selecione **Editar**.
 
