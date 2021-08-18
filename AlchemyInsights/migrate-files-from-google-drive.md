@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "8001"
 - "5300030"
-ms.openlocfilehash: bb5ec9a042cfa7ebc833b0db4ded22e28c1b3975ddbaca0063d4476896795ba0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2ba7e9c773dd22697ab4b956a1b532b098a99feaca81a1009885ea87e287b6e3
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54026678"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897932"
 ---
 # <a name="migrate-files-from-google-drive"></a>Migrar arquivos do Google Drive
 
 Colabore em um só lugar migrando seus documentos, dados e usuários do Google para o OneDrive, SharePoint e Teams no Microsoft 365.
 
-Para obter mais informações, consulte [Migrar o Espaço de trabalho do Google para o Microsoft 365 com o Gerenciador de Migrações](/sharepointmigration/mm-google-overview).
+Para obter mais informações, consulte [Migrar o Espaço de trabalho do Google para o Microsoft 365 com o Gerenciador de Migrações](https://docs.microsoft.com/sharepointmigration/mm-google-overview).

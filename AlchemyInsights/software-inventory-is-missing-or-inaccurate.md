@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: f2f71234c5f9cd41692031b679c987bf6c108cc4c50f8d4f95f72da42fea73c7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b5c5bf712846f62afd1435db9fa0a1490c199501d0b011e867103516770fcbfd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107113"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897628"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>O inventário de software está ausente ou impreciso
 
-O inventário de software no serviço Microsoft Defender ATP fornece o nome do produto ou o fornecedor, o número da versão mais recente e as vulnerabilidades e desvantagens detectadas. Para saber mais, confira [Inventário de software – gerenciamento de ameaças e ameaças](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
+O inventário de software no serviço Microsoft Defender ATP fornece o nome do produto ou o fornecedor, o número da versão mais recente e as vulnerabilidades e desvantagens detectadas. Para saber mais, confira [Inventário de software – gerenciamento de ameaças e ameaças](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
 
 Você pode denunciar informações vagas ou incompletas, números de versão inexatos ou informações de inventário de software remediadas seguindo estas etapas.  
 

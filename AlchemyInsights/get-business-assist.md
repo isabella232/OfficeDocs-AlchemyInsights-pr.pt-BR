@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500026"
 - "11658"
-ms.openlocfilehash: 9a80ed4740fbc0ecb6fcdb4775678aa88ef21339
-ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
+ms.openlocfilehash: 946c7d86068026620163868463c4bb37108b1d60c4495ec548dc36043bce8414
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53023127"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898732"
 ---
 # <a name="get-business-assist"></a>Obter Assistência Empresarial
 
-1. Na Centro de administração do Microsoft 365, vá para a [página](https://go.microsoft.com/fwlink/p/?linkid=2158423)Business Assist para Microsoft 365, selecione uma frequência de cobrança e selecione **Comprar**.
+1. Na Centro de administração do Microsoft 365, vá para a página [Assistência](https://go.microsoft.com/fwlink/p/?linkid=2158423)comercial para Microsoft 365, selecione uma frequência de cobrança e selecione **Comprar**.
 2. Siga as etapas para fazer check-out.
 
-Para saber mais, confira [Business Assist para Microsoft 365](/microsoft-365/admin/misc/business-assist).
+Para saber mais, consulte [Business Assist for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/misc/business-assist).

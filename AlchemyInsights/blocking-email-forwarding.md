@@ -1,5 +1,5 @@
 ---
-title: 726 Bloqueando o encaminhamento de email
+title: Bloquear ou desbloquear o encaminhamento automático de email externo
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54059620"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897456"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>Bloquear ou desbloquear o encaminhamento de email
+# <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Bloquear ou desbloquear o encaminhamento automático de email eterno
 
 Para habilitar ou desabilitar o encaminhamento de email para uma caixa de correio específica, consulte [Configure email forwarding](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-No nível do locatário, o controle do encaminhamento externo é feito usando a política de spam de saída. Você pode verificar a política de filtro [](https://protection.office.com/antispam) de spam de saída do Centro de Conformidade e Segurança aqui ou usando o comando [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
+Os administradores podem controlar o encaminhamento externo para a organização usando [políticas de spam de saída.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy) Você gerencia políticas de spam de saída no portal Microsoft 365 Defender em ou usando o <https://security.microsoft.com/antispam> cmdlet [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) no Exchange Online PowerShell.
 
-Se você estiver recebendo o seguinte erro: **"550 5.7.520 Access negado,** Sua organização não permitirá o encaminhamento externo" , verifique se a política está configurada para habilitar o Encaminhamento Automático Externo.
+Se você receber o seguinte erro: **"550 5.7.520 Access negado,** Sua organização não permitirá o encaminhamento externo" , certifique-se de que a política está configurada para habilitar mensagens externas encaminhadas automaticamente.
 
-**Observação:** É recomendável manter a Autoforward Externa desabilitada em sua política de filtro de spam de saída padrão e habilita-la somente para os usuários que precisam de encaminhamento externo criando uma política personalizada para esses usuários. Você pode ler mais em [Configuring external email forwarding in Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
+**Observação**: recomendamos o valor padrão  **Automatic -** Sistema controlado para a configuração de regras de encaminhamento automático em sua política de filtro de spam de saída padrão (o encaminhamento externo automático está bloqueado; o encaminhamento automático interno ainda funciona). Você deve criar políticas personalizadas de filtro de spam de saída e usar o valor **Ativado -** O encaminhamento só é habilitado para usuários que precisam de encaminhamento automático de email externo. Para obter mais informações, consulte [Configuring external email forwarding in Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).

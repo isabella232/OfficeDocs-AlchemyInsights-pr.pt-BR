@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e576bf74ee9e4035ea765ccc0f5e9173fc08be71
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005438"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315608"
 ---
 # <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Implantar Microsoft Edge mobile para iOS/iPadOS ou Android
 
@@ -28,8 +28,7 @@ O cenário guiado resumido abaixo o ajudará a atribuir o Microsoft Edge a usuá
 - Integração com o proxy de Aplicativo do Microsoft Azure Active Directory
 - Favoritos gerenciados e atalhos da página inicial
 
-> [!NOTE]
-> Se você bloqueou os usuários de registrar dispositivos móveis, esse cenário guiado não funcionará e os usuários precisarão instalar Microsoft Edge por conta própria.
+**Observação**: se você bloqueou os usuários de registrar dispositivos móveis, esse cenário guiado não funcionará e os usuários precisarão instalar Microsoft Edge por conta própria.
 
 Para implantar Microsoft Edge mobile para iOS/iPadOS ou Android, consulte:
 
