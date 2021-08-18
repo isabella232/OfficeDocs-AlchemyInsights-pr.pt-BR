@@ -15,16 +15,16 @@ ms.custom:
 - commerce_purchase
 - "9003019"
 - "5758"
-ms.openlocfilehash: d1d0a481ee5d5803a5ff1205bc167bf301902cbdceccf0a6ceb8497ebc65e54a
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 46a734244b2eedc6da69738dc19e51513d165c2cb1afc3ab99e91a856e20f674
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503100"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901012"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Comprar o Microsoft Defender para Office 365
 
-O Microsoft Defender para Office 365 está incluído em certas assinaturas, como Microsoft 365 E5, Office 365 E5, Office 365 A5 e Microsoft 365 Business Premium. Se sua assinatura não incluir o Microsoft Defender para Office 365, você poderá comprar o [Microsoft Defender](/microsoft-365/security/office-365-security/office-365-atp) para Office 365 como um complemento para determinada assinatura. Para comprar no Centro de administração do Microsoft 365:
+O Microsoft Defender para Office 365 está incluído em certas assinaturas, como Microsoft 365 E5, Office 365 E5, Office 365 A5 e Microsoft 365 Business Premium. Se sua assinatura não incluir o Microsoft Defender para Office 365, você poderá comprar o [Microsoft Defender](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) para Office 365 como um complemento para determinada assinatura. Para comprar no Centro de administração do Microsoft 365:
 
 1. No centro de administração, vá para a página **Serviços de** Compra  >  [de](https://go.microsoft.com/fwlink/p/?linkid=868433) Cobrança.
 2. Na parte inferior da página **Serviços de** Compra, na seção **Complementos,** encontre o microsoft Defender para Office 365 complemento e selecione **Detalhes**.
@@ -33,6 +33,6 @@ O Microsoft Defender para Office 365 está incluído em certas assinaturas, como
 5. Se necessário, revise as informações de ordem e preços e selecione **Next**.
 6. Escolha um método de pagamento ou adicione um novo, em seguida, selecione **Colocar ordem** Vá para  >  **Admin Home**.
 
-Para atribuir licenças aos usuários, consulte [Atribuir licenças aos usuários](/microsoft-365/admin/manage/assign-licenses-to-users).
+Para atribuir licenças aos usuários, consulte [Atribuir licenças aos usuários](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-Para comprar mais licenças ou removê-las, confira [Adicionar ou remover Licenças](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Para comprar mais licenças ou removê-las, confira [Adicionar ou remover Licenças](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).

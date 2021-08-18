@@ -1,5 +1,5 @@
 ---
-title: Configurações de privacidade para configurar o Microsoft Edge
+title: Microsoft Edge configurações de privacidade
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003843"
 - "6892"
-ms.openlocfilehash: dcd1d91dcde1f585caf0e1e3af30946513a0f26c
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: 24721325aefd4a8c0dbeb7864ce6da637c4df932694d4b6fff80cab5bb5b4319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599441"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114160"
 ---
-# <a name="microsoft-edge-configure-privacy-settings"></a>Configurações de privacidade para configurar o Microsoft Edge
+# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge configurações de privacidade
 
-Por padrão, se o Microsoft Edge é implantado em plataformas que não são do Windows, dados de diagnóstico e informações de site não são enviados para a Microsoft. No entanto, se o Microsoft Edge estiver implantado no Windows 10, dados de diagnóstico e informações de site serão enviados de acordo com [as configurações de dados de diagnóstico do Windows](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization)dos usuários.
+Por padrão, se Microsoft Edge for implantado em plataformas que não Windows, os dados de diagnóstico e as informações do site não serão enviados à Microsoft. No entanto, se Microsoft Edge for implantado no Windows 10, os dados de diagnóstico e as informações do site serão enviados de acordo com as configurações de dados de diagnóstico Windows [usuários.](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization)
 
-Para configurar como o Microsoft Edge manipula a coleta de dados para sua organização, use as seguintes políticas de Grupo:
-- [MetricsReportingEnabled](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled): esta política permite o relatório de uso e dados relacionados à falha.
-- [SendSiteInfoToImproveServices](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): esta política envia informações de site que são usadas para melhorar os serviços da Microsoft.
+Para configurar como Microsoft Edge lida com a coleta de dados da sua organização, use as seguintes políticas de grupo:
+- [MetricsReportingEnabled](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled): Essa política permite o relatório de dados relacionados a falhas e uso.
+- [SendSiteInfoToImproveServices](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): Esta política envia informações de site que são usadas para melhorar serviços Microsoft.
 
-Para saber mais, confira [definir configurações de política](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings).
+Para saber mais, confira [Configurar configurações de política](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings).

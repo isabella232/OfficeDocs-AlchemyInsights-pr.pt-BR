@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 1f6c1ae0fe2261bcbc3d7eaad874cd250dcc7eb82a8df89656fec9d5e60843ca
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8d8cc53589c6643ececca29d86c53c1cb002b20f58b5b45789101c517cc1f703
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972299"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900496"
 ---
 # <a name="unified-retention-policies-in-the-security--compliance-center"></a>Políticas de retenção unificadas no Centro de Conformidade e Segurança
 
@@ -31,6 +31,6 @@ As políticas de retenção permitem que você gerencie o conteúdo da sua organ
       
 Para obter mais detalhes sobre as políticas de retenção de conteúdo como e-mail do Exchange, o OneDrive, o Microsoft Office SharePoint Online e o conteúdo do Teams, confira [Visão geral das políticas de retenção](https://go.microsoft.com/fwlink/?linkid=2127785).  
     
-Se você estiver usando políticas de retenção lado a lado no centro de administração do Exchange e no Centro de Conformidade e Segurança, confira esta recomendação [Usar uma política de retenção em vez de recursos mais antigos](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features).  
+Se você estiver usando políticas de retenção lado a lado no centro de administração do Exchange e no Centro de Conformidade e Segurança, confira esta recomendação [Usar uma política de retenção em vez de recursos mais antigos](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features).  
     
-Para obter informações específicas sobre a retenção do Teams, confira [Políticas de retenção no Teams](/microsoftteams/retention-policies).
+Para obter informações específicas sobre a retenção do Teams, confira [Políticas de retenção no Teams](https://docs.microsoft.com/microsoftteams/retention-policies).

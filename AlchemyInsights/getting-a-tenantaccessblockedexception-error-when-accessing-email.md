@@ -1,5 +1,5 @@
 ---
-title: 127 obter um erro TenantAccessBlockedException ao acessar email?
+title: 127 Obter um erro tenantAccessBlockedException ao acessar emails?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 024638f3c9379e6b804331c2cfa4cd8ba5fa48dcf892d4c418db0ff9a0206b3b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706583"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089428"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Obter um erro TenantAccessBlockedException ao acessar email?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Obter um erro TenantAccessBlockedException ao acessar emails?
 
-Há algumas razões diferentes pelas quais você pode receber esse erro. Por exemplo:
+Há alguns motivos diferentes para você receber esse erro. Por exemplo:
 
-- Verifique se sua assinatura é válida na página **cobrança** \> **[de seus produtos](https://portal.office.com/adminportal/home#/subscriptions)** no centro de administração do Microsoft 365.
+- Verifique se sua assinatura é válida na página **Cobrança** \> **[seus](https://portal.office.com/adminportal/home#/subscriptions)** produtos no Centro de administração do Microsoft 365.
 
-- Verifique se há notificações em atraso na página **de faturas** \> **[& pagamentos](https://portal.office.com/adminportal/home#/billoverview)** no centro de administração do Microsoft 365.
+- Verifique se há notificações anteriores na página **Contas** de Cobrança & \> **[pagamentos](https://portal.office.com/adminportal/home#/billoverview)** no Centro de administração do Microsoft 365.
 
-- Se a cobrança e as assinaturas de sua conta tiverem sido atualizadas recentemente, pode levar tempo para que as alterações sejam propagadas. Tente novamente em alguns minutos e, se o problema persistir, entre em contato conosco.
+- Se a cobrança e as assinaturas da sua conta foram atualizadas recentemente, pode levar tempo para que as alterações se propaguem. Tente novamente em alguns minutos e, se o problema persistir, entre em contato conosco.

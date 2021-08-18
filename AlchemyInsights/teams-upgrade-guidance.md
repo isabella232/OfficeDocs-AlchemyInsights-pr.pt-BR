@@ -11,25 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 7a26f7e1a18239a24b2ebf57fc4a3eccd07058a99638a14c18a9b358a79fb27b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 987c91886aaa4ae04d9dc66567688cd15102a8adc5b0ba0dd4d59dc784d65d01
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54060772"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901168"
 ---
 # <a name="microsoft-teams-upgrade"></a>Atualização do Microsoft Teams
 
 Quer você esteja começando a usar o Teams, usando o Teams em conjunto com o Skype for Business ou pronto para atualizar, queremos garantir que você tenha tudo o que precisa para realizar uma migração tranquila para o Teams. Para obter mais informações, visite os links abaixo.
 
-[Introdução à atualização do Microsoft Teams](/MicrosoftTeams/upgrade-start-here)
+[Introdução à atualização do Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
-[Planejar a atualização](/MicrosoftTeams/upgrade-plan-journey)
+[Planejar a atualização](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 
-[Compreender a coexistência entre Skype for Business e Microsoft Teams](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Compreender a coexistência entre Skype for Business e Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Atualizar do Skype for Business Online para o Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+[Atualizar do Skype for Business Online para o Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Atualizar do Skype for Business instalado para o Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Atualizar do Skype for Business instalado para o Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Verificar o status do Skype for Business Online para a atualização do Teams com o PowerShell](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Verificar o status do Skype for Business Online para a atualização do Teams com o PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

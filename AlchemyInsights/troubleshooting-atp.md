@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 484ec1102500b9cce4a1489e016b73e9f73d609e4af95fff13405857d34f3978
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54038793"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900640"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Solução de problemas do Microsoft Defender para Office 365
 
-- **Você nota atrasos na entrega de mensagens?** Use a [opção Entrega Dinâmica](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) no Microsoft Defender para Office 365 Cofre De anexos. Isso ajudará a evitar atrasos de mensagens ao proteger destinatários de arquivos mal-intencionados.
+- **Você nota atrasos na entrega de mensagens?** Use a [opção Entrega Dinâmica](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) no Microsoft Defender para Office 365 Cofre De anexos. Isso ajudará a evitar atrasos de mensagens ao proteger destinatários de arquivos mal-intencionados.
 
 - **Deseja relatar falsos positivos ou falsos negativos à Microsoft?** Use [o Explorador de Envios.](https://protection.office.com/reportsubmission)
 

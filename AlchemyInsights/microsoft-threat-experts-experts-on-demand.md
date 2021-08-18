@@ -1,5 +1,5 @@
 ---
-title: Especialistas em ameaças da Microsoft - Especialistas sob demanda
+title: Especialistas em Ameaças da Microsoft - Especialistas sob Demanda
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8321"
-ms.openlocfilehash: 583b1099ad4ea07f780a3b122f381dd0ac2e864d
-ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
+ms.openlocfilehash: 63ba0615d118d2ac32ffe5acc289838ef9dfb62d3576c5cfecf361e182060acd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50838029"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113908"
 ---
-# <a name="microsoft-threat-experts---experts-on-demand"></a>Especialistas em ameaças da Microsoft - Especialistas sob demanda
+# <a name="microsoft-threat-experts---experts-on-demand"></a>Especialistas em Ameaças da Microsoft - Especialistas sob Demanda
 
-Especialistas sob Demanda é a segunda funcionalidade de Especialistas em Ameaças da Microsoft. É aqui que você pode falar conosco quando precisar de consultas sobre questões relevantes sobre detecções e adversários.
+Especialistas em Demanda é a segunda Especialistas em Ameaças da Microsoft funcionalidade. É aqui que você pode falar conosco quando precisar de consultas sobre questões relevantes sobre detecções e adversários.
 
-Se você já for um cliente do Defender para Ponto de Extremidade, entre em contato com seu representante da Microsoft para se inscrever nos Especialistas em Ameaças da Microsoft - Especialistas sob Demanda.
+Se você já for um cliente do Defender para Ponto de Extremidade, entre em contato com seu representante da Microsoft para assinar o Especialistas em Ameaças da Microsoft - Especialistas sob Demanda.
 
 A opção de **consultar um** especialista em ameaças está disponível nos menus a seguir no portal em que você pode se envolver com especialistas no contexto de sua investigação:
 
@@ -32,4 +32,4 @@ A opção de **consultar um** especialista em ameaças está disponível nos men
 - Menu Ações de página de alertas
 - Menu Ações de página de arquivo
 
-Para obter mais informações, [consulte Configure and manage Microsoft Threat Experts capabilities](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts).
+Para obter mais informações, [consulte Configure and manage Especialistas em Ameaças da Microsoft capabilities](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts).

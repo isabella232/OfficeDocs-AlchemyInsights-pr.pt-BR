@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12073"
 - "3000003"
-ms.openlocfilehash: 373042e9593faf4eaa486313763beb8e8f48b6e9ea159d1cfb37b9df826384f4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e4d16a8d04b4d2fb4bfa8cf84308e29f2b499e0680f656cc239411d06e5b077c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107148"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900864"
 ---
 # <a name="smtp-settings-for-the-microsoft-365-mail-service"></a>Configurações de SMTP para o serviço de email do Microsoft 365
 
@@ -34,4 +34,4 @@ Estas são as configurações de SMTP para os serviços de email do Microsoft 36
 
 Para configurações de POP e IMAP, consulte [configurações de POP, IMAP e SMTP](https://support.microsoft.com/office/pop-imap-and-smtp-settings-8361e398-8af4-4e97-b147-6c6c4ac95353).
  
-Para saber mais sobre as suas opções para retransmitir email usando o Microsoft 365 e as etapas, consulte [Como configurar um dispositivo ou aplicativo multifuncional para enviar emails usando o Microsoft 365 ou Office 365](/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).
+Para saber mais sobre as suas opções para retransmitir email usando o Microsoft 365 e as etapas, consulte [Como configurar um dispositivo ou aplicativo multifuncional para enviar emails usando o Microsoft 365 ou Office 365](https://docs.microsoft.com/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).
