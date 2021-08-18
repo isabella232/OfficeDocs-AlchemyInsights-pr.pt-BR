@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 97b83d0982f9556fd28a62cc12e3b89259686270c684a46721f0ef3d683e5ae6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791246"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090113"
 ---
 # <a name="enrolling-android-devices-into-intune"></a>Registrar dispositivos Android no Intune
 
-Se você estiver procurando migrar usuários do registro do administrador do dispositivo Android para o Android Enterprise, revise: [mover dispositivos Android do administrador do dispositivo para o gerenciamento de perfil de trabalho](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
+Se você estiver procurando migrar usuários do registro do Administrador de Dispositivos Android para o Android Enterprise, confira: Mover dispositivos Android do administrador de dispositivos para o gerenciamento [de perfil de trabalho.](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile)
 
-O Intune oferece suporte ao registro dos seguintes dispositivos Android:  
+O Intune dá suporte ao registro dos seguintes dispositivos Android:  
 
-- [Samsung Knox, zebra, administrador de dispositivos](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
-- [Perfil de trabalho corporativo do Android](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Samsung Knox, Zebra, Administrador de Dispositivos](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Perfil Enterprise de trabalho do Android](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
 - [Android Enterprise dedicado](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
 - [Android Enterprise totalmente gerenciado](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
 Antes de configurar o registro para dispositivos Android, [revise os pré-requisitos](https://docs.microsoft.com/intune/enrollment/android-enroll).  
 
-Para obter informações sobre como solucionar problemas de registro de dispositivos em geral e alguns erros de registro do Android, consulte [Troubleshoot Device disrollment in Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
+Para obter informações sobre como solucionar problemas de registro de dispositivos em geral e alguns erros de registro no Android, consulte [Troubleshoot device enrollment in Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
 
-Você também pode usar o conteúdo que descreve a folha de solução de problemas do Intune para ajudar a identificar quais problemas do Enrolment seus usuários estão enfrentando.
+Você também pode usar o conteúdo que descreve a folha Solução de Problemas do Intune para ajudar a identificar quais problemas de inscrição seus usuários estão enfrentando.

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8322"
 - "9003227"
-ms.openlocfilehash: 7caf46f9988ddbcbb16c0a2751dbda85bd7da34c
-ms.sourcegitcommit: 616ae0cbd5769e12ae428e00088840cf05e52b6a
+ms.openlocfilehash: a988d792c51a81eac9aad3e8b2cd20fec9b2df51766f8919312e933a806e47ef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50282800"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114700"
 ---
 # <a name="managing-external-settings"></a>Gerenciando configurações externas
 
@@ -33,8 +33,8 @@ Confirme se você [definiu as configurações de colaboração externa](https://
 
 **Gerenciar permissões de acesso de usuário convidado**
 
-1. Os administradores globais podem gerenciar permissões de acesso de convidado no diretório por meio do portal do Azure, configurando as permissões de acesso de convidado na página Configurações de colaboração externa. [Saiba mais sobre essa configuração](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions?WT.mc_id=Portal-Microsoft_Azure_Support).
-2. Se quiser que seus convidados acessem aplicativos como Teams ou Microsoft Office SharePoint Online, confirme se você configurou esses aplicativos para permitir o acesso de convidados. Saiba mais sobre as configurações [das equipes](https://docs.microsoft.com/microsoftteams/guest-access?WT.mc_id=Portal-Microsoft_Azure_Support) e [do Microsoft Office SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview?WT.mc_id=Portal-Microsoft_Azure_Support).
+1. Os administradores globais podem gerenciar as permissões de acesso de convidado no diretório através do portal do Microsoft Azure, configurando as permissões de acesso de convidado na página Configurações de Colaboração Externa. [Saiba mais sobre esta configuração](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions?WT.mc_id=Portal-Microsoft_Azure_Support).
+2. Se você gostaria que seus convidados acessassem aplicativos como Teams ou Microsoft Office SharePoint Online, confirme que você configurou esses aplicativos para permitir o acesso de convidados. Saiba mais sobre as [configurações do Teams](https://docs.microsoft.com/microsoftteams/guest-access?WT.mc_id=Portal-Microsoft_Azure_Support) e [Microsoft Office SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview?WT.mc_id=Portal-Microsoft_Azure_Support).
 
 **Configurando convites:**
 

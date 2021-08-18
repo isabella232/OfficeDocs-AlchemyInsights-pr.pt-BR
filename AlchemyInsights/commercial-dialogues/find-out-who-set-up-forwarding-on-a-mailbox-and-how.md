@@ -13,23 +13,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 6243e787bb6b51f26cf22782d9ec80f946430b864f53de7ea626b7166a674d2c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d6be4331967ed9ae362f5da85856b03cfa40b319
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988167"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317796"
 ---
 # <a name="find-out-who-set-up-forwarding-on-a-mailbox-and-how"></a>Descubra quem configurar o encaminhamento em uma caixa de correio e como
 
-Se o encaminhamento externo foi definido em uma caixa de correio, a atividade é auditada como parte do cmdlet Set-Mailbox. Veja como encontrar a atividade no log de auditoria:
+Se o encaminhamento externo foi definido em uma caixa de correio, a atividade será auditada como parte do cmdlet **Set-Mailbox.** Veja como encontrar a atividade no log de auditoria:
 
-1. Vá para o centro de conformidade [Office 365 segurança & segurança.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Selecione **Pesquisa de** log de auditoria de >  **pesquisa**.
-    > [!NOTE]
-    > Se você vir um aviso de que precisa ativar a auditoria, vá em frente e a a ligue agora. Se esse recurso não estiver ligado, os resultados da pesquisa não poderão puxar dados de datas anteriores.
-1. Certifique-se de **que o** campo Atividades está definido como Mostrar resultados para todas **as atividades** (o padrão). Especifique o intervalo de datas. Não é necessário especificar um nome de usuário.
-1. Selecione **Pesquisar**. As atividades são exibidas em **Resultados**.
-1. Selecione **Resultados do Filtro** e insira **Set-mailbox** no campo **Filtro** atividade. Isso retorna todas **as atividades Set-Mailbox.**
-1. Para exibir os detalhes, selecione uma atividade e selecione **Mais Informações.** Em **Parâmetros,** você pode ver o endereço de email de encaminhamento que foi definido na caixa de correio. O **UserID** representa o usuário que configura o encaminhamento externo na caixa de correio.
-Para saber mais, confira [Pesquisar o log Office 365 de auditoria para solucionar problemas de cenários comuns.](https://go.microsoft.com/fwlink/?linkid=2103944)
+1. Faça uma das seguintes ações:
+   - No Centro de conformidade do Microsoft 365 em <https://compliance.microsoft.com>, vá para **Soluções** \> **Auditoria**. Ou para ir direto para a página **Auditoria**, use <https://compliance.microsoft.com/auditlogsearch>.
+   - No portal do Microsoft 365 Defender em <https://security.microsoft.com>, vá para **Auditoria**. Ou para ir direto para a página **Auditoria**, use <https://security.microsoft.com/auditlogsearch>.
+
+   **Observação**: se você vir um aviso de que precisa ativar a auditoria, vá em frente e a a ligue agora. Se esse recurso não estiver ligado, os resultados da pesquisa não poderão puxar dados de datas anteriores.
+
+2. Na página **Auditoria**, verifique se a guia **Pesquisa** está selecionada e defina as seguintes configurações:
+   - Selecione o intervalo de data/hora nas caixas **Iniciar** **e** Fim.
+   - Verifique se **a caixa Atividades** contém Mostrar resultados de todas as **atividades**.
+
+3. Ao concluir, clique em **Pesquisar**. As atividades aparecem na nova página **Pesquisa de auditoria**.
+
+4. Nos resultados, clique na coluna **Atividade** para classificar os resultados e procure entradas **Set-Mailbox.**
+
+5. Selecione uma atividade nos resultados para abrir o sobremenu de detalhes. Você precisa ver os detalhes de cada registro de auditoria para determinar se a atividade está relacionada ao encaminhamento de email:
+   - **ObjectId**: o valor de alias da caixa de correio que foi modificada.
+   - **Parâmetros**: _ForwardingSmtpAddress_ indica o endereço de email de destino.
+   - **UserId**: o usuário que configurou o encaminhamento de email na caixa de correio no **campo ObjectId.**
+
+Para obter mais informações, [consulte Determining who set up email forwarding for a mailbox](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).

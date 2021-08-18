@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1800018"
 - "6436"
-ms.openlocfilehash: e586664b1c1e8435953fb8a98b2b5b6b15fe1cfa8d74b9622a257cb1751fc799
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 538c79344fc9a10b3400a79c2d2aa1b0e6d99fe2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976961"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318368"
 ---
 # <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Como atualizar as configurações de email no Outlook para pc
 
@@ -31,8 +31,7 @@ ms.locfileid: "53976961"
 
 5. Se você precisar atualizar suas portas de servidor de entrada ou de saída ou configurações SSL, vá para a guia **Avançado** e faça as alterações que você deseja.
 
-> [!NOTE]
-> Para clientes AOL e **Verizon**: Selecionar **SSL/TLS** na caixa de entrada em **Conexões** Criptografadas de Servidor de Entrada e Saída garante que você ainda possa enviar e receber emails após 7 de novembro de 2017.
+    **Observação**: para clientes AOL e **Verizon**: Selecionar **SSL/TLS** na caixa de entrada em **Conexões** Criptografadas de Servidor de Entrada e Saída garante que você ainda possa enviar e receber emails após 7 de novembro de 2017.
 
 6. Quando terminar de atualizar suas configurações, clique em **OK**, clique em **Próximo** e clique em **Concluir**.
 

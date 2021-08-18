@@ -14,12 +14,12 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: d8335c20da06d4cfde2f92149b560f3829c773cfff10aec1ad160b95049f7139
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5af0a042e1ffb686899c9e777fc7ff2a14ad7ecfb8f0d42f529a7ddc449978e6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53956503"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901204"
 ---
 # <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook de Teams Outlook (Compartilhar para Teams , Reunir agora, Nova reunião Teams, Participar Teams reunião)
 
@@ -29,8 +29,8 @@ ms.locfileid: "53956503"
 
 1. Se o Diagnóstico de Serviço não indicar problemas, diagnostice e corrija quaisquer [](https://aka.ms/SaRA-TeamsAddInScenario)problemas de cliente nos dispositivos de usuário afetados baixando e executando o Cenário de Assistente de Recuperação e Suporte  >  **Teams Outlook Do Microsoft.**
 
-Para solucionar problemas manuais de um Teams Outlook de usuário ausente, revise a lista de fatores potenciais que podem fazer com que o Teams seu Teams não apareça listado. Para obter mais informações, [consulte Teams de](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)reunião no Outlook para Windows não mostra .
+Para solucionar problemas manuais de um Teams Outlook de usuário ausente, revise a lista de fatores potenciais que podem fazer com que o Teams seu Teams não apareça listado. Para obter mais informações, [consulte Teams de](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)reunião no Outlook para Windows não mostra .
 
 ## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Para solucionar problemas de agendamento de Teams reunião em nome de outra pessoa (Delegada)
 
-Para agendar uma Teams em nome de outra pessoa, consulte [Troubleshoot Microsoft Teams and Exchange Server interaction issues](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+Para agendar uma Teams em nome de outra pessoa, consulte [Troubleshoot Microsoft Teams and Exchange Server interaction issues](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
