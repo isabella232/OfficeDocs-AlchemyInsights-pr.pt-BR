@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9834"
 - "9003257"
-ms.openlocfilehash: f0d092dfbc805b1e4fa7d26803227118b39ecacca9fa330bb5de8458d4aa0f57
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d71bb376615191f507d39b99d9e51ca77d929b90
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53950284"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323426"
 ---
 # <a name="im-getting-blocked-by-conditional-access-with-domain-joined-device"></a>Estou sendo bloqueado por Acesso Condicional com dispositivo associado ao domínio
 
@@ -52,8 +52,7 @@ Se não for possível enviar a extensão remotamente, notifique os usuários par
 
 Para corrigir esse problema, execute `dsregcmd/leave` nos dispositivos afetados e deixe-os reingressar no Azure Active Directory. Para mais informações, consulte este [documento](https://docs.microsoft.com/azure/active-directory/devices/faq#q-why-do-my-users-see-an-error-message-saying-your-organization-has-deleted-the-device-or-your-organization-has-disabled-the-device-on-their-windows-10-devices).
 
-> [!NOTE]
-> Se seus dispositivos estiverem no Windows 10, atualização 1809, com VPN/Cloud Proxy e virem problemas com o estado "AzureAdPrt" ou qualquer aplicativo com problema de SSO (perspectiva de não conectar à caixa de correio mesmo que você tenha PRT), certifique-se de ter este patch [KB4554354](https://support.microsoft.com/topic/march-30-2020-kb4554354-os-build-17763-1132-deaba49b-4b29-55b9-caee-3e2d87dd75a2) ou atualização cumulativa de abril [KB4549949](https://support.microsoft.com/topic/april-14-2020-kb4549949-os-build-17763-1158-76d9a3af-b20b-8996-bd4d-7b50c505fda6) para evitar falhas de PRT nessas máquinas.
+**Observação**: se seus dispositivos estiverem no Windows 10, atualização 1809, com VPN/Cloud Proxy e virem problemas com o estado "AzureAdPrt" ou qualquer aplicativo com problema de SSO (perspectiva de não conectar à caixa de correio mesmo que você tenha PRT), certifique-se de ter este patch [KB4554354](https://support.microsoft.com/topic/march-30-2020-kb4554354-os-build-17763-1132-deaba49b-4b29-55b9-caee-3e2d87dd75a2) ou atualização cumulativa de abril [KB4549949](https://support.microsoft.com/topic/april-14-2020-kb4549949-os-build-17763-1158-76d9a3af-b20b-8996-bd4d-7b50c505fda6) para evitar falhas de PRT nessas máquinas.
 
 
 

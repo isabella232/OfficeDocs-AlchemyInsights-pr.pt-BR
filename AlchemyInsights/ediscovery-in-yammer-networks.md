@@ -1,5 +1,5 @@
 ---
-title: Descoberta Eletrônico em Redes do Yammer
+title: Descoberta eDiscovery em Yammer Redes
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 2583a1d83047e87a5d655195a3941ee860ff1ced
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f5e2f29e30db5ee2b042b43dc4737c90198ebd7025b9e1637f922b655a1a3f83
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814468"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118372"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>Descoberta Eletrônico em Redes do Yammer
+# <a name="ediscovery-in-yammer-networks"></a>Descoberta eDiscovery em Yammer Redes
 
-Agora você pode executar pesquisas de Descoberta Eletrônico para conteúdo do Yammer.  Executar pesquisas de Descoberta Eletrônico ou exportar conteúdo do Yammer exige o seguinte:
+Agora você pode executar pesquisas de Descoberta Yammer conteúdo.  Executar pesquisas de Descoberta e Yammer ou exportar no conteúdo exige o seguinte:
 
-1. Primeiro, você deve migrar sua Rede Empresarial do Yammer para o Modo Nativo para tornar suas mensagens e arquivos do Yammer descobertos. Observação: se você for um novo cliente a partir de 9 de janeiro de **2020** e sua rede do Yammer já estiver no Modo Nativo, seus dados agora serão descobertos com a Descoberta Eletrônico.
+1. Primeiro, você deve migrar sua rede Yammer Enterprise para o modo nativo para tornar suas mensagens Yammer e arquivos descobertos. Observação: se você for um novo cliente a partir de 9 de janeiro de **2020** e sua rede do Yammer já estiver no Modo Nativo, seus dados agora serão descobertos com a Descoberta eDiscovery .
 
-2. Para clientes de saída, a Descoberta Eletrônico para Yammer estará disponível depois que a ferramenta Alinhamento do Modo Nativo for lançada e a migração do Modo Nativo for concluída para o Yammer no locatário.
+2. Para os clientes de saída, a Descoberta Yammer estará disponível quando a ferramenta Alinhamento do Modo Nativo for lançada e a migração do Modo Nativo for concluída para Yammer no locatário.
 
 Para obter mais informações sobre:
 
-- Modo Nativo no Yammer, consulte: [Visão geral do modo nativo](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- Descoberta Eletrônico em Redes do Yammer, consulte: [Visão geral da Descoberta eDiscovery nas redes do Yammer.](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)
+- Modo Nativo no Yammer, consulte: [Visão geral do modo Nativo](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
+- EDiscovery in Yammer Networks, consulte: [Overview of eDiscovery in Yammer networks](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
 - EDiscovery no Microsoft 365, consulte [eDiscovery in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

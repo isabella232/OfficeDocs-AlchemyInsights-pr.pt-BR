@@ -15,17 +15,17 @@ ms.custom:
 - "9006502"
 - "6950"
 - "11143"
-ms.openlocfilehash: 2cd50e5b737796ed778571e5fddfb48b3b20a4e745938fc09836525a47ba2b72
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3ce60388adbbee51cb008a1dc691f298e13d39e1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54037164"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322517"
 ---
 # <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Exibir o status de gerenciamento dos aplicativos Microsoft usando o Microsoft Edge para dispositivos iOS ou Android
 
 Para acessar logs de aplicativos para uso na solução de problemas de seus aplicativos gerenciados para iOS ou Android, abra Microsoft Edge e digite **about:intunehelp** na caixa de endereços. Microsoft Edge inicia no modo de solução de problemas.
 
-Para ver uma lista das configurações armazenadas nos logs do aplicativo, consulte [Review client app protection logs](/mem/intune/apps/app-protection-policy-settings-log).
+Para ver uma lista das configurações armazenadas nos logs do aplicativo, consulte [Review client app protection logs](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log).
 
-Para saber como exibir logs de aplicativos em dispositivos Android, consulte [Upload e logs de email.](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)
+Para saber como exibir logs de aplicativos em dispositivos Android, consulte [Upload e logs de email.](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)

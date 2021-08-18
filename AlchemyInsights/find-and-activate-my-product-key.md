@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: c0b96e092a05a8db8e8b6a3cff5c072840b5e368314af00bb065e03149df6b60
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 8c0556d2e0d2427d856d226b976ced81a2ca1e65
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54498852"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322053"
 ---
 # <a name="microsoft-open-license-program"></a>Programa de Licença Aberta da Microsoft
 
@@ -28,9 +28,7 @@ Se você comprou Microsoft 365 para empresas por meio de um Programa de Licença
 
 1. Depois de comprar uma chave de um parceiro Microsoft 365, verifique na caixa de entrada um email da Microsoft que contém um link de ativação.
 
-    > [!NOTE]
-    > O email é enviado para a pessoa indicada como administrador online no contrato de licenciamento por volume. Se você não tiver certeza de quem é designado como administrador online, pergunte ao seu Microsoft 365 parceiro.
+    **Observação**: o email é enviado para a pessoa listada como administrador online no contrato de licenciamento por volume. Se você não tiver certeza de quem é designado como administrador online, pergunte ao seu Microsoft 365 parceiro.
 1. Siga o link no email para entrar com sua conta de estudante ou de trabalho, aceitar o contrato de licença Abrir e renovar a assinatura. Para um passo a passo passo, baixe o guia PDF, [Ativar Serviços Online: Microsoft 365 Assinatura](https://go.microsoft.com/fwlink/p/?LinkId=618100).
 
-    > [!NOTE]
-    > Os clientes de licenciamento por volume também podem optar por ativar assinaturas no Centro de Serviço de [Licenciamento por Volume.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Para saber como baixar o guia PDF, Active Online Services no Centro de [Serviço de Licenciamento por Volume.](https://go.microsoft.com/fwlink/p/?LinkId=618096)
+    **Observação**: os clientes de licenciamento por volume também podem optar por ativar assinaturas no Centro de Serviço de [Licenciamento por Volume.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Para saber como baixar o guia PDF, Active Online Services no Centro de [Serviço de Licenciamento por Volume.](https://go.microsoft.com/fwlink/p/?LinkId=618096)

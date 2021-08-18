@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054786"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321895"
 ---
 # <a name="issues-with-links-and-urls"></a>Problemas com links e URLs
 
@@ -40,17 +40,15 @@ Para adicionar uma URL de resposta, vá para a guia **Autenticação** na págin
     Para obter detalhes, veja [Apps da área de trabalho – Registro de app – URI de redirecionamento](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris)
 - Para aplicativos móveis, a URI de redirecionamento depende de:
     - a plataforma (iOS/Android/UWP)
-    - as informações usadas para criar seu app, como a ID do pacote no iOS, o nome do pacote e o hash de assinatura no android; o registro de app do portal do Azure ajudará você. Para obter detalhes, veja [Configuração da plataforma e URIs de redirecionamento](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
+    - as informações usadas para criar seu app, como a ID do pacote no iOS, o nome do pacote e o hash de assinatura no Android; o registro de app do portal do Azure ajudará você. Para obter detalhes, confira [Configuração da plataforma e URIs de redirecionamento](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> As APIs da Web e algumas das formas silenciosas de adquirir tokens (IWA e nome de usuário/senha) não exigem uma URI de redirecionamento.
+**Observação**: as APIs da Web e algumas das formas silenciosas de adquirir tokens (IWA e nome de usuário/senha) não exigem uma URI de redirecionamento.
 
 **Já implantei meu aplicativo Web e quando o testei, recebi uma mensagem de incompatibilidade da url de resposta**
 
 Adicione URIs de redirecionamento em todos os locais que você está implantando seu aplicativo Web. Para obter mais informações, veja [Registrar um aplicativo Web usando o portal do Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Adicione a URI de redirecionamento em um local imediatamente após a implantação do aplicativo nesse local.
+**Observação**: adicione a URI de redirecionamento em um local imediatamente após a implantação do aplicativo nesse local.
 
 **Não consigo registrar URLs de resposta suficientes**
 

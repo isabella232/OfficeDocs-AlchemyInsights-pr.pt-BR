@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 7e435df1515878ab4fe935ab8148daee29b8e3820095fc6e49db45de4c6279db
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 35ef317ea87fedd01c08fee5b370e3c81e515c27
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055146"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321987"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Instalando Office em um Servidor de Terminal
 
@@ -28,8 +28,7 @@ Para implantar o Microsoft 365 Apps para Grandes Empresas em um servidor Windows
 
 Se você quiser instalar o Microsoft 365 Apps para Grandes Empresas no RDS do ***Centro de administração do Microsoft 365,*** que usa as configurações de instalação padrão, use as etapas a seguir.
 
-> [!TIP]
-> Você também pode baixar e executar o [microsoft Assistente de Recuperação e Suporte](https://aka.ms/SaRA_OfficeSCA_M365Portal) instalar Microsoft 365 Apps para Grandes Empresas no modo de ativação de computador compartilhado.
+    **Tip**: You can also download and run the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) to install Microsoft 365 Apps for enterprise in shared computer activation mode.
   
 1. Verifique o Microsoft 365 assinatura que você tem. [Saiba como](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 

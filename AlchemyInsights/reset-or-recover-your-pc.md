@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002949"
 - "5646"
-ms.openlocfilehash: 62ca4dfffbc08040400400c384390c30a485865f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e1f2d494f965d2d9fb1bcfcd8e4e224d9e68e7c2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809535"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322671"
 ---
 # <a name="reset-or-recover-your-pc"></a>Redefina ou recupere seu PC
 
-**IMPORTANTE**: se você criptografou seu dispositivo, será necessário ter a chave do BitLocker para redefinir o seu PC. Se você não souber a chave do seu BitLocker, confira [encontrar minha chave de recuperação do BitLocker](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key).
+**Importante**: Se você tiver criptografado seu dispositivo, precisará da chave do BitLocker para redefinir o computador. Se você não souber a chave do seu BitLocker, confira [encontrar minha chave de recuperação do BitLocker](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key).
 
 **Restaurar o seu PC a partir de Configurações**
 
@@ -31,7 +31,7 @@ Você pode redefinir o seu PC a partir de **Configurações > Atualizar e Segura
 
 Se você não conseguir abrir Configurações, é possível redefinir o seu computador a partir da tela de entrada:
 
-1. Pressione **tecla de logotipo do Windows + L** para acessar a tela de entrada; m seguida, reinicie o PC pressionando a tecla **Shift** enquanto seleciona o botão **Liga/Desliga** > **Reiniciar** no canto inferior direito da tela. Seu PC será reiniciado no Ambiente de Recuperação do Windows (WinRE).
+1. Pressione **tecla do logotipo do Windows + L** para acessar a tela de entrada; em seguida, reinicie o computador pressionando a **tecla Shift** enquanto seleciona o botão **Ligar/Desligar** > **Reiniciar** no canto inferior direito da tela. Seu computador será reiniciado no Windows RE (WinRE).
 2. Na tela **Escolha uma opção**, vá para **Solucionar problemas > Redefinir este PC** e, em seguida, escolha uma das opções.
 
 **Mais opções de restauração ou recuperação**
