@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001490"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320018"
 ---
 # <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Atualizar endereço vendido e de cobrança associado ao seu MCA - etapas recomendadas
 
 Você pode atualizar o endereço vendido e de cobrança associado ao seu Contrato de Cliente da Microsoft (MCA). 
 
-> [!NOTE]
-> Somente um administrador de usuário pode fazer alterações nas informações Azure Active Directory de perfil de usuário. Se você não tiver a função de administrador do usuário, entre em contato com o administrador do usuário. Para obter mais informações sobre como alterar o perfil de um usuário, consulte [Add or update a user's profile information using Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
+**Observação**: somente um administrador de usuário pode fazer alterações nas informações Azure Active Directory perfil do usuário. Se você não tiver a função de administrador do usuário, entre em contato com o administrador do usuário. Para obter mais informações sobre como alterar o perfil de um usuário, consulte [Add or update a user's profile information using Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
 
 **Endereço vendido -** O endereço vendido é o endereço e as informações de contato da organização ou do indivíduo, que é responsável por uma conta de cobrança. Ele é exibido em todas as faturas geradas para a conta de cobrança.
 

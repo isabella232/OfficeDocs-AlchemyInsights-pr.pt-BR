@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 0459341dc4727655af37acd9ab6fcb927243f959bf7e9cb69787e3813658342d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 39b1a6cfccf85ee03a804045b043e25dbdb2d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54087196"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319880"
 ---
 # <a name="your-payment-was-declined"></a>Seu pagamento foi recusado
 
@@ -35,8 +35,7 @@ A Microsoft tentará cobrar o cartão várias vezes nas 3 - 4 semanas após a da
 
 4. Para usar um método de pagamento existente, escolha um na lista suspensa e selecione **Substituir**.
 
-    > [!NOTE]
-    > Se você tiver assinaturas associadas a um perfil de cobrança, só poderá usar um cartão de crédito ou débito para pagar por eles. Se você tiver contas bancárias listadas na página **Métodos de pagamento**, elas não estarão disponíveis para seleção na lista suspensa.
+    **Observação**: se você tiver assinaturas associadas a um perfil de cobrança, só poderá usar um cartão de crédito ou débito para pagar por elas. Se você tiver contas bancárias listadas na página **Métodos de pagamento**, elas não estarão disponíveis para seleção na lista suspensa.
 
 5. Para adicionar um novo método de pagamento, marque **Adicionar método de pagamento**.
 

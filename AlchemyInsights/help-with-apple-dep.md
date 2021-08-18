@@ -1,5 +1,5 @@
 ---
-title: Ajuda com Apple DEP
+title: Ajuda com o DEP da Apple
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 510228c48532b762c3fce836d9358c46ca48cdb5
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: 7751a8ba22713998f09d12a184abe2e20178579e93bd7d6aefe5c8d7a9f847d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599008"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116320"
 ---
-# <a name="help-with-apple-dep"></a>Ajuda com Apple DEP
+# <a name="help-with-apple-dep"></a>Ajuda com o DEP da Apple
 
-Se um dispositivo DEP não puder registrar e a MFA (autenticação multifator) estiver habilitada, desabilite a MFA. Atualmente, a MFA não tem suporte para registro DEP.
+Se um dispositivo DEP não puder se registrar e a MFA (Autenticação Multifator) estiver habilitada, desabilite o MFA. No momento, o MFA não tem suporte para registro de DEP.
 
-[Introdução ao programa de registro de dispositivo (DEP) do Intune e da Apple](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
+[Como começar com o Intune e o Programa de Registro de Dispositivos da Apple (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
 
-[Erros e soluções comuns de registro de iOS](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
+[Erros e soluções comuns de registro do iOS](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-[Cenários de backup e restauração para dispositivos iOS/iPadOS registrados](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
+[Cenários de backup e restauração para dispositivos iOS/iPadOS inscritos](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
 
 [Solução de problemas gerais de registro](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Usar o portal de solução de problemas do Intune para diagnosticar e resolver falhas comuns de registro](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
+[Usar o Portal de Solução de Problemas do Intune para diagnosticar e resolver falhas comuns de registro](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)

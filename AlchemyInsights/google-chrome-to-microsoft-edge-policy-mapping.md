@@ -1,5 +1,5 @@
 ---
-title: Saiba mais sobre o mapeamento entre políticas de Chrome Google e políticas do Microsoft Edge
+title: Saiba mais sobre o mapeamento entre políticas do Google Chrome e Microsoft Edge políticas
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003843"
 - "7097"
-ms.openlocfilehash: adde475b409455b30e6a955c850a70eda8e7b625
-ms.sourcegitcommit: 87bf574162e536003164ff9af50005c5a7dce601
+ms.openlocfilehash: 04277f888ba08f6f2ae77ad76be50281e6e588f62574864446d0d62de6e0401b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49665811"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116284"
 ---
-# <a name="learn-about-mapping-between-google-chrome-policies-and-microsoft-edge-policies"></a>Saiba mais sobre o mapeamento entre políticas de Chrome Google e políticas do Microsoft Edge
+# <a name="learn-about-mapping-between-google-chrome-policies-and-microsoft-edge-policies"></a>Saiba mais sobre o mapeamento entre políticas do Google Chrome e Microsoft Edge políticas
 
-As políticas de Chrome Google são mapeadas para as políticas relevantes do Microsoft Edge suportadas na versão 80 do navegador. Para saber mais, confira [o mapeamento de política do Google Chrome para o Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141933).
+As políticas do Google Chrome são mapeadas para as políticas Microsoft Edge relevantes com suporte na versão 80 do navegador. Para saber mais, consulte [Google Chrome to Microsoft Edge policy mapping](https://go.microsoft.com/fwlink/?linkid=2141933).
