@@ -1,5 +1,5 @@
 ---
-title: Monitorar o uso e a atividade do OneDrive e do SharePoint
+title: Monitorar OneDrive e SharePoint uso e atividade
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "865"
 - "5300020"
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
-ms.openlocfilehash: 7bf2c8dbb542773fce8830890f869d9dc99a9f66
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0a74d150be81d4684e481a76eb4b1d93fcc8b70997d513c9230406f520d1ec2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666642"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113332"
 ---
-# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Exibir relatórios sobre a atividade e o uso do OneDrive e do SharePoint
+# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Exibir relatórios sobre OneDrive e SharePoint atividade e uso
 
-Vá para a [página relatórios de uso no centro de administração do Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). Em **selecionar um relatório**, escolha o relatório de uso e atividade do onedrive ou do SharePoint.
+Vá para a [página Relatórios de uso no Centro de administração do Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). Em **Selecionar um relatório,** escolha o OneDrive ou SharePoint atividade ou relatório de uso.
   
-[Mais informações sobre os relatórios do OneDrive](https://go.microsoft.com/fwlink/?linkid=875239)
+[Mais informações sobre OneDrive relatórios](https://go.microsoft.com/fwlink/?linkid=875239)
   
-[Mais informações sobre relatórios do SharePoint](https://go.microsoft.com/fwlink/?linkid=875240)
+[Mais informações sobre SharePoint relatórios](https://go.microsoft.com/fwlink/?linkid=875240)
   

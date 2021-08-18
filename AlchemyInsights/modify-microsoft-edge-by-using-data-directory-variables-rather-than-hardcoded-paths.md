@@ -1,5 +1,5 @@
 ---
-title: Modificar o Microsoft Edge usando variáveis de diretório de dados em vez de caminhos codificados
+title: Modificar Microsoft Edge usando variáveis de diretório de dados em vez de caminhos de código rígido
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: ''
 ms.custom:
 - "9003873"
 - "6926"
-ms.openlocfilehash: 5c40aa1d7f61fbd2842839a5839899af8ab439f2
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 235696d17711726da57d9a09c23b5b13140a28d7645299ef120a4b2c7b395c5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49608813"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113404"
 ---
-# <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Modificar o Microsoft Edge usando variáveis de diretório de dados em vez de caminhos codificados
+# <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Modificar Microsoft Edge usando variáveis de diretório de dados em vez de caminhos de código rígido
 
-Por exemplo, no Windows, para armazenar os dados de perfil em dados de aplicativo local de um usuário, em vez de no local padrão, defina a política **UserDataDir** como **$ {local_app_data} \Edge\Profile**. 
+Por exemplo, no Windows, para armazenar os dados do perfil sob os dados do aplicativo local do usuário, em vez de no local padrão, configure a política **UserDataDir** para **${local_app_data}\Edge\Profile**. 
 
-Para saber mais, confira [criar variáveis de diretório de dados do usuário do Microsoft Edge](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars).
+Para saber mais, consulte [Create Microsoft Edge user data directory variables](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars).

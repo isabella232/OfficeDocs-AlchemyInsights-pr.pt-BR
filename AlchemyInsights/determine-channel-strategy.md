@@ -15,16 +15,16 @@ ms.custom:
 - "9005291"
 - "11089"
 - "9006490"
-ms.openlocfilehash: 89a6b59b9c7dbae3df90e1173f1a66648c99beb9f75de8b56ab9f07a40daca68
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 06ad41ae0d76b5734d6a399e023d1ae84f5b86d8b9b48d7696619dbf22d88618
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54102118"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899932"
 ---
 # <a name="determine-channel-strategy"></a>Determinar estratégia de canal
 
-O Microsoft Edge foi lançado em quatro canais que controlam a frequência com que o navegador é atualizado. Para obter uma visão geral mais detalhada de cada canal, consulte [Visão geral do canal](/DeployEdge/microsoft-edge-channels#channel-overview).
+O Microsoft Edge foi lançado em quatro canais que controlam a frequência com que o navegador é atualizado. Para obter uma visão geral mais detalhada de cada canal, consulte [Visão geral do canal](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels#channel-overview).
 
 O Canal Estável é aquele que você vai querer implantar na maioria dos dispositivos, mas você deve considerar a implantação de vários canais e dispositivos.
 
