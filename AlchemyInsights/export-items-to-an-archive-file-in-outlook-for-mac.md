@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76c89da561655e44777dad55541a984e11f190a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100390"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316628"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Exportar itens para um arquivo morto em Outlook para Mac
 
@@ -24,8 +24,7 @@ Para reduzir o tamanho da caixa de entrada, arquive manualmente mensagens de ema
 
 1. Na guia **Ferramentas,** clique em **Exportar**.
 
-> [!NOTE]
-> Não vê o botão **Exportar?** Verifique se você tem a versão mais recente do Outlook. No menu Outlook **Ajuda,** clique **em Verificar atualizações.** Se todas Outlook atualizações são aplicadas e você ainda não vir o botão **Exportar,** procure **Exportar** no menu Outlook **Arquivo.**
+    **Observação**: Não vê o botão **Exportar?** Verifique se você tem a versão mais recente do Outlook. No menu Outlook **Ajuda,** clique **em Verificar atualizações.** Se todas Outlook atualizações são aplicadas e você ainda não vir o botão **Exportar,** procure **Exportar** no menu Outlook **Arquivo.**
 
 2. Na caixa **Exportar para Arquivo morto (.olm),** verifique os itens que você deseja exportar e clique em **Continuar**.
 
