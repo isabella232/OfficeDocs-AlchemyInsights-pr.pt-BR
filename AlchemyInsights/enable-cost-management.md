@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003557"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325451"
 ---
 # <a name="enable-cost-management"></a>Habilitar o gerenciamento de custos
 
@@ -34,8 +34,7 @@ Depois de fazer logon no portal do Azure, eles podem usar as APIs de cobrança p
 2. Selecione **Faturas** e, em **seguida, Acesso a faturas**.
 3. Ativar o acesso, seguido de salvar as alterações, para permitir que os usuários em funções com escopo de assinatura baixem faturas.
 
-> [!NOTE]
-> O Administrador de Conta também pode configurar para ter faturas enviadas por email. Para saber mais, confira [Obter sua fatura no email](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
+**Observação**: o Administrador de Conta também pode configurar para ter faturas enviadas por email. Para saber mais, confira [Obter sua fatura no email](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
 
 **Como adicionar usuários à função Leitor de Cobrança**
 

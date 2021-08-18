@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 814301e9cd8197e62dcca68ab3bdde1618d210f73a744b53bb5af7b861eb02bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 13865acb75b60a824c1dde9427c11471e980ea9e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54076631"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324432"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>Problemas com a remoção de um dispositivo desligado ou desativado do Inventário de Dispositivos
 
@@ -30,13 +30,13 @@ Para fins de segurança, o dispositivo permanece no portal como um registro hist
  
 Se você ainda não quiser ver determinados dispositivos no visualização Inventário de Dispositivos, tente colocar uma marca de dispositivo para filtrar o dispositivo desativado do ponto de vista Inventário de Dispositivos.
 
-Para saber mais, confira:
+Para mais informações, confira:
 
-[Dispositivos offboard do serviço Microsoft Defender para Ponto de Extremidade](/microsoft-365/security/defender-endpoint/offboard-machines.md)
+[Dispositivos offboard do serviço Microsoft Defender para Ponto de Extremidade](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/offboard-machines.md)
 
-[Pontuação de exposição em Gerenciamento de Ameaças e Vulnerabilidades](/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
+[Pontuação de exposição em Gerenciamento de Ameaças e Vulnerabilidades](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
 
-[Corrigir sensores não salubres no Microsoft Defender para Ponto de Extremidade](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
+[Corrigir sensores não salubres no Microsoft Defender para Ponto de Extremidade](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
 
 [Como usar a marcação efetivamente (Parte 1)](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-use-tagging-effectively-part-1/ba-p/1964058)
 

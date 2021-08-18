@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8210"
-ms.openlocfilehash: 23f5e5fe9e00a4bb00f96d2023c81f6413a7d8b808fd46bfc94483944bb898dc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 679dea6d488cf74f51baee2b3b498dc64b95530e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53999732"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324911"
 ---
 # <a name="password-writeback-is-not-working"></a>Writeback de senha não está funcionando
 
@@ -31,8 +31,7 @@ ms.locfileid: "53999732"
     - Para saber mais sobre os requisitos de licenciamento, consulte Requisitos de licenciamento para redefinição de senha de [autoatendados do Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)
 - Você tem pelo menos uma conta de administrador e uma conta de usuário de teste com uma das licenças apropriadas.
 - Você deve conectar o Azure AD Conexão o controle de domínio primário Emulator para que o writeback de senha funcione. Você pode configurar o Azure AD Conexão usar um Controlador de  Domínio Primário clicando com o botão direito do mouse nas propriedades do conector de sincronização do Active Directory e selecionando configurar partições **de** diretório. A partir daí, procure a **seção** configurações de conexão do controlador de domínio e marque a caixa intitulada apenas **use controladores de domínio preferencial.**
-  > [!NOTE]
-  > Se o DC preferencial não for um emulador PDC, o Azure AD Conexão ainda alcançará o PDC para writeback de senha.
+    **Observação**:Se o DC preferencial não for um emulador PDC, o Azure AD Conexão ainda alcançará o PDC para writeback de senha.
 - A redefinição de senha foi configurada e habilitada em seu locatário. Para obter mais informações, consulte [Enable users to reset their Azure AD passwords](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started).
 - Certifique-se de que a conta de administrador que está sendo usada para habilitar o Writeback de Senha é uma conta de administrador de nuvem (criada no Azure AD e não no AD local)
 - Você tem uma implantação local do AD única ou de várias florestas executando o Windows Server 2008 R2, Windows Server 2012 ou Windows Server 2012 R2 com os service packs mais recentes instalados

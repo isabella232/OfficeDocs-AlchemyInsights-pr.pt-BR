@@ -14,17 +14,16 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: 3f52f79f081274f7d7e661cdd36a431ceb0b87901e129c80747430a00d762d67
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3f3f52a5cedc8f065dbac59499cc087641e84682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868666"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323774"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Como faço para mudar de pagamentos de cartão de crédito para fatura?
 
-> [!NOTE]
-> Você só poderá alterar a forma de pagamento por fatura se a sua assinatura custa mais do que um determinado valor. Você só pode mudar para o pagamento por fatura se os custos de sua assinatura forem superiores a um determinado valor.
+**Observação**: você só poderá alterar para pagar por fatura se sua assinatura custar acima de um determinado valor. Você só pode mudar para o pagamento por fatura se os custos de sua assinatura forem superiores a um determinado valor.
 
 1. No centro de administração, acesse a página **Cobrança** > [Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. Na guia **Produtos**, encontre a assinatura que você deseja pagar com a forma de pagamento alternativa.

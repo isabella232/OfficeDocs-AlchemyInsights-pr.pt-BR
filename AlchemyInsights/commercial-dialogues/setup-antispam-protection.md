@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: be7fde5892c5e5dee09ece2ff4fdce07e6b5b9ba
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058494"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324559"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Configurar uma proteção anti-spam
 
-Veja como fazer isso:
+1. No portal Microsoft 365 Defender , acesse Email & Políticas de Colaboração & Políticas de Ameaças de Regras <https://security.microsoft.com/>  \>  \>  \> **Anti-spam** na **seção** Políticas.
 
-1. Vá para o centro de conformidade [Office 365 segurança & segurança.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Navegue até **Política de Gerenciamento** de  >  **Ameaças** e clique **[em Anti-spam](https://go.microsoft.com/fwlink/p/?linkid=2077143)**.
-1. Na guia **Personalizado,** a opção **Configurações** personalizadas.
-1. Expanda **a política de filtro de spam padrão,** clique em Editar **política** e especifique as seguintes configurações:
-    1. Na seção **Spam e ações em massa,** de definir o limite como um valor de 5 ou 6.
-1. Clique em **Salvar**.
+   Para ir diretamente à página de **Políticas antispam**, use <https://security.microsoft.com/antispam>.
 
-Para saber mais sobre suas opções de política anti-spam, consulte [Configure the anti-spam policies](https://go.microsoft.com/fwlink/?linkid=2092051).
+2. Na página **Políticas anti-spam,** faça uma das seguintes etapas:
+   - Para adicionar uma nova política, selecione **+ Criar** \> **Entrada**. Um assistente será lançado para ajudá-lo a definir suas configurações de política.
+   - Para editar uma política existente, selecione a política clicando no nome da política (**Type** is **Custom anti-spam policy** or **Name** is **Anti-Spam inbound policy (Default)**). No sobremenu de detalhes exibido, selecione **Editar** na seção que contém as configurações que você deseja configurar.
+
+3. Depois de revisar suas configurações, selecione **Enviar** (novo) ou **Salvar** (editar).
+
+Para obter mais informações, consulte [Configure as políticas de anti-spam no EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

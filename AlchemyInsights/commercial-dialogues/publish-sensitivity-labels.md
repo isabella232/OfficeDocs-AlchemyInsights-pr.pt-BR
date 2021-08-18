@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: df5acfc38095f03eeeff379d51a72332dcf366e3786ab0ff7ffcd655cbafd1cf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b19b3cf229fd67f1df2b58b387b1f74818e35f48
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967357"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324757"
 ---
 # <a name="publish-sensitivity-labels"></a>Publicar rótulos de confidencialidade
 
@@ -29,8 +29,9 @@ Para publicar rótulos de confidencialidade, execute as seguintes etapas:
 3. Clique em **Publicar rótulos**.
 4. Clique em **Escolher rótulos de confidencialidade para publicar**. 
 5. Selecione os rótulos que você deseja disponibilizar nos aplicativos e serviços, e selecione **Adicionar**.
-> [!IMPORTANT]
-> Se você selecionar um sub-rótulo, certifique-se de também selecionar seu rótulo pai.
+
+**Importante**: se você selecionar um sub-rótulo, certifique-se de também selecionar seu rótulo pai.
+
 6. Revisar as etiquetas selecionadas. Para fazer alterações, clique em **Editar**; caso contrário, clique **Próximo**.
 7. Siga as notificações para definir as configurações de política.
 8. Repita essas etapas se você precisar de configurações de política para usuários ou locais diferentes. Por exemplo, você deseja rótulos adicionais para um grupo de usuários ou um rótulo padrão diferente para um subconjunto de usuários.

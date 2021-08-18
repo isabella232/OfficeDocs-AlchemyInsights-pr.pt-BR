@@ -13,24 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 55b86557ec205dde2c459d76e8e330d2a8271dbec723f079e119ebe409b41c3f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b8df97c19937a757c1de9865b6c7b8d1cddfd62d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54031466"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325591"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Implantando Microsoft 365 Apps para Grandes Empresas para uso compartilhado no RDS, Servidor de Terminal ou VDI
 
 Para implantar Microsoft 365 Apps para Grandes Empresas serviços de área de trabalho remota (RDS), anteriormente denominados Serviços de Terminal:
 
 - Você deve ter um plano Microsoft 365 para Empresas ou um plano Office 365 que inclua Microsoft 365 Apps para Grandes Empresas, como Office 365 Enterprise E3 ou Enterprise E5.
-   > [!NOTE]
-   > Os Microsoft 365 Apps para Pequenos e Médios negócios e Microsoft 365 Business Standard não incluem Microsoft 365 Apps para Grandes Empresas.
+   **Observação**: os Microsoft 365 Apps para Pequenos e Médios negócios e Microsoft 365 Business Standard não incluem Microsoft 365 Apps para Grandes Empresas.
 - Você deve [habilitar a ativação de computador compartilhado](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
 
-> [!NOTE]
-> Você também pode baixar e executar o [microsoft Assistente de Recuperação e Suporte](https://aka.ms/SaRA_OfficeSCA_M365Portal) instalar Microsoft 365 Apps para Grandes Empresas no modo de ativação de computador compartilhado.
+**Observação**: você também pode baixar e executar o [microsoft Assistente de Recuperação e Suporte](https://aka.ms/SaRA_OfficeSCA_M365Portal) para instalar Microsoft 365 Apps para Grandes Empresas no modo de ativação de computador compartilhado.
 
 Para obter mais informações sobre pré-requisitos, instruções de instalação e orientações sobre instalações personalizadas usando Office Ferramenta de Implantação do Office, consulte [Deploy Microsoft 365 Apps para Grandes Empresas by using Remote Desktop Services](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
 

@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: d5fac2ce5f480213d5d260843f59d6aa08552b60a3eccc771e5eb3f7aa814b66
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 667fa9c7334169794ebc96152d7b58d4deb5dde9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53908338"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324839"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Permissões de usuário em SharePoint e OneDrive
 
@@ -34,8 +34,7 @@ Se um usuário em sua organização não conseguir acessar o SharePoint ou OneDr
     
     Para um site de equipe clássico, clique **em Compartilhar** no canto superior direito. Insira o nome da pessoa que você deseja convidar ou digite Todos para compartilhar com todos em sua organização. Clique em **Compartilhar**.
     
-> [!NOTE]
-> Se você for membro de um site, mas não um proprietário, poderá convidar pessoas para o site, mas seu convite gerará uma solicitação de acesso que pode ser aprovada ou recusada por um proprietário do site. 
+**Observação**: se você for membro de um site, mas não um proprietário, poderá convidar pessoas para o site, mas seu convite gerará uma solicitação de acesso que pode ser aprovada ou recusada por um proprietário do site. 
   
 [Saiba como compartilhar um arquivo ou pasta com um usuário](https://go.microsoft.com/fwlink/?linkid=533408)
   

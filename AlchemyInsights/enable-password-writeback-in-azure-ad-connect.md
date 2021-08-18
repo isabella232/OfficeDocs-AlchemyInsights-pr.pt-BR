@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 63304667cce67c48fd8bbeee52ff6d61d033ea38fd8d4c4d96c240847dab2cab
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 607e27c883f83b4b29347e764b8f2273cf0f117e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118192"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325375"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Habilitar o write-back de senha no Azure AD Connect
 
@@ -42,5 +42,4 @@ Com o write-back de senha habilitado no Azure AD Connect, agora poderá configur
 
 Para saber mais, confira [Habilitar o write-back da redefinição de senha por autoatendimento do Azure Active Directory em um ambiente local](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
 
-> [!NOTE]
->  Quando um administrador redefine a senha de um usuário no portal do Microsoft Azure, se esse usuário for federado ou hash de senha sincronizada, a senha será gravada no local. Essa funcionalidade requer a Licença Premium do Azure (P1 ou P2) e atualmente não tem suporte no portal do Office Admin.
+**Observação**: quando um administrador redefine a senha de um usuário no portal do Microsoft Azure, se esse usuário for federado ou hash de senha sincronizada, a senha será gravada no local. Essa funcionalidade requer a Licença Premium do Azure (P1 ou P2) e atualmente não tem suporte no portal do Office Admin.
