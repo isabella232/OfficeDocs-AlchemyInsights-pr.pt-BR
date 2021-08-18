@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: a292e160abcfc26ffebc454d32ee489a319a23f4bb81e70fe5dbe72bfd0b8b81
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: bef16351b55ac4765539d66ab86a71183f66f0dd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890326"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321613"
 ---
 # <a name="teams-client-crashing"></a>Ocorreu um erro nos clientes do Teams?
 
@@ -38,10 +38,11 @@ Se o seu cliente do Teams ainda estiver travando, tente reproduzir o problema. S
 1. Use o gravador de etapas para capturar suas etapas.
     - Feche TODOS os aplicativos desnecessários ou confidenciais.
     - Inicie o Gravador de etapas e reproduza o problema enquanto estiver conectado à conta de usuário afetada.
-    - [Reúna os logs de equipes que capturam as etapas de reprodução registradas](https://docs.microsoft.com/microsoftteams/log-files). **Observação**: não deixe de capturar o endereço de entrada do usuário afetado.
-    - Coletar as informações de despejo e/ou bucket de falha (Windows).Inicie o Windows PowerShell no computador onde o erro está ocorrendo e execute os seguintes comandos (depois de cada comando, pressione Enter):
+    - [Reúna os logs de equipes que capturam as etapas de reprodução registradas](https://docs.microsoft.com/microsoftteams/log-files). 
+    
+    **Observação**: não deixe de capturar o endereço de entrada do usuário afetado.
+    - Coletar as informações de despejo e/ou Bucket de falha (Windows).Inicie o Windows PowerShell no computador onde o erro está ocorrendo e execute os seguintes comandos (depois de cada comando, pressione Enter):
 
-    `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`
-    `notepad .\FaultBuckets.txt`
+    `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt` `notepad .\FaultBuckets.txt`
     
 2. Depois que o arquivo de texto for gerado e exibido na sua tela, salve o arquivo e anexe-o à solicitação de serviço. 

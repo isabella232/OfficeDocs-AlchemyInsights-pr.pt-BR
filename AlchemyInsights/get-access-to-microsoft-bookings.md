@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002883"
 - "5498"
-ms.openlocfilehash: 612fcc70848e1e57897b1de63cf66bde89911208
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8b4a62aa776391f858ae73327fbded1069c9a1955792dfe1ab1e1f7384d2db3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812346"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116464"
 ---
 # <a name="get-access-to-microsoft-bookings"></a>Obter acesso ao Microsoft Bookings
 
@@ -29,4 +29,4 @@ Habilite o Microsoft Bookings no **Centro de administração do Microsoft 365**.
 
 **Importante**: O aplicativo Microsoft Booking está disponível para uso por padrão no **Microsoft 365 Education A3, A5**, **Microsoft 365 Business Standard (antigo Business Premium)** e **Microsoft 365 Business Premium (antigo Business)**. O Bookings está disponível para **Clientes do Enterprise E3 e E5** como um complemento até 12 de maio de 2020, momento em que será ativado por padrão.
 
-Para saber mais, confira [Obter acesso ao Microsoft Bookings](https://support.microsoft.com/pt-BR/office/get-access-to-microsoft-bookings-5382dc07-aaa5-45c9-8767-502333b214ce).
+Para saber mais, confira [Obter acesso ao Microsoft Bookings](https://support.microsoft.com/en-us/office/get-access-to-microsoft-bookings-5382dc07-aaa5-45c9-8767-502333b214ce).
