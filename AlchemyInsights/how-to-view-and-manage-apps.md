@@ -3,7 +3,7 @@ title: Como exibir e gerenciar aplicativos
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: ?, ?
+ms.reviewer: jkinma, jmueller
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -15,17 +15,17 @@ ms.custom:
 - commerce_subscriptions
 - "9000561"
 - "2420"
-ms.openlocfilehash: 0d621c6439b6b95cee2c3d1b2997339f964802319984443e97a81e492babb6ba
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 51592209db0f15be26b1d7edea74e665ec86f3cb
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54015176"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451766"
 ---
 # <a name="how-to-view-and-manage-apps"></a>Como exibir e gerenciar aplicativos
 
 Você pode exibir seus aplicativos no Centro de administração do Microsoft 365.
 
-1. No centro de administração, acesse a página **Cobrança** > [Seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. No centro de administração, acesse a página **Cobrança de** > [seus produtos](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. Na guia **Produtos,** role para baixo até a **seção Aplicativos.**
 3. Para gerenciar um aplicativo, selecione o que você deseja gerenciar.
