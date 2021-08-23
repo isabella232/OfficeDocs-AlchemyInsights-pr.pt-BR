@@ -1,5 +1,5 @@
 ---
-title: 1245-Import-PST-Services
+title: Importar serviço no Centro de Conformidade Office 365 & Segurança
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,28 +14,23 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 55cccce6f2c8e628bd76278486f4e95a09e020f5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 2add8264754cadccc7025d5afa3d2e6fdf15140e
+ms.sourcegitcommit: 071ba3a6b6257dddee5e84af44e5bc45dedd78fb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58312711"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "58418137"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365 Importar serviço
+# <a name="import-service-in-the-office-365-security--compliance-center"></a>Importar serviço no Centro de Conformidade Office 365 & Segurança
 
-Para acessar o serviço importar e iniciar o processo de importação:
+Office 365 O serviço de importação permite importar vários arquivos PST para as caixas de Exchange Online de usuários. Use o serviço Import para importar arquivos PST em massa para sua organização usando a **opção Carregamento de rede** ou Envio **de** Unidade.
 
-1. Vá para o Centro de [Conformidade do M365](https://compliance.microsoft.com/)e entre usando as credenciais de uma conta de administrador em sua organização.
+Para acessar o serviço De importação e as ferramentas para importar vários arquivos PST:
 
-1. No painel esquerdo do Centro de Conformidade do M365 em **Soluções,** selecione **Importar governança de**  >  **informações.**
+1. Vá para [Office 365 Segurança & Conformidade](https://protection.office.com)e entre com sua Office 365 de segurança.
+1. Selecione **Governança de Dados,** selecione **Importar** e siga as etapas no assistente. 
 
-1. Na página **Importar,** selecione **Novo trabalho de importação.** Insira um nome de trabalho e selecione **Próximo**.
+Para obter informações adicionais e instruções passo a passo para importar vários arquivos PST, consulte [Overview of importing your organization's PST files](https://docs.microsoft.com/office365/securitycompliance/importing-pst-files-to-office-365).
 
-1. Selecione **Upload seus dados para** usar a opção de carregamento de rede para o Tipo de Trabalho de **Importação.** Para etapas detalhadas, consulte [Use network upload to import your organization's PST files to Microsoft 365](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files).
-
-Para acessar a **página Importar,** certifique-se de que você tenha sido atribuído as permissões apropriadas. Para obter mais informações, consulte [Using network upload to import PST files](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).
-
-Se você quiser importar um PST para sua caixa de correio, consulte [Import email, contacts, and calendar from an Outlook .pst file](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
-
-Se você estiver tendo um problema com uma importação, consulte [Problemas que afetam trabalhos de importação PST.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
+Para importar um único arquivo PST, consulte [Import and export Outlook email, contacts, and calendar](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac).
 
