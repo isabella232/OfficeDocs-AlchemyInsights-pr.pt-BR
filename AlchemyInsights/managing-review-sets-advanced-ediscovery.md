@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "11937"
 - "9007099"
-ms.openlocfilehash: 98c2ba5283e9151bb3c01894e47e1541d0a35f23
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 5e51a2d00ac9aa2f5d93a91036e69bc2218eacdb
+ms.sourcegitcommit: 4b92c2648ddba3ad3bc61a22771c59ed5fc76303
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58324467"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58370198"
 ---
-# <a name="managing-review-dets-in-advanced-ediscovery"></a>Gerenciar Conjuntos de revisão na Descoberta Eletrônica Avançada
+# <a name="managing-review-sets-in-advanced-ediscovery"></a>Gerenciando conjuntos de Análise na Descoberta Eletrônica Avançada
 
 Para gerenciar Conjuntos de revisão na Descoberta Eletrônica Avançada:
 
