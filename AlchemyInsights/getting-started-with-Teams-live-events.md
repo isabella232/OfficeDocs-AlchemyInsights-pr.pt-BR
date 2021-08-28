@@ -25,7 +25,7 @@ Os eventos ao vivo do Microsoft Teams são uma extensão das reuniões do Teams 
 
 Para criar um evento ao vivo, você precisará do seguinte:
 
-- Primeiro, confirme se os Eventos Ao Vivo do Teams estão [disponíveis em seu país e região](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); Os eventos Ao Vivo ainda não têm suporte em alguns países.  Se você atribuiu licenças e configurou políticas, mas ainda não é possível criar um Evento ao Vivo, é provável que você esteja em um país ou região em que Eventos ao Vivo ainda não estejam disponíveis.
+- Primeiro, confirme se os Eventos Ao Vivo do Teams estão [disponíveis em seu país e região](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); os Eventos Ao Vivo ainda não possuem suporte em alguns países.  Se você atribuiu licenças e configurou políticas, mas ainda não é possível criar um Evento ao Vivo, é provável que você esteja em um país ou região em que Eventos ao Vivo ainda não estejam disponíveis.
 
 - Uma licença [Office 365 Enterprise E1, E3 ou E5 ou uma licença do Office 365 A3 ou A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). 
 
