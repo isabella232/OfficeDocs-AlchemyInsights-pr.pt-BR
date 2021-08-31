@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 1954ceef7454a4bb047d366cc55793dc78a969e375e9eea88d2d0dbe7f4997ef
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f8f2824cc4a575ab7d7c9adec5b75e5955ec9fb5
+ms.sourcegitcommit: b6dd6ae628a02ea6b997a993c49de083465bc2ac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54087988"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58744619"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Problemas ao entrar Microsoft 365 Apps
+
+Observação: se você estiver usando uma versão mais antiga do Windows (por exemplo, Windows 7 SP1, Windows Server [](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) 2008 R2), use a correção fácil para habilitar o TLS 1.2 como padrão. Para obter mais informações, confira [Atualizar para habilitar o TLS 1.1 e o TLS 1.2 como os protocolos seguros padrão em WinHTTP no Windows.](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392).
 
 Para solucionar problemas de entrada nos aplicativos do Microsoft 365, tente as seguintes opções no computador afetado:  
 
