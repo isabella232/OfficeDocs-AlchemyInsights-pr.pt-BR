@@ -3,7 +3,6 @@ title: Perguntas frequentes sobre cobrança ou fatura
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -16,12 +15,13 @@ ms.custom:
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: 7fed17e5021684d06d53dfb15e589611c68c88ca
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: c9dc030b374dee0e350168e9826e10c9d3f4df6e
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58319824"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843186"
 ---
 # <a name="billing-or-invoice-faq"></a>Perguntas frequentes sobre cobrança ou fatura
 
