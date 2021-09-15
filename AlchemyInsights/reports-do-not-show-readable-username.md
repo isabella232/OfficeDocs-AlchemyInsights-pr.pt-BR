@@ -15,12 +15,12 @@ ms.custom:
 - "13810"
 - "13812"
 - "9008619"
-ms.openlocfilehash: 16aa4f052c934421423c73244f03a20aa38e4785
-ms.sourcegitcommit: 76c61dec041b93d0039764fae38107108da324aa
+ms.openlocfilehash: ff8eac6487ef544277c5ce2c0c0b7068c9d400ca
+ms.sourcegitcommit: b47c6d5e74819b73becaf1dc5eacc72eaf7c1055
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2021
-ms.locfileid: "58896343"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59327802"
 ---
 # <a name="reports-in-microsoft-365-admin-center-do-not-show-readable-username"></a>Relatórios no Centro de administração do Microsoft 365 não mostram nome de usuário legível
 
@@ -30,5 +30,5 @@ Este é o comportamento esperado e foi comunicado no Message Center (MC275344, p
 
 Os administradores globais podem reverter essa alteração para seu locatário e mostrar informações identificáveis do usuário se as práticas de privacidade de sua organização permitirem. Para reverter a alteração para o inquilino:
 
-1. No centro de administração, acesse **Configurações** > **Configurações da organização** > [**Serviços**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services) e selecione **Relatórios**. 
+1. No centro de administração, acesse **Configurações** > **Configurações da organização** > [**Serviços**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services ) e selecione **Relatórios**. 
 1. Em **Escolher como mostrar as informações do usuário**, selecione **Mostrar informações identificáveis do usuário nos relatórios** e execute novamente o relatório.
