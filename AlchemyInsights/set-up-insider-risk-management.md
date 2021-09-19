@@ -12,27 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 2e5f66b813d275bf6c799d54dd13f55a08a909d78aa24fac56f54caf8a0f4f58
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c4003faac9294725283786fd865217fdc7fcdcef
+ms.sourcegitcommit: dcd1c76ced1a0cec27f4cf8d383593760c198424
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54060844"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59446643"
 ---
 # <a name="set-up-insider-risk-management"></a>Configurar o gerenciamento de riscos internos
 
-Para acessar e usar o gerenciamento de riscos internos, sua organização **deve** ter uma das seguintes assinaturas:
+Para acessar e usar o gerenciamento de riscos internos, sua organização deve ter uma das seguintes assinaturas:
 
-- Assinatura do **Microsoft 365 E5**.
+- Assinatura do Microsoft 365 G5 (versão paga ou de teste)
+- Assinatura do Microsoft 365 G3 + complemento Microsoft 365 G5 Compliance
+- Assinatura do Microsoft 365 G3 + complemento Microsoft 365 do Gerenciamento de Risco Interno G5
+- Assinatura do Office 365 E3 + Mobilidade e Segurança Corporativa E3 + o complemento Microsoft 365 E5 Compliance
 
-- Assinatura do **Microsoft 365 E3** com complemento de conformidade do Microsoft E5.
+Se você não tem um plano do Microsoft 365 E5 existente e deseja tentar o gerenciamento de risco interno, pode adicionar o Microsoft 365 à sua assinatura existente ou inscrever-se para uma avaliação do Microsoft 365 Enterprise E5.
 
-Se você não possui um plano existente do **Microsoft 365 E5** e deseja experimentar o gerenciamento de riscos internos, você pode adicionar o Microsoft 365 à sua assinatura existente ou se inscrever para obter uma avaliação do Microsoft 365 Enterprise E5.
+**Dicas**:
 
-> [!DICAS]
-- > Usando o Modelo de "Vazamentos de Dados": Certifique-se de ter pelo menos uma política DLP configurada.
-- > O Administrador Não Vê Alertas: Certifique-se de que o usuário esteja atribuído a um dos seguintes grupos:
-    - >**Analistas do Gerenciamento de Risco Interno**
-    - >**Investigadores do Gerenciamento de Risco Interno**
+- Usando o modelo de Vazamento de Dados, certifique-se de ter pelo menos uma política de Prevenção de Perda de Dados (DLP) configurada. No entanto, há uma nova opção de gatilho que não requer a configuração de uma política DLP.
 
-Para obter mais informações sobre como as políticas de riscos internos podem ajudá-lo a gerenciar riscos em sua organização, confira [Gerenciamento de riscos internos no Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2123907).
+- Os administradores globais não têm acesso ao portal DE Gerenciamento de Risco Interno por padrão. Eles devem ser atribuídos a uma das funções de Gerenciamento de Risco Interno.
+
+- Se um administrador não estiver vendo alertas, certifique-se de que o usuário esteja atribuído a um dos seguintes grupos:
+
+    Analistas do Gerenciamento de Risco Interno
+
+    Investigadores do Gerenciamento de Risco Interno
+
+Para obter mais informações sobre como as políticas de risco interno podem ajudá-lo a gerenciar o risco em sua organização, consulte [Saiba mais sobre o gerenciamento de risco interno no Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management).
