@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004597"
 - "8230"
-ms.openlocfilehash: 6e2e96ba54f8ccc5edca821a73b7f697a255041c64f139f47702f637dd6dbb2a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 31c5cdf75629fd4bb298ae744312eb6ecbf7ac85
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54052410"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475493"
 ---
 # <a name="sensitivity-labels"></a>Rótulos de sensibilidade
 
@@ -32,5 +32,6 @@ Para obter informações adicionais sobre rótulos de sensibilidade, consulte:
 - Use rótulos de sensibilidade com o Microsoft **Teams**: use rótulos de sensibilidade com Microsoft Teams, grupos Microsoft 365 e sites SharePoint - Microsoft 365 [Conformidade | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-teams-groups-sites)
 - **Aplicar automaticamente** Rótulos de sensibilidade: aplique automaticamente um rótulo de sensibilidade ao [conteúdo em Microsoft 365 - Microsoft 365 conformidade | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
 - Problemas conhecidos com rótulos de sensibilidade: problemas conhecidos com rótulos de sensibilidade [no Office - Office Suporte (microsoft.com)](https://support.microsoft.com/office/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)
+- Políticas de DLP: [use rótulos de sensibilidade como condições em políticas DLP](https://docs.microsoft.com/microsoft-365/compliance/dlp-sensitivity-label-as-condition) 
 
 Para obter informações sobre rótulos de Proteção de Informações do [Azure, consulte Azure Information Protection (AIP) labeling, classification, and protection | Microsoft Docs](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)
