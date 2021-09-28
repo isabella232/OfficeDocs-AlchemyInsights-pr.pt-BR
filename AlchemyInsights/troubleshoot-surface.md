@@ -24,7 +24,7 @@ ms.locfileid: "54038874"
 
 O Suporte da Microsoft publicou uma variedade de soluções para ajudar os usuários a diagnosticar e corrigir problemas com seus dispositivos Surface. A primeira coisa a se fazer é garantir que o dispositivo tenha as atualizações mais recentes. Para saber mais, confira [Drivers e firmware do Surface](https://docs.microsoft.com/surface/support-solutions-surface#surface-drivers-and-firmware).
 
-Se sua tela estiver rachada ou arranhada, contate o [Suporte do Surface](https://docs.microsoft.com/surface/contact-surface-support?tabs=online).
+Se sua tela estiver rachada ou arranhada, contate [Suporte Surface](https://docs.microsoft.com/surface/contact-surface-support?tabs=online).
 
 Se o dispositivo estiver atualizado e a tela não estiver danificada, selecione uma das seguintes soluções para solucionar o problema:
  
