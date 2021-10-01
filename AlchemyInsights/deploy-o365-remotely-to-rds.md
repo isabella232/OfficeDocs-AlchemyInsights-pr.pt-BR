@@ -1,5 +1,5 @@
 ---
-title: Implantando Microsoft 365 Apps para Grandes Empresas para uso compartilhado no RDS, Servidor de Terminal ou VDI
+title: Implantando Microsoft 365 Apps para uso compartilhado no RDS, Servidor de Terminal ou VDI
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 9d928a3bf58dedc3aaf231c8a051f87b0bbdf438
-ms.sourcegitcommit: 391052026a6ce7646926d233d0fd9ba135088f79
+ms.openlocfilehash: 81183cf1823480c1b15eba9ba9f519b4e3746b52
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 10/01/2021
-ms.locfileid: "60040994"
+ms.locfileid: "60077238"
 ---
-# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Implantando Microsoft 365 Apps para Grandes Empresas para uso compartilhado no RDS, Servidor de Terminal ou VDI
+# <a name="deploying-microsoft-365-apps-for-shared-use-on-rds-terminal-server-or-vdi"></a>Implantando Microsoft 365 Apps para uso compartilhado no RDS, Servidor de Terminal ou VDI
 
 Para implantar Microsoft 365 Apps serviços de área de trabalho remota (RDS), anteriormente Serviços de Terminal, você deve:
 
@@ -28,7 +28,7 @@ Para implantar Microsoft 365 Apps serviços de área de trabalho remota (RDS), a
 - Tenha um plano que inclua Microsoft 365 Apps para Grandes Empresas (anteriormente Office 365 Plus). Por exemplo, Office 365 E3 ou Microsoft 365 E5, ou qualquer plano que inclua a versão da área de trabalho do Project ou Visio, como Project Plano 3 ou Visio Plano 2, ou o plano Microsoft 365 Business Premium, que também inclui Microsoft 365 Apps para Pequenos e Médios negócios.
 - Habilitar a ativação de computador compartilhado. Para obter mais informações, consulte [Overview of shared computer activation for Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation).
 
-**Observação**: para instalar Microsoft 365 Apps no modo de ativação de computador compartilhado, baixe e execute o [microsoft Assistente de Recuperação e Suporte](https://docs.microsoft.com/alchemyinsights/deploy-o365-remotely-to-rds). Para obter detalhes sobre pré-requisitos, instruções de instalação e orientações para personalizar instalações usando a Ferramenta de Implantação Office, consulte [Deploy Microsoft 365 Apps by using Remote Desktop Services](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services).
+**Observação**: para instalar Microsoft 365 Apps no modo de ativação de computador compartilhado, baixe e execute o [microsoft Assistente de Recuperação e Suporte](https://aka.ms/SaRA_OfficeSCA_M365Portal). Para obter detalhes sobre pré-requisitos, instruções de instalação e orientações para personalizar instalações usando a Ferramenta de Implantação Office, consulte [Deploy Microsoft 365 Apps by using Remote Desktop Services](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services).
 
 Para corrigir erros relacionados à ativação de computador compartilhado, consulte:
 
